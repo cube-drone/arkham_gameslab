@@ -79,7 +79,26 @@ PHASES
 
 3B. EXPLORED LOCATION
     - Draw 1-4 cards, face-down from the top of the explored location's Event Deck.
-    - One at a time, flip and resolve the cards. 
+    - Flip all of the cards at the same time. 
+    - First, the player resolves all of the Catastrophe Cards. 
+    - Then the player resolves all of the Survivor Cards.
+    - Then, the player takes any remaining Salvage Cards and adds them to his hand. 
 
-3C. RESOLVING CARDS
-    -  
+3C. RESOLVING CATASTROPHE CARDS
+    - A catastrophe card might be a FIGHT, an INJURY, or a JINX 
+    - FIGHT
+        - Someone or something wants to make you dead. Play WEAPON cards to make this not happen. 
+    - INJURY
+        - You have managed to injure yourself. Play MEDICAL cards to make this not happen. 
+    - JINX
+        - Something bad happens. Resolve the effects of the card. 
+
+    - Any catastrophe that you fail to resolve goes into your discard pile. 
+    - If your discard pile ever contains 3 Catastrophe cards, your turn ends and your Survivor dies. This is bad. 
+
+3D. RESOLVING SURVIVOR CARDS
+    - You have found a Survivor in the wreckage! 
+    - You may give the Survivor any Salvage cards from your hand or any Salvage cards from the current Exploration. 
+        - Place any cards that you have given the Survivor face down. Place the Survivor Card face-up on top of the pile, and set this pile aside. 
+            - Should any member of your party die, this Survivor and his deck will replace them. 
+
