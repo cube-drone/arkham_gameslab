@@ -1,0 +1,27 @@
+* Players start with a deck containing - 
+
+4 bullets ( SALVAGE ) 
+4 tinned ham ( SALVAGE )
+1 character special ability ( PLAYER )
+1 mild injury ( CATASTROPHE )
+
+* A game day consists of 5 phases: 
+
+1. WAKE UP
+2. PLAN
+3. EXPLORE
+4. HUNGER
+5. REST
+
+1. WAKE UP
+* Players draw 5 cards from their deck. 
+
+2. PLAN
+* Players may exchange Salvage Cards with one another. Trades must be 1-for-1. Survivor Cards and Injury Cards may not be traded. 
+
+3. EXPLORE
+* In the explore phase, all players either: 
+    - Select an unexplored location
+    OR 
+    - Select an explored location. 
+
