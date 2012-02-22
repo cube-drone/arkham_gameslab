@@ -53,8 +53,12 @@ PHASES
 5. REST
 
 1. WAKE UP
-* Each Player draws 5 cards from her deck.
+* Each Player draws 5 cards from her Survivor's deck.
+    - If the deck has less than five cards, tough beans. 
 * Cards are not private, and any player may see any other player's cards. 
+* Players without Survivor Decks are Mournful Sacrifices for the turn. 
+    - Mournful Sacrifices draw 1 card from the Salvage Deck at the beginning of the turn. 
+    - They may resolve and play this card at any time during the turn, on behalf of any player. 
 
 2. PLAN
 * Players may exchange Salvage Cards with one another. 
@@ -155,6 +159,7 @@ PHASES
 * After that, all players discard all cards remaining in their hands. 
     - If a player's discard pile ever contains 3 Catastrophe cards, that player's turn ends immediately and her current Survivor dies. This is bad. 
 * The player now shuffles his discard pile with his existing deck to create a new deck. 
+* If a Mournful Sacrifice player still has his one Salvage card by the end of the turn, it is Trashed. 
 
 DEATH
 *****
@@ -162,6 +167,19 @@ DEATH
 * This discard pile is placed face-down on the Graveyard location. 
 * The Graveyard location can be explored like any other location. 
     - However, a Recovered Graveyard is worth 0 Victory Points, and 
-    - Survivors found in the Graveyard are not added to the Survivor pool. They are dead. 
-
+    - Survivors found in the Graveyard are not added to the Survivor pool. They are dead.
+        - Instead, draw and resolve the top card from the Catastrophe deck. 
+* In the next WAKE UP phase, if there are Survivors who are not in play, the player chooses from one of the Survivor placed aside earlier. 
+    - The player takes this deck, adds 2 cards from the Salvage Deck, the Survivor Card, and shuffles them all together to make a new deck.
+    - The player then starts the WAKE UP phase as normal. 
+    - This occurs in the order that the players have died. 
+        - Example: 
+            - In Round 3, Alice's Survivor dies while exploring the Empty Skyscraper. 
+            - Then, Bob's Survivor dies of starvation in the Hunger phase. 
+            - Finally, Carl's Survivor bleeds out in his sleep in the Rest phase. 
+            - At the beginning of Round 4, Alice gets first pick of the Survivors. 
+            - Bob gets second pick.
+            - That's all the Survivors that are left. Carl gets nothing. 
+            - In Round 4, Bob finds a Survivor in the Empty Skyscraper. 
+            - At the beginning of Round 5, Carl gets the newly found Subscriber. 
 
