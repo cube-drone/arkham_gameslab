@@ -2,6 +2,7 @@ EPOCH ELLIPSE
 *************
 The end has come, and gone, and only the few survivors remain. Can you rebuild from your isolated refuge, or will the faceless horrors of the land consume you?  
 
+
 DECKS
 *****
 
@@ -13,10 +14,13 @@ Catastrophe Deck ( Representing awful things that happen while you explore Locat
 Deck Deck ( The set of all decks provided with Epoch Ellipse )
 Deck Deck Deck ( The set of all decks for any game, ever. ) 
 
+
 WIN/LOSE
 ********
-All players if they have liberated 10VP worth of Locations. 
-All players lose if all players die. 
+All players win if they have Recovered 10VP worth of Locations. 
+All players win if n-players*2+2 Survivors are alive. 
+All players lose if no Survivors remain. 
+
 
 GAME START
 **********
@@ -30,6 +34,13 @@ GAME START
 
 * The "Graveyard" and "Apartment Building" Locations are put into play.
 
+
+TRASH VS. DISCARD
+*****************
+* Trashed cards are placed in the Graveyard. 
+* Discarded cards are placed in the player's discard pile. They remain a part of the player's deck. 
+
+
 PHASES
 ******
 
@@ -42,7 +53,8 @@ PHASES
 5. REST
 
 1. WAKE UP
-* Players draw 5 cards from their deck, and place them face-up in front of them. 
+* Each Player draws 5 cards from her deck.
+* Cards are not private, and any player may see any other player's cards. 
 
 2. PLAN
 * Players may exchange Salvage Cards with one another. 
@@ -55,10 +67,12 @@ PHASES
 * Survivor Cards and Injury Cards may not be traded. 
 
 3. EXPLORE
-* In the explore phase, all players either: 
-    - Explore a NEW LOCATION
+* In the explore phase, each player must either: 
+    - Explore a NEW LOCATION, alone
     or
-    - Explore an already explored LOCATION
+    - Explore an already EXPLORED LOCATION, alone.
+* If one player explores a NEW LOCATION, any player who has not yet explored a location that turn may treat that location as an EXPLORED LOCATION.
+* If two players wish to explore the same Location in a turn, they must decide in which order they plan to explore the Location, and proceed one at a time.  
 
 3A. NEW LOCATION
     - Draw a Location from the Location Deck.
@@ -75,30 +89,79 @@ PHASES
             - 4 cards from the Salvage Deck, and 
             - 1 card from the Survivors Deck, 
             - shuffle them together to make the Mall's Event Deck, and place them face down next to the Mall card. 
-    - Then, draw and resolve the top card from the newly created Event Deck. 
+    - For each card from the Catastrophe Deck that has been placed in the Event Deck, place a Catastrophe Token on the Location Card. 
+    - Then, the player draws and resolves the top card from the newly created Event Deck. 
 
 3B. EXPLORED LOCATION
+    - Shuffle the explored location's Event Deck. 
     - Draw 1-4 cards, face-down from the top of the explored location's Event Deck.
-    - Flip all of the cards at the same time. 
+        - This set of cards is the current Exploration. 
+    - Flip all of the cards in the Exploration at the same time. 
     - First, the player resolves all of the Catastrophe Cards. 
     - Then the player resolves all of the Survivor Cards.
-    - Then, the player takes any remaining Salvage Cards and adds them to his hand. 
+    - Then the player resolves all of the Salvage Cards.
 
 3C. RESOLVING CATASTROPHE CARDS
-    - A catastrophe card might be a FIGHT, an INJURY, or a JINX 
+    - A Catastrophe Card might be a FIGHT, an INJURY, or a JINX 
     - FIGHT
-        - Someone or something wants to make you dead. Play WEAPON cards to make this not happen. 
+        - Someone or something wants to make the player dead. Play WEAPON cards to make this not happen. 
     - INJURY
-        - You have managed to injure yourself. Play MEDICAL cards to make this not happen. 
+        - The player has managed to injure herself. Play MEDICAL cards to make this not happen. 
     - JINX
-        - Something bad happens. Resolve the effects of the card. 
+        - A one-time negative effect happens. Resolve the effects of the card. 
 
-    - Any catastrophe that you fail to resolve goes into your discard pile. 
-    - If your discard pile ever contains 3 Catastrophe cards, your turn ends and your Survivor dies. This is bad. 
+    - Any catastrophe that a player does not avoid immediately goes into the player's discard pile. 
+    - If a player's discard pile ever contains 3 Catastrophe cards, that player's turn ends immediately and her current Survivor dies. This is bad. 
+        - If a player dies during an Exploration, all remaining Catastrophe, Survivor, and Salvage cards from the Exploration are returned to the Location's Event Deck.
+
+    - For every Catastrophe Card removed from the Location's Event Deck, remove a Catastrophe Token from the Location. 
+    - Correspondingly, for every Catastrophe Card added to the Location's Event Deck, add a Catastrophe Token to the Location.
+        - The number of Catastrophe Tokens should always be equal to the number of Catastrophe Cards in the deck.  
+
 
 3D. RESOLVING SURVIVOR CARDS
-    - You have found a Survivor in the wreckage! 
-    - You may give the Survivor any Salvage cards from your hand or any Salvage cards from the current Exploration. 
-        - Place any cards that you have given the Survivor face down. Place the Survivor Card face-up on top of the pile, and set this pile aside. 
-            - Should any member of your party die, this Survivor and his deck will replace them. 
+    - The player has found a Survivor in the wreckage! 
+    - The player may give the Survivor any Salvage cards from her hand or any Salvage cards from the current Exploration. 
+        - The player places any cards that he will give to the Survivor face down. 
+        - Then, the player places the Survivor Card face-up on top of the pile, and sets this pile aside. 
+            - Should any player die, this Survivor and deck will replace them. 
+
+3E. RESOLVING SALVAGE CARDS
+    - Take any remaining salvage cards and add them to your hand. 
+    - Salvage Cards may be FOOD cards, WEAPON cards, ALLY cards, or CHARM cards. 
+    - FOOD 
+        - These cards prevent you from starving. 
+    - WEAPON
+        - These cards help you fight off Catastrophes.
+    - MEDICAL 
+        - These cards help prevent injuries and shed Catastrophes from your deck. 
+    - ALLY 
+        - These cards provide miscellaneous positive effects. 
+    - CHARM
+        - A one-time positive effect happens. Resolve the effects of the card, then discard it. 
+
+3F. RECOVERING LOCATIONS
+    - If a Location card is ever cleared of Catastrophe Tokens, it has been Recovered! 
+    - If a Location card that is cleared of Catastrophe Tokens gains another Catastrophe Card (and Token), it is no longer Recovered. 
+    - A Location is worth a certain amount of Victory Points.
+    - If 10 Victory Points worth of Locations are Recovered at the same time, the game is won. 
+
+4. HUNGER
+* In this phase, each player must Trash a "Food" Salvage Card or take a card from the Catastrophe deck and place it in their discard pile. 
+    - If a player's discard pile ever contains 3 Catastrophe cards, that player's turn ends immediately and her current Survivor dies. This is bad. 
+
+5. REST
+* In this phase, one player takes the top card from the Night Deck and resolves it. 
+* After that, all players discard all cards remaining in their hands. 
+    - If a player's discard pile ever contains 3 Catastrophe cards, that player's turn ends immediately and her current Survivor dies. This is bad. 
+* The player now shuffles his discard pile with his existing deck to create a new deck. 
+
+DEATH
+*****
+* Should a player die, he immediately places his hand and deck into his discard pile.
+* This discard pile is placed face-down on the Graveyard location. 
+* The Graveyard location can be explored like any other location. 
+    - However, a Recovered Graveyard is worth 0 Victory Points, and 
+    - Survivors found in the Graveyard are not added to the Survivor pool. They are dead. 
+
 
