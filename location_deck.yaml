@@ -20,7 +20,6 @@ Mall:
     Salvage: 4
     Survivors: 1
     VP: 1 
-    Special: ""
     Flavor: "Once a cathedral to the Age of Infinite Growth. Now just a ruined building full of ill-fitting hot pants."
 Abandoned Hospital: 
     Quantity: 1
@@ -52,7 +51,6 @@ Shack:
     Salvage: 1
     Survivors: 1
     VP: 0
-    Special: "" 
     Flavor: "They had been surviving in the shack for some time on their own, far from humanity. But supplies were running thin. " 
 Raider Den: 
     Quantity: 2
@@ -66,7 +64,6 @@ Skyscraper Husk:
     Catastrophe: 3
     Salvage: 2
     VP: 1
-    Special: "",
     Flavor: "Great twisted beams of steel where once a vast skyscraper stood." 
 Mountain Observatory: 
     Quantity: 1
@@ -105,14 +102,12 @@ Pizza Planet:
     Salvage: 1
     Survivors: 2
     VP: 2
-    Special: ""
     Flavor: "A small group of survivors had holed up in the Pizza Planet with guns and food.  First they ran out of bullets. Then food. Then survivors. " 
 Cache: 
     Quantity: 5
     Catastrophe: 0
     Salvage: 1
     VP: 0
-    Special: "" 
     Flavor: "A common enough sight - a commuter sedan, overturned on the road, its occupants dead or missing. The best scavengers knew that there was always something hidden in there, somewhere. Do be careful about the smell, though. " 
 Oasis: 
     Quantity: 2
@@ -126,5 +121,5 @@ Rumble:
     Catastrophe: 1
     Salvage: 0
     VP: 0
-    Special: "They went looking for trouble, and they found it. " 
+    Flavor: "They went looking for trouble, and they found it. " 
 

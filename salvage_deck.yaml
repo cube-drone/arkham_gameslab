@@ -1,0 +1,34 @@
+Tinned Ham: 
+    Type: "Food"
+    Quantity: 30
+    Trash Food: 1
+    Flavor: ""
+Jerky:
+    Type: "Food"
+    Quantity: 2
+    Discard Food: 1
+    Flavor: "" 
+Bullet: 
+    Type: "Weapon"
+    Quantity: 25
+    Trash Weapon: 1
+    Flavor: "" 
+Baseball Bat:
+    Type: "Weapon" 
+    Quantity: 1
+    Discard Weapon: 1 
+    Flavor: ""
+Unintelligent Child: 
+    Type: "Ally"
+    Quantity: 3
+    Special: "Trash to resolve any Catastrophe Card without suffering ill effects." 
+First Aid: 
+    Quantity: 15
+    Type: "Medical"
+    Trash Medical: 1
+    Flavor: ""
+Aint No Party Like A Donner Party: 
+    Type: "Charm" 
+    Quantity: 1 
+    Special: "Skip the Hunger Phase this round." 
+    Flavor: ""

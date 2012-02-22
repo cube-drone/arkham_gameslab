@@ -1,0 +1,38 @@
+Wild Dogs: 
+    Type: "Combat"
+    Quantity: 15
+    Difficulty: 1
+Raiders: 
+    Type: "Combat"
+    Quantity: 10
+    Difficulty: 2
+Mustard Gas Angels:
+    Type: "Combat"
+    Quantity: 3
+    Difficulty: 3
+Cerberus:
+    Type: "Combat"
+    Quantity: 1
+    Difficulty: 5
+Shoulder Injury:
+    Type: "Collapse" 
+    Quantity: 2
+Punctured Lung: 
+    Type: "Collapse" 
+    Quantity: 2
+Broken Arm:
+    Type: "Collapse" 
+    Quantity: 2
+Broken Foot:
+    Type: "Collapse"
+    Quantity: 2
+Cracked Rib:
+    Type: "Collapse"
+    Quantity: 4
+Mad Clarity:
+    Type: "Collapse"
+    Quantity: 1
+    Discard Weapon: 1
+Pound of Flesh: 
+    Type: "Curse"
+    Special: "The player may ignore this Catastrophe - or take it, and two Salvage cards from the deck." 
