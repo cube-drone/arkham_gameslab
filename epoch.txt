@@ -1,9 +1,37 @@
+EPOCH ELLIPSE 
+*************
+The end has come, and gone, and only the few survivors remain. Can you rebuild from your isolated refuge, or will the faceless horrors of the land consume you?  
+
+DECKS
+*****
+
+Location Deck ( Representing Locations that your Survivors must visit )
+Survivor Deck ( Representing your Survivors ) 
+Salvage Deck ( Representing useful items your Survivors will accumulate )
+Night Deck ( Representing awful things that happen between turns )
+Catastrophe Deck ( Representing awful things that happen while you explore Locations ) 
+Deck Deck ( The set of all decks provided with Epoch Ellipse )
+Deck Deck Deck ( The set of all decks for any game, ever. ) 
+
+WIN/LOSE
+********
+All players if they have liberated 10VP worth of Locations. 
+All players lose if all players die. 
+
+GAME START
+**********
+
 * Players start with a deck containing - 
 
 4 bullets ( SALVAGE ) 
 4 tinned ham ( SALVAGE )
-1 character special ability ( PLAYER )
+1 SURVIVOR card
 1 mild injury ( CATASTROPHE )
+
+* The "Graveyard" and "Apartment Building" Locations are put into play.
+
+PHASES
+******
 
 * A game day consists of 5 phases: 
 
@@ -14,14 +42,44 @@
 5. REST
 
 1. WAKE UP
-* Players draw 5 cards from their deck. 
+* Players draw 5 cards from their deck, and place them face-up in front of them. 
 
 2. PLAN
-* Players may exchange Salvage Cards with one another. Trades must be 1-for-1. Survivor Cards and Injury Cards may not be traded. 
+* Players may exchange Salvage Cards with one another. 
+* Trades must be 1-for-1. 
+* Only one trade may take place between any set of 2 players in a turn. 
+    - example: In a game containing Alice, Bob, and Carl...
+        - Alice can trade with Bob, once
+        - Alice can trade with Carl, once
+        - Carl can trade with Bob, once
+* Survivor Cards and Injury Cards may not be traded. 
 
 3. EXPLORE
 * In the explore phase, all players either: 
-    - Select an unexplored location
-    OR 
-    - Select an explored location. 
+    - Explore a NEW LOCATION
+    or
+    - Explore an already explored LOCATION
 
+3A. NEW LOCATION
+    - Draw a Location from the Location Deck.
+    - Draw as many cards from each Deck as are listed on the Location card, shuffle them together, and create a deck with them.
+        - Place this deck face-down next to the upturned Location card. We shall refer to this as the "Event Deck"
+    - Example: 
+        LOCATION: Mall
+            Catastrophe: 7
+            Salvage: 4
+            Survivors: 1
+            VP: 1
+        - In this case, we would draw 
+            - 7 cards from the Catastrophe Deck, 
+            - 4 cards from the Salvage Deck, and 
+            - 1 card from the Survivors Deck, 
+            - shuffle them together to make the Mall's Event Deck, and place them face down next to the Mall card. 
+    - Then, draw and resolve the top card from the newly created Event Deck. 
+
+3B. EXPLORED LOCATION
+    - Draw 1-4 cards, face-down from the top of the explored location's Event Deck.
+    - One at a time, flip and resolve the cards. 
+
+3C. RESOLVING CARDS
+    -  
