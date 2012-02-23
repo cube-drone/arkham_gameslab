@@ -1,0 +1,52 @@
+Tinned Ham: 
+    Type: "Food"
+    Quantity: 15
+    Special: "Trash to gain 1 Food."
+Water:
+    Type: "Food" 
+    Quantity: 15
+    Special: "Trash to gain 1 Food." 
+Bandage: 
+    Type: "Medical"
+    Quantity: 10
+    Special: "Trash to gain 1 Medical." 
+Triage Kit: 
+    Type: "Medical" 
+    Quantity: 5 
+    Special: "Trash to move all Crisis Cards from your Discard pile to your Deck." 
+Sterile Needles:
+    Type: "Medical"
+    Quantity: 5
+    Special: "Trash to Trash 1 Crisis Card from your hand. " 
+Bullet: 
+    Type: "Weapon"
+    Quantity: 25
+    Special: "Trash to gain 1 Weapon" 
+Grenade: 
+    Type: "Weapon" 
+    Quantity: 5
+    Special: "Trash to gain 2 Weapon"
+Crude Map: 
+    Type: "Ally"
+    Quantity: 5
+    Special: "Trash during New Exploration. When drawing a new exploration, draw two Location cards, choose one, and return the other one to the bottom of the Location deck."  
+Baseball Bat:
+    Type: "Weapon" 
+    Quantity: 1
+    Special: "Discard to gain 1 Weapon" 
+Unintelligent Child: 
+    Type: "Ally"
+    Quantity: 1
+    Special: "Trash to resolve any Crisis Card without suffering ill effects." 
+Car Door: 
+    Type: "Weapon"
+    Quantity: 1
+    Quantity: "Discard to gain 1 Weapon. Roll a d6. On a 1, 2, or 3, Trash the Car Door." 
+VCR: 
+    Type: "Ally"
+    Quantity: 1
+    Special: "If the player ever has the VCR and the VHS items, Trash them both. Then, search the Location deck for any card and put it in play." 
+VHS: 
+    Type: "Ally"
+    Quantity: 1
+    Special: "The VHS does nothing." 

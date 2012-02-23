@@ -1,0 +1,28 @@
+Salvage Angel: 
+    Type: "Ally"
+    Quantity: 2
+    Special: "Trash to draw 3 cards from the Rare Salvage deck."  
+Chicken:
+    Type: "Ally"
+    Quantity: 2
+    Special: "Discard to gain 1 Food. Trash to allow all players to skip the Hunger round this turn. "  
+Friendly Dog:
+    Type: "Ally"
+    Quantity: 2
+    Special: "Discard to gain 2 Weapon. Trash to gain 1 Food." 
+Tactical Thermonuclear Device:
+    Type: "Weapon" 
+    Quantity: 2
+    Special: "Trash to gain 8 Weapon. " 
+Submachine Gun: 
+    Type: "Weapon"
+    Quantity: 4
+    Special: "Discard to gain 2 Weapon.  Roll a die. On a 6, Trash the Submachine Gun." 
+Flamethrower: 
+    Type: "Weapon"
+    Quantity: 2
+    Special: "Discard to gain 4 Weapon. Roll a die. On a 1,2, or 3, Trash the Flamethrower. "
+Sniper Rifle: 
+    Type: "Weapon" 
+    Quantity: 2
+    Special: "Discard to gain 2 Weapon - or, - Discard during another Survivor's Combat to contribute 2 weapon. " 

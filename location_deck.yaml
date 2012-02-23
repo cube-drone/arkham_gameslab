@@ -1,6 +1,6 @@
-Graveyard:
+Wasteland:
     Quantity: 1
-    Catastrophe: 1
+    Crisis: 1
     Common Salvage: 1
     Rare Salvage: 0
     Survivors: 0
@@ -8,26 +8,33 @@ Graveyard:
     Special: "All Trashed cards are added to the top of the Graveyard's Event Deck."
     Flavor: "It filled up rather quickly, but it was unwise to stay around for long." 
 Apartment Building:
-    Quantity: 2
-    Catastrophe: 1
-    Common Salvage: 7
+    Quantity: 1
+    Crisis: 2
+    Common Salvage: 6
     Rare Salvage: 0
     Survivors: 0
     VP: 1
-    Special: "Once Reclaimed, the Apartment Building's event deck cannot gain any Catastrophe cards." 
+    Special: "Once Reclaimed, the Apartment Building's event deck cannot gain any Crisis cards." 
     Flavor: "They boarded up the windows first - sealed it as tight as a drum. Nobody gets in or out that they don't want to get in or out." 
+Dispensary:
+    Quantity: 1
+    Crisis: 0
+    Common Salvage: 0
+    Rare Salvage: 0
+    VP: 0
+    Special: "Players may visit the Dispensary once per turn, either before or after their Exploration step. Players may only draw one card from the dispensary." 
 Mall:
     Quantity: 2
-    Catastrophe: 6
-    Common Salvage: 4
+    Crisis: 6
+    Common Salvage: 5
     Rare Salvage: 1
     Survivors: 1
     VP: 1 
     Flavor: "Once a cathedral to the Age of Infinite Growth. Now just a ruined building full of ill-fitting hot pants."
 Abandoned Hospital: 
     Quantity: 1
-    Catastrophe: 8
-    Common Salvage: 2
+    Crisis: 8
+    Common Salvage: 4
     Rare Salvage: 1
     Survivors: 0
     VP: 3
@@ -35,24 +42,24 @@ Abandoned Hospital:
     Flavor: "Everyone was sick. Nobody had much in the way of medical training. But a great whopping building full of morphine had its benefits."
 Outfitters: 
     Quantity: 1
-    Catastrophe: 5
-    Common Salvage: 0
-    Rare Salvage: 1
+    Crisis: 3
+    Common Salvage: 2
+    Rare Salvage: 2
     Survivors: 0
-    VP: 2
+    VP: 1
     Flavor: "They found jackets, backpacks, all the gear they needed to travel further." 
 Cathedral: 
     Quantity: 1
-    Catastrophe: 10
-    Common Salvage: 2
+    Crisis: 9
+    Common Salvage: 3
     Rare Salvage: 0
     Survivors: 1
     VP: 3
-    Special: "While Reclaimed, Survivors found in the Graveyard are replaced with Salvage instead of Catastrophe" 
+    Special: "While Reclaimed, Survivors found in the Wasteland are replaced with Salvage instead of Crisis" 
     Flavor: "It had been an impressive structure. It still was. It gave them hope. " 
 Shack:
     Quantity: 1
-    Catastrophe: 0
+    Crisis: 0
     Salvage: 0
     Rare Salvage: 0
     Survivors: 1
@@ -60,30 +67,33 @@ Shack:
     Flavor: "They had been surviving in the shack for some time on their own, far from humanity. But supplies were running thin. " 
 Raider Den: 
     Quantity: 2
-    Catastrophe: 9
-    Salvage: 4
+    Crisis: 8
+    Common Salvage: 3
+    Rare Salvage: 2
+    Survivors: 0
     VP: 2
-    Special: "Once Reclaimed, every player may search their deck and discard pile and remove one Combat Catastrophe"
+    Special: "Once Reclaimed, every player may search their deck and discard pile and remove one Combat Crisis"
     Flavor: "They found that if they banded together, they could murder others and steal their things more effectively. Isn't synergy great?" 
 Skyscraper Husk: 
     Quantity: 1
-    Catastrophe: 3
-    Common Salvage: 2
+    Crisis: 3
+    Common Salvage: 4
     Rare Salvage: 0
+    Survivors: 0
     VP: 1
     Flavor: "Great twisted beams of steel where once a vast skyscraper stood." 
 Mountain Observatory: 
     Quantity: 1
-    Catastrophe: 2
-    Salvage: 0
+    Crisis: 2
+    Common Salvage: 1
     Rare Salvage: 0
     VP: 0
     Special: "The player (or players) who Reclaim the Observatory may draw the top 5 locations from the Location Deck and return them in any order." 
     Flavor: "They could see everything from up there. It was awful." 
 Warehouse: 
     Quantity: 4
-    Catastrophe: 5
-    Common Salvage: 5
+    Crisis: 5
+    Common Salvage: 7
     Rare Salvage: 1
     Survivors: 0 
     VP: 1
@@ -91,8 +101,8 @@ Warehouse:
     Flavor: "The warehouse had been picked pretty clean by raiders, but nobody had thought to dismantle and sell the pallets and jacks." 
 Cannery: 
     Quantity: 1
-    Catastrophe: 6
-    Common Salvage: 4
+    Crisis: 4
+    Common Salvage: 5
     Rare Salvage: 0
     Survivors: 0
     VP: 1
@@ -100,7 +110,7 @@ Cannery:
     Flavor: "More tinned meat. Oh joy of joys." 
 Gun Shop: 
     Quantity: 1
-    Catastrophe: 6
+    Crisis: 4
     Common Salvage: 4
     Rare Salvage: 1
     Survivors: 0
@@ -109,29 +119,33 @@ Gun Shop:
     Flavor: "One bullet, one head, that was the rule. But where did you go when you needed more bullets? " 
 Pizza Planet: 
     Quantity: 1
-    Catastrophe: 8
-    Common Salvage: 1
+    Crisis: 5
+    Common Salvage: 2
     Rare Salvage: 0
     Survivors: 2
     VP: 2
     Flavor: "A small group of survivors had holed up in the Pizza Planet with guns and food.  First they ran out of bullets. Then food. Then survivors. " 
 Cache: 
     Quantity: 5
-    Catastrophe: 0
-    Salvage: 1
+    Crisis: 0
+    Common Salvage: 1
+    Rare Salvage: 0
+    Survivors: 0
     VP: 0
     Flavor: "A common enough sight - a commuter sedan, overturned on the road, its occupants dead or missing. The best scavengers knew that there was always something hidden in there, somewhere. Do be careful about the smell, though. " 
 Oasis: 
     Quantity: 2
-    Catastrophe: 1
-    Salvage: 4
+    Crisis: 1
+    Common Salvage: 4
+    Rare Salvage: 0
     VP: 0
     Special: "At the end of the turn in which Oasis is first explored, Trash all cards from its Event Deck"
     Flavor: "C'mere, boys. You won't believe what I've found. " 
 Rumble: 
     Quantity: 2
-    Catastrophe: 1
-    Salvage: 0
+    Crisis: 1
+    Common Salvage: 0
+    Rare Salvage: 0
     VP: 0
     Flavor: "They went looking for trouble, and they found it. " 
 

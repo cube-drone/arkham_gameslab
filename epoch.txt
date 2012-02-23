@@ -11,9 +11,9 @@ DECKS
 
 Location Deck ( Representing Locations that your Survivors must visit )
 Survivor Deck ( Representing your Survivors ) 
-Salvage Deck ( Representing useful items your Survivors will accumulate )
-Night Deck ( Representing usually-awful things that happen between turns )
-Catastrophe Deck ( Representing awful things that happen while you explore Locations ) 
+Common Salvage Deck ( Representing useful items your Survivors will accumulate )
+Rare Salvage Deck ( Represing very useful items your Survivors will accumulate ) 
+Crisis Deck ( Representing awful things that happen while you explore Locations ) 
 Deck Deck ( The set of all decks provided with Epoch Ellipse )
 Deck Deck Deck ( The set of all decks for any game, ever. ) 
 
@@ -34,14 +34,14 @@ GAME START
 4 bullets ( SALVAGE - WEAPON ) 
 4 tinned ham ( SALVAGE - FOOD)
 1 SURVIVOR card
-1 mild injury ( CATASTROPHE - COLLAPSE )
+1 mild injury ( CRISIS - COLLAPSE )
 
-* The "Graveyard" and "Apartment Building" Locations are put into play. 
+* The "Wasteland", "Dispensary", and "Apartment Building" Locations are put into play. 
 
 
 TRASH VS. DISCARD
 *****************
-* Trashed cards are placed on the top of the Graveyard's Event Deck. 
+* Trashed cards are placed on the top of the Wasteland's Event Deck. 
 * Discarded cards are placed in the player's discard pile. They remain a part of the player's deck. 
 
 
@@ -60,20 +60,6 @@ PHASES
 * Each Player draws 5 cards from her Survivor's deck.
     - If the deck has less than five cards, tough beans. 
 * Cards are not private, and any player may see any other player's cards. 
-* Players without Survivor Decks are Mournful Sacrifices for the turn. 
-    - Mournful Sacrifices draw 1 card from the Salvage Deck at the beginning of the turn. 
-    - They may resolve and play this card at any time during the turn, on behalf of any player. 
-
-2. PLAN
-* Players may exchange Salvage Cards with one another. 
-* Trades must be 1-for-1. 
-* Only one trade may take place between any set of 2 players in a turn. 
-    - example: In a game containing Alice, Bob, and Carl...
-        - Alice can trade with Bob, once
-        - Alice can trade with Carl, once
-        - Carl can trade with Bob, once
-* Survivor Cards and Catastrophe Cards may not be traded.
-* For each point of Medical care that the player can produce through discarding or trashing Salvage Cards, that player may Trash 1 Catastrophe Card from her hand. 
 
 3. EXPLORE
 * In the explore phase, each player must either: 
@@ -89,42 +75,37 @@ PHASES
         - Place this deck face-down next to the upturned Location card. We shall refer to this as the "Event Deck"
     - Example: 
         LOCATION: Mall
-            Catastrophe: 7
+            Crisis: 7
             Salvage: 4
             Survivors: 1
             VP: 1
         - In this case, we would draw 
-            - 7 cards from the Catastrophe Deck, 
+            - 7 cards from the Crisis Deck, 
             - 4 cards from the Salvage Deck, and 
             - 1 card from the Survivors Deck, 
             - shuffle them together to make the Mall's Event Deck, and place them face down next to the Mall card. 
-    - For each card from the Catastrophe Deck that has been placed in the Event Deck, place a Catastrophe Token on the Location Card. 
+    - For each card from the Crisis Deck that has been placed in the Event Deck, place a Crisis Token on the Location Card. 
     - Then, the player draws and resolves the top card from the newly created Event Deck. 
 
 3B. EXPLORED LOCATION
     - Shuffle the explored location's Event Deck. 
-    - Draw 1-6 cards, face-down, from the top of the explored location's Event Deck.
+    - Draw 2 or 4 cards, face-down, from the top of the explored location's Event Deck.
         - This set of cards is the current Exploration. 
     - Flip all of the cards in the Exploration at the same time. 
-    - First, the player resolves all of the Catastrophe Cards. 
+    - First, the player resolves all of the Crisis Cards. 
     - Then the player resolves all of the Survivor Cards.
     - Then the player resolves all of the Salvage Cards.
 
-3C. RESOLVING CATASTROPHE CARDS
-    - A Catastrophe Card might be a FIGHT, an INJURY, or a JINX 
+3C. RESOLVING CRISIS CARDS
+    - A Crisis Card might be a COMBAT, a COLLAPSE, or a CATASTROPHE
     - COMBAT
         - Someone or something wants to make the player dead. Play WEAPON cards to make this not happen. 
     - COLLAPSE
         - The player has managed to injure herself. Play MEDICAL cards to make this not happen. 
-    - CURSE
-        - A one-time negative effect happens. Resolve the effects of the card. 
+    - CATASTROPHE
+        - This is a challenge that affects every player.  
 
-    - Any catastrophe that a player does not avoid immediately goes into the player's discard pile. 
-    - If a player dies during an Exploration, all remaining Catastrophe, Survivor, and Salvage cards from the Exploration are returned to the Location's Event Deck.
-
-    - For every Catastrophe Card removed from the Location's Event Deck, remove a Catastrophe Token from the Location. 
-    - Correspondingly, for every Catastrophe Card added to the Location's Event Deck, add a Catastrophe Token to the Location.
-        - The number of Catastrophe Tokens should always be equal to the number of Catastrophe Cards in the deck.  
+    - If a player dies during an Exploration, all remaining Crisis, Survivor, and Salvage cards from the Exploration are returned to the Location's Event Deck.
 
 
 3D. RESOLVING SURVIVOR CARDS
@@ -140,65 +121,61 @@ PHASES
     - FOOD 
         - These cards prevent you from starving. 
     - WEAPON
-        - These cards help you fight off Catastrophes.
+        - These cards help you fight off Crises.
     - MEDICAL 
-        - These cards help prevent injuries and shed Catastrophes from your deck. 
+        - These cards help prevent injuries and shed Crises from your deck. 
     - ALLY 
         - These cards provide miscellaneous positive effects. 
-    - CHARM
+    - EVENT
         - A one-time positive effect happens. Resolve the effects of the card, then discard it. 
     - A player may not have more than 5 cards in hand.  Any cards over the limit are returned to the Location's Event Deck, face down. 
 
 3F. RECOVERING LOCATIONS
-    - If a Location card is ever cleared of Catastrophe Tokens, it has been Recovered! 
-    - If a Location card that is cleared of Catastrophe Tokens gains another Catastrophe Card (and Token), it is no longer Recovered. 
+    - If a Location's Event Deck is empty, it has been Recovered!
+    - If a Location's Event Deck is rendered no-longer empty, it is no longer Recovered. 
     - A Location is worth a certain amount of Victory Points.
     - If 10 Victory Points worth of Locations are Recovered at the same time, the game is won. 
 
-3G. EMERGENCY STABILIZATION
-* For each point of Medical care that the player can produce through discarding or trashing Salvage Cards, that player may move 1 Catastrophe card from her discard pile to her deck. . 
-
 4. HUNGER
-* In this phase, each player must produce at least one point of "Food" from a Salvage Card or take a card from the Catastrophe deck and place it immediately in their discard pile. 
+* In this phase, each player must produce at least one point of "Food" from a Salvage Card or take a card from the Crisis deck and place it immediately in their discard pile. 
 
 5. REST
 * In this phase, one player takes the top card from the Night Deck and resolves it. 
 * After that, all players discard all cards remaining in their hands. 
 * The player now shuffles his discard pile with his existing deck to create a new deck. 
-* If a Mournful Sacrifice player still has his one Salvage card by the end of the turn, it is Trashed. 
+* If a Sacrifice player still has his one Salvage or Crisis card by the end of the turn, it is Trashed. 
 
 
 DEATH
 *****
-* If a player's discard pile ever contains 3 Catastrophe cards, that player's turn ends immediately and her current Survivor dies. This is bad. 
+* If a player's discard pile ever contains 3 Crisis cards, that player's turn ends immediately and her current Survivor dies. This is bad. 
 * Should a player die, he immediately places his hand and deck into his discard pile.
-* This discard pile is placed face-down on the Graveyard location. 
-* The Graveyard location can be explored like any other location. 
-    - However, a Recovered Graveyard is worth 0 Victory Points, and 
-    - Survivors found in the Graveyard are not added to the Survivor pool. They are dead.
-        - Instead, draw and resolve the top card from the Catastrophe deck. 
-* In the next WAKE UP phase, if there are Survivors who are not in play, the player chooses from one of the Survivor placed aside earlier. 
-    - The player takes this deck, adds 2 cards from the Salvage Deck, the Survivor Card, and shuffles them all together to make a new deck.
+* This discard pile is placed face-down on the Wasteland location. 
+* The Wasteland location can be explored like any other location. 
+    - However, a Recovered Wasteland is worth 0 Victory Points, and 
+    - Survivors found in the Wasteland are not added to the Survivor pool. They are dead.
+        - Instead, draw and resolve the top card from the Crisis deck. 
+* In the next WAKE UP phase, if the player has any Survivor decks put aside, she may start anew with her rescued Survivor. 
+    - The player takes this deck, adds 2 cards from the Common Salvage Deck, the Survivor Card, and shuffles them all together to make a new deck.
     - The player then starts the WAKE UP phase as normal. 
-    - This occurs in the order that the players have died. 
-        - Example: 
-            - In Round 3, Alice's Survivor dies while exploring the Empty Skyscraper. 
-            - Then, Bob's Survivor dies of starvation in the Hunger phase. 
-            - Finally, Carl's Survivor bleeds out in his sleep in the Rest phase. 
-            - At the beginning of Round 4, Alice gets first pick of the Survivors. 
-            - Bob gets second pick.
-            - That's all the Survivors that are left. Carl gets nothing. 
-            - In Round 4, Bob finds a Survivor in the Empty Skyscraper. 
-            - At the beginning of Round 5, Carl gets the newly found Subscriber. 
 
+TRADE
+*****
+* Between phases, players may trade Salvage cards freely between one another. 
+* Survivor cards and Crisis cards may not be played. 
+
+MEDICAL CARE
+************
+* Medical cards may be played at any time. 
+* For every point of "Medical" generated, a player may Trash one Crisis card from their hand or Discard pile.  
 
 COMBAT
 ******
-* Catastrophe - Combat cards are events where your character has to fight to proceed. 
+* Crisis - Combat cards are events where your character has to fight to proceed. 
 * A Combat card will have a Difficulty rating.
 * In order to win the combat, the player must produce at least this many points from Salvage - Weapon cards. 
-* If the Combat is won, the Catastrophe is placed in the Graveyard. 
-* If the Combat is lost, the Catastrophe is placed in the player's discard pile. 
+* If the Combat is won, the Crisis is placed in the Wasteland. 
+* If the Combat is lost, the Crisis is placed in the player's discard pile. 
 
 
 EXAMPLE TURN
@@ -209,14 +186,14 @@ EXAMPLE TURN
     * BULLET - Trash -> 1 Weapon
     * BASEBALL BAT - Discard -> 1 Weapon
     * SURVIVOR - ADAM NATHAN - Discard -> 1 Medical
-    * CATASTROPHE - COLLAPSE - CRACKED RIB 
+    * CRISIS - COLLAPSE - CRACKED RIB 
 
 * Bob starts his turn with 5 cards: 
     * TINNED HAM - Trash -> 1 Food
     * TINNED HAM - Trash -> 1 Food
     * TINNED HAM - Trash -> 1 Food
     * BULLET - Trash -> 1 Weapon
-    * FIRST AID - Discard -> Avoid 1 COLLAPSE, Trash -> Trash 1 Catastrophe
+    * FIRST AID - Discard -> Avoid 1 COLLAPSE, Trash -> Trash 1 Crisis
 
 * Alice has nothing to eat. That's no good. 
 
@@ -233,13 +210,13 @@ and Bob has:
     * TINNED HAM - Trash -> 1 Food
     * BULLET - Trash -> 1 Weapon
     * BULLET - Trash -> 1 Weapon
-    * FIRST AID - Discard -> Avoid 1 COLLAPSE, Trash -> Trash 1 Catastrophe
+    * FIRST AID - Discard -> Avoid 1 COLLAPSE, Trash -> Trash 1 Crisis
 
 * Alice chooses to explore the Location "Warehouse".
     * She shuffles the Warehouse Event Deck, and draws 6 cards. 
     * She draws: 
-        * CATASTROPHE - COMBAT - WILD DOGS - DIFFICULTY 1
-        * CATASTROPHE - COLLAPSE - SHOULDER INJURY 
+        * CRISIS - COMBAT - WILD DOGS - DIFFICULTY 1
+        * CRISIS - COLLAPSE - SHOULDER INJURY 
         * SURVIVOR - JUSTICE LIN - Discard -> Put all exploration cards back, reshuffle Event deck, draw again. 
         * SALVAGE - FOOD - TINNED HAM - Trash -> 1 Food
         * SALVAGE - WEAPON - BULLET - Trash -> 1 Weapon
@@ -265,12 +242,12 @@ and Bob has:
     * BULLET - Trash -> 1 Weapon
     * BASEBALL BAT - Discard -> 1 Weapon
 
-* Bob chooses to explore the Location "Graveyard"
+* Bob chooses to explore the Location "Wasteland"
     * He shuffles the deck, and draws 4 cards. 
     * He draws: 
-        * CATASTROPHE - COMBAT - MUSTARD GAS ANGELS - DIFFICULTY 3
-        * CATASTROPHE - COLLAPSE - BROKEN FOOT
-        * CATASTROPHE - COMBAT - RAIDERS - DIFFICULTY 2
+        * CRISIS - COMBAT - MUSTARD GAS ANGELS - DIFFICULTY 3
+        * CRISIS - COLLAPSE - BROKEN FOOT
+        * CRISIS - COMBAT - RAIDERS - DIFFICULTY 2
         * SALVAGE - WEAPON - PIPE BOMB - Trash -> 3 Weapon
 
 * Bob can't deal with the MUSTARD GAS ANGELS. 
@@ -291,9 +268,9 @@ and Bob has:
 * In the Hunger phase, Alice and Bob both trash a TINNED HAM to produce 1 food. 
 
 * In the Night phase, Bob draws a card from the Night deck.  
-    * AND THEY TOOK MY STUFF, TOO - Any player with a CATASTROPHE - COMBAT card in his discard pile must trash a card at random from his hand.  
+    * AND THEY TOOK MY STUFF, TOO - Any player with a CRISIS - COMBAT card in his discard pile must trash a card at random from his hand.  
 
-* Bob has a CATASTROPHE - COMBAT card in his discard pile.  He fans his two remaining cards out and Alice pulls TINNED HAM. 
+* Bob has a CRISIS - COMBAT card in his discard pile.  He fans his two remaining cards out and Alice pulls TINNED HAM. 
 
 * Bob and Alice both discard all remaining cards.  
 
