@@ -20,8 +20,10 @@ Deck Deck Deck ( The set of all decks for any game, ever. )
 
 WIN/LOSE
 ********
-All players win if they have Recovered 10VP worth of Locations. 
-All players win if n-players*2+2 Survivors are alive. 
+
+This is a limited co-operative game.  Each player wins by surviving to the end.  This is best accomplished by working with others. 
+
+The game ends if all players have Recovered 10VP worth of Locations. 
 All players lose if no Survivors remain alive. 
 
 GAME START

@@ -1,15 +1,17 @@
 Graveyard:
     Quantity: 1
     Catastrophe: 1
-    Salvage: 1
+    Common Salvage: 1
+    Rare Salvage: 0
     Survivors: 0
     VP: 0
     Special: "All Trashed cards are added to the top of the Graveyard's Event Deck."
     Flavor: "It filled up rather quickly, but it was unwise to stay around for long." 
 Apartment Building:
     Quantity: 2
-    Catastrophe: 2
-    Salvage: 6
+    Catastrophe: 1
+    Common Salvage: 7
+    Rare Salvage: 0
     Survivors: 0
     VP: 1
     Special: "Once Reclaimed, the Apartment Building's event deck cannot gain any Catastrophe cards." 
@@ -17,30 +19,33 @@ Apartment Building:
 Mall:
     Quantity: 2
     Catastrophe: 6
-    Salvage: 4
+    Common Salvage: 4
+    Rare Salvage: 1
     Survivors: 1
     VP: 1 
     Flavor: "Once a cathedral to the Age of Infinite Growth. Now just a ruined building full of ill-fitting hot pants."
 Abandoned Hospital: 
     Quantity: 1
-    Catastrophe: 10
-    Salvage: 2
+    Catastrophe: 8
+    Common Salvage: 2
+    Rare Salvage: 1
     Survivors: 0
     VP: 3
-    Special: "While Reclaimed, Survivors may, instead of Exploring, discard two Catastrophe cards from their hand." 
+    Special: "While Reclaimed, in the Wake Up phase, each survivor may trash one card from their hand and search the Common Salvage deck for a Medical item to add to their hand." 
     Flavor: "Everyone was sick. Nobody had much in the way of medical training. But a great whopping building full of morphine had its benefits."
 Outfitters: 
     Quantity: 1
     Catastrophe: 5
-    Salvage: 1
+    Common Salvage: 0
+    Rare Salvage: 1
     Survivors: 0
     VP: 2
-    Special: "While Reclaimed, Survivor hand limit is 6 instead of 5." 
     Flavor: "They found jackets, backpacks, all the gear they needed to travel further." 
 Cathedral: 
     Quantity: 1
     Catastrophe: 10
-    Salvage: 2
+    Common Salvage: 2
+    Rare Salvage: 0
     Survivors: 1
     VP: 3
     Special: "While Reclaimed, Survivors found in the Graveyard are replaced with Salvage instead of Catastrophe" 
@@ -48,7 +53,8 @@ Cathedral:
 Shack:
     Quantity: 1
     Catastrophe: 0
-    Salvage: 1
+    Salvage: 0
+    Rare Salvage: 0
     Survivors: 1
     VP: 0
     Flavor: "They had been surviving in the shack for some time on their own, far from humanity. But supplies were running thin. " 
@@ -62,36 +68,41 @@ Raider Den:
 Skyscraper Husk: 
     Quantity: 1
     Catastrophe: 3
-    Salvage: 2
+    Common Salvage: 2
+    Rare Salvage: 0
     VP: 1
     Flavor: "Great twisted beams of steel where once a vast skyscraper stood." 
 Mountain Observatory: 
     Quantity: 1
     Catastrophe: 2
     Salvage: 0
+    Rare Salvage: 0
     VP: 0
-    Special: "Once Reclaimed, draw the top 5 locations from the Location Deck and return them in any order." 
+    Special: "The player (or players) who Reclaim the Observatory may draw the top 5 locations from the Location Deck and return them in any order." 
     Flavor: "They could see everything from up there. It was awful." 
 Warehouse: 
     Quantity: 4
     Catastrophe: 5
-    Salvage: 5
+    Common Salvage: 5
+    Rare Salvage: 1
     Survivors: 0 
     VP: 1
-    Special: "Once Reclaimed, all players draw 2 Salvage Cards and add them to their Discard pile." 
+    Special: "Once Reclaimed, all players draw 2 Common Salvage Cards and add them to their Discard pile." 
     Flavor: "The warehouse had been picked pretty clean by raiders, but nobody had thought to dismantle and sell the pallets and jacks." 
 Cannery: 
     Quantity: 1
     Catastrophe: 6
-    Salvage: 4
+    Common Salvage: 4
+    Rare Salvage: 0
     Survivors: 0
     VP: 1
-    Special: "Any Salvage drawn at the Cannery that is not of type Food is returned to the Salvage deck, and replaced with a Salvage of type Food." 
+    Special: "Any Salvage drawn at the Cannery that is not of type Food is returned to the Common Salvage deck, and replaced with a Salvage of type Food." 
     Flavor: "More tinned meat. Oh joy of joys." 
 Gun Shop: 
     Quantity: 1
     Catastrophe: 6
-    Salvage: 4
+    Common Salvage: 4
+    Rare Salvage: 1
     Survivors: 0
     VP: 1
     Special: "Any Salvage drawn at the Gun Shop that is not of type Weapon is returned to the Salvage deck, and replaced with a Salvage of type Weapon." 
@@ -99,7 +110,8 @@ Gun Shop:
 Pizza Planet: 
     Quantity: 1
     Catastrophe: 8
-    Salvage: 1
+    Common Salvage: 1
+    Rare Salvage: 0
     Survivors: 2
     VP: 2
     Flavor: "A small group of survivors had holed up in the Pizza Planet with guns and food.  First they ran out of bullets. Then food. Then survivors. " 
