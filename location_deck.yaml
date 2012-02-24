@@ -148,4 +148,28 @@ Rumble:
     Rare Salvage: 0
     VP: 0
     Flavor: "They went looking for trouble, and they found it. " 
-
+High School: 
+    Quantity: 2
+    Crisis: 5
+    Common Salvage: 3
+    Rare Salvage: 1
+    Survivors: 1
+    VP: 1
+    Flavor: "No one wanted to go back, but it didn't look like they had a choice." 
+Museum: 
+    Quantity: 1
+    Crisis: 4
+    Common Salvage: 2
+    Rare Salvage: 0
+    Survivors: 2
+    VP: 2
+    Flavor: "A building with lots of paintings and sculptures no one cared about just ready to fall over and kill you.  Not much different than any other building...except for the history." 
+Clock Tower: 
+    Quantity: 1
+    Crisis: 3
+    Common Salvage: 1
+    Rare Salvage: 0
+    VP: 1
+    Special: "Once Reclaimed, a Survivor with a Sniper Rifle revisiting this location may Discard the Sniper Rifle to ignore any one Combat Crisis that Exploration Phase."
+    Flavor: "It provided a great vantage point from which to see what was left of the town...and to line up visitors in your crosshairs." 
+    
