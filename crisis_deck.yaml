@@ -49,19 +49,24 @@ Alien Superintelligence:
 Punctured Lung: 
     Type: "Collapse" 
     Quantity: 1
+    Special: "Just take this card. "
 Broken Arm:
     Type: "Collapse" 
     Quantity: 1
+    Special: "Just take this card. "
 Broken Foot:
     Type: "Collapse"
     Quantity: 1
+    Special: "Just take this card. "
 Cracked Rib:
     Type: "Collapse"
     Quantity: 1
+    Special: "Just take this card. "
 Mad Clarity:
     Type: "Collapse"
     Quantity: 1
     Discard Weapon: 1
+    Special: "Just take this card. "
 Pound of Flesh: 
     Type: "Collapse"
     Special: "The player may ignore this Crisis - or take it, and a Rare Salvage card from the deck." 
