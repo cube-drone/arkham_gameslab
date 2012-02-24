@@ -1,27 +1,71 @@
 Tinned Ham: 
     Type: "Food"
-    Quantity: 15
+    Quantity: 12
     Special: "Trash to gain 1 Food."
-Water:
+    Flavor: "Hamstravacanza! Ride the ham wave!" 
+Bucket of Chicken:
+    Type: "Food"
+    Quantity: 2
+    Special: "Trash to gain 1 Food, and 1 Food for another Survivor of your choice. Gain 1 Morale." 
+    Flavor: "How is the chicken still hot and fresh after all this time?"
+Choka Cola:
+    Type: "Food"
+    Quantity: 5
+    Special: "Trash to gain 1 Food. Gain 1 Radiation."
+Gecko on a Stick: 
     Type: "Food" 
-    Quantity: 15
-    Special: "Trash to gain 1 Food." 
+    Quantity: 5
+    Special: "Trash to gain 1 Food. Lose 1 Morale. Gain 1 Radiation." 
+    Flavor: "It's definitely... edible." 
+Jerky:
+    Type: "Food"
+    Quantity: 5
+    Special: "Trash to gain 1 Food. Lose 1 Morale." 
+    Flavor: "Unidentifiable meat is spooky." 
+Snack Cake:
+    Type: "Food"
+    Quantity: 5
+    Special: "Trash to gain 1 Food. Gain 1 Morale." 
 Bandage: 
     Type: "Medical"
-    Quantity: 10
+    Quantity: 6
     Special: "Trash to gain 1 Medical." 
 Triage Kit: 
     Type: "Medical" 
-    Quantity: 5 
-    Special: "Trash to move all Crisis Cards from your Discard pile to your Deck." 
-Sterile Needles:
+    Quantity: 3 
+    Special: "Trash to move all Crisis Cards from your Discard pile to your Deck. Lose 1 Morale." 
+Gauze:
     Type: "Medical"
-    Quantity: 5
+    Quantity: 3
     Special: "Trash to Trash 1 Crisis Card from your hand. " 
+NonSteroidal AntiInflammatory Drugs:
+    Type: "Medical"
+    Quantity: 3
+    Special: "Trash to gain 1 Medical. Gain 1 Radiation." 
 Bullet: 
     Type: "Weapon"
-    Quantity: 25
+    Quantity: 20
     Special: "Trash to gain 1 Weapon" 
+Golf Club: 
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Trash to gain 1 Weapon" 
+Frying Pan:
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Trash to gain 1 Weapon" 
+Lamp:
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Trash to gain 1 Weapon" 
+Cat:
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Trash to gain 1 Weapon. Gain 1 Morale." 
+Boomerang:
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Trash to gain 1 Weapon"
 Grenade: 
     Type: "Weapon" 
     Quantity: 5
@@ -37,11 +81,15 @@ Baseball Bat:
 Unintelligent Child: 
     Type: "Ally"
     Quantity: 1
-    Special: "Trash to resolve any Crisis Card without suffering ill effects." 
+    Special: "Trash to resolve any Crisis Card without suffering ill effects. Lose 2 Morale." 
 Car Door: 
     Type: "Weapon"
     Quantity: 1
-    Quantity: "Discard to gain 1 Weapon. Roll a d6. On a 1, 2, or 3, Trash the Car Door." 
+    Special: "Discard to gain 1 Weapon. Roll a d6. On a 1, 2, or 3, Trash the Car Door." 
+Trusty Revolver:
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Discard to gain 2 Weapon. Roll a d6. On a 1-4, Trash the Revolver. " 
 VCR: 
     Type: "Ally"
     Quantity: 1
@@ -50,3 +98,13 @@ VHS:
     Type: "Ally"
     Quantity: 1
     Special: "The VHS does nothing." 
+Radaway: 
+    Type: "Medical"
+    Quantity: 2
+    Special: "Trash to Lose 1 Radiation." 
+Man Wearing A Bunny Bucket On His Head:
+    Type: "Ally"
+    Quantity: 1
+    Special: "Does nothing." 
+    Flavor: "He just... follows you." 
+

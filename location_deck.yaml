@@ -40,7 +40,7 @@ Abandoned Hospital:
     VP: 3
     Special: "While Reclaimed, in the Wake Up phase, each survivor may trash one card from their hand and search the Common Salvage deck for a Medical item to add to their hand." 
     Flavor: "Everyone was sick. Nobody had much in the way of medical training. But a great whopping building full of morphine had its benefits."
-Outfitters: 
+Abandoned Bunker: 
     Quantity: 1
     Crisis: 3
     Common Salvage: 2
@@ -65,7 +65,7 @@ Shack:
     Survivors: 1
     VP: 0
     Flavor: "They had been surviving in the shack for some time on their own, far from humanity. But supplies were running thin. " 
-Raider Den: 
+Gas Station: 
     Quantity: 2
     Crisis: 8
     Common Salvage: 3
@@ -108,7 +108,7 @@ Cannery:
     VP: 1
     Special: "Any Salvage drawn at the Cannery that is not of type Food is returned to the Common Salvage deck, and replaced with a Salvage of type Food." 
     Flavor: "More tinned meat. Oh joy of joys." 
-Gun Shop: 
+Hardware Store: 
     Quantity: 1
     Crisis: 4
     Common Salvage: 4
@@ -125,15 +125,15 @@ Pizza Planet:
     Survivors: 2
     VP: 2
     Flavor: "A small group of survivors had holed up in the Pizza Planet with guns and food.  First they ran out of bullets. Then food. Then survivors. " 
-Cache: 
-    Quantity: 5
+Overturned Vehicle: 
+    Quantity: 3
     Crisis: 0
     Common Salvage: 1
     Rare Salvage: 0
     Survivors: 0
     VP: 0
     Flavor: "A common enough sight - a commuter sedan, overturned on the road, its occupants dead or missing. The best scavengers knew that there was always something hidden in there, somewhere. Do be careful about the smell, though. " 
-Oasis: 
+Eighteen Wheeler Crash: 
     Quantity: 2
     Crisis: 1
     Common Salvage: 4
@@ -141,7 +141,7 @@ Oasis:
     VP: 0
     Special: "At the end of the turn in which Oasis is first explored, Trash all cards from its Event Deck"
     Flavor: "C'mere, boys. You won't believe what I've found. " 
-Rumble: 
+Ambush: 
     Quantity: 2
     Crisis: 1
     Common Salvage: 0

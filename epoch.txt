@@ -145,7 +145,6 @@ PHASES
 * The player now shuffles his discard pile with his existing deck to create a new deck. 
 * If a Sacrifice player still has his one Salvage or Crisis card by the end of the turn, it is Trashed. 
 
-
 DEATH
 *****
 * If a player's discard pile ever contains 3 Crisis cards, that player's turn ends immediately and her current Survivor dies. This is bad. 
@@ -162,7 +161,7 @@ DEATH
 TRADE
 *****
 * Between phases, players may trade Salvage cards freely between one another. 
-* Survivor cards and Crisis cards may not be played. 
+* Survivor cards and Crisis cards may not be traded. 
 
 MEDICAL CARE
 ************
@@ -173,104 +172,16 @@ COMBAT
 ******
 * Crisis - Combat cards are events where your character has to fight to proceed. 
 * A Combat card will have a Difficulty rating.
-* In order to win the combat, the player must produce at least this many points from Salvage - Weapon cards. 
+* The player will roll as many Combat Dice as he can generate Weapon Points from cards. On a 1, remove that die. 
+* The Combat Crisis roll as many Combat Dice as his Difficulty. On a 1, remove that die.
+* If the player dice >= crisis dice, the player wins the combat. 
+
 * If the Combat is won, the Crisis is placed in the Wasteland. 
 * If the Combat is lost, the Crisis is placed in the player's discard pile. 
 
-
-EXAMPLE TURN
-*******************
-
-* Alice starts her turn with 5 cards: 
-    * BULLET - Trash -> 1 Weapon
-    * BULLET - Trash -> 1 Weapon
-    * BASEBALL BAT - Discard -> 1 Weapon
-    * SURVIVOR - ADAM NATHAN - Discard -> 1 Medical
-    * CRISIS - COLLAPSE - CRACKED RIB 
-
-* Bob starts his turn with 5 cards: 
-    * TINNED HAM - Trash -> 1 Food
-    * TINNED HAM - Trash -> 1 Food
-    * TINNED HAM - Trash -> 1 Food
-    * BULLET - Trash -> 1 Weapon
-    * FIRST AID - Discard -> Avoid 1 COLLAPSE, Trash -> Trash 1 Crisis
-
-* Alice has nothing to eat. That's no good. 
-
-* In the Plan phase, Alice trades Bob a BULLET for a TINNED HAM.
-
-* In the Plan phase, Alice discards ADAM NATHAN and trashes her CRACKED RIB. 
-
-* Now Alice has the following in her hand: 
-    * TINNED HAM - Trash -> 1 Food
-    * BULLET - Trash -> 1 Weapon
-    * BASEBALL BAT - Discard -> 1 Weapon
-and Bob has:
-    * TINNED HAM - Trash -> 1 Food
-    * TINNED HAM - Trash -> 1 Food
-    * BULLET - Trash -> 1 Weapon
-    * BULLET - Trash -> 1 Weapon
-    * FIRST AID - Discard -> Avoid 1 COLLAPSE, Trash -> Trash 1 Crisis
-
-* Alice chooses to explore the Location "Warehouse".
-    * She shuffles the Warehouse Event Deck, and draws 6 cards. 
-    * She draws: 
-        * CRISIS - COMBAT - WILD DOGS - DIFFICULTY 1
-        * CRISIS - COLLAPSE - SHOULDER INJURY 
-        * SURVIVOR - JUSTICE LIN - Discard -> Put all exploration cards back, reshuffle Event deck, draw again. 
-        * SALVAGE - FOOD - TINNED HAM - Trash -> 1 Food
-        * SALVAGE - WEAPON - BULLET - Trash -> 1 Weapon
-        * SALVAGE - FOOD - TINNED HAM - Trash -> 1 Food
-
-* Alice starts by resolving the COMBAT with the WILD DOGS. 
-    * She discards her BASEBALL BAT to produce 1 Weapon.
-    * That does it. 
-    * The WILD DOGS are Trashed. 
-
-* Alice can't deal with the COLLAPSE
-    * She adds the SHOULDER INJURY it to her discard pile.
-
-* Alice has rescued JUSTICE LIN! 
-    * She gives JUSTICE LIN a TINNED HAM and two BULLETS, and places the Justice Lin pile out of the play area. 
-
-* Alice keeps a TINNED HAM and a BULLET for herself. 
-
-* Now Alice has the following in hand: 
-    * TINNED HAM - Trash -> 1 Food
-    * TINNED HAM - Trash -> 1 Food
-    * BULLET - Trash -> 1 Weapon
-    * BULLET - Trash -> 1 Weapon
-    * BASEBALL BAT - Discard -> 1 Weapon
-
-* Bob chooses to explore the Location "Wasteland"
-    * He shuffles the deck, and draws 4 cards. 
-    * He draws: 
-        * CRISIS - COMBAT - MUSTARD GAS ANGELS - DIFFICULTY 3
-        * CRISIS - COLLAPSE - BROKEN FOOT
-        * CRISIS - COMBAT - RAIDERS - DIFFICULTY 2
-        * SALVAGE - WEAPON - PIPE BOMB - Trash -> 3 Weapon
-
-* Bob can't deal with the MUSTARD GAS ANGELS. 
-    * He adds the MUSTARD GAS ANGELS to his discard pile. 
-
-* Bob discards his First Aid to avoid the COLLAPSE.
-    * He Trashes the COLLAPSE. 
-
-* Bob resolves the COMBAT with the RAIDERS by trashing both of his BULLET cards. 
-
-* Bob takes the PIPE BOMB. 
-
-* Bob now has the following in hand: 
-    * TINNED HAM - Trash -> 1 Food
-    * TINNED HAM - Trash -> 1 Food
-    * PIPE BOMB - Trash -> 3 Weapon 
-
-* In the Hunger phase, Alice and Bob both trash a TINNED HAM to produce 1 food. 
-
-* In the Night phase, Bob draws a card from the Night deck.  
-    * AND THEY TOOK MY STUFF, TOO - Any player with a CRISIS - COMBAT card in his discard pile must trash a card at random from his hand.  
-
-* Bob has a CRISIS - COMBAT card in his discard pile.  He fans his two remaining cards out and Alice pulls TINNED HAM. 
-
-* Bob and Alice both discard all remaining cards.  
+MORALE AND RADIATION: 
+********************
+* A survivor starts with 6 Morale Tokens and 0 Radiation Dice
+* If the survivor ever has 0 Morale Tokens, or 6 Radiation Dice at the end of the REST phase, he dies. 
+* In the Wake Up phase, roll all Radiation Dice. On a 1, remove that die. On a 6, add a new die.  No more than 1 die may be added this way in a turn. 
 
