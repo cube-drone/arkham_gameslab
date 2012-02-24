@@ -54,10 +54,6 @@ Knife:
     Type: "Edged Weapon"
     Quantity: 10
     Special: "Discard to gain 1 Weapon"
-Calvary Sabre
-    Type: "Edged Weapon"
-    Quantity: 2
-    Special: "Discard to gain 2 Weapon. Roll a d6. On a 1 or 2, Trash the Calvary Sabre."
 Sledgehammer
     Type: "Weapon"
     Quantity: 4
