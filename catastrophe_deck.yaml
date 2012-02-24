@@ -58,4 +58,4 @@ Fungal Infection:
 Strung Up:
     Type: "Curse"
     Quantity: 1
-    Special: "Trash 1 Edged Weapon to ignore."
+    Special: "Trash 1 Edged Weapon to ignore. Otherwise Survivor skips Exploration Phase next turn."
