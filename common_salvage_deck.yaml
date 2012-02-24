@@ -25,7 +25,7 @@ Bullet:
 Grenade: 
     Type: "Weapon" 
     Quantity: 5
-    Special: "Trash to gain 2 Weapon"
+    Special: "Trash to gain 3 Weapon"
 Crude Map: 
     Type: "Ally"
     Quantity: 5
@@ -50,3 +50,20 @@ VHS:
     Type: "Ally"
     Quantity: 1
     Special: "The VHS does nothing." 
+Knife:
+    Type: "Edged Weapon"
+    Quantity: 10
+    Special: "Discard to gain 1 Weapon"
+Calvary Sabre
+    Type: "Edged Weapon"
+    Quantity: 2
+    Special: "Discard to gain 2 Weapon. Roll a d6. On a 1 or 2, Trash the Calvary Sabre."
+Sledgehammer
+    Type: "Weapon"
+    Quantity: 4
+    Special: "Discard to gain 1 Weapon."
+Cookbook
+    Type: "Ally"
+    Quantity: 2
+    Special: "Trash to recover 3 Food from the Graveyard."
+    Flavor: "He whipped up a helluva meal from scraps lying around the base...and it stayed down."
