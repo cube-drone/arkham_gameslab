@@ -26,3 +26,7 @@ Sniper Rifle:
     Type: "Weapon" 
     Quantity: 2
     Special: "Discard to gain 2 Weapon - or, - Discard during another Survivor's Combat to contribute 2 weapon. " 
+Calvary Sabre
+    Type: "Edged Weapon"
+    Quantity: 2
+    Special: "Discard to gain 2 Weapon. Roll a d6. On a 1 or 2, Trash the Calvary Sabre."
