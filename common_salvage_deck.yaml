@@ -69,7 +69,7 @@ Boomerang:
 Grenade: 
     Type: "Weapon" 
     Quantity: 5
-    Special: "Trash to gain 2 Weapon"
+    Special: "Trash to gain 3 Weapon"
 Crude Map: 
     Type: "Ally"
     Quantity: 5
@@ -108,3 +108,16 @@ Man Wearing A Bunny Bucket On His Head:
     Special: "Does nothing." 
     Flavor: "He just... follows you." 
 
+Knife:
+    Type: "Edged Weapon"
+    Quantity: 10
+    Special: "Discard to gain 1 Weapon"
+Sledgehammer:
+    Type: "Weapon"
+    Quantity: 4
+    Special: "Discard to gain 1 Weapon."
+Cookbook:
+    Type: "Ally"
+    Quantity: 2
+    Special: "Trash to recover 3 Food from the Graveyard."
+    Flavor: "He whipped up a helluva meal from scraps lying around the base...and it stayed down."

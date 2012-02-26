@@ -124,4 +124,27 @@ High Yield Nuclear Strike:
 It Got Worse:
     Type: "Catastrophe"
     Special: "Add a Common Salvage and a Crisis Card to every active Location in play." 
+Creeper Vine:
+    Type: "Combat"
+    Quantity: 4
+    Difficulty: 1
+    Special: "+1 Difficulty without Edged Weapon"
+Spore Pod:
+    Type: "Combat"
+    Quantity: 2
+    Difficulty: 2
+    Special: "+1 Difficulty without Edged Weapon"
+Venus Flytrap:
+    Type: "Combat"
+    Quantity: 1
+    Difficulty: 4
+    Special: "+1 Difficulty without Edged Weapon"
+Fungal Infection:
+    Type: "Curse"
+    Quantity: 1
+    Special: "Trash 1 Medical to ignore this Curse. Otherwise, Survivor may not trade next turn."
+Strung Up:
+    Type: "Curse"
+    Quantity: 1
+    Special: "Trash 1 Edged Weapon to ignore. Otherwise Survivor skips Exploration Phase next turn."
 

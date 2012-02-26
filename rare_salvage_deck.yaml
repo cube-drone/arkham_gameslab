@@ -59,3 +59,7 @@ The Only Way Out:
     Type: "Ally"
     Quantity: 1
     Special: "Suicide. Gain 2 Victory Points. If this is your last survivor, but this would otherwise cause you to win, you still win."  
+Calvary Sabre:
+    Type: "Edged Weapon"
+    Quantity: 2
+    Special: "Discard to gain 2 Weapon. Roll a d6. On a 1 or 2, Trash the Calvary Sabre."
