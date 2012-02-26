@@ -1,27 +1,78 @@
+/* Required for proper layout */
+
+*{
+    /* Leave my colors the way you found them, webkit. */
+    -webkit-print-color-adjust:exact;
+}
+
 body{
     margin: 0;
     padding: 0;
 }
-
 
 .Page{
     width: 279mm;
     height: 216mm;
     padding: 5mm;
     overflow: hidden;
+    page-break-before: always;
 }
 
 .Card{
     width: 60mm;
     height: 80mm;
-    border: 1px dashed gray;
+    border: 1px solid gray;
     float: left;
     margin-left: 5mm;
     margin-bottom: 10mm;
     overflow: hidden;
+    text-align: center;
+}
+
+/* Stylepretty */ 
+
+body{
+    font-family: 'Gudea', sans-serif;
+    font-size: small;
+}
+
+.Card{
+}
+
+h2{
+    font-family: 'Stint Ultra Expanded', cursive;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid black;
+    margin-bottom: 3px;
+}
+
+.Location h2
+{
+    background-color: #444;
+    color: white;
+}
+
+h3{
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: x-large;
+    line-height: 1.2;
+}
+
+.flavor{
+    text-align: center;
+    font-family: 'Waiting for the Sunrise', cursive;
+    line-height: 1.2;
+    padding: 0px 15px;
+    color: #333;
 }
 
 h2, h3 { 
     margin: 0;
     padding: 0;
+}
+
+p {
+    margin-top: 3px;
+    margin-bottom: 0;
 }

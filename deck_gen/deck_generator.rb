@@ -38,6 +38,7 @@ pagecounter = 0
 # 3. Display Deck
 puts "<!DOCTYPE html>"
 puts "<html>"
+puts "\t<link href='http://fonts.googleapis.com/css?family=Gudea:400,700,400italic|Waiting+for+the+Sunrise|Stint+Ultra+Expanded|Share:400,400italic,700,700italic' rel='stylesheet' type='text/css'>"
 puts "\t<meta charset='utf-8'>"
 puts "\t<link rel='stylesheet' href='"+options[:stylesheet]+"' />" 
 puts "<body>"
