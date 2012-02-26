@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Page{
+    width: 279mm;
+    height: 216mm;
+    padding: 5mm;
+    overflow: hidden;
+}
+
+.Card{
+    width: 60mm;
+    height: 80mm;
+    border: 1px dashed gray;
+    float: left;
+    margin-left: 5mm;
+    margin-bottom: 10mm;
+    overflow: hidden;
+}
+
+h2, h3 { 
+    margin: 0;
+    padding: 0;
+}

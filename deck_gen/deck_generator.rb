@@ -1,6 +1,8 @@
 require 'optparse' 
 require 'yaml'
 
+CARDS_PER_PAGE = 8
+
 # 1. Get Options. 
 options = {} 
 
@@ -31,12 +33,15 @@ end
 # 2. Parse Deck
 thing = YAML.load_file( options[:filename] )
 
+pagecounter = 0
+
 # 3. Display Deck
 puts "<!DOCTYPE html>"
 puts "<html>"
 puts "\t<meta charset='utf-8'>"
 puts "\t<link rel='stylesheet' href='"+options[:stylesheet]+"' />" 
 puts "<body>"
+puts "<div class='Page'>" 
 
 thing.each do |key, value|
     # Quantity 
@@ -51,7 +56,7 @@ thing.each do |key, value|
     sorted_remaining_values = remaining_values.sort{ |a, b| a[0].split(" ")[-1] <=> b[0].split(" ")[-1] } 
     
     quantity.times do 
-        puts "\t<div class='" + category + " " + title + " " + type + "'>"
+        puts "\t<div class='Card " + category + " " + title + " " + type + "'>"
         puts "\t\t<h2 class='category'>" + category + " </h2>" unless category == ""
         puts "\t\t<h3 class='title'>" + title + " </h3>"
         puts "\t\t<img src='"+image+"' /> " unless image == "" 
@@ -60,6 +65,8 @@ thing.each do |key, value|
         puts "\t\t<p class='flavor'><em>" + flavor + "</em></p>" unless flavor == "" 
         puts "\t\t<div class='type'>" + type + "</div>" unless type == "" 
         puts "\t</div>"
+        pagecounter += 1
+        puts "<div style='clear:both'> </div> </div><div class='Page'>" if pagecounter % CARDS_PER_PAGE == 0
     end
 end
 

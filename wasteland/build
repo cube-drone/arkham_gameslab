@@ -1,0 +1,16 @@
+#!/bin/bash
+
+rm -rf output
+mkdir output
+ruby ../deck_gen/deck_generator.rb --deck "Crisis" --file crisis_deck.yaml                  > output/crisis.html
+ruby ../deck_gen/deck_generator.rb --deck "Location" --file location_deck.yaml              > output/location.html
+ruby ../deck_gen/deck_generator.rb --deck "Common Salvage" --file common_salvage_deck.yaml  > output/common_salvage.html
+ruby ../deck_gen/deck_generator.rb --deck "Rare Salvage" --file rare_salvage_deck.yaml      > output/rare_salvage.html
+ruby ../deck_gen/deck_generator.rb --deck "Survivor" --file survivor_deck.yaml              > output/survivor.html
+cp deck_style.css                                                                           output/style.css
+
+wkpdf --source output/crisis.html --output output/crisis.pdf --paper letter --orientation landscape --margins 0 
+wkpdf --source output/location.html --output output/location.pdf --paper letter --orientation landscape --margins 0 
+wkpdf --source output/common_salvage.html --output output/common_salvage.pdf --paper letter --orientation landscape --margins 0 
+wkpdf --source output/rare_salvage.html --output output/rare_salvage.pdf --paper letter --orientation landscape --margins 0 
+wkpdf --source output/survivor.html --output output/survivor.pdf --paper letter --orientation landscape --margins 0 
