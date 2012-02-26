@@ -1,0 +1,65 @@
+Salvage Angel: 
+    Type: "Ally"
+    Quantity: 2
+    Special: "Trash to draw 3 cards from the Rare Salvage deck."  
+Duke:
+    Type: "Ally"
+    Quantity: 1
+    Special: "Discard to gain 2 Weapon. Trash to gain 1 Food." 
+Tactical Thermonuclear Device:
+    Type: "Weapon" 
+    Quantity: 1
+    Special: "Trash to gain 8 Weapon. Gain 2 Radiation. " 
+Submachine Gun: 
+    Type: "Weapon"
+    Quantity: 3
+    Special: "Discard to gain 2 Weapon.  Roll a die. On a 6, Trash the Submachine Gun." 
+Flamethrower: 
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Discard to gain 4 Weapon. Roll a die. On a 1,2, or 3, Trash the Flamethrower. "
+Sniper Rifle: 
+    Type: "Weapon" 
+    Quantity: 1
+    Special: "Discard to gain 2 Weapon - or, - Discard during another Survivor's Combat to contribute 2 weapon. " 
+Chicken:
+    Type: "Ally"
+    Quantity: 1
+    Special: "Discard to gain 1 Food. Trash to allow all players to skip the Hunger round this turn. "  
+Flare Gun:
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Discard to gain 2 Weapon - or, - Trash to gain 5 Weapon." 
+Radio Paradise:
+    Type: "Ally"
+    Quantity: 1
+    Special: "Trash to gain 5 Morale." 
+    Flavor: "The only Radio Station left in the Wastelands, now back on the air!" 
+Rad B Gone:
+    Type: "Medical"
+    Quantity: 1
+    Special: "Trash to remove all Radiation tokens." 
+Microwave Cannon: 
+    Type: "Weapon" 
+    Quantity: 1
+    Special: "Discard to gain 3 Weapon.  Gain 1 Radiation."
+Meathook:
+    Type: "Weapon"
+    Quantity: 1
+    Special: "Discard to gain 2 Weapon. Lose 1 Morale." 
+Fridge: 
+    Type: "Ally"
+    Quantity: 1
+    Special: "Discard to put 1 Food aside for the round. This food enters your hand next round. - or - Discard to avoid taking Radiation. " 
+Herman The Mighty Duck Stuffed Toy:
+    Type: "Ally"
+    Quantity: 1
+    Special: "Discard to avoid losing Morale." 
+The Only Way Out:
+    Type: "Ally"
+    Quantity: 1
+    Special: "Suicide. Gain 2 Victory Points. If this is your last survivor, but this would otherwise cause you to win, you still win."  
+Calvary Sabre:
+    Type: "Edged Weapon"
+    Quantity: 2
+    Special: "Discard to gain 2 Weapon. Roll a d6. On a 1 or 2, Trash the Calvary Sabre."

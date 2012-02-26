@@ -1,0 +1,150 @@
+Wild Dogs: 
+    Type: "Combat"
+    Quantity: 5
+    Difficulty: 1
+Wasteland Ghoul:
+    Type: "Combat"
+    Quantity: 5
+    Difficulty: 1
+    Special: "On a loss, gain 1 Radiation." 
+Raiders: 
+    Type: "Combat"
+    Quantity: 5
+    Difficulty: 2
+    Special: "Raiders can also be sent away with 1d6/3 Food." 
+Marauders:
+    Type: "Combat"
+    Quantity: 5
+    Difficulty: 2
+    Special: "On a victory, roll a d6. On a 6, gain a Rare Salvage. On a 1, Trash a Salvage from your hand. "
+Crazed Vaultdweller: 
+    Type: "Combat" 
+    Difficulty: 2
+    Special: "The player may ignore this Crisis. On a victory, roll a d6, On a 5 or 6, gain a Rare Salvage" 
+Radiation Angel: 
+    Type: "Combat"
+    Quantity: 3
+    Difficulty: 3
+    Special: "In a failed Combat with a Radiation Angel, Trash the Angel but gain 2 Radiation. On a victory, lose 1 radiation." 
+Mustard Gas Angel:
+    Type: "Combat"
+    Quantity: 3
+    Difficulty: 3
+    Special: "On a victory, roll a d6. On a 5 or 6, gain a Rare Salvage. On a 3 or 4, gain a Common Salvage."
+Burnpit Screamers:
+    Type: "Combat"
+    Quantity: 2
+    Difficulty: 3
+    Special: "In a failed Combat with Burnpit Screamers, Trash the screamers but lose 2 Morale. On a victory, gain 1 morale." 
+Rogue Android: 
+    Type: "Combat" 
+    Quantity: 1
+    Difficulty: 6
+    Special: "Gain 1 VP for defeating the Rogue Android." 
+Alien Superintelligence:
+    Type: "Combat"
+    Quantity: 1
+    Difficulty: 6
+    Special: "Gain 1 VP for defeating the Alien Superintelligence." 
+Punctured Lung: 
+    Type: "Collapse" 
+    Quantity: 1
+    Special: "Just take this card. "
+Broken Arm:
+    Type: "Collapse" 
+    Quantity: 1
+    Special: "Just take this card. "
+Broken Foot:
+    Type: "Collapse"
+    Quantity: 1
+    Special: "Just take this card. "
+Cracked Rib:
+    Type: "Collapse"
+    Quantity: 1
+    Special: "Just take this card. "
+Mad Clarity:
+    Type: "Collapse"
+    Quantity: 1
+    Discard Weapon: 1
+    Special: "Just take this card. "
+Pound of Flesh: 
+    Type: "Collapse"
+    Special: "The player may ignore this Crisis - or take it, and a Rare Salvage card from the deck." 
+Flashbang Accident:
+    Type: "Collapse"
+    Special: "Discard 1 card, at random, from your hand. " 
+Kleptomania:
+    Type: "Collapse"
+    Special: "Choose another player. Draw 1 card, at random, from his hand, discard pile, or deck. Add it to your hand. If it is a Survivor card, give it back and take this Crisis card." 
+Trust Me Im A Doctor: 
+    Type: "Collapse"
+    Special: "Lose 1 Morale -or- Roll a d6.  On a 1, gain a Radiation. On a 2, Trash a Crisis. On a 3, gain and discard this Crisis card. On a 4, skip the Hunger phase this turn. On a 5, nothing happens. On a 6, draw and resolve a Crisis from the Crisis deck. " 
+Food Spoilage: 
+    Type: "Catastrophe" 
+    Special: "All food consumed this turn incurs an extra 'Lose 1 Morale' penalty." 
+Hunger Pains:
+    Type: "Catastrophe"
+    Special: "One player must Trash an Ally - or - Deal with a double Hunger phase this turn." 
+Thieves in the Night:
+    Type: "Catastrophe"
+    Special: "All players must trash one Salvage from their hands." 
+Fighting Over Spoils: 
+    Type: "Catastrophe"
+    Special: "Draw a Rare Salvage.  Every player rolls one die. Players may play Weapons to add dice. The highest roll total wins the Rare Item. The lowest roll takes this card." 
+Fighting Over Food:
+    Type: "Catastrophe"
+    Special: "Draw a Common Salvage of Food type. Every player rolls a one die. Players may play Weapons to add dice. The highest roll total wins the Food. The lowest roll takes this card." 
+School Bus: 
+    Type: "Catastrophe"
+    Special: "Skip the rest of the Exploration phase this turn. Gain no more Salvage cards. - or - Skip the Hunger phase this turn. All players lose 1 morale." 
+Fight or Flight:
+    Type: "Catastrophe" 
+    Special: "Every player loses 1 Morale - or - Roll a d6. On a 6, every player draws and resolves a Crisis card. " 
+Tea with Grandmother: 
+    Type: "Catastrophe"
+    Special: "Every player loses 1 Morale - or - Every player gains 1 radiation." 
+Low Yield Nuclear Strike:
+    Type: "Catastrophe"
+    Special: "Every player gains 1 radiation. " 
+We Found The Pants of an Elder God:
+    Type: "Catastrophe"
+    Special: "Every player loses 2 Morale - or - Roll a d6. On a 6, the world ends."
+Shit Shit Shit Run:
+    Type: "Catastrophe"
+    Special: "Roll a d6. On a 6, every player draws and resolves a Crisis card." 
+Ghoul City:
+    Type: "Catastrophe Combat"
+    Special: "Every player must win a combat of Difficulty 1 or draw a Crisis card and add it to their discard pile."
+Marauder Flood:
+    Type: "Catastrophe Combat"
+    Special: "Every player must win a combat of Difficulty 2 or draw a Crisis card and add it to their discard pile."
+High Yield Nuclear Strike: 
+    Type: "Catastrophe" 
+    Special: "Either - return a Reclaimed Location to the Location deck -or- Each player either gains 3 radiation." 
+It Got Worse:
+    Type: "Catastrophe"
+    Special: "Add a Common Salvage and a Crisis Card to every active Location in play." 
+Creeper Vine:
+    Type: "Combat"
+    Quantity: 4
+    Difficulty: 1
+    Special: "+1 Difficulty without Edged Weapon"
+Spore Pod:
+    Type: "Combat"
+    Quantity: 2
+    Difficulty: 2
+    Special: "+1 Difficulty without Edged Weapon"
+Venus Flytrap:
+    Type: "Combat"
+    Quantity: 1
+    Difficulty: 4
+    Special: "+1 Difficulty without Edged Weapon"
+Fungal Infection:
+    Type: "Curse"
+    Quantity: 1
+    Special: "Trash 1 Medical to ignore this Curse. Otherwise, Survivor may not trade next turn."
+Strung Up:
+    Type: "Curse"
+    Quantity: 1
+    Special: "Trash 1 Edged Weapon to ignore. Otherwise Survivor skips Exploration Phase next turn."
+
