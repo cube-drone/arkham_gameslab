@@ -1,30 +1,62 @@
 Adam Nathan:
-    Profession: "Dental Assistant" 
-    Special: "Discard to produce 1 Medical"  
+    Profession: "Paramedic" 
+    Health: 4
+    Morale: 6
+    Once Per Game: "CPR: A player that should die at the end of this Day, does not."
+    Also Once Per Game: "Combat Hospital: All characters may discard a Crisis card or 2 Mutation cards. "   
 Jai Jayendra: 
     Profession: "Security Guard" 
-    Special: "Discard to produce 2 Weapon"
+    Health: 6
+    Morale: 4
+    Once Per Day: "Human Weapon: Jai gets 1 bonus Weapon. " 
+    Once Per Game: "Human Typhoon: Jai gets 5 bonus Weapon. " 
 Justice Lin: 
     Profession: "Paralegal" 
-    Special: "Discard during Exploration Phase to put all Exploration cards back in the Event Deck, reshuffle, and draw again." 
+    Health: 6
+    Morale: 4
+    Once Per Day: "Exploratory: Justice may choose to redraw all cards drawn during her Exploration phase. " 
+    Once Per Game: "Organized: Justice may sort a Location's Event Deck."   
 Naoki Urasawa:
     Profession: "Student"
-    Special: "Discard to skip the Hunger Phase this round."
-Rodrigo Gabriela: 
-    Profession: "Undisclosed"
-    Special: "Discard to draw and discard 1 item from the Salvage deck." 
+    Health: 5
+    Morale: 5
+    Once Per Day: "Creative Eater: Naoki may exhaust any Salvage card to produce 1 Food. " 
+    Always: "Deadline Stall: While Naoki is in play, the game takes 17 turns to end, rather than 14." 
+Rodrigo Gabriel: 
+    Profession: "Salvager"
+    Health: 7
+    Morale: 3
+    Once Per Day: "Found: Draw 1 Common Salvage and add it to your hand."
+    Once Per Game: "Restock: Draw 3 Common Salvage for each player and add it to the Stockpile." 
 The King: 
-    Profession: "Pop Superstar"
-    Special: "Discard to draw one item from the Wasteland. If it is a Salvage card, add it to your hand. If not, return it to the Wasteland." 
-Balderdash Winston: 
-    Profession: "Lecturer" 
-    Special: "Discard to draw three cards from your deck into your hand. " 
-Yang Zhao: 
-    Profession: "Software Developer"
-    Special: "Discard to duplicate the effect of any other card discarded or trashed this round."  
+    Profession: "Mutant"
+    Health: 7
+    Morale: 3
+    Once Per Day: "Mutate: Trash 1 Mutation. Draw 1 Mutation." 
+    Also Once Per Day: "Uninjured: Trash 1 Crisis Card. Draw 1 Mutation and 1 Radiation Die." 
+    Always: "A 3-of-a-kind result on a Radiation Roll does not kill The King. A four-of-a-kind does." 
 David Brisby:
     Profession: "TV Chef"
-    Special: "Discard after producing 2 Food.  All other players skip the Hunger Phase this round." 
+    Health: 4
+    Morale: 6
+    Once Per Day: "Cook: David produces 1 bonus Food for every Food David would normally produce in a turn. " 
+    Also Once Per Day: "Anything: If a Survivor dies, David may spend 1 Morale to produce 1 food for every player on the board. " 
 Lori Cranston:
     Profession: "Mother"
-    Special: "Discard immediatel. If in discard pile, Lori takes 5 Crisis Cards to kill, rather than three." 
+    Health: 5
+    Morale: 5
+    Once Per Game: "MARTEN!: Lori may search the Survivor deck for Marten Cranston, and shuffle him into any Location containing at least 6 cards." 
+    Always: "Iron Resolve: If Marten Cranston is in play or in the Tent City, Lori is impervious to Crisis Cards. If Marten dies, Lori loses 4 Morale." 
+Marten Cranston: 
+    Profession: "8-Year Old" 
+    Health: 6
+    Morale: 1
+    Once Per Game: "MOM!: Marten may search the Survivor deck for Lori Cranston, and shuffle her into any Location containing at least 6 cards. " 
+    Always: "Oblivious: Marten does not lose Morale." 
+Jeff Wheeler: 
+    Profession: "Welder"
+    Health: 6
+    Morale: 4
+    Once Per Day: "Fixed It: When Jeff would Trash a card from his hand, you may instead put it in the Stockpile." 
+    Once Per Game: "Carpentry: Jeff may remove a Crisis card from any Location." 
+

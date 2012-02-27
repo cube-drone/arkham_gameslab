@@ -1,0 +1,50 @@
+Tree Growing On Head:
+    Quantity: 2
+    Special: "Play to roll one less die in your Radiation Roll."
+Super Strength:
+    Quantity: 2
+    Special: "Play for 1 Weapon." 
+Pyrokinetic: 
+    Quantity: 2
+    Special: "Play for 2 Weapon." 
+Super Metabolism:
+    Quantity: 2
+    Special: "While you hold this, your health is increased by 1." 
+Terrifying Deformity: 
+    Quantity: 1
+    Special: "Any combat that you face of Difficulty 1 is an automatic victory."  
+Amazing Speed: 
+    Quantity: 1
+    Special: "If you stay at home in the Noon phase, you may occupy two Emplacements instead of one." 
+50FeetTall:
+    Title: "50 Feet Tall"
+    Special: "Play for 3 Weapon and 1 Radiation Die." 
+Clairvoyant: 
+    Quantity: 4
+    Special: "Trash to replace a Crisis Card in play with one from the deck." 
+Mending Bones: 
+    Special: "Play to Trash 1 Crisis Card and gain 1 Radiation Die." 
+Psychic:
+    Special: "Play to move 1 Morale token from 1 player to another player." 
+
+Wasting Away:
+    Quantity: 2
+    Special: "You may not play more than 2 Weapon in a Day." 
+Jugglers Despair:
+    Title: "Juggler's Despair"
+    Special: "You cannot juggle."
+    Flavor: "No game effect, but sad anyhow."
+Lieukemia: 
+    Special: "On any Night after Day 8, the player holding Lieukemia dies."
+Malignant Tumour:
+    Quantity: 4
+    Special: "Nothin' special. Just a tumour." 
+Benign Tumour: 
+    Quantity: 4
+    Special: "Trash this card." 
+Rooted Down:
+    Quantity: 2
+    Special: "You may not explore." 
+
+
+

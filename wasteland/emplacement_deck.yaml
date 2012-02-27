@@ -1,0 +1,51 @@
+Stockpile:
+    Special: "The player at the Stockpile may draw 3 cards from the Stockpile and share them with any other player in the Settlement."  
+    Morning: "Every player draws 1 card from the Stockpile." 
+    Damaged: "If the Stockpile is damaged, any cards that are at the Stockpile or that would go to the Stockpile are discarded, instead." 
+Tent City: 
+    Special: "The player at the Tent City may swap with any of the Survivors in the tent city."  
+    Always: "The Tent City can hold up to 2 Survivors. If a Survivor is drawn and the Tent City is full, discard the Survivor. " 
+    Damaged: "If the Tent City is damaged, any Survivors placed at the Tent City are discarded." 
+Apartment Building: 
+    Special: "The player at the Apartment Building may draw 1 Common Salvage and add it to the Stockpile. " 
+    Always: "While the Apartment Building is in play, the Tent City can hold up to 5 Survivors."  
+    Always: "If the Tent City is damaged, instead, move that damage to the Apartment Building." 
+    VP: 1
+Mall: 
+    Special: "The player at the Mall may roll a die. at a 1-4, he draws a Common Salvage and adds it to his hand. at a 5-6, he draws a Rare Salvage and adds it to the Stockpile." 
+    VP: 1
+Hospital: 
+    Special: "The player at the Abandoned Hospital may trash 1 Crisis Card or 2 Mutation. " 
+    VP: 3 
+Bunker: 
+    Special: "When a player is at the Abandoned Bunker, all players defending the Settlement recieve 1 bonus Weapon" 
+    VP: 1
+Cathedral: 
+    Special: "The player at the Cathedral may roll a die. On a 1-2, nothing happens. On a 3-5, every Survivor gains 1 Morale. On a 6, 2 Morale." 
+    VP: 3
+Gas Station: 
+    Special: "The player at the Gas Station may take any Location's Event deck, look at all of the cards contained within, then shuffle the deck and return it to the Location."  
+    VP: 2
+Machine Shop:
+    Special: "The player at the Machine Shop may trade 2 Common Salvage from his hand for a Rare Salvage. " 
+    VP: 1
+Mountain Observatory:
+    Special: "The player at the Mountain Observatory may discard the top card of the Location deck. " 
+    VP: 1
+Warehouse: 
+    Special: "The player at the Warehouse may sort the Stockpile deck. " 
+    Morning: "The Stockpile deals out 2 cards instead of 1." 
+    Always: "If the Stockpile is damaged, instead, move that damage to the Warehouse." 
+    VP: 2
+Cannery: 
+    Special: "The player at the Cannery produces 2 bonus Food. "  
+    VP: 1
+Hardware Store: 
+    Special: "The player at the Hardware Store may draw 3 Common Salvage and add them to the Stockpile. " 
+    VP: 1
+Museum: 
+    Special: "The player at the Museum may roll a die. On a 1-2, nothing happens. On a 3-5, the Survivor gains 1 Morale. On a 6, every Survivor gains 1 Morale. " 
+    VP: 1
+Clock Tower: 
+    Special: "The player at the Clock Tower may contribute dice to any combat check. " 
+    VP: 1
