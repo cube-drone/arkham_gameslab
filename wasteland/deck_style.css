@@ -8,25 +8,25 @@
 body{
     margin: 0;
     padding: 0;
+    color: #333;
 }
 
 .Page{
-    width: 279mm;
-    height: 216mm;
-    padding: 5mm;
+    padding: 20px;
     overflow: hidden;
     page-break-before: always;
 }
 
 .Card{
-    width: 60mm;
-    height: 80mm;
+    width: 216px;
+    height: 302px;
     border: 1px solid gray;
     float: left;
-    margin-left: 5mm;
+    margin-left: 2mm;
     margin-bottom: 10mm;
     overflow: hidden;
     text-align: center;
+    position: relative;
 }
 
 /* Stylepretty */ 
@@ -36,7 +36,9 @@ body{
     font-size: small;
 }
 
-.Card{
+h2, h3 { 
+    margin: 0;
+    padding: 0;
 }
 
 h2{
@@ -45,12 +47,6 @@ h2{
     padding-bottom: 3px;
     border-bottom: 1px solid black;
     margin-bottom: 3px;
-}
-
-.Location h2
-{
-    background-color: #444;
-    color: white;
 }
 
 h3{
@@ -67,12 +63,89 @@ h3{
     color: #333;
 }
 
-h2, h3 { 
-    margin: 0;
-    padding: 0;
-}
 
 p {
     margin-top: 3px;
     margin-bottom: 0;
+}
+
+.Card h3 
+{
+    margin-top: 55px;
+    margin-left: 35px;
+    margin-right: 5px;
+}
+
+.Card p, .Card div
+{
+    margin-left: 35px;
+    margin-right: 5px;
+}
+
+/* Location */
+
+.Location
+{
+    background: url('assets/location_front.png'); 
+}
+
+.Location h2, .Crisis h2, .Crisis .type, .Salvage h2, .Survivor h2, .Mutation h2, .Emplacement h2 
+{
+    display: none;
+}
+
+.Salvage h3
+{
+    margin-top: 65px;
+}
+
+.Salvage .type
+{
+    position: absolute; 
+    bottom: 3px;
+}
+
+.Location h3
+{
+    margin-top: 45px;
+}
+
+.Collapse
+{
+    background: url('assets/collapse_crisis.png');
+}
+
+.Catastrophe
+{
+    background: url('assets/catastrophe_crisis.png');
+}
+
+.Combat
+{
+    background: url('assets/combat_crisis.png');
+}
+
+.Rare
+{
+    background: url('assets/rare_salvage.png');
+}
+
+.Common
+{
+    background: url('assets/common_salvage.png');
+}
+
+.Survivor
+{
+    background: url('assets/survivor.png');
+}
+
+.Mutation
+{
+    background: url('assets/mutation.png');
+}
+
+.Emplacement
+{
+    background: url('assets/emplacement.png');
 }

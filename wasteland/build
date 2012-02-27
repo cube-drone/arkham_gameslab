@@ -8,9 +8,10 @@ ruby ../deck_gen/deck_generator.rb --deck "Common Salvage" --file common_salvage
 ruby ../deck_gen/deck_generator.rb --deck "Rare Salvage" --file rare_salvage_deck.yaml      > output/rare_salvage.html
 ruby ../deck_gen/deck_generator.rb --deck "Survivor" --file survivor_deck.yaml              > output/survivor.html
 cp deck_style.css                                                                           output/style.css
+cp -r assets                                                                                output/assets
 
-wkpdf --source output/crisis.html --output output/crisis.pdf --paper letter --orientation landscape --margins 0 
-wkpdf --source output/location.html --output output/location.pdf --paper letter --orientation landscape --margins 0 
-wkpdf --source output/common_salvage.html --output output/common_salvage.pdf --paper letter --orientation landscape --margins 0 
-wkpdf --source output/rare_salvage.html --output output/rare_salvage.pdf --paper letter --orientation landscape --margins 0 
-wkpdf --source output/survivor.html --output output/survivor.pdf --paper letter --orientation landscape --margins 0 
+wkpdf --source output/crisis.html --paper letter --orientation landscape --margins 0 --print-background yes         --output output/crisis.pdf
+wkpdf --source output/location.html --paper letter --orientation landscape --margins 0 --print-background yes       --output output/location.pdf
+wkpdf --source output/common_salvage.html --paper letter --orientation landscape --margins 0 --print-background yes --output output/common_salvage.pdf
+wkpdf --source output/rare_salvage.html  --paper letter --orientation landscape --margins 0 --print-background yes  --output output/rare_salvage.pdf
+wkpdf --source output/survivor.html --paper letter --orientation landscape --margins 0 --print-background yes       --output output/survivor.pdf 
