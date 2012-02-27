@@ -3,19 +3,23 @@ Tinned Ham:
     Quantity: 12
     Special: "Trash to gain 1 Food."
     Flavor: "Hamstravacanza! Ride the ham wave!" 
+Bear Trap:
+    Type: "Food"
+    Quantity: 4
+    Special: "Stockpile to gain 1 Food or 1 Weapon." 
 Bucket of Chicken:
     Type: "Food"
     Quantity: 2
-    Special: "Trash to gain 1 Food, and 1 Food for another Survivor of your choice. Gain 1 Morale." 
+    Special: "Trash to gain 2 Food and 1 Morale." 
     Flavor: "How is the chicken still hot and fresh after all this time?"
 Choka Cola:
     Type: "Food"
     Quantity: 5
-    Special: "Trash to gain 1 Food. Gain 1 Radiation."
+    Special: "Trash to gain 1 Food and 1 Radiation Die."
 Gecko on a Stick: 
     Type: "Food" 
     Quantity: 5
-    Special: "Trash to gain 1 Food. Lose 1 Morale. Gain 1 Radiation." 
+    Special: "Trash to gain 1 Food. Lose 1 Morale. Gain 1 Radiation Die." 
     Flavor: "It's definitely... edible." 
 Jerky:
     Type: "Food"
@@ -25,43 +29,39 @@ Jerky:
 Snack Cake:
     Type: "Food"
     Quantity: 5
-    Special: "Trash to gain 1 Food. Gain 1 Morale." 
+    Special: "Trash to gain 1 Food and 1 Morale." 
 Bandage: 
     Type: "Medical"
-    Quantity: 6
+    Quantity: 9
     Special: "Trash to gain 1 Medical." 
-Triage Kit: 
-    Type: "Medical" 
-    Quantity: 3 
-    Special: "Trash to move all Crisis Cards from your Discard pile to your Deck. Lose 1 Morale." 
-Gauze:
-    Type: "Medical"
-    Quantity: 3
-    Special: "Trash to Trash 1 Crisis Card from your hand. " 
 NonSteroidal AntiInflammatory Drugs:
     Type: "Medical"
     Quantity: 3
-    Special: "Trash to gain 1 Medical. Gain 1 Radiation." 
+    Special: "Trash to gain 1 Medical and 1 Radiation Die." 
 Bullet: 
     Type: "Weapon"
-    Quantity: 20
+    Quantity: 12
     Special: "Trash to gain 1 Weapon" 
+Knife: 
+    Type: "Weapon"
+    Quantity: 12
+    Special: "Stockpile to gain 1 Weapon" 
 Golf Club: 
     Type: "Weapon"
     Quantity: 1
-    Special: "Trash to gain 1 Weapon" 
+    Special: "Stockpile to gain 1 Weapon" 
 Frying Pan:
     Type: "Weapon"
     Quantity: 1
-    Special: "Trash to gain 1 Weapon" 
+    Special: "Stockpile to gain 1 Weapon" 
 Lamp:
     Type: "Weapon"
     Quantity: 1
-    Special: "Trash to gain 1 Weapon" 
+    Special: "Stockpile to gain 1 Weapon" 
 Cat:
     Type: "Weapon"
     Quantity: 1
-    Special: "Trash to gain 1 Weapon. Gain 1 Morale." 
+    Special: "Stockpile to gain 1 Weapon. Gain 1 Morale." 
 Boomerang:
     Type: "Weapon"
     Quantity: 1
@@ -72,8 +72,8 @@ Grenade:
     Special: "Trash to gain 3 Weapon"
 Crude Map: 
     Type: "Ally"
-    Quantity: 5
-    Special: "Trash during New Exploration. When drawing a new exploration, draw two Location cards, choose one, and return the other one to the bottom of the Location deck."  
+    Quantity: 3
+    Special: "Trash during New Exploration. When drawing a new Location, instead draw two Location cards, choose one, and return the other one to the bottom of the Location deck."  
 Baseball Bat:
     Type: "Weapon" 
     Quantity: 1
@@ -81,15 +81,16 @@ Baseball Bat:
 Unintelligent Child: 
     Type: "Ally"
     Quantity: 1
-    Special: "Trash to resolve any Crisis Card without suffering ill effects. Lose 2 Morale." 
+    Special: "Trash to resolve any Crisis Card without suffering ill effects. Lose 1 Morale." 
 Car Door: 
     Type: "Weapon"
-    Quantity: 1
-    Special: "Discard to gain 1 Weapon. Roll a d6. On a 1, 2, or 3, Trash the Car Door." 
+    Quantity: 2
+    Special: "Play to gain 1 Weapon. Roll a die. On a 4-5, Stockpile the Car Door. On a 6, Trash the Car Door." 
 Trusty Revolver:
+    Title: "\"Trusty\" Revolver" 
     Type: "Weapon"
     Quantity: 1
-    Special: "Discard to gain 2 Weapon. Roll a d6. On a 1-4, Trash the Revolver. " 
+    Special: "Play to gain 2 Weapon. Roll a d6. On a 5-6, Trash the Revolver. " 
 VCR: 
     Type: "Ally"
     Quantity: 1
@@ -101,23 +102,13 @@ VHS:
 Radaway: 
     Type: "Medical"
     Quantity: 2
-    Special: "Trash to Lose 1 Radiation." 
+    Special: "Trash to Lose 1 Radiation Die." 
 Man Wearing A Bunny Bucket On His Head:
     Type: "Ally"
     Quantity: 1
     Special: "Does nothing." 
     Flavor: "He just... follows you." 
-
-Knife:
-    Type: "Edged Weapon"
-    Quantity: 10
-    Special: "Discard to gain 1 Weapon"
 Sledgehammer:
     Type: "Weapon"
     Quantity: 4
-    Special: "Discard to gain 1 Weapon."
-Cookbook:
-    Type: "Ally"
-    Quantity: 2
-    Special: "Trash to recover 3 Food from the Graveyard."
-    Flavor: "He whipped up a helluva meal from scraps lying around the base...and it stayed down."
+    Special: "Play to gain 1 Weapon."

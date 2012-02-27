@@ -1,31 +1,25 @@
 Apartment Building:
-    Quantity: 1
-    Crisis: 2
-    Common Salvage: 6
+    Crisis: 1
+    Common Salvage: 5
     Rare Salvage: 0
     Survivors: 0
     VP: 1
-    Special: "Once Reclaimed, the Apartment Building's event deck cannot gain any Crisis cards." 
-    Flavor: "They boarded up the windows first - sealed it as tight as a drum. Nobody gets in or out that they don't want to get in or out." 
+    Flavor: "They boarded up the windows first - sealed it as tight as a drum. Nobody gets in or out." 
 Mall:
-    Quantity: 2
-    Crisis: 6
-    Common Salvage: 5
+    Crisis: 3
+    Common Salvage: 1
     Rare Salvage: 1
     Survivors: 1
-    VP: 2 
+    VP: 1 
     Flavor: "Once a cathedral to the Age of Infinite Growth. Now just a ruined building full of ill-fitting hot pants."
 Abandoned Hospital: 
-    Quantity: 1
-    Crisis: 8
-    Common Salvage: 4
-    Rare Salvage: 1
+    Crisis: 6
+    Common Salvage: 2
+    Rare Salvage: 2
     Survivors: 0
     VP: 3
-    Special: "While Reclaimed, in the Wake Up phase, each survivor may trash one card from their hand and search the Common Salvage deck for a Medical item to add to their hand." 
     Flavor: "Everyone was sick. Nobody had much in the way of medical training. But a great whopping building full of morphine had its benefits."
 Abandoned Bunker: 
-    Quantity: 1
     Crisis: 3
     Common Salvage: 2
     Rare Salvage: 2
@@ -33,16 +27,13 @@ Abandoned Bunker:
     VP: 1
     Flavor: "They found jackets, backpacks, all the gear they needed to travel further." 
 Cathedral: 
-    Quantity: 1
     Crisis: 9
     Common Salvage: 3
     Rare Salvage: 0
     Survivors: 1
     VP: 3
-    Special: "Once reclaimed, all survivors gain 2 Morale." 
     Flavor: "It had been an impressive structure. It still was. It gave them hope. " 
 Shack:
-    Quantity: 1
     Crisis: 0
     Salvage: 0
     Rare Salvage: 0
@@ -50,85 +41,55 @@ Shack:
     VP: 0
     Flavor: "They had been surviving in the shack for some time on their own, far from humanity. But supplies were running thin. " 
 Gas Station: 
-    Quantity: 2
-    Crisis: 6
-    Common Salvage: 3
-    Rare Salvage: 2
+    Crisis: 4
+    Common Salvage: 2
+    Rare Salvage: 1
     Survivors: 0
     VP: 2
-    Special: "Once Reclaimed, every player may search their deck and discard pile and remove one Combat Crisis"
     Flavor: "The raiders found that if they banded together, they could murder others and steal their things more effectively. Isn't synergy great?" 
-Skyscraper Husk: 
-    Quantity: 1
-    Crisis: 3
-    Common Salvage: 4
-    Rare Salvage: 0
-    Survivors: 0
-    VP: 1
-    Flavor: "Great twisted beams of steel where once a vast skyscraper stood." 
-Mountain Observatory: 
-    Quantity: 1
+Machine Shop: 
     Crisis: 2
-    Common Salvage: 1
-    Rare Salvage: 0
-    Survivors: 0 
-    VP: 0
-    Special: "The player (or players) who Reclaim the Observatory may draw the top 5 locations from the Location Deck and return them in any order." 
-    Flavor: "They could see everything from up there. It was awful." 
-Warehouse: 
-    Quantity: 4
-    Crisis: 5
-    Common Salvage: 7
-    Rare Salvage: 1
-    Survivors: 0 
-    VP: 1
-    Special: "Once Reclaimed, all players draw 2 Common Salvage Cards and add them to their Discard pile." 
-    Flavor: "The warehouse had been picked pretty clean by raiders, but nobody had thought to dismantle and sell the pallets and jacks." 
-Cannery: 
-    Quantity: 1
-    Crisis: 4
     Common Salvage: 5
     Rare Salvage: 0
     Survivors: 0
     VP: 1
-    Special: "Any Salvage drawn at the Cannery that is not of type Food is returned to the Common Salvage deck, and replaced with a Salvage of type Food." 
+    Flavor: "Most of the equipment was still operational or semi-operational." 
+Mountain Observatory: 
+    Crisis: 2
+    Common Salvage: 2
+    Rare Salvage: 0
+    Survivors: 0 
+    VP: 1
+    Flavor: "They could see everything from up there. It was awful." 
+Warehouse: 
+    Crisis: 6
+    Common Salvage: 6
+    Rare Salvage: 1
+    Survivors: 0 
+    VP: 2
+    Flavor: "The warehouse had been picked pretty clean by raiders, but nobody had thought to dismantle and sell the pallets and jacks." 
+Cannery: 
+    Crisis: 1
+    Common Salvage: 3
+    Rare Salvage: 0
+    Survivors: 0
+    VP: 1
     Flavor: "More tinned meat. Oh joy of joys." 
 Hardware Store: 
-    Quantity: 1
-    Crisis: 4
-    Common Salvage: 4
+    Crisis: 2
+    Common Salvage: 1
     Rare Salvage: 1
     Survivors: 0
     VP: 1
-    Special: "Any Salvage drawn at the Gun Shop that is not of type Weapon is returned to the Salvage deck, and replaced with a Salvage of type Weapon." 
     Flavor: "One bullet, one head, that was the rule. But where did you go when you needed more bullets? " 
-Pizza Planet: 
-    Quantity: 1
-    Crisis: 6
-    Common Salvage: 2
-    Rare Salvage: 0
-    Survivors: 1
-    VP: 2
-    Flavor: "A small group of survivors had holed up in the Pizza Planet with guns and food.  First they ran out of bullets. Then food. Then survivors. " 
 Overturned Vehicle: 
-    Quantity: 3
     Crisis: 0
     Common Salvage: 1
     Rare Salvage: 0
     Survivors: 0
     VP: 0
     Flavor: "A common enough sight - a commuter sedan, overturned on the road, its occupants dead or missing. The best scavengers knew that there was always something hidden in there, somewhere. Do be careful about the smell, though. " 
-Eighteen Wheeler Crash: 
-    Quantity: 2
-    Crisis: 1
-    Common Salvage: 4
-    Rare Salvage: 0
-    Survivors: 0
-    VP: 0
-    Special: "At the end of the turn in which Oasis is first explored, Trash all cards from its Event Deck"
-    Flavor: "C'mere, boys. You won't believe what I've found. " 
 Ambush: 
-    Quantity: 2
     Crisis: 1
     Common Salvage: 0
     Rare Salvage: 0
@@ -136,7 +97,6 @@ Ambush:
     VP: 0
     Flavor: "They went looking for trouble, and they found it. " 
 High School: 
-    Quantity: 2
     Crisis: 5
     Common Salvage: 3
     Rare Salvage: 1
@@ -144,19 +104,17 @@ High School:
     VP: 1
     Flavor: "No one wanted to go back, but it didn't look like they had a choice." 
 Museum: 
-    Quantity: 1
     Crisis: 4
-    Common Salvage: 2
+    Common Salvage: 1
     Rare Salvage: 0
     Survivors: 2
     VP: 2
     Flavor: "A building with lots of paintings and sculptures no one cared about just ready to fall over and kill you.  Not much different than any other building...except for the history." 
 Clock Tower: 
-    Quantity: 1
-    Crisis: 3
+    Crisis: 2
     Common Salvage: 1
-    Rare Salvage: 0
+    Rare Salvage: 1
+    Survivors: 0
     VP: 1
-    Special: "Once Reclaimed, a Survivor with a Sniper Rifle revisiting this location may Discard the Sniper Rifle to ignore any one Combat Crisis that Exploration Phase."
-    Flavor: "It provided a great vantage point from which to see what was left of the town...and to line up visitors in your crosshairs." 
+    Flavor: "A great vantage point to see what was left of the town... and to line up visitors in your crosshairs." 
     
