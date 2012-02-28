@@ -24,8 +24,3 @@
 	Requirement: "1 weapon salvage per alive player, or 1 rare weapon salvage."
 	Pass: "No effect."
 	Fail: "All players lose 1 health. Additionally, any player who didn't reveal a weapon salvage loses 1 health."
--
-	Title: "
-	Requirement: "
-	Pass: "
-	Fail: "
