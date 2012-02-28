@@ -1,0 +1,31 @@
+-
+	Title: "Raiding Party Attacks Megaton"
+	Requirement: 
+		"Toughness (2 * number of alive players)"
+	Pass: "No effect"
+	Fail: "All players take 2 damage. Additionally, the player which inflicted the least damage takes 1 damage."
+-
+	Title: "Radioactive Sandstorm"
+	Requirement: "1 medical salvage per alive player, or 1 rare medical salvage."
+	Pass: "The player who reveals the most number of medical salvage cards may remove 1 rad."
+	Fail: "All players gain 2 rads."
+-
+	Title: "Killer Robot Factory Reactivated"
+	Requirement: "Any number of salvage cards. For each non-food salvage added, roll a D6. On a 5 or 6, the catastrophe is passed."
+	Pass: "No effect."
+	Fail: "Each player who used an ally during this exploration phase must trash that ally."
+-
+	Title: "Starving refugees"
+	Requirement: "1 food salvage per alive player, or 1 rare salvage."
+	Pass: "Each player gains 1 common salvage. Additionally, the player who revealed the most food salvage cards gains 1 additional common salvage."
+	Fail: "No effect."
+-
+	Title: "Ghoul horde attacking outskirts"
+	Requirement: "1 weapon salvage per alive player, or 1 rare weapon salvage."
+	Pass: "No effect."
+	Fail: "All players lose 1 health. Additionally, any player who didn't reveal a weapon salvage loses 1 health."
+-
+	Title: "
+	Requirement: "
+	Pass: "
+	Fail: "

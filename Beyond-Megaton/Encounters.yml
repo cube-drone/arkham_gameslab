@@ -1,0 +1,46 @@
+-
+	Title: "Rad Scorpion"
+	Resolve:
+		"Toughness: 1"
+		"Lose 1 health. Gain 1 rad."
+-
+	Title: "Mindless Ghoul"
+	Resolve:
+		"Toughness: 1"
+		"Lose 1 health."
+-
+	Title: "Blistering heatwave"
+	Resolve:
+		"Lose 1 health."
+-
+	Title: "Leaky containment chamber"
+	Resolve: "Gain 1 rad."
+-
+	Title: "Shifty trader"
+	Resolve:
+		"Toughness: 1"
+		"Trash 1 salvage card from your stockpile or hand."
+-
+	Title: "Psychotic Raider"
+	Resolve:
+		"Toughness: 1"
+		"Lose 1 health."
+-
+	Title: "Irradiated Expanse"
+	Resolve:
+		"Gain 1 rad."
+-
+	Title: "Poisoned groundwater"
+	Resolve:
+		"Gain 1 health. Gain 2 rad."
+		"Gain 1 rad."
+- 
+	Title: "Booby-trapped Shack"
+	Resolve:
+		"Roll a D6. On a 4-6: Lose 2 health."
+-
+	Title: "Rad roach"
+	Resolve:
+		"Toughness: 1"
+		"Gain 1 rad."
+		
