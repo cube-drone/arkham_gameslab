@@ -1,0 +1,60 @@
+-
+	Title: "Trade Caravan"
+	Resolve:
+		"Trash 2 salvage cards. Choose a salvage type. Gain 1 random rare salvage of that type."
+		"Trash 1 salvage card."
+-
+	Title: "Starving Wastelander"
+	Resolve:
+		"1 Toughness"
+		"Trash 2 food salvage. Gain 1 random ally."
+-
+	Title: "Cazador"
+	Resolve:
+		"3 Toughness"
+		"Lose 1 health. Gain 2 Rad."
+-
+	Title: "B.O.S. Paladin"
+	Resolve:
+		"4 Toughness. Gain 1 random rare weapon salvage."
+		"Trash 1 rare salvage."
+		"Lose 2 health"
+-
+	Title: "Super Mutant"
+	Resolve:
+		"3 Toughness"
+		"Lose 3 health."
+-
+	Title: "Undetonated hydrogen bomb"
+	Resolve:
+		"Gain 3 rad."
+-
+	Title: "Local sheriff"
+	Resolve:
+		"Toughness: 2"
+		"Trash 1 ally"
+		"Lose 2 health"
+-
+	Title: "Glowing Ghoul"
+	Resolve:
+		"Toughness: 2. Gain 1 rad."
+		"Lose 1 health. Gain 2 rad."
+-
+	Title: "Church of the Atom worshipers"
+	Resolve:
+		"Trash 2 salvage."
+		"Trash 1 medical salvage."
+-
+	Title: "Rampaging robot"
+	Resolve:
+		"Toughness: 3"
+		"Lose 2 health."
+-
+	Title: "Deathclaw"
+	Resolve:
+		"Toughness: 5"
+		"Lose 3 health."
+-
+	Title: ""
+	Resolve:
+		

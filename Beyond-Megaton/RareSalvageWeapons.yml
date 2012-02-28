@@ -1,0 +1,24 @@
+-
+	Title: "Custom SMG"
+	Type: "Rare Weapon"
+	Effect: "+2 Damage. Roll a D6: on a 4-6 add +1 Damage."
+-
+	Title: "Powered Armour"
+	Type: "Rare Weapon"
+	Effect: "Prevent 2 damage. Prevent 2 rad gain."
+-
+	Title: "Power sledge"
+	Type: "Rare Weapon"
+	Effect: "+3 Damage. Lose 1 health."
+-
+	Title: "Plasma Rifle"
+	Type: "Rare Weapon"
+	Effect: "+4 Damage. Gain 1 rads."
+-
+	Title: "Gatling Laser"
+	Type: "Rare Weapon"
+	Effect: "+D6 Damage"
+-
+	Title: "Binoculars"
+	Type: "Rare Weapon"
+	Effect: "Play at the start of an exploration, before choosing a location. Look at the top encounter of each location."

@@ -1,0 +1,281 @@
+The year is 30XX. Civilization has ceased to exist after global nuclear war devastated the planet. Life on the planet has been reduced to a fraction of what it used to be. But from out of the ruins of our once great cities and from out of the endless expanse of radioactive deserts emerge a new breed of humans: the wastelanders!
+Unfortunately, these wastelanders quickly learned there just isn't enough room in this post-apocalyptic word for everyone to coexist peacefully. 
+
+Game Setup
+
+Each player starts with 10 heath tokens, and should have rad tokens nearby. Additionally, each player should receive the following cards:
+
+	* 5x 9mm cards
+	* 2x AntiRads
+	* 3x Gecko on a stick
+	
+This will form the players' starting stockpiles. Remove any remaining copies of these cards from the game. 
+
+Shuffle the remaing decks:
+
+	* Locations
+	* Common Encounters
+	* Rare Encounters
+	* Catastrophes
+	* Common salvage
+	* Rare salvage - Weapon
+	* Rare salvage - Medical
+	* Rare salvage - Food
+	* Allies
+
+Finally, each player rolls a D6. High roll gains the first player token.
+
+Order of Play
+The following section describes the basic round of play in Beyond Megaton.
+
+	1. Setup Locations:
+		1. Reveal 1 Location card per player and place them face up in the middle of the play area.
+		2. Randomly draw the necessary rewards for each location as detailed on the location card, and place them face down adjacent their respective locations.
+		3. Build the encounter decks for each location. Start by randomly placing 1 common encounter on each location.
+		4. Each alive player draws 4 common encounters and 1 rare encounter. Dead players draw 3 encounters common and 2 rare encounters.
+		5. Starting from the first player, players take turns placing any number of encounter cards face down on a location. Note that dead players still participate in this phase of the game.
+		6. After all encounters have been placed, shuffle each pile of encounter cards place them on top of their respective locations.
+
+	2. Prep Phase:
+		1. Players secretly select 10 cards from their stockpiles and 1 ally card (if they have any). 
+		2. Starting from the current first player, each player places their ally card face up in front of them.
+
+	3. Exploration Phase: 
+		1. Exploration starts with the player holding the first player token. If the first player token is currently assigned to a dead player, play immediately skips to the next player in clockwise order.
+		2. The current player may either immediately drop out, or initiate an exploration. If they drop out they may no longer participate in the current exploration phase.
+		3. If the player chooses to explore, they must pick a location and declare how many encounters they wish to resolve, between 1 and 3.
+		4. Draw and resolve the number of encounters declared, one at a time. If at any point during this step a player is reduced to 0 health, they are dead.
+		5. If all encounters on a location are resolved, the player may claim the rewards from that location.
+		6. If at any point during resolving of encounters a player drops to 0 health, they die.
+		7. The exploration phase repeats until all players have dropped out or all locations have been fully explored.
+
+	4. Catastrophe Phase:
+		1. Draw and reveal a catastrophe.
+		2. Players must secretly place any number of their remaining salvage cards face down in front of them.
+		3. All players reveal their face down cards and resolve the encounter.
+
+	5. Mutation Phase:
+		1. If any players current Rad level exceeds their health, they undergo a horrible mutation. Draw a mutation card from the mutation deck. For every 2 rads above their health, draw an additonal card. <<Mutation cards have some negative effect on a players ability to accomplish encounters. By forcing players to potentially draw more mutations they cannot ignore rads once they are over the limit.>>
+		2. If at any time a player has two of the same mutation, they die of radiation poisoning.
+
+	6. Cleanup
+		1. Return all remaining salvage cards to the players stockpiles.
+		2. Pass the first player token to the next player in clockwise order.
+		3. Start a new round of play.
+
+Resolving Encounters
+After drawing and revealing an encounter to all players, the active player may use any number of salvage cards, one at a time, to resolve the encounter. As soon as the desired requirement is met, the encounter as been resolved. Most used salvage cards are placed face up in front of the player in the player's discard pile. These cards will be reclaimed at the end of a round of play, unlike cards which are trashed and placed in the wasteland (see "Trashing Cards"). After resolving an encounter, place it in the encounter discard pile.
+Cards with a prevent effect must be played at the time of incurring the damage or rad gain. Cards with a gain or remove effect may be played during any encounter. 
+	* For example, a player decides to resolve the "Rad Scorpion" event by losing 1 health and gaining 1 rad. At this time the player can play the "AntiRads" salvage card to prevent 1 rad gain. In a subsequent encounter the same player chooses to play "Gecko on a stick", gaining 1 health and 1 rad. At this time, if the player had another "AntiRads" card they would be able to play it again.
+
+Player Death
+When a player dies all their salvage must be immediately discarded to the wasteland. The player may still participate in the Setup Locations phase, but they are no longer a contender for winning the game.
+
+Trashing Cards and the Wasteland
+All players trashed salvage cards are placed face up in the wasteland. The wasteland is shared by all players, and players are allowed to look at the contents of the wasteland at any time.
+
+Winning the Game
+The game is won when there is a single wastelander left standing! You've braved the wastes and emerged trimuphant.
+
+Locations
+
+Encounters
+Almost all encounters will have more than 1 way to resolve them. Toughness indicates how much damage is required to resolve the encounter.
+
+Sample Encounters
+
+
+
+
+Catastrophes
+Catastrophes are major events resolved at the end of each round of exploration. They effect all players. To resolve a catastrophe, players must secretly place any number of salvage cards face up in front of themselves. After all players have selected, everyone reveals the selected cards and resolve the effects described on the card.
+
+Sample Catastrophes
+
+===========
+Raiding Party Attacks Megaton <Catastrophe>
+Requirement: Toughness (2 * number of alive players)
+
+Pass: No effect
+Fail: All players take 2 damage.
+Additionally, the player which inflicted the least damage takes 1 damage.
+===========
+
+===========
+Radioactive Sandstorm <Catastrophe>
+Requirement: 1 medical salvage per alive player, or 1 rare medical salvage.
+
+Pass: The player who reveals the most number of medical salvage cards may remove 1 rad.
+Fail: All players gain 2 rads.
+===========
+
+===========
+Killer Robot Factory Reactivated <Catastrophe>
+Requirement: Any number of salvage cards. For each card added, roll a D6. On a 6, the catastrophe is passed.
+
+Pass: No effect.
+Fail: Each player who used an ally during this exploration phase must trash that ally.
+===========
+
+Mutations
+When a player gains a mutation during the mutation phase they must randomly draw a mutation card from the mutation deck. Reveal and place this card in front of the player. It's effect will apply for the immediately following exploration round. If a player draws a mutation which they already have they immediately die.
+
+Sample Mutations
+===========
+Tentacle hands <Mutation>
+Player may only select 9 cards during the prep phase.
+===========
+
+===========
+Ghoulish features  <Mutation>
+Player may no longer select an ally during the prep phase.
+===========
+
+===========
+Acidic blood <Mutation>
+Player loses 1 health at the start of each round of play.
+===========
+
+===========
+Radioactive sponge <Mutation>
+Player gains 1 rad at the start of each round of play.
+===========
+
+===========
+Radiation Insanity <Mutation>
+Player must immediately trash one of the reward salvage cards whenever they are claiming rewards from a location.
+===========
+
+===========
+Cursed from birth <Mutation>
+Anytime the player would roll a dice, instead resolve it as if the player had rolled a 1.
+===========
+
+
+Salvage
+Salvage cards are the key to surviving. Here are some sample salvage items. In general: 
+
+	* Weapons generate damage to help pass encounters.
+	* Food generates health, but frequently radiation as well.
+	* Medical items deal with health and more importantly, rad prevention and removal.
+	* Misc items
+
+Basic Items:
+===========
+9mm <Weapon>
++1 Damage
+===========
+
+===========
+Gecko on a stick <Food>
++1 Health
++1 Rad
+===========
+
+===========
+AntiRads <Medical>
+Prevent 1 rad gain.
+===========
+
+Sample Items:
+
+===========
+Nukacola <Food>
++1 Health
++1 Rad
+===========
+
+===========
+Nukacola Quantum<Rare Food>
++2 Health
++2 Rad
+Roll a D6. On a 4-6 gain 1 Health.
+===========
+
+===========
+Sawed off shotgun <Weapon>
++1 Damage
+Roll a D6: on a 6 +2 Damage.
+===========
+
+===========
+"Trusty" .45 <Weapon>
++2 Damage
+Roll a D6: on a 1-3 trash this card.
+===========
+
+===========
+Hunting Rifle <Weapon>
++1 Damage
+Roll a D6: on a 2-6 +2 Damage.
+===========
+
+===========
+Frag Grenade <Weapon>
+Trash: +5 damage.
+===========
+
+===========
+Power sledge <Rare Weapon>
++5 Damage
+Lose 1 health.
+===========
+
+===========
+Plasma Rifle <Rare Weapon>
++4 Damage
++2 Rad
+===========
+
+===========
+Gatling Laser <Rare Weapon>
++D6 Damage
+===========
+
+===========
+Binoculars <Misc>
+Play at the start of an exploration, before choosing a location. Look at the top encounter of each location.
+===========
+
+===========
+Power Armour <Rare Misc>
+Prevent 2 damage.
+Prevent 2 rad gain.
+===========
+
+===========
+Stimpak <Medical>
++1 Health
+===========
+
+===========
+Super Stimpak <Rare Medical>
++3 Health
+===========
+
+===========
+RadAway <Rare Medical>
+Remove 1 rad.
+===========
+
+Sample Allies:
+===========
+Duke <Ally>
+Once per exploration phase: Prevent 1 damage. Flip this card face down to indicate it has been used.
+Trash Duke during an encounter: +2 Damage
+===========
+
+===========
+Mr. Gutsy <Ally>
+Once per exploration phase: +1 Damage. Flip this card face down to indicate it has been used.
+===========
+
+===========
+Ranger Dan <Ally>
+Once per exploration phase: When performing an exploration, draw the encounter cards without revealing them. You may choose not to resolve one of the encounters, and instead return the card to the top of the location it was drawn from.  Flip this card face down to indicate it has been used.
+===========
+
+===========
+Scavenging Ghouls <Ally>
+Trash Scavenging Ghouls during an encounter: Gain a card from the wasteland.
+===========
