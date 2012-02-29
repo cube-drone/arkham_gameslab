@@ -6,7 +6,7 @@
 -
 	Title: "Mr. Gutsy"
 	Type: "Ally"
-	Quantity: 1
+	Quantity: 2
 	Effect: "Once per round: +1 Damage. Flip this card face down to indicate it has been used."
 -
 	Title: "Ranger Dan"
@@ -16,13 +16,13 @@
 -
 	Title: "Scavenging Ghouls"
 	Type: "Ally"
-	Quantity: 1
+	Quantity: 3
 	Effect: "Trash during an encounter: Add a card from the wasteland to your stockpile."
 -
 	Title: "Repair drone"
 	Type: "Ally"
 	Quantity: 1
-	Effect: "Once per round: The next time a card would be trashed, instead return it to your stockpile. Flip this card face down to indicate it has been used."
+	Effect: "Once per round: The next time you would trash one of your salvage, instead return it to your stockpile. Flip this card face down to indicate it has been used."
 -
 	Title: "Doc Mitchell"
 	Type: "Ally"	

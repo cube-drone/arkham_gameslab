@@ -1,60 +1,70 @@
 -
 	Title: "9mm"
 	Type: "Weapon"
+	Quantity: 20
 	Effect: "+1 Damage."
 -
 	Title: "Gecko on a stick"
 	Type: "Food"
+	Quantity: 12
 	Effect: "Gain 1 health. Gain 1 rad."
 -
 	Title: "AntiRads"
 	Type: "Medical"
+	Quantity: 8
 	Effect: "Prevent 1 rad gain."
 -
 	Title: "Sawed-off shotgun"
 	Type: "Weapon"
+	Quantity: 2
 	Effect: "+1 Damage. Roll a D6: on a 6 +2 Damage."
 -
 	Title: "Throwing knife"
 	Type: "Weapon"
+	Quantity: 2
 	Effect: "+1 Damage OR Trash: +3 Damage."
 -
 	Title: "Brass knuckles"
 	Type: "Weapon"
-	Effect: "+2 Damage. Roll a D6: on a 6, lose 1 health."
+	Quantity: 2
+	Effect: "+1 Damage. Roll a D6: on a 4-6 +1 Damage and lose 1 health."
 -
 	Title: "'Trusty' .45"
 	Type: "Weapon"
+	Quantity: 2
 	Effect: "+2 Damage. Roll a D6: on a 1-2 trash this card."
 -
 	Title: "Hunting Rifle"
 	Type: "Weapon"
+	Quantity: 2
 	Effect: "+1 Damage. Roll a D6: on a 3-6 +1 Damage."
 -
 	Title: "Frag Grenade"
 	Type: "Weapon"
+	Quantity: 2
 	Effect: "Trash: +4 damage."
 -
 	Title: "Nuka Cola"
 	Type: "Food"
+	Quantity: 6
 	Effect: "Gain 2 health. Gain 1 rad."
 -
 	Title: "Purified Water"
 	Type: "Food"
+	Quantity: 4
 	Effect: "Gain 1 health."
 -
 	Title: "Wastelander stew" 
 	Type: "Food"
+	Quantity: 3
 	Effect: "Lose 1 health. Lose 1 rad."
 -
 	Title: "Buff out"
 	Type: "Medical"
+	Quantity: 2
 	Effect: "+1 Damage. Prevent 1 health loss."
 -
 	Title: "Pain Eater"
 	Type: "Medical"
+	Quantity: 2
 	Effect: "Prevent 2 health loss."
--
-	Title: "Beer"
-	Type: "Food"
-	Effect: "Prevent 2 health loss OR gain 1 health."
