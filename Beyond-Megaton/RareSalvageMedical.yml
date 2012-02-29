@@ -1,0 +1,35 @@
+-
+	Title: "Stimpak"
+	Type: "Rare Medical"
+	Quantity: 6
+	Effect: "Gain 2 health."
+-
+	Title: "RadAway"
+	Type: "Rare Medical"
+	Quantity: 2
+	Effect: "Lose 1 rad."
+-
+	Title: "Extra Strength AntiRads"
+	Type: "Rare Medical"
+	Quantity: 4
+	Effect: "Prevent 2 rad gain."
+-
+	Title: "Psycho"
+	Type: "Rare Medical"
+	Quantity: 3
+	Effect: "+2 Damage. Prevent 1 health loss."
+-
+	Title: "Adren-i-Max"
+	Type: "Rare Medical"
+	Quantity: 3
+	Effect: "Prevent 3 health loss."
+-
+	Title: "Redeye"
+	Type: "Rare Medical"
+	Quantity: 1
+	Effect: "Trash: +4 Damage. Gain 4 health."
+-
+	Title: "Ambrosia"
+	Type: "Rare Medical"
+	Quantity: 1
+	Effect: "Trash: Gain 10 health."
