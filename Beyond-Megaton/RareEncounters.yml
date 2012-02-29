@@ -1,56 +1,78 @@
 -
 	Title: "Trade Caravan"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
-		"Trash 2 salvage cards. Choose a salvage type. Gain 1 random rare salvage of that type."
-		"Trash 1 salvage card."
+		"Trash 2 salvage cards from your hand and/or stockpile. Choose a salvage type. Gain 1 rare salvage of that type."
+		"Trash 1 salvage card from your hand or stockpile."
 -
 	Title: "Starving Wastelander"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
 		"1 Toughness"
-		"Trash 2 food salvage. Gain 1 random ally."
+		"Trash 2 food salvage. Gain 1 ally."
 -
 	Title: "Cazador"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
 		"3 Toughness"
 		"Lose 1 health. Gain 2 Rad."
 -
 	Title: "B.O.S. Paladin"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
-		"4 Toughness. Gain 1 random rare weapon salvage."
+		"4 Toughness. Gain 1 rare weapon salvage."
 		"Trash 1 rare salvage."
 		"Lose 2 health"
 -
 	Title: "Super Mutant"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
 		"3 Toughness"
 		"Lose 3 health."
 -
 	Title: "Undetonated hydrogen bomb"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
-		"Gain 3 rad."
+		"Gain 2 rad."
 -
 	Title: "Local sheriff"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
 		"Toughness: 2"
 		"Trash 1 ally"
 		"Lose 2 health"
 -
 	Title: "Glowing Ghoul"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
 		"Toughness: 2. Gain 1 rad."
 		"Lose 1 health. Gain 2 rad."
 -
 	Title: "Church of the Atom worshipers"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
 		"Trash 2 salvage."
 		"Trash 1 medical salvage."
 -
 	Title: "Rampaging robot"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
 		"Toughness: 3"
 		"Lose 2 health."
 -
 	Title: "Deathclaw"
+	Type: "Rare Encounter"
+	Quantity: 1
 	Resolve:
 		"Toughness: 5"
 		"Lose 3 health."

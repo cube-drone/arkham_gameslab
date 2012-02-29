@@ -1,26 +1,72 @@
 -
 	Title: "Raiding Party Attacks Megaton"
+	Type: "Catastrophe"
+	Quantity: 1
 	Requirement: 
 		"Toughness (2 * number of alive players)"
-	Pass: "No effect"
-	Fail: "All players take 2 damage. Additionally, the player which inflicted the least damage takes 1 damage."
+	Pass: "No effect."
+	Fail: "All players take 2 damage. Additionally the player which inflicted the least damage takes 1 damage."
+-
+	Title: "Securitron Crackdowns"
+	Type: "Catastrophe"
+	Quantity: 1
+	Requirement: "Toughness 2 + (2 * number of alive players)"
+	Pass: "No effect."
+	Fail: "Each player trashes 1 ally from their hand and/or stockpile. Each player trashes 1 salvage from their hand and/or stockpile."
+-
+	Title: "Super Mutant Warband"
+	Type: "Catastrophe"
+	Quantity: 1
+	Requirement: 
+		"Toughness 4 + (2 * number of alive players)"
+	Pass: "No effect."
+	Fail: "All players take 3 damage. Additionally the player which inflicted the least damage takes 1 damage."
 -
 	Title: "Radioactive Sandstorm"
-	Requirement: "1 medical salvage per alive player, or 1 rare medical salvage."
+	Type: "Catastrophe"
+	Quantity: 1
+	Requirement: "1 medical salvage per alive player or 1 rare medical salvage."
 	Pass: "The player who reveals the most number of medical salvage cards may remove 1 rad."
 	Fail: "All players gain 2 rads."
 -
+	Title: "Detonation"
+	Type: "Catastrophe"
+	Quantity: 1
+	Requirement: "1 medical salvage per alive player or 1 rare medical salvage."
+	Pass: "All players gain 1 rad."
+	Fail: "All players gain 3 rads."
+-
 	Title: "Killer Robot Factory Reactivated"
+	Type: "Catastrophe"
+	Quantity: 1
 	Requirement: "Any number of salvage cards. For each non-food salvage added, roll a D6. On a 5 or 6, the catastrophe is passed."
 	Pass: "No effect."
 	Fail: "Each player who used an ally during this exploration phase must trash that ally."
 -
-	Title: "Starving refugees"
+	Title: "Starving Refugees"
+	Type: "Catastrophe"
+	Quantity: 1
 	Requirement: "1 food salvage per alive player, or 1 rare salvage."
-	Pass: "Each player gains 1 common salvage. Additionally, the player who revealed the most food salvage cards gains 1 additional common salvage."
-	Fail: "No effect."
+	Pass: "Each player gains 1 common salvage. Additionally the player who revealed the most food salvage cards gains 1 additional common salvage."
+	Fail: "All players lose 1 health."
 -
-	Title: "Ghoul horde attacking outskirts"
+	Title: "Ghoul Horde Attacks Outskirts"
+	Type: "Catastrophe"
+	Quantity: 1
 	Requirement: "1 weapon salvage per alive player, or 1 rare weapon salvage."
 	Pass: "No effect."
-	Fail: "All players lose 1 health. Additionally, any player who didn't reveal a weapon salvage loses 1 health."
+	Fail: "All players lose 1 health. Additionally any player who did not reveal a weapon salvage loses 1 health."
+-
+	Title: "Ghoul King's Court"
+	Type: "Catastrophe"
+	Quantity: 1
+	Requirement: "1 weapon salvage, 1 medical salvage, 1 food salvage"
+	Pass: "Any player who revealed 3 types of salvage gains 1 common salvage."
+	Fail: "Each player trashes 1 salvage from their hand or stockpile."
+-
+	Title: "Mysterious Stranger"
+	Type: "Catastrophe"
+	Quantity: 1
+	Requirement: "Any number of salvage cards."
+	Pass: "The player who revealed the most rare salvage cards gains 1 ally. No effect in case of ties."
+	Fail: "No effect."

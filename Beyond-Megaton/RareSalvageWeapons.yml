@@ -1,24 +1,45 @@
 -
 	Title: "Custom SMG"
 	Type: "Rare Weapon"
-	Effect: "+2 Damage. Roll a D6: on a 4-6 add +1 Damage."
+	Quantity: 3
+	Effect: "+2 Damage. Roll a D6: on a 5-6 add +2 Damage."
 -
 	Title: "Powered Armour"
 	Type: "Rare Weapon"
+	Quantity: 1
 	Effect: "Prevent 2 damage. Prevent 2 rad gain."
 -
 	Title: "Power sledge"
 	Type: "Rare Weapon"
+	Quantity: 3
 	Effect: "+3 Damage. Lose 1 health."
 -
 	Title: "Plasma Rifle"
 	Type: "Rare Weapon"
+	Quantity: 3
 	Effect: "+4 Damage. Gain 1 rads."
 -
 	Title: "Gatling Laser"
 	Type: "Rare Weapon"
+	Quantity: 2
 	Effect: "+D6 Damage"
+-
+	Title: "Pocket Nuke"
+	Type: "Rare Weapon"
+	Quantity: 2
+	Effect: "Trash: +10 Damage."
+-
+	Title: "Bushmaster rifle"
+	Type: "Rare Weapon"
+	Quantity: 2
+	Effect: "+2 Damage. Roll a D6: on a 3-6 add +1 Damage."
+-
+	Title: "Orbital weapon beacon"
+	Type: "Rare Weapon"
+	Quantity: 1
+	Effect: "Trash at the start of a round: Choose a location. Discard the location. Discard all encounters on the location. Place all salvage on the location into the wasteland."
 -
 	Title: "Binoculars"
 	Type: "Rare Weapon"
+	Quantity: 2
 	Effect: "Play at the start of an exploration, before choosing a location. Look at the top encounter of each location."
