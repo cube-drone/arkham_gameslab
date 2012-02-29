@@ -2,8 +2,7 @@
 	Title: "Raiding Party Attacks Megaton"
 	Type: "Catastrophe"
 	Quantity: 1
-	Requirement: 
-		"Toughness (2 * number of alive players)"
+	Requirement: "Toughness (2 * number of alive players)"
 	Pass: "No effect."
 	Fail: "All players take 2 damage. Additionally the player which inflicted the least damage takes 1 damage."
 -
@@ -17,8 +16,7 @@
 	Title: "Super Mutant Warband"
 	Type: "Catastrophe"
 	Quantity: 1
-	Requirement: 
-		"Toughness 4 + (2 * number of alive players)"
+	Requirement: "Toughness 4 + (2 * number of alive players)"
 	Pass: "No effect."
 	Fail: "All players take 3 damage. Additionally the player which inflicted the least damage takes 1 damage."
 -
