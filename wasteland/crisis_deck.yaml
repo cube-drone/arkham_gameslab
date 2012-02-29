@@ -1,51 +1,57 @@
 Wild Dogs: 
     Type: "Combat"
     Quantity: 5
-    Difficulty: 1
+    Difficulty: 6
+    Pass: ""
+    Fail: "Add this card to your hand. Lose 1 Morale." 
 Wasteland Ghoul:
     Type: "Combat"
-    Quantity: 5
-    Difficulty: 1
-    Special: "On a loss, gain 1 Radiation Die." 
+    Quantity: 10
+    Difficulty: 7
+    Pass: ""
+    Fail: "Add this card to your hand. Gain 1 Radiation Die" 
 Raiders: 
     Type: "Combat"
-    Quantity: 5
-    Difficulty: 2
-    Special: "Raiders can also be sent away with 1 Food." 
+    Quantity: 10
+    Difficulty: 7
+    Pass: ""
+    Fail: "Add this card to your hand."
 Marauders:
     Type: "Combat"
     Quantity: 5
-    Difficulty: 2
-    Special: "On a victory, roll a die. On a 6, gain a Rare Salvage. On a 1, Trash a Salvage from your hand. "
-Crazed Vaultdweller: 
-    Type: "Combat" 
-    Difficulty: 2
-    Special: "The player may ignore this Crisis. On a victory, roll a d6, On a 4-6, gain a Rare Salvage" 
+    Difficulty: 8
+    Pass: "Roll a die. On a 6, gain a Rare Salvage. On a 1, Trash a Salvage from your hand. "
+    Fail: "Add this card to your hand." 
 Radiation Angel: 
     Type: "Combat"
     Quantity: 3
-    Difficulty: 3
-    Special: "In a failed Combat with a Radiation Angel, Trash the Angel but gain 2 Radiation Die. On a victory, lose 1 radiation die." 
+    Difficulty: 9
+    Fail: "Gain 2 Radiation Dice."
+    Pass: "On a victory, lose 1 Radiation Die." 
 Mustard Gas Angel:
     Type: "Combat"
     Quantity: 3
-    Difficulty: 3
-    Special: "On a victory, roll a d6. On a 3 or 4, gain a Common Salvage. On a 5 or 6, gain a Rare Salvage. "
+    Difficulty: 9
+    Pass: "Roll a die. On a 3-4, gain a Common Salvage. On a 5-6, gain a Rare Salvage." 
+    Fail: "Gain this card." 
 Burnpit Screamers:
     Type: "Combat"
-    Quantity: 2
-    Difficulty: 3
-    Special: "In a failed Combat with Burnpit Screamers, Trash the Screamers but every survivor loses 1 Morale. On a victory, every survivor gains 1 Morale." 
+    Quantity: 3
+    Difficulty: 9
+    Pass:
+    Fail: "Every survivor loses 1 Morale" 
 Rogue Android: 
     Type: "Combat" 
     Quantity: 1
-    Difficulty: 6
-    Special: "Add to your settlement on defeat. Worth 1 VP." 
+    Difficulty: 12
+    Pass: "Draw 5 Rare Salvage." 
+    Fail: "Gain 1 Rare Salvage and 1 Radiation Die."
 Alien Superintelligence:
     Type: "Combat"
     Quantity: 1
-    Difficulty: 6
-    Special: "Add to your settlement on defeat. Worth 1 VP." 
+    Difficulty: 12
+    Pass: "All Survivors may discard all Radiation Die and Mutations." 
+    Fail: "Discard 1 Radiation Die. Lose 1 Morale." 
 Punctured Lung: 
     Type: "Collapse" 
     Quantity: 1
@@ -65,10 +71,10 @@ Cracked Rib:
 Mad Clarity:
     Type: "Collapse"
     Quantity: 1
-    Special: "Just take this card. It can be revealed in combat for 1 Weapon.  "
+    Special: "Just take this card. It can be played in combat for 1 Weapon.  "
 Infectious Rats: 
     Type: "Collapse"
-    Quantity: 2
+    Quantity: 1
     Special: "Place this card in the stockpile." 
 Stockpile Fire: 
     Type: "Collapse"
@@ -76,59 +82,64 @@ Stockpile Fire:
     Special: "Discard the top 2 cards from the stockpile." 
 Pound of Flesh: 
     Type: "Collapse"
+    Quantity: 1
     Special: "The player may ignore this Crisis - or take it, and a Rare Salvage card from the deck." 
 Flashbang Accident:
     Type: "Collapse"
+    Quantity: 1
     Special: "Trash 1 card, at random, from your hand. " 
 Trust Me Im A Doctor: 
+    Quantity: 1
     Type: "Collapse"
-    Special: "Lose 1 Morale -or- Roll a d6.  On a 1, gain a Radiation Die. On a 2, Trash a Crisis Card from your hand. On a 3, gain this Crisis card. On a 4, produce 1 food. On a 5, nothing happens. On a 6, draw and resolve a Crisis from the Crisis deck. " 
+    Special: "Lose 1 Morale -or- Roll a d6.  On a 1, gain a Radiation Die. On a 2, Trash a Crisis Card from your hand. On a 3, gain this Crisis card. On a 4, produce 2 food. On a 5, nothing happens. On a 6, draw and resolve a Crisis from the Crisis deck. " 
 Food Spoilage: 
     Type: "Catastrophe" 
-    Special: "All food consumed this turn incurs an extra 'Lose 1 Morale' penalty." 
+    Special: "The Hunger phase occurs again." 
 Thieves in the Night:
     Type: "Catastrophe"
-    Special: "All players must trash one Salvage from their hands." 
-Fighting Over Spoils: 
-    Type: "Catastrophe"
-    Special: "Draw a Rare Salvage.  Every player rolls one die. The highest roll total wins the Rare Item. The lowest roll takes this card." 
-School Bus: 
-    Type: "Catastrophe"
-    Special: "Skip the rest of the Exploration phase this turn. Gain no more Salvage cards. - or - All players lose 1 morale." 
-Fight or Flight:
-    Type: "Catastrophe" 
-    Special: "Every player loses 1 Morale - or - every player that is currently exploring must draw and resolve a Crisis card. " 
-Tea with Grandmother: 
-    Type: "Catastrophe"
-    Special: "Every player loses 1 Morale - or - Every player gains 1 Radiation Die." 
-Low Yield Nuclear Strike:
-    Type: "Catastrophe"
-    Special: "Every player gains 1 Radiation Die. " 
+    Special: "All players must trash two Salvage, at random, from their hands." 
 We Found The Pants of an Elder God:
     Type: "Catastrophe"
-    Special: "Every player loses 2 Morale - or - Roll a d6. On a 6, the world ends."
-Shit Shit Shit Run:
-    Title: "Shit, shit, shit, RUN!" 
-    Type: "Catastrophe"
-    Special: "Roll a d6. On a 5-6, every player draws and resolves a Crisis card." 
-Ghoul City:
-    Type: "Catastrophe"
-    Special: "Every player must win a combat of Difficulty 1 or draw a Crisis card and add it to their discard pile."
-Marauder Flood:
-    Type: "Catastrophe"
-    Special: "Every player must win a combat of Difficulty 2 or draw a Crisis card and add it to their discard pile."
-High Yield Nuclear Strike: 
+    Condition: "The first player may choose to pass or fail this Catastrophe." 
+    Pass: "Every player loses 1 Morale"
+    Fail: "Roll a d6. On a 6, the world ends." 
+Low Yield Nuclear Strike: 
     Type: "Catastrophe" 
-    Special: "Either - place this card on an Emplacement -or- Each player either gains 3 Radiation Die." 
-It Got Worse:
+    Condition: "The first player may choose to pass or fail this Catastrophe." 
+    Pass: "Each player gains 1 Radiation Die"
+    Fail: "Damage 1 Emplacement." 
+High Yield Nuclear Strike:
     Type: "Catastrophe"
-    Special: "Add a Common Salvage and a Crisis Card to every active Location in play." 
-Fungal Infection:
-    Type: "Collapse"
-    Quantity: 1
-    Special: "Trash 1 Medical to ignore Fungal Infection. Otherwise, Survivor may not trade next turn."
-Jehovahs Witnesses:
-    Type: "Combat"
-    Difficulty: 1
-    Special: "On a loss, Trash Jehovah's Witnesses - the current Exploration phase ends for all Exploratory characters. "
-
+    Condition: "The players hold the 'Bunker' emplacement." 
+    Pass: "No effect."
+    Fail: "Damage 2 Emplacements."
+Underground Experimentation:
+    Type: "Catastrophe"
+    Condition: "The players hold the 'Hospital' emplacement." 
+    Pass: "Each player may discard 1 Mutation from their hand." 
+    Fail: "Each player rolls a die. On a 1-4, they gain a Mutation. On a 4-6, they gain a Crisis."  
+Plan A:
+    Type: "Catastrophe"
+    Special: "Each player draws and resolves a Crisis card. If it is a Collapse, discard it. If it is a Combat, the Fail condition is replaced with 'Destroy an Emplacement' " 
+Plan B: 
+    Type: "Catastrophe" 
+    Special: "Radiation Roll." 
+Plan C:
+    Type: "Catastrophe"
+    Special: "Nothing happens, tonight. Place a second catastrophe, face-up, tomorrow." 
+Agent Orange:
+    Type: "Catastrophe"
+    Condition: "A Shared Combat! Difficulty 16!"
+Super Catastrophe Phase 1:
+    Type: "Catastrophe"
+    Special: "Shared Combat! Difficulty 60!"
+    Fail: "Every player takes 3 Crisis Cards and 3 Radiation Die, and destroy 3 Emplacements." 
+    Flavor: "They had never seen anything like it. A flood of Marauders, Radiation Angels, everything the Wasteland could throw at them. " 
+Super Catastrophe Phase 2: 
+    Type: "Catastrophe"
+    Special: "Single Combat! Each (live) player faces a Combat of Difficulty 8" 
+    Fail: "The failing player takes 2 Crisis Cards and 2 Radiation Die, and destroys 1 Emplacement."
+    Flavor: "When it was over, there was still some clean-up to do. " 
+Super Catastrophe Phase 3:
+    Type: "Catastrophe"
+    Special: "Radiation Roll." 

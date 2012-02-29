@@ -1,62 +1,43 @@
 Adam Nathan:
     Profession: "Paramedic" 
-    Health: 4
-    Morale: 6
+    Health: 7
+    Morale: 5
     Once Per Game: "CPR: A player that should die at the end of this Day, does not."
-    Also Once Per Game: "Combat Hospital: All characters may discard a Crisis card or 2 Mutation cards. "   
+    Also Once Per Game: "Combat Hospital: All characters may discard a Crisis card or Radiation Die. "   
 Jai Jayendra: 
     Profession: "Security Guard" 
-    Health: 6
-    Morale: 4
+    Health: 7
+    Morale: 5
     Once Per Day: "Human Weapon: Jai gets 1 bonus Weapon. " 
     Once Per Game: "Human Typhoon: Jai gets 5 bonus Weapon. " 
 Justice Lin: 
     Profession: "Paralegal" 
-    Health: 6
-    Morale: 4
+    Health: 7
+    Morale: 5
     Once Per Day: "Exploratory: Justice may choose to redraw all cards drawn during her Exploration phase. " 
     Once Per Game: "Organized: Justice may sort a Location's Event Deck."   
 Naoki Urasawa:
     Profession: "Student"
-    Health: 5
+    Health: 7
     Morale: 5
-    Once Per Day: "Creative Eater: Naoki may exhaust any Salvage card to produce 1 Food. " 
-    Always: "Deadline Stall: While Naoki is in play, the game takes 17 turns to end, rather than 14." 
+    Once Per Day: "Creative Eater: Naoki does not require food. " 
 Rodrigo Gabriel: 
     Profession: "Salvager"
     Health: 7
-    Morale: 3
+    Morale: 5
     Once Per Day: "Found: Draw 1 Common Salvage and add it to your hand."
     Once Per Game: "Restock: Draw 3 Common Salvage for each player and add it to the Stockpile." 
 The King: 
     Profession: "Mutant"
     Health: 7
-    Morale: 3
+    Morale: 5
     Once Per Day: "Mutate: Trash 1 Mutation. Draw 1 Mutation." 
     Also Once Per Day: "Uninjured: Trash 1 Crisis Card. Draw 1 Mutation and 1 Radiation Die." 
-    Always: "A 3-of-a-kind result on a Radiation Roll does not kill The King. A four-of-a-kind does." 
-David Brisby:
-    Profession: "TV Chef"
-    Health: 4
-    Morale: 6
-    Once Per Day: "Cook: David produces 1 bonus Food for every Food David would normally produce in a turn. " 
-    Also Once Per Day: "Anything: If a Survivor dies, David may spend 1 Morale to produce 1 food for every player on the board. " 
-Lori Cranston:
-    Profession: "Mother"
-    Health: 5
-    Morale: 5
-    Once Per Game: "MARTEN!: Lori may search the Survivor deck for Marten Cranston, and shuffle him into any Location containing at least 6 cards." 
-    Always: "Iron Resolve: If Marten Cranston is in play or in the Tent City, Lori is impervious to Crisis Cards. If Marten dies, Lori loses 4 Morale." 
-Marten Cranston: 
-    Profession: "8-Year Old" 
-    Health: 6
-    Morale: 1
-    Once Per Game: "MOM!: Marten may search the Survivor deck for Lori Cranston, and shuffle her into any Location containing at least 6 cards. " 
-    Always: "Oblivious: Marten does not lose Morale." 
+    Always: "A 4-of-a-kind result on a Radiation Roll does not kill The King. A 5-of-a-kind does." 
 Jeff Wheeler: 
     Profession: "Welder"
-    Health: 6
-    Morale: 4
+    Health: 7
+    Morale: 5
     Once Per Day: "Fixed It: When Jeff would Trash a card from his hand, you may instead put it in the Stockpile." 
-    Once Per Game: "Carpentry: Jeff may remove a Crisis card from any Location." 
+    Once Per Game: "Carpentry: Jeff may repair any Emplacement." 
 
