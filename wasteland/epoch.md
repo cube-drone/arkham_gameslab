@@ -18,28 +18,31 @@ The survivors weren't going anywhere.  They had made a home here. They were goin
 
 They needed to build a fortress. They had 2 weeks. 
 
-DECKS
+SUPPLY
 -----
 
-Emplacement Deck ( Represending locations that your Survivors must protect )
-Location Deck ( Representing Locations that your Survivors must visit )
+Location/Emplacement Deck ( Represending locations that your Survivors must capture and defend )
 Survivor Deck ( Representing your Survivors ) 
 Common Salvage Deck ( Representing useful items your Survivors will accumulate )
 Rare Salvage Deck ( Represing very useful items your Survivors will accumulate ) 
 Crisis Deck ( Representing awful things that happen while you explore Locations ) 
+Catastrophe Deck ( Representing awful things that happen at night. ) 
 Mutation Deck ( Representing awful things that happen when you are too irradiated )
+
+Survivor Tokens
+Radiation Dice
+Attack Dice
+First Player's Trophy
 
 WIN/LOSE
 --------
 
 This is a co-operative game.  All players win by gathering 10 VP of locations.
 
-All players lose if no Survivors remain alive, if every Emplacement in the Settlement is damaged, if Morale hits 0, or on the night of the 14th day.  
+All players lose if no Survivors remain alive, if every Emplacement in the Settlement is damaged, or on the night of the 14th day.  
 
 GAME START
 ----------
-
-- Decide on an object.  This object will be the "First Player's Trophy".
 
 - The last person to have killed a person with his bare hands gets the First Player's Trophy.
     - In the (admittedly likely) case of a tie, choose the first player with a die roll. 
@@ -55,7 +58,7 @@ GAME START
 
 - The "Apartment Building" Location is put into play, in the center of the table. 
 
-- Put the "Tent City", and "Stockpile" Emplacements in play, in the center of the table. Put 3 Common Salvage cards in the Stockpile for every player. 
+- Put the "Tent City", and "Stockpile" Emplacements in play, in the center of the table. 
 
 DAY
 ---
@@ -76,11 +79,10 @@ DAY
     - If they have decided to Explore an Existing Location, they must declare which location.
     - If they have decided to Stay Home, they must decide which Emplacement they will occupy.  
 
-
 #### Radiation Roll ####
 - Roll all of the player's Radiation Dice.
     - On a pair, the player draws a Mutation from the Mutation Deck and adds it to his hand, then discards 1 Radiation Die.
-    - On a three-of-a-kind, the player dies. 
+    - On a three-of-a-kind, the player's Survivor dies. 
 
 ### NOON ###
 - One at a time, starting from the First Player: 
@@ -89,6 +91,7 @@ DAY
 - Then, attack the Settlement. 
 
 #### Explore a New Location ####
+- Only one player may explore a new location every turn. 
 - Draw a Location from the Location Deck.
 - Draw as many cards from each Deck as are listed on the Location card, shuffle them together, and create a deck with them.
     - Place this deck face-down next to the upturned Location card. We shall refer to this as the "Event Deck"
@@ -105,7 +108,7 @@ DAY
         - 1 card from the Rare Salvage Deck, and
         - 1 card from the Survivors Deck, 
         - shuffle them together to make the Mall's Event Deck, and place them face down next to the Mall card. 
-- Then, the player draws and resolves the top card from the newly created Event Deck. 
+- Then, the player draws and resolves the top three cards from the newly created Event Deck. 
 
 #### Explore an Existing Location ####
 - Shuffle the explored location's Event Deck. 
@@ -160,7 +163,7 @@ DAY
     - Any surplus Food points generated may be given to other players that they might survive.  
 - Each Survivor has a "Health" rating. This number is their hand limit. 
 - If any player has more than their cards in their hand than their hand limit, they must discard Salvage cards to the Stockpile until they are down to their hand limit. 
-    - If the player cannot discard down to their hand limit (All of the Player's cards are Crisis cards or Mutation cards), the player dies. 
+    - If the player cannot discard down to their hand limit (All of the Player's cards are Crisis cards or Mutation cards), the player's Survivor dies. 
 - If the Survivor has no Morale tokens, the Survivor dies. 
 
 DEATH

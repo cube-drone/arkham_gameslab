@@ -26,46 +26,46 @@ Jerky:
     Quantity: 5
     Special: "Trash to gain 1 Food. Lose 1 Morale." 
     Flavor: "Unidentifiable meat is spooky." 
-Snack Cake:
+Snacky Cake:
     Type: "Food"
     Quantity: 5
     Special: "Trash to gain 1 Food and 1 Morale." 
 Bandage: 
     Type: "Medical"
-    Quantity: 9
-    Special: "Trash to gain 1 Medical." 
-NonSteroidal AntiInflammatory Drugs:
-    Type: "Medical"
-    Quantity: 3
-    Special: "Trash to gain 1 Medical and 1 Radiation Die." 
-Bullet: 
+    Quantity: 5
+    Special: "Trash to Trash a Mutation or Crisis from your hand." 
+Antique Revolver: 
     Type: "Weapon"
     Quantity: 12
-    Special: "Trash to gain 1 Weapon" 
+    Weapon: 1
+    1 to 4: "Trash"
+    5: "Stockpile" 
+    Flavor: "There were a few bullets left in there. It would have to do, for now." 
 Knife: 
     Type: "Weapon"
-    Quantity: 12
-    Special: "Stockpile to gain 1 Weapon" 
+    Quantity: 9
+    Weapon: 1
+    1 to 4: "Trash" 
+    Flavor: "Foolish enemies! Knives need no ammo! ... shit." 
 Golf Club: 
     Type: "Weapon"
-    Quantity: 1
-    Special: "Stockpile to gain 1 Weapon" 
+    Quantity: 6
+    Weapon: 1
+    1 to 3: "Trash" 
 Frying Pan:
     Type: "Weapon"
-    Quantity: 1
-    Special: "Stockpile to gain 1 Weapon" 
-Lamp:
-    Type: "Weapon"
-    Quantity: 1
-    Special: "Stockpile to gain 1 Weapon" 
+    Quantity: 3
+    Weapon: 1
+    1 to 2: "Trash" 
 Cat:
-    Type: "Weapon"
+    Type: "Ally"
     Quantity: 1
-    Special: "Stockpile to gain 1 Weapon. Gain 1 Morale." 
-Boomerang:
-    Type: "Weapon"
+    Special: "Trash to gain 1 Weapon and 1 Morale." 
+Baseball Bat:
+    Type: "Weapon" 
     Quantity: 1
-    Special: "Trash to gain 1 Weapon"
+    Weapon: 1
+    1: "Trash" 
 Grenade: 
     Type: "Weapon" 
     Quantity: 5
@@ -74,23 +74,10 @@ Crude Map:
     Type: "Ally"
     Quantity: 3
     Special: "Trash during New Exploration. When drawing a new Location, instead draw two Location cards, choose one, and return the other one to the bottom of the Location deck."  
-Baseball Bat:
-    Type: "Weapon" 
-    Quantity: 1
-    Special: "Discard to gain 1 Weapon" 
 Unintelligent Child: 
     Type: "Ally"
     Quantity: 1
     Special: "Trash to resolve any Crisis Card without suffering ill effects. Lose 1 Morale." 
-Car Door: 
-    Type: "Weapon"
-    Quantity: 2
-    Special: "Play to gain 1 Weapon. Roll a die. On a 4-5, Stockpile the Car Door. On a 6, Trash the Car Door." 
-Trusty Revolver:
-    Title: "\"Trusty\" Revolver" 
-    Type: "Weapon"
-    Quantity: 1
-    Special: "Play to gain 2 Weapon. Roll a d6. On a 5-6, Trash the Revolver. " 
 VCR: 
     Type: "Ally"
     Quantity: 1
@@ -108,7 +95,3 @@ Man Wearing A Bunny Bucket On His Head:
     Quantity: 1
     Special: "Does nothing." 
     Flavor: "He just... follows you." 
-Sledgehammer:
-    Type: "Weapon"
-    Quantity: 4
-    Special: "Play to gain 1 Weapon."
