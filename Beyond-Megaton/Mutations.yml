@@ -1,28 +1,28 @@
 "Tentacle hands":
         Type: "Mutation"
-	Quantity: 3
-	Effect: "Player may only select 9 cards during the prep phase."
+        Quantity: 3
+        Effect: "Player may only select 9 cards during the prep phase."
 "Ghoulish features":
-	Type: "Mutation"
-	Quantity: 3
-	Effect: "Player may no longer select an ally during the prep phase."
+        Type: "Mutation"
+        Quantity: 3
+        Effect: "Player may no longer select an ally during the prep phase."
 "Acidic blood":
-	Type: "Mutation"
-	Quantity: 3
-	Effect: "Player loses 1 health at the start of each round of play."
+        Type: "Mutation"
+        Quantity: 3
+        Effect: "Player loses 1 health at the start of each round of play."
 "Radioactive sponge":
-	Type: "Mutation"
-	Quantity: 3
-	Effect: "Player gains 1 rad at the start of each round of play."
+        Type: "Mutation"
+        Quantity: 3
+        Effect: "Player gains 1 rad at the start of each round of play."
 "Slime touch":
-	Type: "Mutation"
-	Quantity: 3
-	Effect: "At the start of each round of play, player must trash a card from their stockpile."
+        Type: "Mutation"
+        Quantity: 3
+        Effect: "At the start of each round of play, player must trash a card from their stockpile."
 "Cursed from birth":
-	Type: "Mutation"
-	Quantity: 3
-	Effect: "Anytime the player would roll a dice, instead resolve it as if the player had rolled a 1."
+        Type: "Mutation"
+        Quantity: 3
+        Effect: "Anytime the player would roll a dice, instead resolve it as if the player had rolled a 1."
 "Radioactive rage":
-	Type: "Mutation"
-	Quantity: 3
-	Effect: "Player must always choose to resolve 3 encounters during exploration."
+        Type: "Mutation"
+        Quantity: 3
+        Effect: "Player must always choose to resolve 3 encounters during exploration."
