@@ -1,80 +1,101 @@
 -
 	Title: "Abandoned hospital"
+	Type: "Location"
+	Quantity: 1
 	Reward: 
 		Common: 1
 		RareMedical: 1
 -
 	Title: "Delapidated Pub"
+	Type: "Location"
+	Quantity: 1
 	Reward: 
 		Common: 2
 -
 	Title: "Another abandoned mall"
+	Type: "Location"
+	Quantity: 1
 	Reward: 
 		Common: 2
 -
 	Title: "Oasis"
+	Type: "Location"
+	Quantity: 1
 	Reward:
 		Common: 2
 	Special: "Immediately after this location is set up, randomly remove one of the encounter cards placed on it."
 -
 	Title: "Quick-n-Go"
+	Type: "Location"
+	Quantity: 1
 	Reward:
 		Common: 1
 -
 	Title: "B.O.S. Outpost"
+	Type: "Location"
+	Quantity: 1
 	Rewards: 
 		RareWeapon: 2
 	Special: "When setting up this location, add 1 additional rare encounter."
 -
 	Title: "Tenpenny Tower"
+	Type: "Location"
+	Quantity: 1
 	Rewards: 
 		Common: 1
 		Ally: 1
 -
 	Title: "Super Mutant Territory"
+	Type: "Location"
+	Quantity: 1
 	Rewards: 
 		Common: 2
 		RareWeapon: 1
 	Special: "When setting up this location, search through the rare encounter deck and the wasteland for the 'Super Mutant' encounter card and add it."
 -
 	Title: "Techno Cult"
+	Type: "Location"
+	Quantity: 1
 	Rewards:
 		Common: 1
 		RareWeapon: 1
 	Flavour: "Before the great war, these places were shrines of worship for sleek, polished white machines."
 -
 	Title: "Nuka Cola Factory"
+	Type: "Location"
+	Quantity: 1
 	Rewards:
-		Common: 1
-		RareFood: 1
+		Common: 2
 -
 	Title: "Collapsed Subway"
+	Type: "Location"
+	Quantity: 1
 	Rewards:
 		Ally: 1
 -
 	Title: "Tent City"
+	Type: "Location"
+	Quantity: 1
 	Rewards:
 		Common: 1
 		Ally: 1
 -
-	Title: "Burrito Gong"
-	Rewards:
-		RareFood: 1
--
-	Title: "Burger Meltdown"
-	Rewards:
-		RareFood: 1
--
 	Title: "Medical waste facility"
+	Type: "Location"
+	Quantity: 1
 	Rewards:
 		RareMedical: 1
 -
 	Title: "Deadly valley"
+	Type: "Location"
+	Quantity: 1
 	Rewards: 
 		Common: 3
 	Special: "Immediately lose 1 health upon initiating an exporation of this location."
 -
 	Title: "Doomsday weapon factory"
+	Type: "Location"
+	Quantity: 1
 	Rewards:
 		RareWeapon: 1
 	Special: "When this location is cleared, the player who cleared it may choose to have all players gain 2 rad."
