@@ -1,50 +1,40 @@
--
-	Title: "Duke"
-	Type: "Ally"
-	Quantity: 1
-	Effect: "Once per round: Prevent 1 damage. Flip this card face down to indicate it has been used. Trash Duke during an encounter: +2 Damage."
--
-	Title: "Mr. Gutsy"
-	Type: "Ally"
-	Quantity: 2
-	Effect: "Once per round: +1 Damage. Flip this card face down to indicate it has been used."
--
-	Title: "Ranger Dan"
-	Type: "Ally"
-	Quantity: 1
-	Effect: "Once per round: When performing an exploration, draw the encounter cards without revealing them. You may choose not to resolve one of the encounters, and instead return the card to the top of the location it was drawn from.  Flip this card face down to indicate it has been used."
--
-	Title: "Scavenging Ghouls"
-	Type: "Ally"
-	Quantity: 3
-	Effect: "Trash during an encounter: Add a card from the wasteland to your stockpile."
--
-	Title: "Repair drone"
-	Type: "Ally"
-	Quantity: 1
-	Effect: "Once per round: The next time you would trash one of your salvage, instead return it to your stockpile. Flip this card face down to indicate it has been used."
--
-	Title: "Doc Mitchell"
-	Type: "Ally"	
-	Quantity: 1
-	Effect: "Once per round: Prevent 2 damage. Flip this card face down to indicate it has been used."
--
-	Title: "Captain Parker"
-	Type: "Ally"
-	Quantity: 1
-	Effect: "Trash during an encounter: +5 Damage."
--
-	Title: "Easy Pete"
-	Type: "Ally"
-	Quantity: 1
-	Effect: "Once per round: When you next gain a common salvage, draw an additional salvage from the common salvage deck. Pick one card, and discard the other in the wasteland. Flip this card face down to indicate it has been used."
--
-	Title: "Driver Neferti"
-	Type: "Ally"
-	Quantity: 1
-	Effect: "Once per round: +2 Damage. All players lose 1 health. Turn this card face down to indicate it has been used."
--
-	Title: "Children of the Atom"
-	Type: "Ally"
-	Quantity: 1
-	Effect: "Once per round: All players gain 1 rad. Turn this card face down to indicate it has been used."
+"Duke":
+    Type: "Ally"
+    Quantity: 1
+    Effect: "Once per round: Prevent 1 damage. Flip this card face down to indicate it has been used. Trash Duke during an encounter: +2 Damage."
+"Mr. Gutsy":
+    Type: "Ally"
+    Quantity: 2
+    Effect: "Once per round: +1 Damage. Flip this card face down to indicate it has been used."
+"Ranger Dan":
+    Type: "Ally"
+    Quantity: 1
+    Effect: "Once per round: When performing an exploration, draw the encounter cards without revealing them. You may choose not to resolve one of the encounters, and instead return the card to the top of the location it was drawn from.  Flip this card face down to indicate it has been used."
+"Scavenging Ghouls":
+    Type: "Ally"
+    Quantity: 3
+    Effect: "Trash during an encounter: Add a card from the wasteland to your stockpile."
+"Repair drone":
+    Type: "Ally"
+    Quantity: 1
+    Effect: "Once per round: The next time you would trash one of your salvage, instead return it to your stockpile. Flip this card face down to indicate it has been used."
+"Doc Mitchell":
+    Type: "Ally"	
+    Quantity: 1
+    Effect: "Once per round: Prevent 2 damage. Flip this card face down to indicate it has been used."
+"Captain Parker":
+    Type: "Ally"
+    Quantity: 1
+    Effect: "Trash during an encounter: +5 Damage."
+"Easy Pete":
+    Type: "Ally"
+    Quantity: 1
+    Effect: "Once per round: When you next gain a common salvage, draw an additional salvage from the common salvage deck. Pick one card, and discard the other in the wasteland. Flip this card face down to indicate it has been used."
+"Driver Neferti":
+    Type: "Ally"
+    Quantity: 1
+    Effect: "Once per round: +2 Damage. All players lose 1 health. Turn this card face down to indicate it has been used."
+"Children of the Atom":
+    Type: "Ally"
+    Quantity: 1
+    Effect: "Once per round: All players gain 1 rad. Turn this card face down to indicate it has been used."
