@@ -1,0 +1,65 @@
+-
+	Title: "Rad Scorpion"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Toughness: 1"
+		"Lose 1 health. Gain 1 rad."
+-
+	Title: "Mindless Ghoul"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Toughness: 1"
+		"Lose 1 health."
+-
+	Title: "Blistering heatwave"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Lose 1 health."
+-
+	Title: "Leaky containment chamber"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve: "Gain 1 rad."
+-
+	Title: "Shifty trader"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Toughness: 1"
+		"Trash 1 salvage card from your stockpile or hand."
+-
+	Title: "Psychotic Raider"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Toughness: 1"
+		"Lose 1 health."
+-
+	Title: "Irradiated Expanse"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Gain 1 rad."
+-
+	Title: "Poisoned groundwater"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Gain 1 health. Gain 2 rad."
+		"Gain 1 rad."
+- 
+	Title: "Booby-trapped Shack"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Roll a D6. On a 4-6: Lose 2 health."
+-
+	Title: "Rad roach"
+	Type: "Encounter"
+	Quantity: 4
+	Resolve:
+		"Toughness: 1"
+		"Gain 1 rad."
