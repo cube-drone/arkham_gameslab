@@ -25,9 +25,13 @@
 	Effect: "Once per round: The next time a card would be trashed, instead return it to your stockpile. Flip this card face down to indicate it has been used."
 -
 	Title: "Doc Mitchell"
-	Type: "Ally"	
-	Quantity: 1
+<<<<<<< Updated upstream
 	Effect: "Once per round: Prevent 2 damage. Flip this card face down to indicate it has been used."
+=======
+	Type: "Ally"
+	Quantity: 1
+	Effect: "Once per round: Prevent 2 damage. Flip this card face down to indicate it has been used.
+>>>>>>> Stashed changes
 -
 	Title: "Captain Parker"
 	Type: "Ally"
