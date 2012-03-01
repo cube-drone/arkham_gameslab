@@ -56,7 +56,7 @@ Baseball Bat:
     Type: "Weapon" 
     Quantity: 1
     Weapon: 1
-    1: "Trash" 
+    "1": "Trash" 
 Grenade: 
     Type: "Weapon" 
     Quantity: 10
