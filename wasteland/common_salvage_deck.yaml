@@ -15,11 +15,11 @@ Bucket of Chicken:
 Choka Cola:
     Type: "Food"
     Quantity: 5
-    Special: "Trash to gain 1 Food and 1 Radiation Die."
+    Special: "Trash to gain 1 Food."
 Jerky:
     Type: "Food"
     Quantity: 5
-    Special: "Trash to gain 2 Food. Lose 1 Morale." 
+    Special: "Trash to gain 2 Food." 
     Flavor: "Unidentifiable meat is spooky." 
 Snacky Crate:
     Type: "Food"
@@ -28,7 +28,7 @@ Snacky Crate:
 Antique Revolver: 
     Type: "Weapon"
     Quantity: 5
-    Weapon: 1
+    Weapon: 2
     1 to 3: "Trash"
     4 to 5: "Stockpile" 
     Flavor: "There were a few bullets left in there. It would have to do, for now." 
@@ -50,8 +50,8 @@ Frying Pan:
     1 to 2: "Trash" 
 Cat:
     Type: "Ally"
-    Quantity: 2
-    Special: "Trash to gain 1 Weapon and 1 Morale." 
+    Quantity: 1
+    Special: "Trash to gain 1 Weapon and discard 1 Trauma Die." 
 Baseball Bat:
     Type: "Weapon" 
     Quantity: 1
@@ -64,4 +64,4 @@ Grenade:
 Unintelligent Child: 
     Type: "Ally"
     Quantity: 2
-    Special: "Trash to resolve any Crisis Card without suffering ill effects. Lose 1 Morale." 
+    Special: "Trash to resolve any Crisis Card without suffering ill effects. Make a Trauma Roll." 

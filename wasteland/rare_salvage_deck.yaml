@@ -28,7 +28,7 @@ Flamethrower:
     Special: "Play to gain 4 Weapon." 
     1: "Take 1 Crisis Card and add it to your hand." 
     2: "Trash" 
-    3-4: "Stockpile" 
+    3 to 4: "Stockpile" 
 Sniper Rifle: 
     Type: "Weapon" 
     Quantity: 2
@@ -52,11 +52,11 @@ Calvary Sabre:
     Flavor: "CHAAAAAARGE!"
 Radaway: 
     Type: "Medical"
-    Quantity: 1
+    Quantity: 2
     Special: "Trash to Lose 1 Radiation Die." 
 Bandage: 
     Type: "Medical"
-    Quantity: 1
+    Quantity: 2
     Special: "Trash to Trash a Mutation or Crisis from your hand." 
 The Only Way Out:
     Type: "Ally"
@@ -65,16 +65,12 @@ The Only Way Out:
 Radio Paradise:
     Type: "Ally"
     Quantity: 1
-    Special: "Trash. Every player gains 2 Morale." 
+    Special: "Trash. You lose 1 Trauma Die." 
     Flavor: "The only Radio Station left in the Wastelands, now back on the air!" 
 Fridge: 
     Type: "Ally"
     Quantity: 1
     Special: "Stockpile to avoid taking Radiation Die. " 
-Rad B Gone:
-    Type: "Medical"
-    Quantity: 1
-    Special: "Trash to remove all Radiation Die from one player." 
 Doctor Max Health MD:
     Type: "Ally"
     Quantity: 1
