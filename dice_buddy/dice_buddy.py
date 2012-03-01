@@ -1,4 +1,5 @@
 import math
+import itertools
 
 def combinations_with_replacement(iterable, r):
     # combinations_with_replacement('ABC', 2) --> AA AB AC BB BC CC
@@ -27,7 +28,7 @@ def pairs( d, n ):
     dice = range( 1, d+1 )
     pairs_without_overlap = [0] * n
     pairs_with_overlap = [0] * n
-    combinations = combinations_with_replacement( dice, n )
+    combinations = itertools.product( dice, repeat=n )
     counter = 0
     for tup in combinations: 
         counter += 1
