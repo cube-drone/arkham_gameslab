@@ -4,7 +4,7 @@ Stockpile:
     Type: "Starting"
 Exploratory Party: 
     Quantity: 1
-    Special: "Draw 4 Crisis cards. Hand them out, 1 to each player. Swap one emplacement. Add 4 Common Salvage to the Stockpile." 
+    Special: "Draw Crisis cards. Hand them out, evenly, to each player. Swap one emplacement. Add Common Salvage to the Stockpile." 
     Type: "Starting" 
 Outpost: 
     Quantity: 1
