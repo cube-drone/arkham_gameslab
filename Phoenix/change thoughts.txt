@@ -1,0 +1,63 @@
+Needs new combat mechanics badly
+	- use Game of Thrones cards for combat?
+		- provides bluffing and potentially special abilities
+		- need to have abilities that are for:
+			- fleets that are definitely going to lose
+			- support abilities for near by fleets and/or planets/production
+		- cycle through cards as in GoT
+	- retreating fleets must be put onto a warp token. If you don't have any the fleet is destroyed.
+	- should be allowed to retreat fleet, but with a penalty. Maybe draw another combat card?
+	1. ***attacker chooses how many ships to kill, and they also lose that many -1.
+	2. defender loses half their ships, attacker loses that many - 1
+	3. attacker chooses how many ships defender loses. Attacker then loses
+	4. possible dice rolling addition, but I don't like it.
+		- roll for every ship, add up total, bigger fleet destroys smaller fleet
+
+Some way for person to defend an incoming fleet? Or is it necessary? 
+	- person sends massive fleet to attack. 
+	- Perfect Play: everyone has the same number of ships until some are destroyed through combat
+		- that means a massive fleet would have left other planets undefended
+			- which means there are an unequal swap for the massive fleet
+		- whack-a-mole planet swapping is ok I think
+	- so should keep the production separate from actions
+		- you produce ships regardless of what else you do
+		
+Lack of "front line defense"?
+	- there is no way to create a defensive border to hold against
+	- I like this because the defensive borders create static situations that I don't like.
+	- However it is slightly unnerving to have a planet taken by an opponent that easily.
+
+What is the victory condition? If it's "take home system" or "win all systems", it's bad.
+	- VP gathering?
+	- each race has different victory conditions?
+	- victory condition deck? <--
+
+Needs more warp tokens?
+	- unlimited, or some larger limited number?
+		- limited number means you need to have one available for retreating fleets
+	- Should be able to have more than 2 fleets in warp at once.
+	- This would encourage smaller fleets.
+	- Makes motion more easy
+		- which will make taking a planet easier
+		- which puts more emphasis on defense?
+	- "one departure of any kind per turn"? That sounds not useful.
+		- coordination of attacking fleets is unnecessarily cumbersome
+	
+"Player losing their home star cannot produce more ships"
+	- need better penalty than this...this is to harsh.
+
+Combat cards - a deck of cards drawn before each combat to affect it?
+		- friendly fire
+		- asteroid fields
+		- space creature
+		- tall planetary gravity well
+		
+		- ability for attacker to retreat after winning?
+		
+
+Random Thoughts:
+- need to encourage back and forth play - it's ok to lose a system
+- need to encourage loss of ships - no cold wars
+- needs to play in an hour
+- try production every other turn...I kind of want production to be linked to something else though.
+- turns have to be quick
