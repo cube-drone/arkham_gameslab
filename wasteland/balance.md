@@ -14,24 +14,15 @@ Radiation Die
 
 ### Mutation on Pair, Death on 3-of-a-kind ###
 - 2 Die : Chance of Mutation: 16%
-- 3 Die : Chance of Mutation: 53% : Chance of Death: 10% 
-- 4 Die : Chance of Mutation: 59% : Chance of Death: 28% 
-- 5 Die : Chance of Mutation: 47% : Chance of Death: 50%
-- 6 Die : Chance of Mutation: 30% : Chance of Death: 69%
-- 7 Die : Chance of Mutation: 15% : Chance of Death: 84%
-- 8 Die : Chance of Mutation: 6% : Chance of Death: 93%
-- 9 Die : Chance of Mutation: 2% : Chance of Death: 97% 
+- 3 Die : Chance of Mutation: 41% : Chance of Death: 3% 
+- 4 Die : Chance of Mutation: 62% : Chance of Death: 9% 
+- 5 Die : Chance of Mutation: 69% : Chance of Death: 21%
+- 6 Die : Chance of Mutation: 61% : Chance of Death: 36%
+- 7 Die : Chance of Mutation: 45% : Chance of Death: 54%
+- 8 Die : Chance of Mutation: 29% : Chance of Death: 70%
+- 9 Die : Chance of Mutation: 15% : Chance of Death: 84% 
 
-### Mutation on 3-of-a-kind, Death on 4-of-a-kind ###
-- 3 Die : Chance of Mutation: 10% 
-- 4 Die : Chance of Mutation: 23%, Chance of Death: 4%
-- 5 Die : Chance of Mutation: 35%, Chance of Death: 14%
-- 6 Die : Chance of Mutation: 42%, Chance of Death: 27%
-- 7 Die : Chance of Mutation: 41%, Chance of Death: 42%
-- 8 Die : Chance of Mutation: 35%, Chance of Death: 57%
-- 9 Die : Chance of Mutation: 26%, Chance of Death: 71%
-
-In a game 7 turns long, where the player gains 1 rad per turn, what is the probability of survival? 34% 
+In a game 7 turns long, where the player gains 1 rad per turn, what is the probability of survival?  
 
 In a game 7 turns long, where the player gains 1 rad per turn, but loses one Radiation Die, the probability is a much more survivable 60%.
 
