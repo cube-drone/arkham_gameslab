@@ -6,8 +6,8 @@ Duke:
     Type: "Ally"
     Quantity: 1
     Special: "Play to gain 2 Weapon. Trash to gain 1 Food." 
-    1: "Trash"
-    2: "Stockpile" 
+    "1": "Trash"
+    "2": "Stockpile" 
 Tactical Thermonuclear Device:
     Type: "Weapon" 
     Quantity: 2
@@ -26,8 +26,8 @@ Flamethrower:
     Type: "Weapon"
     Quantity: 1
     Special: "Play to gain 4 Weapon." 
-    1: "Take 1 Crisis Card and add it to your hand." 
-    2: "Trash" 
+    "1": "Take 1 Crisis Card and add it to your hand." 
+    "2": "Trash" 
     3 to 4: "Stockpile" 
 Sniper Rifle: 
     Type: "Weapon" 
