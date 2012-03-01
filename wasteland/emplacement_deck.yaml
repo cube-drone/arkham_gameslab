@@ -8,7 +8,7 @@ Exploratory Party:
     Type: "Starting" 
 Outpost: 
     Quantity: 1
-    Special: "Gain 1 Common Salvage, and the First Player Token." 
+    Special: "Gain 1 Trauma Die, Gain 1 Common Salvage, and the First Player Token." 
     Type: "Starting" 
     Flavor: "May not be taken twice in a row." 
 Irradiated Skyscraper: 
@@ -21,7 +21,7 @@ School Zone :
     Type: "Starting" 
 Construction Site: 
     Quantity: 1
-    Special: "Add one card from your hand, and 3 Common Salvage to the Stockpile. " 
+    Special: "Gain 1 Trauma Die. Add one card from your hand, and 3 Common Salvage to the Stockpile. " 
     Type: "Starting" 
 Tent City:
     Quantity: 1
@@ -32,13 +32,13 @@ Hospital:
     Special: "Gain 1 Trauma Die and Discard 1 Crisis Card." 
 Radio Station:
     Quantity: 1
-    Special: "Give 1 of your own Trauma Die to another player. Add 2 Common Salvage to the Stockpile." 
+    Special: "Give 1 of your own Trauma Die to another player. Give 1 (new) Trauma Die to another player. Add 3 Common Salvage to the Stockpile." 
 Weapons Cache:
     Quantity: 1
-    Special: "Add 2 Rare Salvage to the Stockpile." 
+    Special: "Take 1 Radiation Die. Add 2 Rare Salvage to the Stockpile." 
 Experimental Lab: 
     Quantity: 1
-    Special: "Give 1 of your own Radiation Die to another player. Add 1 Rare Salvage to the Stockpile." 
+    Special: "Give 1 of your own Radiation Die to another player. Give 1 (new) Radiation Die to another player. Add 1 Rare Salvage to the Stockpile." 
 Farm:
     Quantity: 1
     Special: "Gain 1 Radiation Die and 4 Common Salvage"
@@ -50,17 +50,17 @@ Hardware Store:
     Special: "Resolve 1 Crisis.  Gain 1 Rare Weapon." 
 Bunker: 
     Quantity: 2
-    Special: "Gain +3 Weapon for the rest of the Round." 
+    Special: "Give 1 (new) Trauma Die to another player. Discard 2 Common Salvage. Gain +3 Weapon for the rest of the Round." 
 Cannery: 
     Quantity: 1
-    Special: "Produce 3 Food." 
+    Special: "Give 1 (new) Radiation Die to another player. Produce 3 Food." 
 Machine Shop: 
     Quantity: 1
-    Special: "Trade 2 Common Salvage from your hand for 1 Rare Salvage." 
+    Special: "Trade 3 Common Salvage from your hand for 1 Rare Salvage." 
 Communications Tower: 
     Quantity: 1
     Special: "Swap today's Catastrophe with any upcoming Catastrophe." 
     Flavor: "But not the Super Catastrophe." 
 Emergency Response Team:
     Quantity: 1
-    Special: "Choose one player, not yourself, to discard 1 Radiation or Trauma die." 
+    Special: "Discard 1 Rare Salvage  to discard 1 Radiation or Trauma die. -or- Discard 2 Common Salvage. Choose one player, not yourself, to discard 1 Radiation or Trauma die." 
