@@ -21,7 +21,7 @@ School Zone :
     Type: "Starting" 
 Construction Site: 
     Quantity: 1
-    Special: "Gain 1 Trauma Die. Add one card from your hand, and 3 Common Salvage to the Stockpile. " 
+    Special: "Gain 1 Trauma Die. Add one Crisis or Mutation card from your hand, 1 Mutation card from the deck, and 3 Common Salvage to the Stockpile. " 
     Type: "Starting" 
 Tent City:
     Quantity: 1
@@ -38,7 +38,7 @@ Weapons Cache:
     Special: "Take 1 Radiation Die. Add 2 Rare Salvage to the Stockpile." 
 Experimental Lab: 
     Quantity: 1
-    Special: "Give 1 of your own Radiation Die to another player. Give 1 (new) Radiation Die to another player. Add 1 Rare Salvage to the Stockpile." 
+    Special: "Give 1 of your own Radiation Die to another player. Add 1 Common Salvage to the Stockpile." 
 Farm:
     Quantity: 1
     Special: "Gain 1 Radiation Die and 4 Common Salvage"
