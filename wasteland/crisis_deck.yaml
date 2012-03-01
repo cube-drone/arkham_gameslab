@@ -84,6 +84,10 @@ Pound of Flesh:
     Type: "Collapse"
     Quantity: 1
     Special: "The player may ignore this Crisis - or take it, and a Rare Salvage card from the deck." 
+Building Collapse:
+    Type: "Collapse"
+    Quantity: 1
+    Special: "This location collapses. Return all crisis and salvage cards to the deck. Roll a die. On a 1, your Survivor adds this card to their hand."
 Flashbang Accident:
     Type: "Collapse"
     Quantity: 1
@@ -94,10 +98,10 @@ Trust Me Im A Doctor:
     Special: "Lose 1 Morale -or- Roll a d6.  On a 1, gain a Radiation Die. On a 2, Trash a Crisis Card from your hand. On a 3, gain this Crisis card. On a 4, produce 2 food. On a 5, nothing happens. On a 6, draw and resolve a Crisis from the Crisis deck. " 
 Food Spoilage: 
     Type: "Catastrophe" 
-    Special: "The Hunger phase occurs again." 
+    Special: "The Hunger phase occurs again, this turn." 
 Thieves in the Night:
     Type: "Catastrophe"
-    Special: "All players must trash two Salvage, at random, from their hands." 
+    Condition: "All players must trash two Common or Rare Salvage, at random, from their hands."
 We Found The Pants of an Elder God:
     Type: "Catastrophe"
     Condition: "The first player may choose to pass or fail this Catastrophe." 
@@ -120,16 +124,18 @@ Underground Experimentation:
     Fail: "Each player rolls a die. On a 1-4, they gain a Mutation. On a 4-6, they gain a Crisis."  
 Plan A:
     Type: "Catastrophe"
-    Special: "Each player draws and resolves a Crisis card. If it is a Collapse, discard it. If it is a Combat, the Fail condition is replaced with 'Destroy an Emplacement' " 
+    Special: "Each player draws and resolves a Crisis card. If it is a Collapse, discard it. If it is a Combat, the Fail condition is replaced with 'Destroy an Emplacement of your choice.' " 
 Plan B: 
     Type: "Catastrophe" 
-    Special: "Radiation Roll." 
+    Special: "Every player takes 1 extra radiation die. Radiation Roll. If any Survivors dies or if half of the Survivors mutate, every player may discard 1 radiation die. " 
 Plan C:
     Type: "Catastrophe"
     Special: "Nothing happens, tonight. Place a second catastrophe, face-up, tomorrow." 
-Agent Orange:
+Raider Assault:
     Type: "Catastrophe"
-    Condition: "A Shared Combat! Difficulty 16!"
+    Condition: "A Shared Combat! Difficulty 20!"
+    Pass: "Each player gains 2 Common Salvage"
+    Fail: "Damage the 'Stockpile' emplacement. Discard the stockpile." 
 Super Catastrophe Phase 1:
     Type: "Catastrophe"
     Special: "Shared Combat! Difficulty 60!"
@@ -139,7 +145,6 @@ Super Catastrophe Phase 2:
     Type: "Catastrophe"
     Special: "Single Combat! Each (live) player faces a Combat of Difficulty 8" 
     Fail: "The failing player takes 2 Crisis Cards and 2 Radiation Die, and destroys 1 Emplacement."
-    Flavor: "When it was over, there was still some clean-up to do. " 
 Super Catastrophe Phase 3:
     Type: "Catastrophe"
     Special: "Radiation Roll." 
