@@ -116,6 +116,7 @@ DAY
     - The 'Stockpile', 'Exploratory Party', and 'Outpost' Emplacements may not be swapped out. 
     - The new Emplacement may not be used this turn. 
     - The old Emplacement may still be used this turn. 
+    - Any Common Salvage cards on the old emplacement are returned to the deck at the end of the turn. 
   - Adds Salvage to the Stockpile. (See the Week Track)  
 
 ### NIGHT ###
