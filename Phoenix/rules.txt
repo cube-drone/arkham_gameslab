@@ -1,267 +1,112 @@
-THE PLAYING BOARD
+THE BOARD
 
+The game board has 24 lettered sectors - 4 sectors long by 3 sectors wide by 2 sectors deep. The 12 sectors containing yellow stars are considered to be above the 12 sectors containing red stars. ie. sector A-yellow is directly above sector A-red.
 
-*The Star Field
-Each star has its name in the center. Above the name is the letter showing the sector the star is in. Symbols below the name show the resources of the star.
-
-DIVISION OF THE STAR FIELD INTO SECTORS
-Consider the star field as a volume of space, divided into 24 cubic sectors, 4 long, 3 wide, and 2 deep. Red stars are "below" yellow stars.
-
-The 12 sectors in the upper level are called A-yellow to L-yellow, as they contain the yellow stars. The 12 sectors in the lower level are called A-red to L-red, as they contain the red stars. Thus, sector A-yellow is directly above sector A-red, B-yellow above B-red, and so on.
-
-
-Resources of the Stars
-The symbols under the star names show what resources its planets contain:
+Each sector contains 2 stars. A star may contain resources for use in production.
 	- stars with a O have human population
 	- stars with a + have raw materials
- 
-These resources are gained every second turn (called the "Production Turn") and are used to produce new starships.
 
+There are 4 Home Stars. these are where each player begins the game and also where new ships are built.	
 
-HOME STARS
-
-The four stars at war are called Home Stars. They are:
 	Algol (sector A-yellow)
 	Pavo (sector J-red)
 	Regulus (sector C-yellow)
 	Antares (sector L-red)
 
-You may only build new ships at your Home Star.
+There are four hyperspace track. When making a journey, these are used to indicate how far your fleet has travel. But they don't indicate a direction of travel nor a destination, only how far that fleet is allowed to move.
 
 
 
-*The Hyperspace Paths
+THE PIECES
 
-There are four hyperspace paths. Each path comprises an "Entry Space" followed by spaces 1 to 7.
+Small pieces are 1 starship, large pieces are 5 starships. There are an unlimited number of starships available.
 
-The paths are the basis of the game's hidden movement of ships. When ships make a journey they are taken from the star field and moved along their path. But the path does not indicate a direction of travel nor a destination. The spaces on the path show only the number of turns the ships have been in hyperspace since starting their journey.
+The warp tokens carry fleets as they move along the hyperspace track, and shows the letter and colour of the fleets departure sector. There are a maximum of 5 warp tokens for each player.
 
 
 
-THE PLAYING PIECES
-Each of the smaller pieces is 1 starship. Each of the larger pieces represents 5 ships. 
+GAME SETUP
 
-At the start of the game, each player takes 15 ships (all 1-ship pieces) and positions them around his Home Star. Ships placed around a star represent the occupation of its planets.
+Each player chooses a colour. Take 15 ships and place them around your Home Star.
 
-*Hyperspace Warp Tokens
-The hyperspace warp token serves to carry the ships as they move along the hyperspace path. The warp also records the sector of the star the ships departed from when they began their journey. You have a maximum of 5 warp tokens.
+If playing with 3 players, use Home Stars Regulus and Antares, but make Mira (D-red) the third Home Star. Algol and Pavo become normal non-Home Stars.
+If playing with 2 players, use Home Stars Algol and Antares. Pavo and Regulus become normal non-Home Stars.
 
-When starting a journey, the proper colored marker must be inserted into the hole above the letter of the departure star's sector. 
 
- 
 
-JOURNEYS BETWEEN THE STARS
+GAME TURN
 
-A journey is always from one star to another star.
- 
-Calculating the Journey's Length
-The number of playing turns a journey will take is equal to the number of sectors from the departure star to the arrival star. The method of counting is as follows:
+On your turn:
 
-Start at (and include) the sector containing the departure star, and count until you reach (and include) the sector containing the arrival star. Always count in straight lines and turn, if necessary, at a right angle, horizontally or vertically. Never count diagonally, and never make more than one horizontal and one vertical turn. The number of sectors thus counted is the number of turns a journey between those two stars will require. 
+1. If it is a production turn, produce ships. 
+2. Move all warp tokens a single square forward.
+3. Perform all departures using available warp tokens.
+4. Any number of warp tokens may arrive at a destination star.
+5. Perform any battles.
 
-If the departure star and arrival star are both in the same sector, only the one sector is counted and the complete journey takes only one turn.
+The turn moves around the board clockwise.
 
 
-Making the Journey
-On each turn of the journey, the warp carrying the ships will travel forward one space along the path. Departures are made before arrivals.
 
-All the ships in a warp token must depart from a single star and arrive at a single star.
+PRODUCING
 
-If a warp should travel too many spaces, so that it has moved beyond the furthest sector on the board from its departure sector, the ships on it are lost (returned to box).
+New ships are produced on every second turn. New ships may only be produced at your starting Home Star.
 
+Count the number of +, O pairs on planets that you possess. For each complete pair, you produce 1 ship.
 
 
-MOVES ON EACH TURN
 
-For order of turn, see "Procedure of Play" In the rules for each version of play.
+MOVING WARP TOKENS
 
-When each player takes his turn, he may make several moves that are parts of different journeys. They must be performed in the following order:
+Move all warp tokens a single square forward. Any warp tokens that move past the last warp square are lost in space and are destroyed.
 
-If he has one or both warps already on the path he moves the leading one first, pushing It forwards Into the next space. Then-
-a.	If it is a continuing journey he simply leaves it thereon.	
-b.	If it is due to make an Arrival he transfers the ships in it to the star it has reached and removes the warp from the board.
-If there is a second warp already on the path it is treated in the same way.
 
-If, however, both warps are due to arrive on that turn at the same star, to combine against an enemy fleet, then-
-c.	Both are pushed forward together and make a simultaneous Arrival (see-Multiple Attacking Fleets)
-	
-	If there is now an empty warp available, then the player may also-
-d.	Make one Departure from one star. This may be all the ships at that star or any number of them.
 
+ARRIVALS
 
-Making a Departure
-Place the ships in the warp in the Entry Space, set the marker to record the sector of the departure star, and push the warp into space "1."  If this journey is longer than one turn, this player's moves end here.
+Start at the departure sector - this is "0". Count sectors until you reach (and include) the destination sector.
 
-If, however, this journey requires only one turn (both stars in the same sector) then the ships will also immediately arrive. As explained above, such a journey can be made without using the path.
+	- Count to adjacent sectors. You may not move diagonally.
+	- You may never make more than one horizontal and one vertical turn.
+	- You may not backtrack.
 
-A player may make only one departure of any kind in one turn. If both warps are on the path on continuing journeys, then neither is available, and no departure of any kind can be made.
+Your warp token must be at the number on the hyperspace track corresponding to this count of sectors.
 
-Battles: When an arrival is made, if it is at a star occupied by enemy ships, battle will take place immediately.
+Take the ships from the warp token and place them on a single star in that sector. All ships from a single warp token must travel to the same star. 
 
-Arrival and Immediate Departure: it a player's ships arrive at a star in the first part of his turn, his departure may then be some or all of the same ships from that star-unless upon arrival they engaged in battle. Then none of these ships can depart until his next turn.
 
-OCCUPATION OF OTHER STARS
 
-An undefended star may be occupied by any player who sends at least one ship there. He continues to occupy it as long as at least one ship remains. A star occupied by an enemy can only be gained by defeating the enemy force at the star.
+DEPARTURES
 
+Take any number of ships around a star and place them on a warp token. Put a red or yellow peg into the lettered whole on that warp token, denoting the departure sector. Place the warp token on the entry space on the hyperspace track.
 
-RESOURCES AND PRODUCTION OF NEW SHIPS
+If the departure star and arrival star are both in the same sector, the journey happens immediately, but still uses a warp token for the turn.
 
-The resources of men and materials at a player's occupied stars are assumed to be continually transmitted back to his Home Star by means of a Matter Transmission System. These resources are used at the Home Star to produce new ships for the fleet.
 
-New ships are taken on each production turn, which is every second turn. This can be kept track of by using a coin: At the start of the game, place the coin on the table heads up. After each round of the board, turn over the coin. When the coin is showing heads (except the first turn of the game) that is a production turn. When showing tails, it is not. (For the order in taking new ships, see "Procedure of Play" in the rules for each version of play).
 
-Both materials and population are needed to produce a new ship (for construction and crew). Each player takes one new ship for each pair of circle and cross among the stars he occupies with his ships-Including his Home Star. The circle and cross do not have to be together on the same star, nor in the same sector. An extra of one symbol is of no value. New ships of a players' color are taken from the box and placed at his Home Star only.
+BATTLE
 
-Loss of a Home Star
-A player who loses his Home Star, but is not eliminated from the game, cannot continue to produce new ships. But he resumes production if he regains it.
+If your ships occupy a star also occupied by an enemy, a battle will occur.
 
-The player who captures as enemy Home Star can draw from it only its own resources. He cannot bring his own or his enemy's other resources to it, nor can he produce new ships for himself there.
+*** TODO
 
-A player may choose to withdraw all his ships from his own Home Star, but he remains in possession of it and can bring his resources and produce new ships there. He loses it if an enemy occupies it (without a battle).
 
-*BATTLE
-Battle takes place only at a star, in normal space. The larger fleet always totally destroys the smaller fleet, with no loss to itself. If the two are equal, they do not engage.
 
-To defeat an enemy fleet at a star, a player must attack with at least one more ship than the defending force. Battle takes place on arrival, and the defending ships are destroyed (return to box). The victor now occupies the star and its resources go to his Home Star.
+OCCUPATION
 
-To defend a star from an expected attack, a player must have or send enough ships there to equal or outnumber the enemy force, so that he will not attack. If the defender is outnumbered and cannot bolster his force in time, he may depart from the star and avoid battle.
+You occupy a star so long as you have a single ship around that star. If you move the ship, you lose occupation of the star.
 
-If both forces are equal, the attacker may not come out of hyperspace at that star, though he may come out at the other star in the same sector. No part of a fleet that wins a battle can depart on the same playing turn- no matter how much it outnumbered the enemy.
+Your Home Star is an exception, which you occupy even if you have no ships around it.
 
-Multiple Attacking Fleets
-A normal attacking force would be a single fleet, which outnumbers the enemy ships. But a player may also send to the enemy star two different fleets-each one smaller than the enemy force-from two different stars. He will time their journeys so that they both arrive on the same turn. They will make their arrivals together (as explained in "Moves on Each Turn") combine and outnumber the enemy ships, winning the battle.
 
-In planning such an action, the player must take into account that he can make only one departure per turn. The two journeys must start on different turns, and therefore they must be from two stars, which are different distances from the target. To plot the simultaneous arrivals of the two journeys, calculate the difference in turns between the length of each, start the longer one first, and the second one the required number of turns later.
 
-See the Strategy Book for further discussion of the multiple fleet strategy.
+LOSS OF A HOME STAR
 
-ALLIANCES
+*** TODO
 
-NUMBER OF PLAYERS AND UISTRIBUTION OF HOME STARS
-
-Alliances may be played by either 2 or 4 players. The Home Star alliances are Algol and Regulus against Pavo and Antares.
-
-Each ally in an alliance may operate as independently as he likes, but co-operating actions between them can be undertaken. The game is won by the alliance that captures both Home Stars of the enemy alliance.
-
-4 Players:
-Divide into the two alliances. Each player has one Home Star. One alliance uses the red ships, the other the green ships. Each ally within the alliance uses a different shade of their color.
-
-2 Players:
-Each player plays one complete alliance. His two Home Stars will be two independent allies, with himself as overall commander.
-
-Each player takes a fleet of 15 ships, two warps with markers, and a hyperspace path, for each of his Home Stars, (The two fleets will be different shades). All rules will apply as though his two Home Stars were separate players. On his turn, he makes a complete set of moves for each of his Home Stars.
-
-
-PROCEDURE OF PLAY
-
-One alliance takes its turn, then the other alliance. Within the turn of each alliance this is the procedure:
-(a)	If this Is a production turn, both allies take their new ships before either of them make their moves (see "Resources")
-(b)	Each ally separately-always clockwise around the board-makes his moves.
-	
-CO-OPERATING ACTIONS BETWEEN ALLIES
-
-Allied Moves Made Together
-When a co-operating action between allies involves the arrival of their fleets on the same turn at the same star, in order to attack an enemy force together, then the two allies make those arrival moves together (see Multiple Attacking Fleets-Allies). Their remaining moves on that turn are made separately, as usual.
-If, in order to make a simultaneous move and arrival, it is necessary for an ally to make one of his other moves out of normal sequence or turn (to get a ship out of the way) he may do so.
-
-Two Allies at the Same Star
-One ally may send ships to a star already occupied by another ally- without his permission. But if it is to an ally's Home Star then his permission is required.
-
-If the ships of two allies occupy the same star, the one who occupied it first is entitled to its resources. However, they may agree that the second will receive them, or that they both draw them on different production turns. If both arrive on the same turn, they must decide between themselves.
-
-One ally cannot send another ally resources of a star, which he alone occupies. The other must send at least one ship there.
-
-Allied ships at the same star are always under the separate control of each. But they form one force far defense, and if attacked and outnumbered, all are destroyed.
-
-Combined Fleets
-From a star they both occupy, one ally may depart with a fleet comprising his own and his ally's ships (with the latter's permission) using his own warp and path. It will form a single fleet for attacking. The other ally may reclaim his ships at any time (except while in hyper-space) through a normal departure move.
-
-One ally cannot move a fleet composed entirely of the other ally's ships. At least one of his own must be among them. At no time may one ally transfer permanent possession of his ships to the other ally.
-
-Multiple Attacking Fleets-Allies
-Both allies may each send a fleet against a single enemy star timed to arrive on the same turn. Planning and movement will be the same as the strategy of a single player (see page 9). But In this case, both Journeys may also be of the same length, since both departures can be made on the same turn, one by each ally. Furthermore, each ally may use more than one fleet, so that up to four fleets may be aimed at a single enemy target
-
-All such arrival moves are made together (as explained In "procedure of Play") so that all ships are combined for battle.
-
-Note: In the two-player game, each player plans and moves for two "allies." Co-operating actions between his Home Stars will be a natural part of his strategy. In multiple fleet planning he will have four fleets under his command. The two-player game thus contains the widest range of strategy potential for individual players.
-
-Conferences
-Co-operating actions between players cannot be set in motion, of course, without prior discussion. A player planning such a strategy may call for a conference. The opposing alliance must retire to a distance, to allow the player to discuss his plan at the board with his ally. A time limit for such conferences should be agreed upon before the game.
 
 
 WINNING THE GAME
 
-The alliance that captures both Home Stars of the enemy wins the game. The game is over as soon as the second enemy Home Star is captured.
-
-The capture of a single Home Star is never permanent. Unless he has no more ships, the player is not eliminated from the game. He can try to recapture it, either by himself or with the help of his ally. His ally may also recapture it for him without his help.
-
-The game may be conceded by either alliance at any time,
-
-Alliances may be played with this optional rule: The alliance that captures both enemy Home Stars must not have lost either of its own Home Stars at the time. To win, they must regain their lost Home Star, while retaining those of the enemy. This rule will usually lengthen the playing time of the game.
-
-
-INDEPENDENTS
-
-NUMBER OF PLAYERS AND DISTRIBUTION OF HOME STARS
-Independents may be played by either 3 or 4 players. When there are 2 players always play Alliances. Each player is enemy to all others, and players are eliminated by the loss of their Home Stars, until one remains, who wins the game.
-
-4 Players:
-Each player takes one Home Star and a different color of ships. Th. two shades of a color will be unrelated.
-
-3 Players:
-When playing three players, use a different set of Home Stars: Use Home Stars Regu!us and Antares, but make Mira (sector D-red) the third Home Star. Algol and Pavo will then become normal, undefended stars. In this way, all the Home Stars will be equidistant from each other (5 sectors).  Only three colors of ships will be used.
-
-
-PROCEDURE OF PLAY
-
-The turn moves around the board clockwise. On the production turn, each player takes his new ships at the beginning of his own turn, before making his moves.
-
-
-CAPTURE OF A HOME STAR
-
-When a player's Home Star is captured, if he cannot regain it on his very next turn, he is eliminated from the game.
-
-If he does not regain it, he must on that next turn make any fleet(s) he has in hyperspace arrive at a star of his own choosing. These and each other fleet already at a star will then be individually "surrendered" to the first player who sends at least one ship to that star. If another player is already at the star, they are surrendered to him. That player then exchanges them at that star for ships of his own color, which become part of his fleet there.
-
-Note that the eliminated player's ships do not surrender before he taken his turn following the capture of his Home Star.
-
-There is one other way a player may regain his lost Home Star and avoid elimination. On the very next turn, he may capture the Home Star of the player who captured his. He may then persuade the other player to agree to a mutual withdrawal- the other player must agree or face elimination himself, unless he is In a position to recapture his Home Star on his next turn. If they agree to withdraw, each must do so, when his next turn comes around.
-
-WINNING THE GAME
-
-The winner is the player who remains after all other players have been eliminated.
-
-If the game is ended before the ultimate win is achieved, a peace alliance is established between all remaining players. The player who occupies the greatest number of stars (regardless of total ships) is the winner. If occupied stars are equal, the player with the greatest total of ships is the winner.
-
-FORMATION OF ALLIANCES IN THE INDEPENDENTS VERSION
-
-An additional dimension may be added to the Independents version of the game by introducing the option to form alliances. One player may propose an alliance to another player at any time or terminate it without prior warning. The terms and strategy for an alliance may be discussed away from the board if the two players wish. On returning, they are not bound to announce whether they have formed an alliance or not until a co-operating action takes place.
-
-During the time they act as allies, all rules concerning allies apply to them as set out in the Alliances version: Joint occupation of a star and the drawing of its resources, the moving of a combined fleet by one ally, and strategies Involving the arrival of their fleets together at a single target (Including conferences).
-
-No agreement made between allies is binding. One ally may attack the other at any time. However, once two fleets are together at the same star, or arrive together to do battle with a third force, neither of those fleets can attack the other while they are there together. Nor may one of the players send another fleet there to attack his ally's force while still there himself.
-
-Any act of treachery will, of course, terminate an alliance.
-
-A player whose Home Star Is captured can regain it on the next turn with the help of an ally, but at least one ship of his own must be among the recapturing force. In a mutual withdrawal agreement, any allied forces Involved must also withdraw.
-
-In the Independents version, the game cannot be won by an alliance.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-© COPYRIGHT 1972 JOHN WADDINGTON LTD.
-CASTLE GATE, OULTON. LEEDS LS2S SHG, ENGLAND
-Printed In England
+*** TODO
 
