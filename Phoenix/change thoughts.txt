@@ -1,3 +1,5 @@
+PRIORITY:
+
 Needs new combat mechanics badly
 	- use Game of Thrones cards for combat?
 		- provides bluffing and potentially special abilities
@@ -7,12 +9,24 @@ Needs new combat mechanics badly
 		- cycle through cards as in GoT
 	- retreating fleets must be put onto a warp token. If you don't have any the fleet is destroyed.
 	- should be allowed to retreat fleet, but with a penalty. Maybe draw another combat card?
-	1. ***attacker chooses how many ships to kill, and they also lose that many -1.
-	2. defender loses half their ships, attacker loses that many - 1
-	3. attacker chooses how many ships defender loses. Attacker then loses
-	4. possible dice rolling addition, but I don't like it.
-		- roll for every ship, add up total, bigger fleet destroys smaller fleet
+	- attacker chooses how many ships to kill, and they also lose that many -1.
 
+What is the victory condition?
+	- VP gathering?
+	- each race has different victory conditions?
+	- victory condition deck?
+	- I want multiple ways to win.
+	
+"Player losing their home star cannot produce more ships"
+	- need better penalty than this...this is to harsh.
+	- can produce at another star that has a human population
+	- can't win the game
+		- can't get "VP"s?
+		
+	
+
+MAYBE:
+	
 Some way for person to defend an incoming fleet? Or is it necessary? 
 	- person sends massive fleet to attack. 
 	- Perfect Play: everyone has the same number of ships until some are destroyed through combat
@@ -27,10 +41,35 @@ Lack of "front line defense"?
 	- I like this because the defensive borders create static situations that I don't like.
 	- However it is slightly unnerving to have a planet taken by an opponent that easily.
 
-What is the victory condition? If it's "take home system" or "win all systems", it's bad.
-	- VP gathering?
-	- each race has different victory conditions?
-	- victory condition deck? <--
+
+Combat cards - a deck of cards drawn before each combat to affect it?
+		- friendly fire
+		- asteroid fields
+		- space creature
+		- tall planetary gravity well
+		- ability for attacker to retreat after winning?
+	- These feel a little unnecessary. But I would like to have "special things" to modify combat.
+		
+Technology research/customization is fun!
+
+
+		
+DESIGN THOUGHTS:
+- need to encourage back and forth play - it's ok to lose a system
+- need to encourage loss of ships - no cold wars
+- needs to play in an hour
+- try production every other turn...I kind of want production to be linked to something else though.
+- turns have to be quick
+
+
+
+GARBAGED THOUGHTS (but could still be recycled...):
+- defender loses half their ships, attacker loses that many - 1
+- possible dice rolling addition, but I don't like it: roll for every ship, add up total, bigger fleet destroys smaller fleet
+
+
+
+WRITTEN ALREADY:
 
 Needs more warp tokens?
 	- unlimited, or some larger limited number?
@@ -42,22 +81,4 @@ Needs more warp tokens?
 		- which puts more emphasis on defense?
 	- "one departure of any kind per turn"? That sounds not useful.
 		- coordination of attacking fleets is unnecessarily cumbersome
-	
-"Player losing their home star cannot produce more ships"
-	- need better penalty than this...this is to harsh.
-
-Combat cards - a deck of cards drawn before each combat to affect it?
-		- friendly fire
-		- asteroid fields
-		- space creature
-		- tall planetary gravity well
-		
-		- ability for attacker to retreat after winning?
-		
-
-Random Thoughts:
-- need to encourage back and forth play - it's ok to lose a system
-- need to encourage loss of ships - no cold wars
-- needs to play in an hour
-- try production every other turn...I kind of want production to be linked to something else though.
-- turns have to be quick
+	- start warp tokens at "0". Count your warp movement starting just outside of your starting system.
