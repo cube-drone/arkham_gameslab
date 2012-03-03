@@ -1,66 +1,47 @@
-Stockpile:
-    Special: "The player at the Stockpile may draw 2 cards from the Stockpile."  
-    Morning: "If there are cards in the stockpile, shuffle the stockpile. Every player, starting from the First Player, draws 1 card from the Stockpile." 
+Quartermaster:
+    Special: "Gain a Trauma die. Draw a card from the Stockpile for each player. Deal one, your choice, to each player. Draw another card from the stockpile for yourself."  
+    Trauma: 1
     Type: "Starting"
-Exploratory Party: 
-    Quantity: 1
-    Special: "Draw Crisis cards. Hand them out, evenly, to each player. Swap one emplacement. Add Common Salvage to the Stockpile." 
+Exploration Leader: 
+    Special: "In the exploration phase, choose which player gets each Crisis card." 
+    Radiation: 1
     Type: "Starting" 
-Outpost: 
-    Quantity: 1
-    Special: "Gain 1 Trauma Die, Gain 1 Common Salvage, and the First Player Token." 
-    Type: "Starting" 
-    Flavor: "May not be taken twice in a row." 
+Scout:
+    Special: "In the exploration phase, choose the emplacement to liberate. Make a Salvage roll, and add it to the Stockpile." 
+    Radiation: 1
 Irradiated Skyscraper: 
-    Quantity: 1
-    Special: "Gain 1 Radiation Die and 3 Common Salvage"  
+    Special: "Gain 1 Salvage Die."
     Type: "Starting" 
 School Zone :
-    Quantity: 1
-    Special: "Gain 1 Trauma Die and 3 Common Salvage" 
-    Type: "Starting" 
-Construction Site: 
-    Quantity: 1
-    Special: "Gain 1 Trauma Die. Add one Crisis or Mutation card from your hand, 1 Mutation card from the deck, and 3 Common Salvage to the Stockpile. " 
+    Special: "Make a Salvage Roll, and add it to your hand." 
+    Trauma: 1
     Type: "Starting" 
 Tent City:
-    Quantity: 1
-    Special: "Take 2 cards from the player with the largest hand."
+    Special: "Take 2 cards from the player with the most Salvage."
     Type: "Starting" 
 Hospital: 
-    Quantity: 1
-    Special: "Gain 1 Trauma Die and Discard 1 Crisis Card." 
+    Special: "Discard 1 Injury die. Make a Salvage roll, and add it to the Stockpile." 
+    Trauma: 1
 Radio Station:
-    Quantity: 1
-    Special: "Give 1 of your own Trauma Die to another player. Give 1 (new) Trauma Die to another player. Add 3 Common Salvage to the Stockpile." 
+    Special: "Give 1 of your own Trauma Die to another player." 
 Weapons Cache:
-    Quantity: 1
     Special: "Take 1 Radiation Die. Add 2 Rare Salvage to the Stockpile." 
-Experimental Lab: 
-    Quantity: 1
+    Radiation: 1
+Experimental Laboratory: 
     Special: "Give 1 of your own Radiation Die to another player. Add 1 Common Salvage to the Stockpile." 
 Farm:
-    Quantity: 1
-    Special: "Gain 1 Radiation Die and 4 Common Salvage"
+    Special: "Gain 4 Common Salvage"
+    Radiation: 1
 Subway Station:
-    Quantity: 1
-    Special: "Gain 1 Trauma Die and 4 Common Salvage" 
+    Special: "Make a Salvage roll, and add it to the Stockpile. Make another Salvage roll, and add it to your hand. Make a Radiation, Trauma, and Injury roll. " 
 Hardware Store:
-    Quantity: 1
-    Special: "Resolve 1 Crisis.  Gain 1 Rare Weapon." 
+    Special: "Draw and resolve 1 Crisis.  Gain 1 Rare Salvage." 
 Bunker: 
-    Quantity: 2
-    Special: "Give 1 (new) Trauma Die to another player. Discard 2 Common Salvage. Gain +3 Weapon for the rest of the Round." 
+    Special: "Give 1 new Trauma Die to another player. Discard 1 Salvage. Gain +3 Weapon for the rest of the Round." 
 Cannery: 
-    Quantity: 1
-    Special: "Give 1 (new) Radiation Die to another player. Produce 3 Food." 
+    Special: "Give 1 new Radiation Die to another player. Produce 3 Food." 
 Machine Shop: 
-    Quantity: 1
     Special: "Trade 3 Common Salvage from your hand for 1 Rare Salvage." 
 Communications Tower: 
-    Quantity: 1
     Special: "Swap today's Catastrophe with any upcoming Catastrophe." 
     Flavor: "But not the Super Catastrophe." 
-Emergency Response Team:
-    Quantity: 1
-    Special: "Discard 1 Rare Salvage  to discard 1 Radiation or Trauma die. -or- Discard 2 Common Salvage. Choose one player, not yourself, to discard 1 Radiation or Trauma die." 

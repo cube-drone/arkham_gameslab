@@ -3,6 +3,7 @@
 *{
     /* Leave my colors the way you found them, webkit. */
     -webkit-print-color-adjust:exact;
+    text-rendering: optimizeLegibility;
 }
 
 body{
@@ -133,6 +134,7 @@ p {
 .Common
 {
     background: url('assets/common_salvage.png');
+    background-size: 216px 302px;
 }
 
 .Survivor

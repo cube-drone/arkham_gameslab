@@ -1,101 +1,84 @@
 Wild Dogs: 
     Type: "Combat"
     Quantity: 5
-    Difficulty: 6
-    Pass: ""
-    Fail: "Add this card to your hand. " 
+    Difficulty: 4
+    Flavor: "\"Woof.\" - Wild Dogs."
+    Injury: 1
 Wasteland Ghoul:
     Type: "Combat"
     Quantity: 10
-    Difficulty: 7
-    Pass: ""
-    Fail: "Add this card to your hand. Gain 1 Radiation Die" 
+    Difficulty: 5
+    Radiation: 1
 Raiders: 
     Type: "Combat"
     Quantity: 10
-    Difficulty: 7
-    Pass: ""
-    Fail: "Add this card to your hand."
+    Difficulty: 5
+    Injury: 1
 Marauders:
     Type: "Combat"
     Quantity: 5
-    Difficulty: 8
+    Difficulty: 6
     Pass: "Roll a die. On a 6, gain a Rare Salvage. On a 1, Trash a Salvage from your hand. "
-    Fail: "Add this card to your hand." 
+    Flavor: "\"They call them marauders, but you never see them maraud. I imagine you wouldn't want to.\" - Jai Jayendra"
+    Injury: 1
 Radiation Angel: 
     Type: "Combat"
     Quantity: 3
-    Difficulty: 9
-    Fail: "Gain 1 Radiation Dice and make a Radiation Roll."
-    Pass: "" 
-Mustard Gas Angel:
+    Difficulty: 7
+    Radiation: 1
+    Flavor: "\"Of course I don't believe in the supernatural.  But when they came I saw a winged silhouette and an unearthly green glow. I didn't stick around to gather any more data. \" - Naoki Urasawa "  
+Mustard Gas Company:
     Type: "Combat"
     Quantity: 3
-    Difficulty: 9
-    Pass: "Roll a die. On a 3-4, gain a Common Salvage. On a 5-6, gain a Rare Salvage." 
-    Fail: "Gain this card." 
+    Difficulty: 7
+    Pass: "Roll a die. On a 5-6, gain a Rare Salvage." 
+    Injury: 1
+    Flavor: "\"A cloud of yellow smoke and a group of thugs wearing gas masks. Woke up 2 days later, covered in blood, driving towards the Mexican border, holding a man's spleen in my hands.\" - Jai Jayendra"
 Burnpit Screamers:
     Type: "Combat"
     Quantity: 3
-    Difficulty: 9
-    Pass: ""
-    Fail: "Gain 1 Trauma Die and make a Trauma Roll." 
+    Difficulty: 7
+    Flavor: "\"If they take the camp, they'll rape us to death, eat our flesh, and sew our skins into their clothing. And if we're very, very lucky, they'll do it in that order.\""
+    Trauma: 1
 Rogue Android: 
     Type: "Combat" 
-    Quantity: 1
-    Difficulty: 12
+    Difficulty: 10
     Pass: "Draw 4 Rare Salvage." 
-    Fail: "Gain 1 Rare Salvage and 1 Radiation Die."
+    Fail: "Draw 1 Rare Salvage"
+    Flavor: "\"That is clearly an inferior X-2014. He doesn't stand a chanc- I mean, lookit that shiny robot!\" - X-2021" 
+    Radiation: 1
 Alien Superintelligence:
     Type: "Combat"
-    Quantity: 1
-    Difficulty: 12
-    Pass: "Three Survivors (your choice) may discard all Radiation Die and Mutations." 
+    Difficulty: 10
+    Pass: "Three Survivors may discard a Radiation Die and a Mutation." 
     Fail: "Discard 1 Radiation Die. Gain 1 Trauma Die." 
 Punctured Lung: 
     Type: "Collapse" 
-    Quantity: 1
-    Special: "Just take this card. "
+    Flavor: "\"Yep, that's gone right through.  You're fucked. \" - Dr. Max Health, M.D."
+    Injury: 1
 Broken Arm:
     Type: "Collapse" 
-    Quantity: 1
-    Special: "Just take this card. "
+    Injury: 1
 Broken Foot:
     Type: "Collapse"
-    Quantity: 1
-    Special: "Just take this card. "
+    Injury: 1
 Cracked Rib:
     Type: "Collapse"
-    Quantity: 1
-    Special: "Just take this card. "
-Mad Clarity:
-    Type: "Collapse"
-    Quantity: 1
-    Special: "Just take this card. It can be played in combat for 1 Weapon.  "
+    Injury: 1
 Infectious Rats: 
     Type: "Collapse"
-    Quantity: 1
     Special: "Place this card in the stockpile." 
+    Flavor: "\"You'll be fine, just as soon as I give you this tinnitus shot.\" - Dr. Max Health, M.D."
 Stockpile Fire: 
     Type: "Collapse"
-    Quantity: 1
     Special: "Discard the top 2 cards from the stockpile." 
+    Flavor: "\"Oh, don't worry, it's just a little campfi-OH NO, THE BULLETS.\" - Jeff Wheeler"
 Pound of Flesh: 
     Type: "Collapse"
-    Quantity: 1
-    Special: "The player may ignore this Crisis - or take it, and a Rare Salvage card from the deck." 
-Building Collapse:
-    Type: "Collapse"
-    Quantity: 1
-    Special: "This location collapses. Remove this Emplacement from the game. Roll a die. On a 1, your Survivor adds this card to their hand."
+    Special: "The player may ignore this Crisis - or take an Injury, and a Rare Salvage card from the deck." 
 Flashbang Accident:
     Type: "Collapse"
-    Quantity: 1
     Special: "Trash 1 Salvage, at random, from your hand. " 
-Trust Me Im A Doctor: 
-    Quantity: 1
-    Type: "Collapse"
-    Special: "Lose 1 Morale -or- Roll a d6.  On a 1, gain a Radiation Die. On a 2, Trash a Crisis Card from your hand. On a 3, gain this Crisis card. On a 4, produce 2 food. On a 5, nothing happens. On a 6, draw and resolve a Crisis from the Crisis deck. " 
 
 Collapse: 
     Quantity: 1
@@ -105,17 +88,17 @@ Collapse:
 Radiation Kings: 
     Quantity: 1
     Type: "Catastrophe"
-    Special: "The player (or players) with the most Radiation all take 1 Radiation Die.  The player (or players) with the fewest Radiation Die all gain 1 Common Salvage." 
-
-Karma Police: 
-    Quantity: 1
-    Type: "Catastrophe"
-    Special: "The player ( or players) with the most Radiation Die give 1 Radiation Die to the player of their choice. " 
+    Special: "The player (or players) with the most Radiation Die all take 1 Radiation Die.  The player (or players) with the fewest Radiation Die all gain 1 Common Salvage." 
 
 Trauma Center: 
     Quantity: 1
     Type: "Catastrophe"
-    Special: "The player (or players) with the most Trauma all take 1 Trauma Die.  The player (or players) with the fewest Trauma Die all gain 1 Common Salvage." 
+    Special: "The player (or players) with the most Trauma Die all take 1 Trauma Die.  The player (or players) with the fewest Trauma Die all gain 1 Common Salvage." 
+
+Infection:
+    Quantity: 1
+    Type: "Catastrophe"
+    Special: "The player (or players) with the most Injury Die all take 1 Injury Die.  The player (or players) with the fewest Injury Die all gain 1 Common Salvage." 
 
 Food Spoilage: 
     Type: "Catastrophe" 
@@ -123,7 +106,7 @@ Food Spoilage:
 
 Fight Over Salvage: 
     Type: "Catastrophe" 
-    Special: "Each player rolls a Combat check. They may add Weapons, if they so choose. The player with the highest result gets 3 Common Salvage and 1 Rare Salvage. (flip a coin to resolve ties). The player with the lowest result gains this card."  
+    Special: "Each player rolls a Combat check. They may add Weapons, if they so choose. The player with the highest result gets 3 Common Salvage and 1 Rare Salvage. (flip a coin to resolve ties). The player with the lowest result gains an Injury Die."  
 
 Thieves in the Night:
     Type: "Catastrophe"
@@ -155,19 +138,42 @@ Plan C:
 
 Raider Assault:
     Type: "Catastrophe"
-    Condition: "A Shared Combat! Difficulty 20!"
+    Condition: "Shared Combat!"
+    Difficulty: 20
     Pass: "Each player gains 2 Common Salvage"
-    Fail: "Damage the 'Stockpile' emplacement. Discard the stockpile." 
+    Fail: "Each player takes 1 Injury. The Stockpile may not be contributed to for a Day. Discard the stockpile." 
+
+Marauder Assault:
+    Type: "Catastrophe"
+    Condition: "Shared Combat!"
+    Difficulty: 22
+    Pass: "Add 4 Rare Salvage to the Stockpile."
+    Fail: "Each player takes 1 Injury and discards a Salvage at random."
+
+Radiation Angel Assault:
+    Type: "Catastrophe"
+    Condition: "Shared Combat!"
+    Difficulty: 24
+    Fail: "Each player takes 1 Radiation Die." 
+
+Burnpit Screamer Assault:
+    Type: "Catastrophe"
+    Condition: "Shared Combat!"
+    Difficulty: 24
+    Fail: "Each player takes 1 Trauma Die."
+
+Followed You Home:
+    Type: "Catastrophe"
+    Special: "Each player draws the top Crisis from the deck and resolves it." 
 
 Super Catastrophe Phase 1:
-    Type: "Catastrophe"
+    Type: "Super Catastrophe"
     Special: "Shared Combat! Difficulty 40!"
-    Fail: "Every player takes 3 Crisis Cards, 2 Radiation Die, 2 Trauma Die, and destroy 3 Emplacements." 
-    Flavor: "They had never seen anything like it. A flood of Marauders, Radiation Angels, everything the Wasteland could throw at them. " 
+    Fail: "Every player takes 3 Crisis Cards, 2 Radiation Die, and 2 Trauma Die. Destroy 3 Emplacements." 
 Super Catastrophe Phase 2: 
-    Type: "Catastrophe"
+    Type: "Super Catastrophe"
     Special: "Single Combat! Each (live) player faces a Combat of Difficulty 8" 
     Fail: "The failing player takes 2 Crisis Cards, 1 Radiation Die, and 1 Trauma Die"
 Super Catastrophe Phase 3:
-    Type: "Catastrophe"
-    Special: "Radiation Roll. Trauma Roll." 
+    Type: "Super Catastrophe"
+    Special: "Roll for Radiation, Trauma, and Injury" 
