@@ -90,12 +90,12 @@ DAY
 #### Radiation Roll ####
 - Roll all of the player's Radiation Dice.
     - On a pair, the player draws a Mutation from the Mutation Deck and adds it to his hand.
-    - On a three-of-a-kind, the player's Survivor dies. 
+    - On a three-of-a-kind, the player draws another Radiation Die.  
 
 #### Trauma Roll ####
 - Roll all of the player's Trauma Dice.
     - On a pair, the player panics and drops 1 Salvage at random.
-    - On a three-of-a-kind, the player's Survivor dies. 
+    - On a three-of-a-kind, the player draws another Trauma Die. 
 
 ### NOON ###
 - One at a time, starting from the First Player: 
@@ -110,7 +110,7 @@ DAY
   - Draws Crisis Cards: 
     - If it is Monday, Tuesday, or Wednesday, draws 4 Crisis cards. Hands them out, one per player. 
     - If it is Thursday, Friday, or Saturday, draws 6 Crisis cards.. Hands them out, one to two players, two to two players.
-    - If it is Sunday, draws 2 Crisis cards.  Hands them out to 2 players. 
+    - If it is Sunday, draws 2 Crisis cards.  Hand them out to 2 players. 
   - Swaps an Emplacement.  
     - The player may swap an Emplacement in the base for an Emplacement that is Today or in the past on the Week Track.
     - The 'Stockpile', 'Exploratory Party', and 'Outpost' Emplacements may not be swapped out. 
@@ -125,7 +125,7 @@ DAY
     - Any surplus Food points generated may be given to other players that they might survive.  
 - Each player has a Hand Limit of 7. 
 - If any player has more than their cards in their hand than their hand limit, they must discard Salvage cards to the Stockpile until they are down to their hand limit. 
-    - If the player cannot discard down to their hand limit (All of the Player's cards are Crisis cards or Mutation cards), the player's Survivor dies. 
+    - If the player cannot discard down to their hand limit (All of the Player's cards are Crisis cards or Mutation cards). The player keeps all cards. 
 
 DEATH
 -----
@@ -145,10 +145,13 @@ COMBAT
 - First the player will choose any weapons that he will use in the combat. The player is now committed to use all of these weapons, regardless of outcome.
 - The player now rolls a die and adds any weapon modifiers to that die. ( Jeff rolls a 2+4, and now has 6 )
 - If the number is greater than or equal to the Combat's difficulty, the player wins! 
+- Roll to keep weapons used in combat. 
 
 SHARED COMBAT
 -------------
 - Same as a normal combat, but every player contributes die and weapon towards the roll. 
 
-
-
+END OF GAME
+-----------
+- At the end of the game, the players make a Trauma roll and Radiation roll as usual, but die on a 3-of-a-kind.
+- At the end of the game, if the players have Crisis and Mutation cards equal to their hand limit, they die. 

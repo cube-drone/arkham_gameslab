@@ -1,67 +1,70 @@
 Tinned Ham: 
     Type: "Food"
-    Quantity: 5
+    Quantity: 6
     Special: "Trash to gain 1 Food."
-    Flavor: "Hamstravacanza! Ride the ham wave!" 
+    Flavor: "\"Hamstravacanza! Ride the ham wave!\"" 
 Bear Trap:
     Type: "Food"
     Quantity: 5
     Special: "Stockpile to gain 1 Food or 1 Weapon." 
+    Flavor: "\"Look, I don't care if you're a vegetarian. There aren't any vegetables. If you can't find food, you'll eat rabbit.\" - Rodrigo Gabriela" 
 Bucket of Chicken:
     Type: "Food"
-    Quantity: 5
+    Quantity: 3
     Special: "Trash to gain 2 Food" 
-    Flavor: "How is the chicken still hot and fresh after all this time?"
+    Flavor: "\"How is the chicken still hot and fresh after all this time? I don't care. Fried chicken is fried chicken.\" - Naoki Urasawa"
 Choka Cola:
     Type: "Food"
     Quantity: 5
     Special: "Trash to gain 1 Food."
+    Flavor: "\"Refresh your Thirsticles!\" - Choka Cola - Failed Ad Campaign, 2008"
 Jerky:
     Type: "Food"
-    Quantity: 5
+    Quantity: 3
     Special: "Trash to gain 2 Food." 
-    Flavor: "Unidentifiable meat is spooky." 
+    Flavor: "\"Pecos Bill's: We Guarantee That It Came From An Animal!\""
 Snacky Crate:
     Type: "Food"
-    Quantity: 5
-    Special: "Trash to gain 4 Food." 
+    Quantity: 3
+    Special: "Trash to gain 3 Food." 
+    Flavor: "\"They said that the only thing to survive an apocalypse would be snacky cakes and cockroaches. Little did they know about the cockroaches, I guess.\" - Jeff Wheeler "
 Antique Revolver: 
     Type: "Weapon"
     Quantity: 5
     Weapon: 2
     1 to 3: "Trash"
     4 to 5: "Stockpile" 
-    Flavor: "There were a few bullets left in there. It would have to do, for now." 
+    Flavor: "\"My grandfather told me about firing one of these in the great war. I'm not sure which one, but if it was good enough for him, it's good enough for me.\" - Jai Jayendra" 
 Knife: 
     Type: "Weapon"
     Quantity: 5
     Weapon: 1
     1 to 3: "Trash" 
-    Flavor: "Foolish enemies! Knives need no ammo! ... shit." 
+    Flavor: "\"Foolish enemies! Knives need no ammunition! ... shit.\" - Jai Jayendra" 
 Golf Club: 
     Type: "Weapon"
     Quantity: 5
     Weapon: 1
     1 to 3: "Trash" 
+    Flavor: "\"Wa ha ha ha! FORE!\" - Jai Jayendra"
 Frying Pan:
     Type: "Weapon"
     Quantity: 3
     Weapon: 1
     1 to 2: "Trash" 
-Cat:
-    Type: "Ally"
-    Quantity: 1
-    Special: "Trash to gain 1 Weapon and discard 1 Trauma Die." 
+    Flavor: "\"So, a pedophile, a priest, and a nun all walk into a bar.. and then I kill them all with a frying pan! A ha ha! Ha! Funny joke. \" - X-2021"
 Baseball Bat:
     Type: "Weapon" 
     Quantity: 1
     Weapon: 1
     "1": "Trash" 
+    Flavor: "\"You wouldn't believe what I found - a genuine slugger.\" - Rodrigo Gabriela" 
 Grenade: 
     Type: "Weapon" 
     Quantity: 10
     Special: "Trash to gain 3 Weapon"
+    Flavor: "\"What's the difference between a grenade and a newborn? It's funny when a newborn explodes! Ha ha! Joke!\" - X-2021 "
 Unintelligent Child: 
     Type: "Ally"
     Quantity: 2
-    Special: "Trash to resolve any Crisis Card without suffering ill effects. Make a Trauma Roll." 
+    Special: "Trash to discard any Crisis during Exploration. Do not pass or fail this Crisis. Gain a Trauma Die." 
