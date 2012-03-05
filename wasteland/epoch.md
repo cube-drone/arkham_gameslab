@@ -16,7 +16,7 @@ The man's small settlement had been destroyed by a band of marauders, hundreds s
 
 The survivors weren't going anywhere.  They had made a home here. They were going to stand and fight.  
 
-They needed to build a fortress. They had 2 weeks. 
+They needed to build a fortress. They had 1 week. 
 
 SUPPLY
 -----
@@ -30,9 +30,8 @@ Catastrophe Deck ( Representing awful things that happen at night. )
 Mutation Deck ( Representing awful things that happen when you are too irradiated )
 
 Survivor Tokens
-Radiation Dice
-Attack Dice
-First Player's Trophy
+First Player Trophy
+4 Colours of Dice
 
 WIN/LOSE
 --------
@@ -47,9 +46,6 @@ GAME START
 - The last person to have killed a person with his bare hands gets the First Player's Trophy.
     - In the (admittedly likely) case of a tie, choose the first player with a die roll. 
 
-- A survivor starts with 0 Radiation Dice. 
-- A survivor starts with 0 Trauma Dice.
-
 - All players receive a choice of two Survivor Cards. 
     - The Survivor Card is placed in front of the player. 
 
@@ -58,94 +54,90 @@ GAME START
 
 - Put the Starting Emplacements in play, in the center of the table. 
 
-- Place the Week track. 
+- Create a deck-sized hole next to the Quatermaster Emplacement. This is the "Stockpile". Put 5 Common Salvage in the Stockpile.  
 
-- Put 2 Emplacements on every Day in the Week track. 
+- Place the Week track. 
 
 - Put 1 Catastrophe on every Day in the track, except for Sunday Night. 
 
 - Put 1 Super-Catastrophe on Sunday Night. 
 
-- Flip Monday and Tuesday's Catastrophe and Emplacement cards, and Sunday's Super Catastrophe, 
+- Flip Monday's Catastrophe and Emplacement cards, and Sunday's Super Catastrophe, 
 
 DAY
 ---
 
 - A game day consists of phases: 
 
-1. MORNING
-2. NOON
-3. EVENING
-4. MIDNIGHT
+1. EMPLACEMENT
+2. EXPLORATION
+3. CATASTROPHE
+4. HUNGER
+5. STOCKPILE
 
-### MORNING ###
+### EMPLACEMENT ###
 - The Round begins.
-- Turn Tomorrow's Emplacement and Catastrophe cards face-up.  
-- If any cards sit in the Stockpile, Shuffle the Stockpile. 
-- All players, starting from the First Player, draw 1 card from the "Stockpile" Emplacement.
-- All players with Radiation Dice make a Radiation Roll.  
-- All players with Trauma Dice make a Trauma Roll.
-- Players may trade Salvage cards at any time. 
+- Each player, starting from the First player, chooses and resolves an Emplacement. 
+- An Emplacement cannot be resolved twice in the same turn. 
 
-#### Radiation Roll ####
-- Roll all of the player's Radiation Dice.
-    - On a pair, the player draws a Mutation from the Mutation Deck and adds it to his hand.
-    - On a three-of-a-kind, the player draws another Radiation Die.  
+### EXPLORATION ###
+- If a player has chosen to be the Exploration Leader, he draws 2 cards from the top of the Emplacement Deck, chooses one, and adds it to the settlement.
+    - Discard the other settlement.
+- If there is no Exploration Leader, draw the top Emplacement and add it to the the settlement. 
 
-#### Trauma Roll ####
-- Roll all of the player's Trauma Dice.
-    - On a pair, the player panics and drops 1 Salvage at random.
-    - On a three-of-a-kind, the player draws another Trauma Die. 
+- If a player has chosen to be the Exploration Leader, he draws one Crisis card for each player, then deals them out, one per player, in the order that he chooses. 
+- If there is no Exploration Leader, draw a Crisis card from the top of the deck for each player, starting with the first player. 
 
-### NOON ###
-- One at a time, starting from the First Player: 
-- Choose an Emplacement.
-- Resolve that Emplacement.
-- No Emplacement may be resolved twice in a turn. 
-- The First Player token is given to the player to the left of the First Player, unless someone has taken the Outpost location. 
-- Place a Common Salvage card on any Emplacement that was not used. This goes to the next player to use that Emplacement.  
-
-#### Exploratory Party ####
-- The player who chooses the Exploratory Party location performs 3 actions: 
-  - Draws Crisis Cards: 
-    - If it is Monday, Tuesday, or Wednesday, draws 4 Crisis cards. Hands them out, one per player. 
-    - If it is Thursday, Friday, or Saturday, draws 6 Crisis cards.. Hands them out, one to two players, two to two players.
-    - If it is Sunday, draws 2 Crisis cards.  Hand them out to 2 players. 
-  - Swaps an Emplacement.  
-    - The player may swap an Emplacement in the base for an Emplacement that is Today or in the past on the Week Track.
-    - The 'Stockpile', 'Exploratory Party', and 'Outpost' Emplacements may not be swapped out. 
-    - The new Emplacement may not be used this turn. 
-    - The old Emplacement may still be used this turn. 
-    - Any Common Salvage cards on the old emplacement are returned to the deck at the end of the turn. 
-  - Adds Salvage to the Stockpile. (See the Week Track)  
-
-### NIGHT ###
-- First, a Catastrophe. Resolve the current day's Catastrophe. 
-- In this phase, each player must produce at least one point of "Food" from a Salvage Card or take a card from the Crisis deck and place it in their hand. 
-    - Any surplus Food points generated may be given to other players that they might survive.  
-- Each player has a Hand Limit of 7. 
-- If any player has more than their cards in their hand than their hand limit, they must discard Salvage cards to the Stockpile until they are down to their hand limit. 
-    - If the player cannot discard down to their hand limit (All of the Player's cards are Crisis cards or Mutation cards). The player keeps all cards. 
-
-DEATH
------
-- Should a Survivor die, that Survivor's Salvage cards are placed in the Stockpile. 
-- The dead survivor chooses an emplacement to damage, that is not 'Stockpile', 'Exploratory Party', or 'Outpost'. 
-
-TRASH, STOCKPILE, or PLAY
--------------------------
-Cards that are Trashed are placed in a pile next to their respective decks, to be shuffled back in as necessary. 
-Cards that are Stockpiled are placed in the Stockpile. 
-Cards that are Played are placed in front of the player, and cannot be used again this turn. 
-
-COMBAT
-------
+#### COMBAT ####
 - Crisis - Combat cards are events where your character has to fight to proceed. 
 - A Combat card will have a Difficulty rating.
 - First the player will choose any weapons that he will use in the combat. The player is now committed to use all of these weapons, regardless of outcome.
 - The player now rolls a die and adds any weapon modifiers to that die. ( Jeff rolls a 2+4, and now has 6 )
 - If the number is greater than or equal to the Combat's difficulty, the player wins! 
 - Roll to keep weapons used in combat. 
+- Weapons played in combat are 'used' for the rest of the turn. They return to the player's hand at the end of the Stockpile phase. 
+- In a successful combat, roll a salvage die and place it on top of the combat card. Keep this card and die as a trophy.  
+
+### CATASTROPHE ###
+- Resolve the current day's catastrophe.
+
+### HUNGER ###
+- Each player, starting from the first player, gets one opportunity to play food cards. 
+- At the end of the round, each player must have produced 1 Food for his survivor. 
+- If a player produces more food than his survivors can eat, he can choose which player gets the surplus.
+- Any food generated by a card that is not consumed by the end of the turn is discarded. 
+
+### STOCKPILE ###
+- Each player makes a Salvage roll, and adds the result to the Stockpile. 
+    - If the player has any rolled Salvage die, as trophies, that would benefit the current roll, they may add them to the roll. 
+- Each player has a hand-limit of 7 cards, including Mutations and Injury cards. If this hand limit is exceeded, the extra Salvage goes to the Stockpile.
+
+ROLLS
+-----
+- When you get a die of any color, make a roll.
+
+- On a single Salvage Die, gain a Common Salvage
+- On a pair of Radiation Dice, gain a Mutation
+- On a pair of Trauma Dice, discard a Salvage at random.
+- On a pair of Injury Dice, gain a Trauma die  
+- On a pair of Salvage Dice, gain a Rare Salvage
+- On a three-of-a-kind of any color, gain another die of that color without triggering a re-roll. 
+- On a four-of-a-kind of Radiation, Trauma, or Injury, you die. 
+- On a four-of-a-kind or better of Salvage Dice, you gain 1 Rare Salvage and re-roll. 
+
+- If you get two pairs on a roll, you get the penalty (or reward) twice. 
+
+DEATH
+-----
+- Should a Survivor die, that Survivor's Salvage cards are placed in the Stockpile. 
+- The Survivor's dice are discarded. 
+- The dead survivor chooses an emplacement to damage. 
+
+TRASH, STOCKPILE, or PLAY
+-------------------------
+Cards that are Trashed are placed in a pile next to their respective decks, to be shuffled back in as necessary. 
+Cards that are Stockpiled are placed in the Stockpile. 
+Cards that are Played are placed in front of the player, and cannot be used again this turn. 
 
 SHARED COMBAT
 -------------

@@ -1,9 +1,5 @@
-Salty Salty Salvage Steve: 
-    Type: "Ally"
-    Special: "Trash to draw 4 cards from the Common Salvage deck."  
-    Flavor: "The saltiest salvager seen standing the seven seas."
-Shufflin Eddie:
-    Title: "Shufflin' Eddie"
+Shuffling Eddie:
+    Title: "Shuffling Eddie"
     Type: "Ally"
     Special: "Trash to make a Salvage Roll and add the result to your hand."
     Flavor: "\"Everyday, I'm shufflin'\" - Shufflin' Eddie"
@@ -13,30 +9,26 @@ Duke the Dog:
     Flavor: "\"Woof.\" - Duke" 
 Cuban Pete:
     Type: "Ally"
-    Special: "Every player may give one of their dice to any other player."
+    Special: "Stockpile - Every player may give one of their dice to any other player. No player may recieve more than one die this way."
     Flavor: "He's the king of the rumba beat." 
 Macho Macho Dan:
     Type: "Ally"
-    Special: "Trash.  Gain 2 Weapon for the rest of the turn. "  
+    Special: "Stockpile - Gain 2 Weapon for the rest of the turn. "  
     Flavor: "\"I want to be a Macho Dan.\" - Everybody who is not Macho Dan." 
 Mandy Thompson: 
     Type: "Ally"
     Special: "Trash to reroll one die. "
-    Flavor: "\"I could have sworn this was a different game.\"" 
-Aumnie Seance: 
-    Type: "Ally"
-    Special: "Trash to look at the next four cards in the Catastrophe or Crisis deck and either re-order them or discard them to the bottom of the deck." 
-    Flavor: "\"I can see through TIME.\" - Aumnie, after eating a Bhut Jolokia 'Ghost' chili pepper. " 
+    Flavor: "\"I could have sworn that I was just in a different game.\" - Mandy Thompson" 
 Herpbert Humperderp:
     Type: "Ally"
-    Special: "Stockpile. Draw and resolve the effect of the top Rare Salvage on the deck. "
+    Special: "Stockpile to draw and resolve the effect of the top Rare Salvage on the deck. "
     Flavor: "\"Herp-herp-herp-BERT Huuuuuuumperderp!\" - Herpbert Humperderp"
 Tactical Thermonuclear Device:
     Type: "Weapon" 
     Quantity: 2
     Special: "Trash to gain 10 Weapon. Gain 1 Radiation Die. " 
     Flavor: "\"The whole point of the doomsday machine...is lost if you keep it a secret!\""
-Frag Grenade: 
+Improvised Explosive: 
     Type: "Weapon"
     Quantity: 5
     Special: "Trash to gain 5 Weapon." 
@@ -53,28 +45,28 @@ Flamethrower:
     Quantity: 2
     Special: "Play to gain 5 Weapon." 
     "1": "Take 1 Injury Die and add it to your hand." 
-    Flavor: "\"Hudda hudda hu!\""
+    Flavor: "\"Okay, so, Jai, I want you to pay very close attention to this. Point THIS end towards the people that you want to burn.\" - Jeff Wheeler"
 Sniper Rifle: 
     Type: "Weapon" 
     Quantity: 2
     Special: "Play to gain 3 Weapon <br/><em>- or, -</em><br/> Play during another Survivor's Combat to contribute 2 Weapon. " 
     Flavor: "\"Be polite. Be efficient. Have a plan to kill everyone you meet.\""
-Flare Gun:
+Grenade Launcher:
     Type: "Weapon"
     Quantity: 2
     Special: "Stockpile to gain 2 Weapon <br/><em>- or, -</em><br/> Trash to gain 6 Weapon." 
-    Flavor: "\"Look, I can identify at least three major safety violations right here. Look, a flare gun sitting on top of a mason jar full of gasoline. Next to our pile of bacon fat and newspapers. That's at least one.\" - Justice Lin"
+    Flavor: "\"Look, I can identify three major safety violations right here. Look, a grenade launcher sitting on top of a mason jar full of gasoline. Next to our pile of bacon fat and newspapers. That's at least one.\" - Justice Lin"
 Microwave Cannon: 
     Type: "Weapon" 
     Quantity: 2
     Special: "Stockpile to gain 6 Weapon." 
     1 to 2: "Gain 1 Radiation Die."
     Flavor: "\"It's simple. My own design. Half microwave. Half cannon.\" - Jeff Wheeler"
-Meathook:
+Cordless Power Drill:
     Type: "Weapon"
     Quantity: 2
     Special: "Stockpile to gain 6 Weapon." 
-    Flavor: "\"Some people say that you have to be a little unbalanced to kill a man with a meathook - and to those people, I say \"get out of my head, you stupid voices.\"\" - Justice Lin" 
+    Flavor: "\"Some people say that you have to be a little unbalanced to kill a man with a drill - and to those people, I say \"get out of my head, you stupid people.\"\" - Justice Lin" 
     1 to 2: "Gain 1 Trauma Die."
 Calvary Sabre:
     Type: "Weapon"
@@ -87,7 +79,7 @@ Radaway:
 Bandage: 
     Type: "Medical"
     Special: "Trash to Lose 1 Injury Die."
-The Only Way Out:
+The Voices In Your Head:
     Type: "Ally"
     Special: "Play during the Super Catastrophe. You run away. You win. "  
-    Flavor: "\"You know, I have stuck around to see how it all ended. But I think I'd rather be alive.\" - Naoki Urasawa"
+    Flavor: "\"You know, I could have stuck around to see how it all ended. But I think I'd rather be alive.\" - Naoki Urasawa"

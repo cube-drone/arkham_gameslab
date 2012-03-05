@@ -2,7 +2,7 @@ Tree Growing On Head:
     Quantity: 2
     Special: "Play to roll one less die in your Radiation Roll."
     Flavor: "Something about having a plant growing in your head makes you feel more at peace with your oddness." 
-Super Strength:
+Incredible Strength:
     Quantity: 2
     Special: "Play for 1 Weapon." 
     Flavor: "You also turn green, and all of your clothes tear off. Except for your pants. Never your pants."
@@ -18,7 +18,7 @@ Amazing Speed:
     Quantity: 1
     Special: "You may visit two Emplacements in a turn." 
     Flavor: "\"Rad Angels, Rad Angels, Rad Angels. If we beat them off the walls, then they're still in the air. If we shoot them out of the air, they're still at the gates; So where does that leave us? Nowhere, that's where.\" - X-2021 " 
-50FeetTall:
+50 Feet Tall:
     Title: "50 Feet Tall"
     Special: "Play for 5 Weapon and 1 Radiation Die." 
 Mending Bones: 
@@ -36,8 +36,6 @@ Eye for an Eye:
 Mutation Station:
     Special: "Play to move 1 Mutation from 1 player to another player." 
     Flavor: "What's your conflagration?"
-Rejigger: 
-    Special: "Play to move 1 Salvage Die from 1 player (not yourself) to another player." 
 Jugglers Despair:
     Title: "Juggler's Despair"
     Flavor: "\"You are completely unable to juggle. I would imagine that's not new. \" - Dr. Max Health, M.D."
@@ -49,14 +47,14 @@ Tuber Culosis:
     Flavor: "\"I'm pretty sure it's that disease where you can't get enough potatoes.\" - Dr. Max Health, M.D." 
 Tumour:
     Quantity: 3
-    Special: "\"It is, in fact, a tumour.\" - Dr. Max Health, M.D." 
+    Flavor: "\"It is, in fact, a tumour.\" - Dr. Max Health, M.D." 
 Pustule: 
-    Special: "\"Ew.\" - Dr. Max Health, M.D."
+    Flavor: "\"Ew.\" - Dr. Max Health, M.D."
 Throbbing Glombosis:
     Flavor: "\"According to my expert medical diagnosis, you're suffering from a very serious and not at all made-up disease.\" - Dr. Max Health, M.D."
 Lieukemia: 
     Quantity: 1
     Special: "Immediately trash upon drawing. Instead gain 1 Injury Die. " 
-    Special: "\"According to this chart that I found, your white blood cell count is way lower than it should be. Wait - I'm holding this upside down.\" - Dr. Max Health, M.D." 
+    Flavor: "\"According to this chart that I found, your white blood cell count is way lower than it should be. Wait - I'm holding this upside down.\" - Dr. Max Health, M.D." 
 
 

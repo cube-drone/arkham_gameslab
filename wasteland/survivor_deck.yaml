@@ -5,7 +5,7 @@ Dr Max Health MD:
     Once Per Game: "<em>Combat Hospital</em>: All players may discard a die."   
     Weakness: "<em>Not Actually A Doctor</em>: Any time Max would discard an Injury die, gain a Trauma die" 
 Jai Jayendra: 
-    Profession: "Mixed Martial Arts Enthusiast / Cashier" 
+    Profession: "Martial Arts Enthusiast / Cashier" 
     Once Per Day: "<em>Human Weapon</em>: 2 Weapon. " 
     Once Per Game: "<em>Human Typhoon</em>: 5 Weapon. " 
     Weakness: "<em>Human Catastrophe</em>: Whenever Jai would roll Injury die, instead roll twice. "
@@ -16,24 +16,24 @@ Justice Lin:
     Weakness: "<em>Compulsive</em>: If Justice doesn't have an even number of dice at the end of the Day, she makes a Trauma roll. " 
 Naoki Urasawa:
     Profession: "Student"
-    Once Per Day: "<em>Cheater</em>: Naoki may take two Salvage cards from any other player." 
+    Once Per Day: "<em>Cheater</em>: Naoki may take 1 \"Food\" card from the player with the most Salvage cards (who is not Naoki)." 
     Once Per Game: "<em>Deadline Dodge</em>: Naoki does not participate in or suffer the effects of the end-of-day Catastrophe." 
     Weakness: "<em>Big Eater</em>: Naoki requires 1 extra food per turn. " 
 Rodrigo Gabriel: 
     Profession: "Salvager"
     Once Per Day: "<em>Found</em>: Draw 1 Common Salvage and add it to your hand."
-    Once Per Game: "<em>Restock</em>: Make two Salvage rolls add it to the Stockpile." 
+    Once Per Game: "<em>Restock</em>: Make a Salvage roll and add it to your hand." 
     Weakness: "<em>Honest</em>: Rodrigo refuses to steal cards or give away dice. "
 The King: 
     Profession: "Mutant"
-    Once Per Day: "<em>Mutate</em>: Trash 1 Mutation. Draw 1 Mutation -or- Trash 1 Die. Draw a Radation Die." 
+    Once Per Day: "<em>Mutate</em>: Trash 1 Mutation. Draw 1 Mutation<br/><em> -or- </em><br/>Trash 1 Die. Draw a Radation Die." 
     Also Once Per Day: "<em>Third Eye</em>: The King may use his Radiation Die in lieu of his Salvage die for 1 roll." 
     Weakness: "<em>Cancer</em>: The King makes an extra Radiation roll at the end of the game."
 Jeff Wheeler: 
     Profession: "Welder"
     Once Per Day: "<em>Fixed It</em>: When Jeff would Trash a card from his hand, instead put it in the Stockpile." 
-    Once Per Game: "<em>Quartermaster</em>: Jeff may draw 3 cards from the Stockpile for each player and distribute them."
-    Weakness: "<em>Sticky Fingers</em>: Jeff may not use the Stockpile or Exploration Leader emplacements. "
+    Once Per Game: "<em>Restock</em>: Jeff may draw 2 cards from the Stockpile for each player and distribute them, then take 2 for himself."
+    Weakness: "<em>Untrustworthy</em>: Jeff may not use the Quartermaster emplacement. "
 X2021:
     Title: "X-2021" 
     Profession: "Murderous Android Posing as a Human" 

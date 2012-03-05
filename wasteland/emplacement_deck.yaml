@@ -6,29 +6,33 @@ Exploration Leader:
     Special: "In the exploration phase, choose which player gets each Crisis card." 
     Radiation: 1
     Type: "Starting" 
-Scout:
-    Special: "In the exploration phase, choose the emplacement to liberate. Make a Salvage roll, and add it to the Stockpile." 
+Wasteland: 
+    Special: "Draw 2 Common Salvage. There is no limit on the number of players who may visit the Wasteland. The Wasteland cannot be Damaged or Destroyed."
     Radiation: 1
+    Type: "Starting" 
+Scout:
+    Special: "In the exploration phase, choose which emplacement to liberate. Make a Salvage Roll, adding any cards gained to the Stockpile." 
+    Radiation: 1
+    Type: "Starting" 
 Irradiated Skyscraper: 
     Special: "Gain 1 Salvage Die."
-    Type: "Starting" 
-School Zone :
-    Special: "Make a Salvage Roll, and add it to your hand." 
-    Trauma: 1
     Type: "Starting" 
 Tent City:
     Special: "Take 2 cards from the player with the most Salvage."
     Type: "Starting" 
+School Zone :
+    Special: "Make a Salvage Roll, and add it to your hand." 
+    Trauma: 1
 Hospital: 
     Special: "Discard 1 Injury die. Make a Salvage roll, and add it to the Stockpile." 
     Trauma: 1
 Radio Station:
     Special: "Give 1 of your own Trauma Die to another player." 
 Weapons Cache:
-    Special: "Take 1 Radiation Die. Add 2 Rare Salvage to the Stockpile." 
+    Special: "Add 2 Rare Salvage to the Stockpile." 
     Radiation: 1
 Experimental Laboratory: 
-    Special: "Give 1 of your own Radiation Die to another player. Add 1 Common Salvage to the Stockpile." 
+    Special: "Give 1 of your own Radiation Die to another player. Add 2 Common Salvage to the Stockpile." 
 Farm:
     Special: "Gain 4 Common Salvage"
     Radiation: 1

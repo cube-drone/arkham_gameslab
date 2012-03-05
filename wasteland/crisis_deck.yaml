@@ -169,11 +169,11 @@ Followed You Home:
 Super Catastrophe Phase 1:
     Type: "Super Catastrophe"
     Special: "Shared Combat! Difficulty 40!"
-    Fail: "Every player takes 3 Crisis Cards, 2 Radiation Die, and 2 Trauma Die. Destroy 3 Emplacements." 
+    Fail: "Every player takes 2 Injury Die, 2 Radiation Die, and 2 Trauma Die. Destroy 3 Emplacements." 
 Super Catastrophe Phase 2: 
     Type: "Super Catastrophe"
     Special: "Single Combat! Each (live) player faces a Combat of Difficulty 8" 
-    Fail: "The failing player takes 2 Crisis Cards, 1 Radiation Die, and 1 Trauma Die"
+    Fail: "The failing player takes 1 Injury Die, 1 Radiation Die, and 1 Trauma Die, and Destroys 1 Emplacement."
 Super Catastrophe Phase 3:
     Type: "Super Catastrophe"
-    Special: "Roll for Radiation, Trauma, and Injury" 
+    Special: "Roll, again, for Radiation, Trauma, and Injury" 
