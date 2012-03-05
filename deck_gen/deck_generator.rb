@@ -40,6 +40,42 @@ puts "<!DOCTYPE html>"
 puts "<html>"
 puts "\t<link href='http://fonts.googleapis.com/css?family=Gudea:400,700,400italic|Waiting+for+the+Sunrise|Stint+Ultra+Expanded|Share:400,400italic,700,700italic' rel='stylesheet' type='text/css'>"
 puts "\t<meta charset='utf-8'>"
+puts "\t<style>
+
+*{
+    /* Leave my colors the way you found them, webkit. */
+    -webkit-print-color-adjust:exact;
+    text-rendering: optimizeLegibility;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.Page{
+    padding: 20px;
+    overflow: hidden;
+    page-break-before: always;
+}
+
+.Card{
+    /* You're going to want to overwrite a lot of these. */
+    width: 216px;
+    height: 302px;
+    border: 1px solid gray;
+    float: left;
+    margin-left: 2mm;
+    margin-bottom: 10mm;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    background-size: 216px 302px;
+}
+
+</style>
+"
 puts "\t<link rel='stylesheet' href='"+options[:stylesheet]+"' />" 
 puts "<body>"
 puts "<div class='Page'>" 
