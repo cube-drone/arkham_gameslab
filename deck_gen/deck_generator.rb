@@ -15,6 +15,9 @@ optparse = OptionParser.new {|opts|
     options[:stylesheet] = "style.css" 
     opts.on( '-s', '--stylesheet FILENAME', 'The name of the stylesheet.') { |filename| options[:stylesheet] = filename } 
     
+    options[:reprint_list] = []
+    opts.on( '-r', '--reprint a,b,c', Array, 'A list of specific cards to reprint.') { |reprint| options[:reprint_list] = reprint } 
+
     opts.on("-h", "--help", "Show this message"){
         puts opts
         exit
@@ -25,6 +28,11 @@ optparse.parse!
 if (options[:filenames].length == 0) then
     puts optparse
     exit
+end
+
+reprint = false
+if (options[:reprint_list].length > 0 ) then 
+    reprint = true
 end
 
 # 3. Display Deck
@@ -83,6 +91,7 @@ options[:filenames].each do |filename|
 
     thing.each do |key, value|
         next if value.class == String
+        next if reprint and not options[:reprint_list].include?(key) 
         quantity = value["Quantity"] ||= 1
         title = value["Title"] ||= key
         image = value["Image"] ||= ""
