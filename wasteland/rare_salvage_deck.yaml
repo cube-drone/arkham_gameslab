@@ -1,7 +1,8 @@
+Title: "Rare Salvage"
 Shuffling Eddie:
     Title: "Shuffling Eddie"
     Type: "Ally"
-    Special: "Trash to make a Salvage Roll and add the result to your hand."
+    Special: "Stockpile to make a Salvage Roll and add the result to your hand."
     Flavor: "\"Everyday, I'm shufflin'\" - Shufflin' Eddie"
 Duke the Dog:
     Type: "Ally"

@@ -2,20 +2,8 @@
 
 rm -rf output
 mkdir output
-ruby ../deck_gen/deck_generator.rb --deck "Crisis" --file crisis_deck.yaml                  > output/crisis.html
-ruby ../deck_gen/deck_generator.rb --deck "Common Salvage" --file common_salvage_deck.yaml  > output/common_salvage.html
-ruby ../deck_gen/deck_generator.rb --deck "Rare Salvage" --file rare_salvage_deck.yaml      > output/rare_salvage.html
-ruby ../deck_gen/deck_generator.rb --deck "Survivor" --file survivor_deck.yaml              > output/survivor.html
-ruby ../deck_gen/deck_generator.rb --deck "Emplacement" --file emplacement_deck.yaml        > output/emplacement.html
-ruby ../deck_gen/deck_generator.rb --deck "Mutation" --file mutation_deck.yaml              > output/mutation.html
-ruby ../deck_gen/deck_generator.rb --deck "Helper" --file helper_deck.yaml                  > output/helper.html
+ruby ../deck_gen/deck_generator.rb --file crisis_deck.yaml,common_salvage_deck.yaml,rare_salvage_deck.yaml,survivor_deck.yaml,emplacement_deck.yaml,mutation_deck.yaml,helper_deck.yaml > output/everything.html
 cp deck_style.css                                                                           output/style.css
 cp -r assets                                                                                output/assets
 
-wkpdf --source output/crisis.html --paper letter --orientation landscape --margins 0 --print-background yes         --output output/crisis.pdf
-wkpdf --source output/common_salvage.html --paper letter --orientation landscape --margins 0 --print-background yes --output output/common_salvage.pdf
-wkpdf --source output/rare_salvage.html  --paper letter --orientation landscape --margins 0 --print-background yes  --output output/rare_salvage.pdf
-wkpdf --source output/survivor.html --paper letter --orientation landscape --margins 0 --print-background yes       --output output/survivor.pdf 
-wkpdf --source output/emplacement.html --paper letter --orientation landscape --margins 0 --print-background yes    --output output/emplacement.pdf 
-wkpdf --source output/mutation.html --paper letter --orientation landscape --margins 0 --print-background yes       --output output/mutation.pdf 
-wkpdf --source output/helper.html --paper letter --orientation landscape --margins 0 --print-background yes         --output output/helper.pdf 
+wkpdf --source output/everything.html --paper letter --orientation landscape --margins 0 --print-background yes         --output output/master.pdf
