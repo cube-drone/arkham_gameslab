@@ -96,10 +96,10 @@ If the departure star and arrival star are both in the same sector, the journey 
 
 COMBAT
 
-If your ships occupy a star also occupied by an enemy, a battle will occur. In a battle, the following steps occur:
+If your ships occupy a star also occupied by an enemy, a battle will occur. A battle is performed in a sequence of 6 steps. Each set of steps is a round. Each step is a phase.
 
 1. Count total fleet sizes
-2. Select combat cards
+2. Select and resolve combat cards
 3. Determine victor
 4. Resolve losses
 5. Retreats
@@ -111,7 +111,9 @@ You and your opponent count the number of ships on each of your sides. Include a
 
 SELECT COMBAT CARDS
 
-You and your opponent each select a combat card from your hand. This selection is secret and you both reveal your selections at the same time.
+You and your opponent each select a combat card from your hand. This selection is secret.
+
+Reveal your combat card selections at the same time and then resolve any text abilities, with the attacker resolving first.
 
 DETERMINE VICTOR
 
@@ -123,13 +125,15 @@ The victor of the combat chooses a number between 0 and the number of ships in t
 
 RETREATS
 
-The loser chooses whether to retreat any number of ships from their fleet. The victor may choose to retreat any number of ships from their fleet after the loser has chosen.
+The loser chooses whether to retreat any number of ships from their fleet. If there are no enemy ships remaining, the victor may choose to retreat any number of ships from their fleet after the loser has chosen.
+
+Combat cards are discarded.
 
 Each retreating fleet is put onto a warp token and placed on the hyperspace path at the entry space. If the player has no warp tokens, they may not choose to retreat. A player may not retreat their fleet to another star in the same system.
 
 FIGHT AGAIN
 
-If there are ships from enemy fleets still occupying a star, start combat again from the beginning.
+If there are ships from enemy fleets still occupying a star, start a new combat round again from the beginning.
 
 
 
