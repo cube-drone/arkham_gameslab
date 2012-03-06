@@ -1,33 +1,3 @@
-/* Required for proper layout */
-
-*{
-    /* Leave my colors the way you found them, webkit. */
-    -webkit-print-color-adjust:exact;
-}
-
-body{
-    margin: 0;
-    padding: 0;
-    color: #333;
-}
-
-.Page{
-    padding: 20px;
-    overflow: hidden;
-    page-break-before: always;
-}
-
-.Card{
-    width: 216px;
-    height: 302px;
-    border: 1px solid gray;
-    float: left;
-    margin-left: 2mm;
-    margin-bottom: 10mm;
-    overflow: hidden;
-    text-align: center;
-    position: relative;
-}
 
 /* Stylepretty */ 
 
@@ -89,14 +59,14 @@ p {
     background: url('assets/location_front.png'); 
 }
 
-.Location h2, .Crisis h2, .Crisis .type, .Salvage h2, .Survivor h2, .Mutation h2, .Emplacement h2 
+.Location h2, .Crisis h2, .Crisis .type, .Salvage h2, .Survivor h2, .Mutation h2, .Emplacement h2, .Rare .type, .Helper h2, .Helper h3
 {
     display: none;
 }
 
-.Salvage h3
+.Survivor h3
 {
-    margin-top: 65px;
+    visibility: hidden;
 }
 
 .Salvage .type
@@ -110,35 +80,101 @@ p {
     margin-top: 45px;
 }
 
-.Collapse
+.Super
 {
-    background: url('assets/collapse_crisis.png');
+    background: url('assets/catastrophe_super.png') !important;
 }
 
 .Catastrophe
 {
-    background: url('assets/catastrophe_crisis.png');
+    background: url('assets/catastrophe.png');
+}
+
+.Collapse
+{
+    background: url('assets/collapse.png');
+}
+
+.Rats
+{
+    background: url('assets/collapse_vermin.png');
+}
+
+.Fire
+{
+    background: url('assets/collapse_fire.png');
 }
 
 .Combat
 {
-    background: url('assets/combat_crisis.png');
+    background: url('assets/combat.png');
 }
 
-.Rare
+.Dogs
 {
-    background: url('assets/rare_salvage.png');
+    background: url('assets/combat_dogs.png');
+}
+
+.Ghoul
+{
+    background: url('assets/combat_ghoul.png');
+}
+
+.Mustard
+{
+    background: url('assets/combat_mustard.png');
+}
+
+.Android
+{
+    background: url('assets/combat_android.png');
+    background-size: 216px 302px;
+}
+
+.Angel
+{
+    background: url('assets/combat_radangel.png');
+}
+
+.Superintelligence
+{
+    background: url('assets/combat_superintelligence.png');
+}
+
+.Screamers
+{
+    background: url('assets/combat_screamers.png');
 }
 
 .Common
 {
-    background: url('assets/common_salvage.png');
+    background: url('assets/common_salvage.png') !important;
 }
 
-.Survivor
-{
-    background: url('assets/survivor.png');
-}
+.X-2021 { background: url('assets/survivor_x2021.png'); }
+.Jai { background: url('assets/survivor_jai.png'); }
+.Jeff { background: url('assets/survivor_jeff.png'); }
+.Justice { background: url('assets/survivor_justice.png'); }
+.King { background: url('assets/survivor_king.png'); }
+.Max { background: url('assets/survivor_max.png'); }
+.Naoki { background: url('assets/survivor_naoki.png'); }
+.Rodrigo { background: url('assets/survivor_rodrigo.png'); }
+
+.Thermonuclear { background: url('assets/rare_thermonuclear.png'); } 
+.Sniper { background: url('assets/rare_sniper.png'); } 
+.Submachine { background: url('assets/rare_smg.png'); } 
+.Microwave { background: url('assets/rare_microwave.png'); } 
+.Medical { background: url('assets/rare_medical.png'); } 
+.Ally { background: url('assets/rare_ally.png'); } 
+.Calvary { background: url('assets/rare_calvalry.png'); } 
+.Mandy { background: url('assets/rare_mandy.png'); } 
+.Macho { background: url('assets/rare_machodan.png'); } 
+.Improvised { background: url('assets/rare_ied.png'); } 
+.Herpbert { background: url('assets/rare_herp.png'); } 
+.Launcher { background: url('assets/rare_grenade_launcher.png'); } 
+.Flamethrower { background: url('assets/rare_flamethrower.png'); } 
+.Duke { background: url('assets/rare_duke.png'); } 
+.Cordless { background: url('assets/rare_cordless.png'); } 
 
 .Mutation
 {
@@ -148,4 +184,14 @@ p {
 .Emplacement
 {
     background: url('assets/emplacement.png');
+}
+
+.Helper_Die
+{
+    background: url('assets/helper_die.png');
+}
+
+.Helper_Turns
+{
+    background: url('assets/helper_turns.png');
 }

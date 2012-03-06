@@ -1,0 +1,126 @@
+With 2d6, 
+There are 36 different unique rolls, and... 
+There is a 16.0% chance of getting exactly a 2-of-a-kind
+There is a 16.0% chance of getting at least a 2-of-a-kind
+ ------------------- 
+ 
+With 3d6, 
+There are 216 different unique rolls, and... 
+There is a 41.0% chance of getting exactly a 2-of-a-kind
+There is a 44.0% chance of getting at least a 2-of-a-kind
+There is a 2.0% chance of getting exactly a 3-of-a-kind
+There is a 2.0% chance of getting at least a 3-of-a-kind
+ ------------------- 
+ 
+With 4d6, 
+There are 1296 different unique rolls, and... 
+There is a 62.0% chance of getting exactly a 2-of-a-kind
+There is a 72.0% chance of getting at least a 2-of-a-kind
+There is a 9.0% chance of getting exactly a 3-of-a-kind
+There is a 9.0% chance of getting at least a 3-of-a-kind
+There is a 0.0% chance of getting exactly a 4-of-a-kind
+There is a 0.0% chance of getting at least a 4-of-a-kind
+ ------------------- 
+ 
+With 5d6, 
+There are 7776 different unique rolls, and... 
+There is a 69.0% chance of getting exactly a 2-of-a-kind
+There is a 90.0% chance of getting at least a 2-of-a-kind
+There is a 19.0% chance of getting exactly a 3-of-a-kind
+There is a 21.0% chance of getting at least a 3-of-a-kind
+There is a 1.0% chance of getting exactly a 4-of-a-kind
+There is a 2.0% chance of getting at least a 4-of-a-kind
+There is a 0.0% chance of getting exactly a 5-of-a-kind
+There is a 0.0% chance of getting at least a 5-of-a-kind
+ ------------------- 
+ 
+With 6d6, 
+There are 46656 different unique rolls, and... 
+There is a 61.0% chance of getting exactly a 2-of-a-kind
+There is a 98.0% chance of getting at least a 2-of-a-kind
+There is a 31.0% chance of getting exactly a 3-of-a-kind
+There is a 36.0% chance of getting at least a 3-of-a-kind
+There is a 4.0% chance of getting exactly a 4-of-a-kind
+There is a 5.0% chance of getting at least a 4-of-a-kind
+There is a 0.0% chance of getting exactly a 5-of-a-kind
+There is a 0.0% chance of getting at least a 5-of-a-kind
+There is a 0.0% chance of getting exactly a 6-of-a-kind
+There is a 0.0% chance of getting at least a 6-of-a-kind
+ ------------------- 
+ 
+With 7d6, 
+There are 279936 different unique rolls, and... 
+There is a 45.0% chance of getting exactly a 2-of-a-kind
+There is a 100.0% chance of getting at least a 2-of-a-kind
+There is a 43.0% chance of getting exactly a 3-of-a-kind
+There is a 54.0% chance of getting at least a 3-of-a-kind
+There is a 9.0% chance of getting exactly a 4-of-a-kind
+There is a 10.0% chance of getting at least a 4-of-a-kind
+There is a 1.0% chance of getting exactly a 5-of-a-kind
+There is a 1.0% chance of getting at least a 5-of-a-kind
+There is a 0.0% chance of getting exactly a 6-of-a-kind
+There is a 0.0% chance of getting at least a 6-of-a-kind
+There is a 0.0% chance of getting exactly a 7-of-a-kind
+There is a 0.0% chance of getting at least a 7-of-a-kind
+ ------------------- 
+ 
+With 8d6, 
+There are 1679616 different unique rolls, and... 
+There is a 29.0% chance of getting exactly a 2-of-a-kind
+There is a 100.0% chance of getting at least a 2-of-a-kind
+There is a 52.0% chance of getting exactly a 3-of-a-kind
+There is a 70.0% chance of getting at least a 3-of-a-kind
+There is a 15.0% chance of getting exactly a 4-of-a-kind
+There is a 18.0% chance of getting at least a 4-of-a-kind
+There is a 2.0% chance of getting exactly a 5-of-a-kind
+There is a 2.0% chance of getting at least a 5-of-a-kind
+There is a 0.0% chance of getting exactly a 6-of-a-kind
+There is a 0.0% chance of getting at least a 6-of-a-kind
+There is a 0.0% chance of getting exactly a 7-of-a-kind
+There is a 0.0% chance of getting at least a 7-of-a-kind
+There is a 0.0% chance of getting exactly a 8-of-a-kind
+There is a 0.0% chance of getting at least a 8-of-a-kind
+ ------------------- 
+ 
+With 9d6, 
+There are 10077696 different unique rolls, and... 
+There is a 15.0% chance of getting exactly a 2-of-a-kind
+There is a 100.0% chance of getting at least a 2-of-a-kind
+There is a 55.0% chance of getting exactly a 3-of-a-kind
+There is a 84.0% chance of getting at least a 3-of-a-kind
+There is a 23.0% chance of getting exactly a 4-of-a-kind
+There is a 28.0% chance of getting at least a 4-of-a-kind
+There is a 4.0% chance of getting exactly a 5-of-a-kind
+There is a 5.0% chance of getting at least a 5-of-a-kind
+There is a 0.0% chance of getting exactly a 6-of-a-kind
+There is a 0.0% chance of getting at least a 6-of-a-kind
+There is a 0.0% chance of getting exactly a 7-of-a-kind
+There is a 0.0% chance of getting at least a 7-of-a-kind
+There is a 0.0% chance of getting exactly a 8-of-a-kind
+There is a 0.0% chance of getting at least a 8-of-a-kind
+There is a 0.0% chance of getting exactly a 9-of-a-kind
+There is a 0.0% chance of getting at least a 9-of-a-kind
+ ------------------- 
+ 
+With 10d6, 
+There are 60466176 different unique rolls, and... 
+There is a 6.0% chance of getting exactly a 2-of-a-kind
+There is a 100.0% chance of getting at least a 2-of-a-kind
+There is a 52.0% chance of getting exactly a 3-of-a-kind
+There is a 93.0% chance of getting at least a 3-of-a-kind
+There is a 31.0% chance of getting exactly a 4-of-a-kind
+There is a 40.0% chance of getting at least a 4-of-a-kind
+There is a 7.0% chance of getting exactly a 5-of-a-kind
+There is a 9.0% chance of getting at least a 5-of-a-kind
+There is a 1.0% chance of getting exactly a 6-of-a-kind
+There is a 1.0% chance of getting at least a 6-of-a-kind
+There is a 0.0% chance of getting exactly a 7-of-a-kind
+There is a 0.0% chance of getting at least a 7-of-a-kind
+There is a 0.0% chance of getting exactly a 8-of-a-kind
+There is a 0.0% chance of getting at least a 8-of-a-kind
+There is a 0.0% chance of getting exactly a 9-of-a-kind
+There is a 0.0% chance of getting at least a 9-of-a-kind
+There is a 0.0% chance of getting exactly a 10-of-a-kind
+There is a 0.0% chance of getting at least a 10-of-a-kind
+ ------------------- 
+ 
