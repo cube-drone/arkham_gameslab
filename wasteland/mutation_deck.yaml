@@ -13,7 +13,7 @@ Pyrokinetic:
     Flavor: "\"I swear, the next person to stuff my kit with unpopped popcorn is going to get a boot up the ass.\" - The King" 
 Terrifying Deformity: 
     Quantity: 1
-    Special: "Any combat that you face of Difficulty 5 is an automatic victory."  
+    Special: "Any combat that you face of Difficulty 5 or less is an automatic victory."  
     Flavor: "\"No, I can't fix it. Dammit, I'm a doctor, not a plastic surgeon!\" - Dr. Max Health, M.D." 
 Amazing Speed: 
     Quantity: 1
@@ -22,6 +22,7 @@ Amazing Speed:
 50 Feet Tall:
     Title: "50 Feet Tall"
     Special: "Play for 5 Weapon and 1 Radiation Die." 
+    Flavor: "\"I suddenly feel this urge to stomp around through Tokyo.\" - The King" 
 Mending Bones: 
     Special: "Play to Trash 1 Crisis Card and gain 1 Radiation Die." 
     Flavor: "\"Nobody should have been able to survive that. I guess.\" - Dr. Max Health, M.D."
@@ -53,7 +54,7 @@ Pustule:
     Flavor: "\"Ew.\" - Dr. Max Health, M.D."
 Throbbing Glombosis:
     Flavor: "\"According to my expert medical diagnosis, you're suffering from a very serious and not at all made-up disease.\" - Dr. Max Health, M.D."
-Lieukemia: 
+Leukemia: 
     Quantity: 1
     Special: "Immediately trash upon drawing. Instead gain 1 Injury Die. " 
     Flavor: "\"According to this chart that I found, your white blood cell count is way lower than it should be. Wait - I'm holding this upside down.\" - Dr. Max Health, M.D." 
