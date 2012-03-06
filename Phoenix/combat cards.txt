@@ -1,0 +1,38 @@
+Races:
+	- Berserkers
+		1. S-1 Destroy 3 of your opponents ships. 
+		2. S1 If played while you are the attacker, S3 instead.
+		3. S2
+		4. S2
+		5. S3
+		6. S4
+		7. S7 In the Resolve Losses phase of this round, destroyed an additional 5 of your ships.
+		
+	- Turtles
+		1. S1 If you lose this round, immediately destroy 3 of your opponents ships.
+		2. S1 If played when you are the defender, S3 instead.
+		3. S2
+		4. S2
+		5. S3
+		6. S4
+		7. S4 In the Resolve Losses phase of this round, lose 5 fewer ships than normal.
+		
+	- Necrotics
+		1. S0 In the Resolve Losses phase of this round, return one of your discarded cards to your hand.
+		2. S1 During this round you may use the text ability of the combat card your opponent played.
+		3. S0 You may instead use the strength and text ability of any card that your opponent has discarded. 
+		4. S2
+		5. S3
+		6. S4
+		7. S5
+		
+	- Not Quite Beings of Light
+		1. S1 You may choose to retreat before the Resolving Losses phase.
+		2. S1
+		3. S2 You may immediately remove 1 enemy ship and replace it with your own.
+		4. S2
+		5. S2
+		6. S3
+		7. S4 If you win this battle, you may immediately Retreat.
+		
+	
