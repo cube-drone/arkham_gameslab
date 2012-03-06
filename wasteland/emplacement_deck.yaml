@@ -25,8 +25,6 @@ Tent City:
 School Zone :
     Special: "Make a Salvage Roll, and add it to your hand." 
     Trauma: 1
-Hospital: 
-    Special: "Discard 1 Injury die. Make a Trauma roll, an Injury roll, and a Radiation roll." 
 Radio Station:
     Special: "Give 1 of your own Trauma Die to another player. Add 2 Common Salvage to the Stockpile." 
 Weapons Cache:
@@ -47,3 +45,6 @@ Cannery:
     Special: "Give 1 new Radiation Die to another player. Produce 3 Food." 
 Machine Shop: 
     Special: "Trade 3 Common Salvage from your hand for 1 Rare Salvage." 
+Crushed Skyscraper: 
+    Special: "Gain 1 Salvage Die."
+    Radiation: 1
