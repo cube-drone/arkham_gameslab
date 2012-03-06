@@ -1,15 +1,15 @@
 PRIORITY:
 
-Needs new combat mechanics badly
-	- use Game of Thrones cards for combat?
-		- provides bluffing and potentially special abilities
-		- need to have abilities that are for:
-			- fleets that are definitely going to lose
-			- support abilities for near by fleets and/or planets/production
-		- cycle through cards as in GoT
-	- retreating fleets must be put onto a warp token. If you don't have any the fleet is destroyed.
-	- should be allowed to retreat fleet, but with a penalty. Maybe draw another combat card?
-	- attacker chooses how many ships to kill, and they also lose that many -1.
+Combat cards
+	- race themes, with the cards providing some backup for the themes
+	- abilities:
+		- something "throw away" for fleets that are definitely going to lose
+		- support abilities for near by fleets and/or planets/production
+		- overpowering for a defending fleet
+		- overpowering for an attacking fleet
+		- destroying more ships
+		- retreating before resolution
+		- 
 
 What is the victory condition?
 	- VP gathering?
@@ -22,6 +22,9 @@ What is the victory condition?
 	- can produce at another star that has a human population
 	- can't win the game
 		- can't get "VP"s?
+	- Idea from another page: If your home star is captured, the conquering player immediately gains your Class 2, 4, and 5 Technology, which you also retain. 
+		Any Class 3 Technologies you have the conqueror may acquire at half cost (rounding up). 
+	- your fleets must all return to your Home Star and the capturing fleet is immediately warped to one sector away, of their choice
 		
 	
 
@@ -52,6 +55,13 @@ Combat cards - a deck of cards drawn before each combat to affect it?
 		
 Technology research/customization is fun!
 
+Alliances
+	- Players may conference with each other in secret at any time.
+	- Two or more players' fleets may orbit the same star peacefully. Any fleet may attack any other on their respective players' turns.
+	- Two or more players' fleets may share the same warp, merging their fleets into one for the journey. The player who owns the warp being used decides when and where to arrive. Fleets may attack each other while in warp. If the passenger fleet destroys the warp-owning fleet, it is immediately flung out of warp and arrives at an eligible star of the warp-owner's choosing. 
+
+- This person wrote a lot of rules about technologies and such.
+	http://forums.about.com/n/pfx/forum.aspx?tsn=1&nav=display&webtag=ab-boardgames&tid=779
 
 		
 DESIGN THOUGHTS:
@@ -82,3 +92,11 @@ Needs more warp tokens?
 	- "one departure of any kind per turn"? That sounds not useful.
 		- coordination of attacking fleets is unnecessarily cumbersome
 	- start warp tokens at "0". Count your warp movement starting just outside of your starting system.
+	
+Needs new combat mechanics badly
+	- use Game of Thrones cards for combat?
+		- provides bluffing and potentially special abilities
+		- cycle through cards as in GoT
+	- retreating fleets must be put onto a warp token. If you don't have any the fleet is destroyed.
+	- should be allowed to retreat fleet, but with a penalty. Maybe draw another combat card?
+	- attacker chooses how many ships to kill, and they also lose that many -1.

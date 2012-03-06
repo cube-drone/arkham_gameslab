@@ -25,6 +25,16 @@ The warp tokens carry fleets as they move along the hyperspace track, and shows 
 
 
 
+THE CARDS
+
+Each player has 7 combat cards. These represent admirals and captains of your fleets and are used to modify combat strength as well as provide special abilities during combat. 
+
+Any player may examine any other players hand at any time, except for the time period between when a card has been selected during combat and when it is resolved. Ie, you may look at someone's hand, except when by doing so you could exactly determine which card they have selected.
+
+After you play your last card, immediately re-draw every card previously played except for the very last one. In this way, you never run out of cards.
+
+
+
 GAME SETUP
 
 Each player chooses a colour. Take 15 ships and place them around your Home Star.
@@ -84,11 +94,42 @@ If the departure star and arrival star are both in the same sector, the journey 
 
 
 
-BATTLE
+COMBAT
 
-If your ships occupy a star also occupied by an enemy, a battle will occur.
+If your ships occupy a star also occupied by an enemy, a battle will occur. In a battle, the following steps occur:
 
-*** TODO
+1. Count total fleet sizes
+2. Select combat cards
+3. Determine victor
+4. Resolve losses
+5. Retreats
+6. Fight again
+
+COUNT FLEET SIZES
+
+You and your opponent count the number of ships on each of your sides. Include all fleets that have arrived at this star this turn. This count is your Fleet Strength.
+
+SELECT COMBAT CARDS
+
+You and your opponent each select a combat card from your hand. This selection is secret and you both reveal your selections at the same time.
+
+DETERMINE VICTOR
+
+Add your Fleet Strength to the Strength of your combat card. The player with the higher total is the victor of this combat.
+
+RESOLVE LOSSES
+
+The victor of the combat chooses a number between 0 and the number of ships in the losers fleet. The loser of the combat loses this many ships. The victor of the combat loses this many ships minus 1.
+
+RETREATS
+
+The loser chooses whether to retreat any number of ships from their fleet. The victor may choose to retreat any number of ships from their fleet after the loser has chosen.
+
+Each retreating fleet is put onto a warp token and placed on the hyperspace path at the entry space. If the player has no warp tokens, they may not choose to retreat. A player may not retreat their fleet to another star in the same system.
+
+FIGHT AGAIN
+
+If there are ships from enemy fleets still occupying a star, start combat again from the beginning.
 
 
 
