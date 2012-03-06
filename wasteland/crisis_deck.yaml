@@ -1,4 +1,10 @@
 Title: "Crisis"
+Cockroach Hunting Pack
+    Type: "Combat"
+    Quantity: 5
+    Difficulty: 3
+    Flavor: "Weeding out the weak since 2051."
+    Injury: 1
 Wild Dogs: 
     Type: "Combat"
     Quantity: 5
@@ -14,6 +20,7 @@ Raiders:
     Type: "Combat"
     Quantity: 10
     Difficulty: 5
+    Fail: Discard 1 card from stockpile.
     Injury: 1
 Marauders:
     Type: "Combat"
@@ -40,6 +47,12 @@ Burnpit Screamers:
     Quantity: 3
     Difficulty: 7
     Flavor: "\"If they take the camp, they'll rape us to death, eat our flesh, and sew our skins into their clothing. And if we're very, very lucky, they'll do it in that order.\""
+    Trauma: 1
+Tumour Hurlers:
+    Type: "Combat"
+    Quantity: 2
+    Difficulty: 8
+    Flavor: "Mutated abominations ripping pieces of mutated flesh off their bodies and throwing it at us, acidly sizzling through the air."
     Trauma: 1
 Rogue Android: 
     Type: "Combat" 
@@ -80,7 +93,6 @@ Pound of Flesh:
 Flashbang Accident:
     Type: "Collapse"
     Special: "Trash 1 Salvage, at random, from your hand. " 
-
 Collapse: 
     Quantity: 1
     Type: "Catastrophe"
