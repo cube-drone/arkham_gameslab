@@ -54,7 +54,7 @@ GAME START
 
 - Put the Starting Emplacements in play, in the center of the table. 
 
-- Create a deck-sized hole next to the Quartermaster Emplacement. This is the "Stockpile". Put 3 Common Salvage in the Stockpile.  
+- Create a deck-sized hole next to the Stockpile Emplacement. This is the "Stockpile". Put 3 Common Salvage in the Stockpile.  
 
 - Place the Week track. 
 
@@ -149,4 +149,5 @@ SHARED COMBAT
 - Same as a normal combat, but every player contributes die and weapon towards the roll. 
 - All players choose the weapons and mutations that they will use, and place them in front of themselves, face down.
 - All players flip their weapons simultaneously.
+- Every player rolls. The total of all player rolls and all weapons must meet or exceed the Shared Combat's difficulty to pass. 
 
