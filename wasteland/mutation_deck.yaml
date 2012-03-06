@@ -1,40 +1,61 @@
+Title: "Mutation" 
 Tree Growing On Head:
     Quantity: 2
     Special: "Play to roll one less die in your Radiation Roll."
-Super Strength:
+    Flavor: "Something about having a plant growing in your head makes you feel more at peace with your oddness." 
+Incredible Strength:
     Quantity: 2
     Special: "Play for 1 Weapon." 
+    Flavor: "You also turn green, and all of your clothes tear off. Except for your pants. Never your pants."
 Pyrokinetic: 
     Quantity: 2
     Special: "Play for 2 Weapon." 
+    Flavor: "\"I swear, the next person to stuff my kit with unpopped popcorn is going to get a boot up the ass.\" - The King" 
 Terrifying Deformity: 
     Quantity: 1
-    Special: "Any combat that you face of Difficulty 6 is an automatic victory."  
+    Special: "Any combat that you face of Difficulty 5 is an automatic victory."  
+    Flavor: "\"No, I can't fix it. Dammit, I'm a doctor, not a plastic surgeon!\" - Dr. Max Health, M.D." 
 Amazing Speed: 
     Quantity: 1
-    Special: "You may Explore twice in one turn, instead of visiting an Emplacement." 
-50FeetTall:
+    Special: "You may visit two Emplacements in a turn." 
+    Flavor: "\"Rad Angels, Rad Angels, Rad Angels. If we beat them off the walls, then they're still in the air. If we shoot them out of the air, they're still at the gates; So where does that leave us? Nowhere, that's where.\" - X-2021 " 
+50 Feet Tall:
     Title: "50 Feet Tall"
     Special: "Play for 5 Weapon and 1 Radiation Die." 
 Mending Bones: 
     Special: "Play to Trash 1 Crisis Card and gain 1 Radiation Die." 
+    Flavor: "\"Nobody should have been able to survive that. I guess.\" - Dr. Max Health, M.D."
 Psychic:
-    Special: "Play to move 1 Morale token from 1 player to another player." 
+    Special: "Play to move 1 Trauma Die from 1 player (not yourself) to another player." 
+    Flavor: "\"I can see the demons in their heads.  I can even move them.\" - Justice Lin" 
 Radiation Balance:
-    Special: "Play to move 1 Radiation Die from 1 player to another player."
+    Special: "Play to move 1 Radiation Die from 1 player (not yourself) to another player."
+    Flavor: "\"Look, I don't think you understand. I've taken so much radiation that I can feel it. And shape it.\" - The King"
 Eye for an Eye:
-    Special: "Play to move 1 Crisis Card from 1 player to another player." 
+    Special: "Play to move 1 Injury Die from 1 player (not yourself) to another player." 
+    Flavor: "\"First you elect me arbitrator, and then you refuse to fight to the death. Make up your damn minds.\" - Justice Lin" 
 Mutation Station:
     Special: "Play to move 1 Mutation from 1 player to another player." 
+    Flavor: "What's your conflagration?"
 Jugglers Despair:
     Title: "Juggler's Despair"
-    Flavor: "You are unable to juggle."
+    Flavor: "\"You are completely unable to juggle. I would imagine that's not new. \" - Dr. Max Health, M.D."
+Lumberlung:
+    Flavor: "\"I've never seen a case of Lumberlung quite so severe.\" - Dr. Max Health, M.D." 
+Achey Breaky Pelvis: 
+    Flavor: "\"Your pelvis is spongy and unable to support heavy loads.\" - Dr. Max Health, M.D. " 
+Tuber Culosis: 
+    Flavor: "\"I'm pretty sure it's that disease where you can't get enough potatoes.\" - Dr. Max Health, M.D." 
 Tumour:
-    Quantity: 6
-    Special: "It is, in fact, a tumour." 
-Rooted Down:
-    Quantity: 2
-    Special: "You may not Explore today." 
-
+    Quantity: 3
+    Flavor: "\"It is, in fact, a tumour.\" - Dr. Max Health, M.D." 
+Pustule: 
+    Flavor: "\"Ew.\" - Dr. Max Health, M.D."
+Throbbing Glombosis:
+    Flavor: "\"According to my expert medical diagnosis, you're suffering from a very serious and not at all made-up disease.\" - Dr. Max Health, M.D."
+Lieukemia: 
+    Quantity: 1
+    Special: "Immediately trash upon drawing. Instead gain 1 Injury Die. " 
+    Flavor: "\"According to this chart that I found, your white blood cell count is way lower than it should be. Wait - I'm holding this upside down.\" - Dr. Max Health, M.D." 
 
 

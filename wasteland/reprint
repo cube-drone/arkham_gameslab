@@ -2,7 +2,7 @@
 
 rm -rf output
 mkdir output
-ruby ../deck_gen/deck_generator.rb --file crisis_deck.yaml,common_salvage_deck.yaml,rare_salvage_deck.yaml,survivor_deck.yaml,emplacement_deck.yaml,mutation_deck.yaml,helper_deck.yaml > output/everything.html
+ruby ../deck_gen/deck_generator.rb --file crisis_deck.yaml,common_salvage_deck.yaml,rare_salvage_deck.yaml,survivor_deck.yaml,emplacement_deck.yaml,mutation_deck.yaml,helper_deck.yaml --reprint "$1" > output/everything.html
 cp deck_style.css                                                                           output/style.css
 cp -r assets                                                                                output/assets
 
