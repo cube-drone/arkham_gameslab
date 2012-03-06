@@ -1,22 +1,23 @@
 Title: "Emplacement"
-Quartermaster:
-    Special: "Gain a Trauma die. Draw a card from the Stockpile for each player. Deal one, your choice, to each player. Draw another card from the stockpile for yourself."  
+Stockpile:
+    Special: "Draw a card from the Stockpile for each player. Deal one, your choice, to each player. Draw another card from the stockpile for yourself."  
     Trauma: 1
     Type: "Starting"
-Exploration Leader: 
-    Special: "In the exploration phase, choose which player gets each Crisis card." 
+Scout: 
+    Special: "In the exploration phase, draw 1 extra Crisis card. Choose which player gets each Crisis card, and discard one. " 
     Radiation: 1
     Type: "Starting" 
 Wasteland: 
     Special: "Draw 2 Common Salvage. There is no limit on the number of players who may visit the Wasteland. The Wasteland cannot be Damaged or Destroyed."
     Radiation: 1
     Type: "Starting" 
-Scout:
-    Special: "In the exploration phase, choose which emplacement to liberate. Make a Salvage Roll, adding any cards gained to the Stockpile." 
+Outpost:
+    Special: "In the exploration phase, draw three emplacements and choose one, discarding the other two. Make a Salvage Roll, adding any cards gained to the Stockpile." 
     Radiation: 1
     Type: "Starting" 
 Irradiated Skyscraper: 
     Special: "Gain 1 Salvage Die."
+    Radiation: 1
     Type: "Starting" 
 Tent City:
     Special: "Take 2 cards from the player with the most Salvage."
@@ -25,12 +26,11 @@ School Zone :
     Special: "Make a Salvage Roll, and add it to your hand." 
     Trauma: 1
 Hospital: 
-    Special: "Discard 1 Injury die. Make a Salvage roll, and add it to the Stockpile." 
-    Trauma: 1
+    Special: "Discard 1 Injury die. Make a Trauma roll, an Injury roll, and a Radiation roll." 
 Radio Station:
-    Special: "Give 1 of your own Trauma Die to another player." 
+    Special: "Give 1 of your own Trauma Die to another player. Add 2 Common Salvage to the Stockpile." 
 Weapons Cache:
-    Special: "Add 2 Rare Salvage to the Stockpile." 
+    Special: "Add 2 Rare Salvage to the Stockpile. Give 1 Trauma to another player." 
     Radiation: 1
 Experimental Laboratory: 
     Special: "Give 1 of your own Radiation Die to another player. Add 2 Common Salvage to the Stockpile." 
@@ -47,6 +47,3 @@ Cannery:
     Special: "Give 1 new Radiation Die to another player. Produce 3 Food." 
 Machine Shop: 
     Special: "Trade 3 Common Salvage from your hand for 1 Rare Salvage." 
-Communications Tower: 
-    Special: "Swap today's Catastrophe with any upcoming Catastrophe." 
-    Flavor: "But not the Super Catastrophe." 

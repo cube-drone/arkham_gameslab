@@ -1,58 +1,67 @@
 Title: "Crisis"
+Powder Puff:
+    Type: "Combat"
+    Quantity: 1
+    Difficulty: 3
+    Trauma: 2
+    Flavor: "\"A harmless powder puff did <em>WHAT</em> to you? That's horrible and disgusting!\" - Jeff Wheeler."
 Wild Dogs: 
     Type: "Combat"
     Quantity: 5
-    Difficulty: 4
+    Difficulty: 5
     Flavor: "\"Woof.\" - Wild Dogs."
     Injury: 1
 Wasteland Ghoul:
     Type: "Combat"
     Quantity: 10
-    Difficulty: 5
+    Difficulty: 6
     Radiation: 1
 Raiders: 
     Type: "Combat"
     Quantity: 10
     Difficulty: 5
+    Fail: "Discard the top 2 cards from the Stockpile" 
     Injury: 1
 Marauders:
     Type: "Combat"
     Quantity: 5
     Difficulty: 6
-    Pass: "Roll a die. On a 6, gain a Rare Salvage. On a 1, Trash a Salvage from your hand. "
     Flavor: "\"They call them marauders, but you never see them maraud. I imagine you wouldn't want to.\" - Jai Jayendra"
     Injury: 1
 Radiation Angel: 
     Type: "Combat"
     Quantity: 3
     Difficulty: 7
+    Pass: "Gain a Salvage Die" 
     Radiation: 1
     Flavor: "\"Of course I don't believe in the supernatural.  But when they came I saw a winged silhouette and an unearthly green glow. I didn't stick around to gather any more data. \" - Naoki Urasawa "  
 Mustard Gas Company:
     Type: "Combat"
     Quantity: 3
-    Difficulty: 7
-    Pass: "Roll a die. On a 5-6, gain a Rare Salvage." 
+    Difficulty: 8
+    Pass: "Gain a Salvage Die"
     Injury: 1
     Flavor: "\"A cloud of yellow smoke and a group of thugs wearing gas masks. Woke up 2 days later, covered in blood, driving towards the Mexican border, holding a man's spleen in my hands.\" - Jai Jayendra"
 Burnpit Screamers:
     Type: "Combat"
     Quantity: 3
-    Difficulty: 7
+    Difficulty: 8
+    Pass: "Gain a Salvage Die"
     Flavor: "\"If they take the camp, they'll rape us to death, eat our flesh, and sew our skins into their clothing. And if we're very, very lucky, they'll do it in that order.\""
     Trauma: 1
 Rogue Android: 
     Type: "Combat" 
     Difficulty: 10
-    Pass: "Draw 4 Rare Salvage." 
-    Fail: "Draw 1 Rare Salvage"
+    Pass: "Draw 2 Rare Salvage." 
     Flavor: "\"That is clearly an inferior X-2014. He doesn't stand a chanc- I mean, lookit that shiny robot!\" - X-2021" 
     Radiation: 1
+    Injury: 1
 Alien Superintelligence:
     Type: "Combat"
     Difficulty: 10
     Pass: "Three Survivors may discard a Radiation Die and a Mutation." 
-    Fail: "Discard 1 Radiation Die. Gain 1 Trauma Die." 
+    Trauma: 1
+    Injury: 1
 Punctured Lung: 
     Type: "Collapse" 
     Flavor: "\"Yep, that's gone right through.  You're fucked. \" - Dr. Max Health, M.D."
@@ -84,7 +93,7 @@ Flashbang Accident:
 Collapse: 
     Quantity: 1
     Type: "Catastrophe"
-    Special: "The first player decides: One emplacement is destroyed." 
+    Special: "The first player decides: Two emplacements are destroyed." 
 
 Radiation Kings: 
     Quantity: 1
@@ -107,7 +116,7 @@ Food Spoilage:
 
 Fight Over Salvage: 
     Type: "Catastrophe" 
-    Special: "Each player rolls a Combat check. They may add Weapons, if they so choose. The player with the highest result gets 3 Common Salvage and 1 Rare Salvage. (flip a coin to resolve ties). The player with the lowest result gains an Injury Die."  
+    Special: "Each player rolls a Combat check. They may add Weapons, if they so choose. The player with the highest result gets 3 Common Salvage and 1 Rare Salvage. The player with the lowest result gains an Injury Die. Roll a die to resolve ties."  
 
 Thieves in the Night:
     Type: "Catastrophe"
@@ -123,7 +132,7 @@ Low Yield Nuclear Strike:
     Type: "Catastrophe" 
     Condition: "The first player may choose to pass or fail this Catastrophe." 
     Pass: "Each player gains 1 Radiation Die"
-    Fail: "Damage 1 Emplacement." 
+    Fail: "Damage 2 Emplacements." 
 
 Plan A:
     Type: "Catastrophe"
@@ -131,11 +140,11 @@ Plan A:
 
 Plan B: 
     Type: "Catastrophe" 
-    Special: "Every player takes 1 extra Radiation die. Radiation Roll. If any Survivors dies or if half of the Survivors gain a mutation, every player may discard 1 Radiation Die. " 
+    Special: "Every player takes 1 extra Radiation die. Radiation Roll. If any Survivors gains a die or if half of the Survivors gain a mutation, every player may discard 1 Radiation Die. " 
     
 Plan C:
     Type: "Catastrophe"
-    Special: "Nothing happens, tonight. Draw and place a second catastrophe, face-up, tomorrow." 
+    Special: "Nothing happens, tonight. Draw and place an additional catastrophe, face-up, tomorrow." 
 
 Raider Assault:
     Type: "Catastrophe"
@@ -151,13 +160,13 @@ Marauder Assault:
     Pass: "Add 4 Rare Salvage to the Stockpile."
     Fail: "Each player takes 1 Injury and discards a Salvage at random."
 
-Radiation Angel Assault:
+Angel Assault:
     Type: "Catastrophe"
     Condition: "Shared Combat!"
     Difficulty: 24
     Fail: "Each player takes 1 Radiation Die." 
 
-Burnpit Screamer Assault:
+Screamer Assault:
     Type: "Catastrophe"
     Condition: "Shared Combat!"
     Difficulty: 24
@@ -169,7 +178,7 @@ Followed You Home:
 
 Super Catastrophe Phase 1:
     Type: "Super Catastrophe"
-    Special: "Shared Combat! Difficulty 40!"
+    Special: "Shared Combat! Difficulty 44!"
     Fail: "Every player takes 2 Injury Die, 2 Radiation Die, and 2 Trauma Die. Destroy 3 Emplacements." 
 Super Catastrophe Phase 2: 
     Type: "Super Catastrophe"

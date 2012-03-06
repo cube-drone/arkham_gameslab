@@ -46,6 +46,7 @@ Flamethrower:
     Quantity: 2
     Special: "Play to gain 5 Weapon." 
     "1": "Take 1 Injury Die." 
+    "2": "Trash"
     Flavor: "\"Okay, so, Jai, I want you to pay very close attention to this. Point THIS end towards the people that you want to burn.\" - Jeff Wheeler"
 Sniper Rifle: 
     Type: "Weapon" 
@@ -68,18 +69,19 @@ Cordless Power Drill:
     Quantity: 2
     Special: "Stockpile to gain 6 Weapon." 
     Flavor: "\"Some people say that you have to be a little unbalanced to kill a man with a drill - and to those people, I say \"get out of my head, you stupid people.\"\" - Justice Lin" 
-    1 to 2: "Gain 1 Trauma Die."
+    "1": "Gain 1 Trauma Die."
+    2 to 3: "Make a Trauma roll."  
 Calvary Sabre:
     Type: "Weapon"
     Quantity: 1
-    Special: "Play to gain 2 Weapon. Trash to gain 4 Weapon and lose one Trauma Die."
+    Special: "Play to gain 2 Weapon. Trash to gain 4 Weapon and discard one Trauma Die."
     Flavor: "CHAAAAAARGE!"
-Radaway: 
+Rad B Gone: 
     Type: "Medical"
-    Special: "Trash to Lose 1 Radiation Die." 
+    Special: "Trash to Discard 1 Radiation Die." 
 Bandage: 
     Type: "Medical"
-    Special: "Trash to Lose 1 Injury Die."
+    Special: "Trash to Discard 1 Injury Die."
 The Voices In Your Head:
     Type: "Ally"
     Special: "Play during the Super Catastrophe. You run away. You win. "  
