@@ -1,7 +1,7 @@
 Title: "Common Salvage" 
 Tinned Ham: 
     Type: "Food"
-    Quantity: 6
+    Quantity: 4
     Special: "Trash to gain 1 Food."
     Flavor: "\"Hamstravacanza! Ride the ham wave!\"" 
 Bear Trap:
@@ -59,7 +59,7 @@ Baseball Bat:
     Quantity: 1
     Weapon: 1
     "1": "Trash" 
-    Flavor: "\"You wouldn't believe what I found - a genuine slugger.\" - Rodrigo Gabriela" 
+    Flavor: "\"You wouldn't believe what I found - a genuine slugger.\" - Rodrigo Gabriel" 
 Grenade: 
     Type: "Weapon" 
     Quantity: 10
@@ -69,3 +69,27 @@ Unintelligent Child:
     Type: "Ally"
     Quantity: 2
     Special: "Trash to discard any Crisis during Exploration. Do not pass or fail this Crisis. Gain a Trauma Die." 
+    Flavor: "\"Now, I want you to stand here, wave your arms, and yell. Can you do that?\" - Naoki Urasawa" 
+Snare:
+    Type: "Food"
+    Quantity: 2
+    Special: "Stockpile to gain 1 Food or 1 Weapon." 
+    Flavor: "\"You eat what you catch.\" - Rodrigo Gabriel" 
+Lizard On A Stick:
+    Type: "Food"
+    Quantity: 2
+    Special: "Trash to gain 1 Food."
+    Flavor: "\"Well, if you are lucky it's lizard.\" - Rodrigo Gabriel" 
+Rebar Club:
+    Type: "Weapon" 
+    Quantity: 1
+    Weapon: 2
+    1: "Trash" 
+    Special: "Heavy. You may only use the Rebar Club if you have less than 3 Injury Dice."
+    Flavor: "\"Jesus, this thing is heavy.\" - Jai Jayendra<br/><br/>\"I know.\" - Jesus" 
+Salted Something:
+    Type: "Food"
+    Quantity: 2
+    Special: "Trash to gain 1 Food"
+    Flavor: "\"Don't think about it too much.\" - Rodrigo Gabriel" 
+
