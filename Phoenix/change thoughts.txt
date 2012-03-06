@@ -1,16 +1,5 @@
 PRIORITY:
 
-Combat cards
-	- race themes, with the cards providing some backup for the themes
-	- abilities:
-		- something "throw away" for fleets that are definitely going to lose
-		- support abilities for near by fleets and/or planets/production
-		- overpowering for a defending fleet
-		- overpowering for an attacking fleet
-		- destroying more ships
-		- retreating before resolution
-		- 
-
 What is the victory condition?
 	- VP gathering?
 	- each race has different victory conditions?
@@ -26,7 +15,7 @@ What is the victory condition?
 		Any Class 3 Technologies you have the conqueror may acquire at half cost (rounding up). 
 	- your fleets must all return to your Home Star and the capturing fleet is immediately warped to one sector away, of their choice
 		
-	
+Race/ability fluff
 
 MAYBE:
 	
@@ -43,17 +32,10 @@ Lack of "front line defense"?
 	- there is no way to create a defensive border to hold against
 	- I like this because the defensive borders create static situations that I don't like.
 	- However it is slightly unnerving to have a planet taken by an opponent that easily.
-
-
-Combat cards - a deck of cards drawn before each combat to affect it?
-		- friendly fire
-		- asteroid fields
-		- space creature
-		- tall planetary gravity well
-		- ability for attacker to retreat after winning?
-	- These feel a little unnecessary. But I would like to have "special things" to modify combat.
-		
-Technology research/customization is fun!
+	
+Technology research/customization is fun! 
+	- But can get out of hand quickly.
+	- Currently no design space for this kind of customization.
 
 Alliances
 	- Players may conference with each other in secret at any time.
@@ -70,12 +52,21 @@ DESIGN THOUGHTS:
 - needs to play in an hour
 - try production every other turn...I kind of want production to be linked to something else though.
 - turns have to be quick
+- 24 possible ships per turn. At best, 6 per player. Start with 15.
 
 
 
 GARBAGED THOUGHTS (but could still be recycled...):
 - defender loses half their ships, attacker loses that many - 1
 - possible dice rolling addition, but I don't like it: roll for every ship, add up total, bigger fleet destroys smaller fleet
+- combat cards could have "kill 1 ship" "defend 1 ship" on them, ala GoT
+- Combat cards - a deck of cards drawn before each combat to affect it?
+		- friendly fire
+		- asteroid fields
+		- space creature
+		- tall planetary gravity well
+		- ability for attacker to retreat after winning?
+	- These feel a little unnecessary. But I would like to have "special things" to modify combat.
 
 
 
@@ -100,3 +91,12 @@ Needs new combat mechanics badly
 	- retreating fleets must be put onto a warp token. If you don't have any the fleet is destroyed.
 	- should be allowed to retreat fleet, but with a penalty. Maybe draw another combat card?
 	- attacker chooses how many ships to kill, and they also lose that many -1.
+	
+- Combat cards abilities:
+	- something "throw away" for fleets that are definitely going to lose
+	- support abilities for near by fleets and/or planets/production
+	- prevent something good/bad from happening
+	- Ignore your opponents strength/text ability
+	- "If you win this battle"/"If you lose this battle"
+	- Increase power of each ship in fleet
+	- cards with just strength on them as well
