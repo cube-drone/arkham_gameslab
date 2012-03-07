@@ -6,7 +6,7 @@ Races:
 		4. S2
 		5. S3
 		6. S4
-		7. S7 In the Resolve Losses phase of this round, destroyed an additional 5 of your ships.
+		7. S7 In the Resolve Losses phase of this round, destroyed an additional 5 of your ships. These losses do not count towards the Massacre Strategic Objective.
 		
 	- Turtles
 		1. S1 If you lose this round, immediately destroy 3 of your opponents ships.

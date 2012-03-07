@@ -1,21 +1,8 @@
 PRIORITY:
 
-What is the victory condition?
-	- VP gathering?
-	- each race has different victory conditions?
-	- victory condition deck?
-	- I want multiple ways to win.
-	
-"Player losing their home star cannot produce more ships"
-	- need better penalty than this...this is to harsh.
-	- can produce at another star that has a human population
-	- can't win the game
-		- can't get "VP"s?
-	- Idea from another page: If your home star is captured, the conquering player immediately gains your Class 2, 4, and 5 Technology, which you also retain. 
-		Any Class 3 Technologies you have the conqueror may acquire at half cost (rounding up). 
-	- your fleets must all return to your Home Star and the capturing fleet is immediately warped to one sector away, of their choice
-		
-Race/ability fluff
+Race/ability/strategies fluff/naming
+
+
 
 MAYBE:
 	
@@ -67,6 +54,12 @@ GARBAGED THOUGHTS (but could still be recycled...):
 		- tall planetary gravity well
 		- ability for attacker to retreat after winning?
 	- These feel a little unnecessary. But I would like to have "special things" to modify combat.
+- each race has different victory conditions?
+- VP gathering?
+- victory condition deck?
+- Idea from another page: If your home star is captured, the conquering player immediately gains your Class 2, 4, and 5 Technology, which you also retain. 
+	Any Class 3 Technologies you have the conqueror may acquire at half cost (rounding up). 
+- your fleets must all return to your Home Star and the capturing fleet is immediately warped to one sector away, of their choice
 
 
 
@@ -100,3 +93,19 @@ Needs new combat mechanics badly
 	- "If you win this battle"/"If you lose this battle"
 	- Increase power of each ship in fleet
 	- cards with just strength on them as well
+	
+What is the victory condition?
+- I want multiple ways to win.
+	- EA goals? Have at least 2 and more than your opponent.
+		- Have no enemy fleets on either of your objective stars at the start of the 10th turn.
+			- I don't want to keep track of turns. :(
+	- combined with hidden ship movement, this could be to much calculation
+		- but what if goals were accumulated?
+		- Both stars in sector containing Home Star are objective stars.
+		
+"Player losing their home star cannot produce more ships"
+	- need better penalty than this...this is to harsh.
+	- can produce at another star that has a human population
+	- can't win the game
+		- can't get "VP"s?
+		
