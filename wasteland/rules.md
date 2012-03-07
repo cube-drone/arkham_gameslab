@@ -21,24 +21,23 @@ They needed to build a fortress. They had 1 week.
 SUPPLY
 -----
 
-Emplacement Deck ( Represending locations that your Survivors must capture and defend )
-Survivor Deck ( Representing your Survivors ) 
-Common Salvage Deck ( Representing useful items your Survivors will accumulate )
-Rare Salvage Deck ( Represing very useful items your Survivors will accumulate ) 
-Crisis Deck ( Representing awful things that happen while you explore Locations ) 
-Catastrophe Deck ( Representing awful things that happen at night. ) 
-Mutation Deck ( Representing awful things that happen when you are too irradiated )
-
-Survivor Tokens
-First Player Trophy
-4 Colours of Dice
+- Emplacement Deck ( Represending locations that your Survivors must capture and defend )
+- Survivor Deck ( Representing your Survivors ) 
+- Common Salvage Deck ( Representing useful items your Survivors will accumulate )
+- Rare Salvage Deck ( Represing very useful items your Survivors will accumulate ) 
+- Crisis Deck ( Representing awful things that happen while you explore. ) 
+- Catastrophe Deck ( Representing awful things that happen at night. ) 
+- Mutation Deck ( Representing awful things that happen when you are too irradiated )
+- Survivor Tokens
+- First Player Trophy
+- 4 Colours of Dice
 
 WIN/LOSE
 --------
 
-This is a limited co-operative game.  Players win by staying alive to the end.
+This is a limited co-operative game.  Players win by staying alive for 7 days. 
 
-All players lose if no Survivors remain alive, or if every Emplacement in the Settlement is damaged. 
+All players lose if no Survivors remain alive, or if every Emplacement in the Settlement is destroyed. 
 
 GAME START
 ----------
@@ -65,6 +64,7 @@ GAME START
 - Put 1 Super-Catastrophe on Sunday Night. 
 
 - Flip Monday's Catastrophe and Emplacement cards, and Sunday's Super Catastrophe, 
+
 
 DAY
 ---
