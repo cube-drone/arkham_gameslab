@@ -1,6 +1,6 @@
 THE BOARD
 
-The game board has 24 lettered sectors - 4 sectors long by 3 sectors wide by 2 sectors deep. The 12 sectors containing yellow stars are considered to be above the 12 sectors containing red stars. ie. sector A-yellow is directly above sector A-red.
+The game board has 24 lettered sectors - 4 sectors long by 3 sectors wide by 2 sectors deep. The 12 sectors containing yellow stars are considered to be above the 12 sectors containing red stars. ie. sector A-yellow is directly above and adjacent to sector A-red.
 
 Each sector contains 2 stars. A star may contain resources for use in production.
 	- stars with a O have human population
@@ -13,7 +13,7 @@ There are 4 Home Stars. these are where each player begins the game and also whe
 	Regulus (sector C-yellow)
 	Antares (sector L-red)
 
-There are four hyperspace track. When making a journey, these are used to indicate how far your fleet has travel. But they don't indicate a direction of travel nor a destination, only how far that fleet is allowed to move.
+There are four hyperspace tracks. These are used to indicate how far your fleet has travelled in hyperspace. They don't indicate a direction of travel or a destination, only how many sectors that fleet is allowed to move from it's departure sector.
 
 
 
@@ -21,11 +21,11 @@ THE PIECES
 
 Small pieces are 1 starship, large pieces are 5 starships. There are an unlimited number of starships available.
 
-The warp tokens carry fleets as they move along the hyperspace track, and shows the letter and colour of the fleets departure sector. There are a maximum of 5 warp tokens for each player.
+The warp tokens carry fleets as they move along the hyperspace track, and shows the letter and colour of the fleets departure sector. There are a maximum of 4 warp tokens for each player.
 
 
 
-THE CARDS
+THE COMBAT CARDS
 
 Each player has 7 combat cards. These represent admirals and captains of your fleets and are used to modify combat strength as well as provide special abilities during combat. 
 
@@ -35,9 +35,19 @@ After you play your last card, immediately re-draw every card previously played 
 
 
 
+THE STRATEGIC OBJECTIVES/WINNING THE GAME
+
+These cards are placed face up on the table. They have tasks on them that each player must work towards in order to win the game.
+
+After each player has had a turn, check the Strategic Objectives. If any player has claimed at least 2 Objectives and has more than any of their opponents, that player wins.
+
+
+
 GAME SETUP
 
-Each player chooses a colour. Take 15 ships and place them around your Home Star.
+Each player chooses a colour. Take 15 ships and place them around your Home Star. Give each player a set of 7 Combat Cards.
+
+Place all of the Strategic Objective cards face up on the table.
 
 If playing with 3 players, use Home Stars Regulus and Antares, but make Mira (D-red) the third Home Star. Algol and Pavo become normal non-Home Stars.
 If playing with 2 players, use Home Stars Algol and Antares. Pavo and Regulus become normal non-Home Stars.
@@ -53,8 +63,9 @@ On your turn:
 3. Perform all departures using available warp tokens.
 4. Any number of warp tokens may arrive at a destination star.
 5. Perform any battles.
+6. Claim strategic objectives.
 
-The turn moves around the board clockwise.
+The turn moves around the board clockwise. After every player has had a turn, check to see if any player has won. Check this again after every complete cycle of players.
 
 
 
@@ -72,6 +83,14 @@ Move all warp tokens a single square forward. Any warp tokens that move past the
 
 
 
+DEPARTURES
+
+Take any number of ships around a star and place them on a warp token. Put a red or yellow peg into the lettered whole on that warp token, denoting the departure sector. Place the warp token on the entry space on the hyperspace track.
+
+If the departure star and arrival star are both in the same sector, the journey happens immediately, but still uses a warp token for the turn.
+
+
+
 ARRIVALS
 
 Start at the departure sector - this is "0". Count sectors until you reach (and include) the destination sector.
@@ -83,14 +102,6 @@ Start at the departure sector - this is "0". Count sectors until you reach (and 
 Your warp token must be at the number on the hyperspace track corresponding to this count of sectors.
 
 Take the ships from the warp token and place them on a single star in that sector. All ships from a single warp token must travel to the same star. 
-
-
-
-DEPARTURES
-
-Take any number of ships around a star and place them on a warp token. Put a red or yellow peg into the lettered whole on that warp token, denoting the departure sector. Place the warp token on the entry space on the hyperspace track.
-
-If the departure star and arrival star are both in the same sector, the journey happens immediately, but still uses a warp token for the turn.
 
 
 
@@ -137,21 +148,21 @@ If there are ships from enemy fleets still occupying a star, start a new combat 
 
 
 
+CLAIM STRATEGIC OBJECTIVES
+
+Check if you have completed any of the Strategic Objectives this turn. If you have, put one of your ship tokens onto the card for that Objective.
+
+
+
 OCCUPATION
 
 You occupy a star so long as you have a single ship around that star. If you move the ship, you lose occupation of the star.
 
-Your Home Star is an exception, which you occupy even if you have no ships around it.
+Your Home Star is an exception. You occupy this even if you have no ships around it, but only if no opponent occupies it.
 
 
 
 LOSS OF A HOME STAR
 
-*** TODO
-
-
-
-WINNING THE GAME
-
-*** TODO
+If you do not occupy your Home Star you may not claim Strategic Objectives. If you do not occupy your Home Star, you may produce at another planet you occupy that contains both a + and a O resource.
 
