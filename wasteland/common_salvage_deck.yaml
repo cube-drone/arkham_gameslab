@@ -84,7 +84,7 @@ Rebar Club:
     Type: "Weapon" 
     Quantity: 1
     Weapon: 2
-    1: "Trash" 
+    "1": "Trash" 
     Special: "Heavy. You may only use the Rebar Club if you have less than 3 Injury Dice."
     Flavor: "\"Jesus, this thing is heavy.\" - Jai Jayendra<br/><br/>\"I know.\" - Jesus" 
 Salted Something:
