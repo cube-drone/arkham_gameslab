@@ -91,7 +91,7 @@ options[:filenames].each do |filename|
 
     thing.each do |key, value|
         next if value.class == String
-        next if reprint and (not options[:reprint_list].include?(key) and not options[:reprint_list].include?(category) )
+        next if reprint and (not options[:reprint_list].include?(key) and not options[:reprint_list].include?(category) and not options[:reprint_list].include?(value["Type"]) )
         quantity = value["Quantity"] ||= 1
         title = value["Title"] ||= key
         image = value["Image"] ||= ""
