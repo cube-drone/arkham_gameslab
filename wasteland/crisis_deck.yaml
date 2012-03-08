@@ -1,4 +1,10 @@
 Title: "Crisis"
+Carnivorous Fern:
+    Type: "Combat"
+    Quantity: 1
+    Difficulty: 2
+    Injury: 2
+    Flavor: "Once, a simple houseplant. Now, a deadly threat. Unless you move out of the way."
 Powder Puff:
     Type: "Combat"
     Quantity: 1
@@ -74,6 +80,10 @@ Alien Superintelligence:
     Pass: "Three Survivors may discard a Radiation Die and a Mutation." 
     Trauma: 1
     Injury: 1
+Radiation Spores
+    Type: "Collapse" 
+    Flavor: "\"Oooooohhhkay then. It's glowing and... growing. I'm just gonna stand back here.\" - Dr. Max Health, M.D."
+    Radiation: 1
 Punctured Lung: 
     Type: "Collapse" 
     Flavor: "\"Yep, that's gone right through.  You're fucked. \" - Dr. Max Health, M.D."
