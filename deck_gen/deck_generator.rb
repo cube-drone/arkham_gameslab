@@ -1,8 +1,6 @@
 require 'optparse' 
 require 'yaml'
 
-CARDS_PER_PAGE = 8
-
 # 1. Get Options. 
 options = {} 
 
@@ -17,6 +15,9 @@ optparse = OptionParser.new {|opts|
     
     options[:reprint_list] = []
     opts.on( '-r', '--reprint a,b,c', Array, 'A list of specific cards to reprint.') { |reprint| options[:reprint_list] = reprint } 
+
+    options[:cards_per_page] = 8
+    opts.on( '-c', '--cards CARDS', Integer, 'How many cards to print on a page.') { |cards| options[:cards_per_page] = cards } 
 
     opts.on("-h", "--help", "Show this message"){
         puts opts
@@ -112,7 +113,7 @@ options[:filenames].each do |filename|
             puts "\t\t<div class='type'>" + type + "</div>" unless type == "" 
             puts "\t</div>"
             pagecounter += 1
-            puts "<div style='clear:both'> </div> </div><div class='Page'>" if pagecounter % CARDS_PER_PAGE == 0
+            puts "<div style='clear:both'> </div> </div><div class='Page'>" if pagecounter % options[:cards_per_page] == 0
         end
     end
 end

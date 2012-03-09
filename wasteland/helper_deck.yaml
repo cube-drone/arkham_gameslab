@@ -1,5 +1,17 @@
 Title: "Helper"
 Helper_Die:
-    Quantity: 4
+    Quantity: 3
 Helper_Turns:
-    Quantity: 4
+    Quantity: 3
+Helper_Common:
+    Quantity: 1
+Helper_Rare: 
+    Quantity: 1
+Helper_Mutation:
+    Quantity: 1
+Helper_Crisis:
+    Quantity: 1
+Helper_Catastrophe:
+    Quantity: 1
+Helper_Today: 
+    Quantity: 1

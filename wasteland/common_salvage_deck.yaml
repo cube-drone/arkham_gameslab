@@ -97,13 +97,13 @@ Brick:
     Quantity: 1
     Weapon: 1
     Flavor: "\"You can defend yourself with a brick. I suppose.\" - Rodrigo Gabriel"
-Needlessly Complicated Laser Device:
+Needlessly Complicated Laser:
     Type: "Weapon" 
     Quantity: 1
     Special: "Roll a die." 
     "1": "Trash" 
     "2": "Gain an injury"
-    "3": "Choose another player. That player gains an injury." 
+    "3": "Another player gains an injury." 
     "4": "1 Weapon" 
     "5": "3 Weapon" 
     "6": "5 Weapon" 

@@ -2,42 +2,93 @@ Title: "Survivor"
 Dr Max Health MD:
     Title: "Dr. Max Health, M.D." 
     Profession: "Soap Opera Actor" 
-    Once Per Day: "<em>Emergency</em>: When a player would gain an Injury die, roll a die. On a 6, the player does not take the Injury."
+    Once Per Day: "<em>Emergency</em>: When a player would gain an Injury die, roll a die. On a 6, the player does not take the Injury, but instead gives Dr. Max Health M.D. a Salvage from his hand."
     Once Per Game: "<em>Combat Hospital</em>: All players may discard a die."   
     Weakness: "<em>Not Actually a Doctor</em>: When \"Emergency\" actually works, make a Trauma roll." 
+    Flavor: "His real name was Anthony Kaladosis, and he played \"Dr. Max Health, M.D.\" on the popular soap opera, \"Danger Hospital\". 
+        After the Great Catastrophe, he certainly coudln't survive. Not as Anthony Kaladosis, the now-starving ex-actor.<br/>
+        But it seemed like everybody needed a doctor. Anthony had some basic first aid training, and a few medical tidbits from the show. 
+        And most importantly, he could definitely play the part of a melodramatic television doctor. People needed that, right? 
+        They'd certainly help him out with a bit of food here and there. <br/> 
+        Anthony played the role of Dr. Max Health, M.D., 24 hours a day, moving from group to group, pretending to be a doctor.<br/>
+        It wasn't long before Anthony began to disappear into his character..." 
 Jai Jayendra: 
     Profession: "Martial Arts Enthusiast / Cashier" 
     Once Per Day: "<em>Human Weapon</em>: 1 Weapon. " 
     Once Per Game: "<em>Human Typhoon</em>: 5 Weapon. " 
     Weakness: "<em>Human Catastrophe</em>: Whenever Jai would roll Injury die, instead roll twice. "
+    Flavor: "Jai was a cashier. <br/>
+        She hated her job.  Day in, day out, beep. Beep. Beep. That'll be twelve ninety two.  <br/>
+        She didn't think of herself as a cashier. She thought of herself as a warrior. <br/>
+        She trained in a variety of martial arts. She learned how to fire a variety of weapons, accurately.
+        She tried to join the military, but refused when they wouldn't let her take a front-line position. <br/>
+        Part of the problem was that she was five-foot-two, and a bit clumsy. <br/>
+        When the Great Catastrophe came, she took to the streets. Finally, an opportunity to prove herself.
+        Some people would need to be broken, and Jai would be there to break them. " 
 Justice Lin: 
     Profession: "Paralegal" 
-    Once Per Day: "<em>Exploratory</em>: Redraw one Crisis cards drawn during Exploration." 
+    Once Per Day: "<em>Exploratory</em>: Redraw one Crisis card drawn during Exploration." 
     Once Per Game: "<em>Filibuster</em>: All players get another Emplacement phase this turn. "
     Weakness: "<em>Compulsive</em>: If Justice doesn't have an even number of dice at the end of the Day, she makes a Trauma roll. " 
+    Flavor: "Justice enjoyed her work as a paralegal.  This was unusual. Nobody enjoyed being a paralegal.  The job was stultifying.  
+    It was the same routine, constantly, without end. Filing. Research. Filing. Research. Justice enjoyed it because of the structure, becuase 
+    with careful planning of her day and therapeutic drugs, she could almost make it an entire day without counting all of the doorknobs in her building. <br/> 
+    There were 183.<br/> 
+    After the Great Catastrophe, Justice was lost.  Her compulsions spiraled out of control.  There was no structure, she couldn't find the drugs that she needed. <br/>
+    But a group of survivors found her, fed her.  Despite her problems, she was very intelligent, extremely organized, a clever arbitator.
+    When they found her, she was starving, and alone, and she was carrying a sack. Inside the sack was exactly 183 doorknobs."  
 Naoki Urasawa:
     Profession: "Student"
     Once Per Day: "<em>Creative Eater</em>: Naoki does not require food." 
     Once Per Game: "<em>Deadline Dodge</em>: Naoki does not participate in or suffer the effects of the end-of-day Catastrophe." 
     Weakness: "<em>Disorganized</em>: Naoki's hand limit is 5, rather than 7."
+    Flavor: "Naoki was a career student, with a knack for doing exactly enough work to get a C-. 
+        So long as he remained on the cusp of completion of a degree, he wouldn't have to come home and take a position in the family's 
+        fish-canning factory. So Naoki maintained a position exactly three credits away from a degree in Engineering, Chemistry, Art History, 
+        Dance, and Geriatric Science. When the Great Catastrophe occurred, Naoki was subsiding on a thin diet of ramen noodles and miscellany, and
+        deciding whether his next swap would be into Nuclear Physics or Canadian Cultural Studies.<br/>
+        His creative eating skills, intelligent laziness, and low caloric requirements made him surprisingly apocalypse-resistant. 
+        All he had to do was hide from the scary things long enough for them to go away and he would be fine. So he hid."
 Rodrigo Gabriel: 
-    Profession: "Salvager"
+    Profession: "Salvager/Survivalist"
     Once Per Day: "<em>Found</em>: Draw 1 Common Salvage and add it to your hand."
     Once Per Game: "<em>Restock</em>: Make a Salvage roll and add it to your hand." 
     Weakness: "<em>Honest</em>: Rodrigo refuses to steal cards or give away dice. If Rodrigo would give away a new die, instead take that die."
+    Flavor: "Rodrigo didn't particularly like the city.  He enjoyed being far, far away from civilization.  
+    All he needed was a knife and a soft place to sleep, and he was as happy as a pig in a poke. <br/> 
+    But he couldn't stay away forever, so he worked in a series of warehouses, quitting one when he had had enough of humanity. <br/> 
+    After the Great Catastrophe, he started to treat the ruined city as a new place to demonstrate his survival skills. 
+    And he knew where to find the best stuff in dozens of crushed storerooms around the city.
+    "
+Jeff Wheeler: 
+    Profession: "Welder"
+    Once Per Day: "<em>Fixed It</em>: When Jeff would Trash a card from his hand, instead put it in the Stockpile." 
+    Once Per Game: "<em>Stockpile Crash</em>: Jeff may draw 2 cards from the Stockpile for each player and distribute them, then take 2 for himself."
+    Weakness: "<em>Accident-Prone</em>: Jeff may not use the Stockpile emplacement. "
+    Flavor: "Jeff Wheeler could build anything out of anything. 
+    His personal crowning moment was when he successfully converted a tin can full of black powder and a digital watch into a miniature explosive device. <br/>
+    His co-workers poked fun at him for his blackened hands and burnt-off eyebrows, but Jeff's hobby was more important to him than mere eyebrows. <br/>
+    After the Great Catastrophe, Jeff just had more time to jury-rig things into other things. So much so that, when he finally found a group of survivors willing
+    to overlook his propensity for accidentally lighting his compatriots on fire, they permanently banned him from getting anywhere near their stockpile of ammunition."
 The King: 
     Profession: "Mutant"
     Once Per Day: "<em>Mutate</em>: Trash 1 Mutation. Draw 1 Mutation<br/><em> -or- </em><br/>Trash 1 Die. Draw a Radation Die." 
     Once Per Game: "<em>Third Eye</em>: The King may add his Radiation Die to his Salvage die, and make 1 Salvage roll." 
     Weakness: "<em>Cancer</em>: The King makes an extra Radiation roll at the end of the game."
-Jeff Wheeler: 
-    Profession: "Welder"
-    Once Per Day: "<em>Fixed It</em>: When Jeff would Trash a card from his hand, instead put it in the Stockpile." 
-    Once Per Game: "<em>Stockpile Crash</em>: Jeff may draw 2 cards from the Stockpile for each player and distribute them, then take 2 for himself."
-    Weakness: "<em>Untrustworthy</em>: Jeff may not use the Stockpile emplacement. "
+    Flavor: "Nobody knows where The King came from.  He must have been a human at some point.  He certainly didn't look much like one anymore. 
+    The only thing that kept him looking even remotely humanoid was his navy-blue blazer. He wore it all the time.
+    Clearly an expensive brand-name, with a miniature American Flag pin on the lapel, looking as old and battered as The King himself. <br/>
+    The King refused to talk about it. All he would say is that he was ashamed of what he had done, and he deserved to be the way that he was. <br/>
+    And every time The King talked about the Great Catastrophe, he got a very sad look in his eyes. "
 X2021:
     Title: "X-2021" 
     Profession: "Murderous Android Posing as a Human" 
     Once Per Day: "<em>Mock Emotion</em>: Ignore a pair on a Trauma roll." 
     Once Per Game: "<em>Kill All Hu-Mons</em>: Give each other player 1 Die from your pile. "
     Weakness: "<em>Fooling Nobody</em>: X2021 may not trade cards, and must feed himself." 
+    Flavor: "Model: X - Human Extermination / Garbage Disposal. <br/>
+             Year: 2021 <br/>
+             Operating System: Debuntu Hat X - Window Lion <br/> 
+             Turing Score: 84<br/>
+             \"I don't know why they want to kill all humans - but they don't ever seem to follow through. 
+             I'd want to kill all humans, too, if I were programmed to collect their garbage.\" - David Chandra, lead programmer for the X-2021 series."

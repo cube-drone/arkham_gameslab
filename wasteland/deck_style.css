@@ -4,6 +4,7 @@
 body{
     font-family: 'Gudea', sans-serif;
     font-size: small;
+    color: #333;
 }
 
 h2, h3 { 
@@ -27,16 +28,21 @@ h3{
 
 .flavor{
     text-align: center;
-    font-family: 'Waiting for the Sunrise', cursive;
-    line-height: 1.2;
+    padding: 3px;
+    font-size: x-small;
+    line-height: 1;
     padding: 0px 15px;
-    color: #333;
 }
 
 
 p {
     margin-top: 3px;
     margin-bottom: 0;
+}
+
+.Page
+{
+    padding: 2px;
 }
 
 .Card h3 
@@ -52,14 +58,15 @@ p {
     margin-right: 5px;
 }
 
-/* Location */
-
-.Location
+.Helper, .Survivor
 {
-    background: url('assets/location_front.png'); 
+    background-size: 320px 420px;
+    width: 320px;
+    height: 420px;
+    margin-left: 3px;
 }
 
-.Location h2, .Crisis h2, .Crisis .type, .Salvage h2, .Survivor h2, .Mutation h2, .Emplacement h2, .Rare .type, .Helper h2, .Helper h3
+.Crisis h2, .Crisis .type, .Salvage h2, .Survivor h2, .Mutation h2, .Emplacement h2, .Rare .type, .Helper h2, .Helper h3
 {
     display: none;
 }
@@ -67,6 +74,12 @@ p {
 .Survivor h3
 {
     visibility: hidden;
+    height: 30px;
+}
+
+.Survivor p
+{
+    margin-left: 60px;
 }
 
 .Salvage .type
@@ -75,81 +88,24 @@ p {
     bottom: 3px;
 }
 
-.Location h3
-{
-    margin-top: 45px;
-}
+.Super { background: url('assets/catastrophe_super.png') !important; }
 
-.Super
-{
-    background: url('assets/catastrophe_super.png') !important;
-}
+.Catastrophe { background: url('assets/catastrophe.png'); }
 
-.Catastrophe
-{
-    background: url('assets/catastrophe.png');
-}
+.Collapse { background: url('assets/collapse.png'); }
+.Rats { background: url('assets/collapse_vermin.png'); }
+.Fire{ background: url('assets/collapse_fire.png'); }
 
-.Collapse
-{
-    background: url('assets/collapse.png');
-}
+.Combat { background: url('assets/combat.png'); }
+.Dogs{ background: url('assets/combat_dogs.png'); }
+.Ghoul {background: url('assets/combat_ghoul.png');}
+.Mustard { background: url('assets/combat_mustard.png'); }
+.Android { background: url('assets/combat_android.png'); }
+.Radiation { background: url('assets/combat_radangel.png'); }
+.Superintelligence { background: url('assets/combat_superintelligence.png'); }
+.Screamers{ background: url('assets/combat_screamers.png'); }
 
-.Rats
-{
-    background: url('assets/collapse_vermin.png');
-}
-
-.Fire
-{
-    background: url('assets/collapse_fire.png');
-}
-
-.Combat
-{
-    background: url('assets/combat.png');
-}
-
-.Dogs
-{
-    background: url('assets/combat_dogs.png');
-}
-
-.Ghoul
-{
-    background: url('assets/combat_ghoul.png');
-}
-
-.Mustard
-{
-    background: url('assets/combat_mustard.png');
-}
-
-.Android
-{
-    background: url('assets/combat_android.png');
-    background-size: 216px 302px;
-}
-
-.Angel
-{
-    background: url('assets/combat_radangel.png');
-}
-
-.Superintelligence
-{
-    background: url('assets/combat_superintelligence.png');
-}
-
-.Screamers
-{
-    background: url('assets/combat_screamers.png');
-}
-
-.Common
-{
-    background: url('assets/common_salvage.png') !important;
-}
+.Common{ background: url('assets/common_salvage.png') !important; }
 
 .X-2021 { background: url('assets/survivor_x2021.png'); }
 .Jai { background: url('assets/survivor_jai.png'); }
@@ -176,22 +132,15 @@ p {
 .Duke { background: url('assets/rare_duke.png'); } 
 .Cordless { background: url('assets/rare_cordless.png'); } 
 
-.Mutation
-{
-    background: url('assets/mutation.png');
-}
+.Mutation { background: url('assets/mutation.png'); }
 
-.Emplacement
-{
-    background: url('assets/emplacement.png');
-}
+.Emplacement { background: url('assets/emplacement.png'); }
 
-.Helper_Die
-{
-    background: url('assets/helper_die.png');
-}
-
-.Helper_Turns
-{
-    background: url('assets/helper_turns.png');
-}
+.Helper_Die { background: url('assets/helper_die.png'); }
+.Helper_Turns { background: url('assets/helper_turns.png'); }
+.Helper_Common{ background: url('assets/helper_common_salvage.png'); }
+.Helper_Rare{ background: url('assets/helper_rare_salvage.png'); } 
+.Helper_Mutation{ background: url('assets/helper_mutation.png'); } 
+.Helper_Crisis{ background: url('assets/helper_crisis.png'); } 
+.Helper_Catastrophe{ background: url('assets/helper_catastrophe.png'); }
+.Helper_Today{ background: url('assets/helper_today.png'); } 
