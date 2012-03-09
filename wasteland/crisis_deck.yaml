@@ -13,20 +13,20 @@ Powder Puff:
     Flavor: "\"A harmless powder puff did <em>WHAT</em> to you? That's horrible and disgusting!\" - Jeff Wheeler."
 Cockroach Hunting Pack:
     Type: "Combat"
-    Quantity: 5
+    Quantity: 3
     Difficulty: 3
     Flavor: "Weeding out the weak since 2051."
     Injury: 1
 Wild Dogs: 
     Type: "Combat"
     Quantity: 5
-    Difficulty: 5
+    Difficulty: 4
     Flavor: "\"Woof.\" - Wild Dogs."
     Injury: 1
 Wasteland Ghoul:
     Type: "Combat"
     Quantity: 10
-    Difficulty: 6
+    Difficulty: 5
     Radiation: 1
 Raiders: 
     Type: "Combat"
@@ -50,7 +50,7 @@ Radiation Angel:
 Mustard Gas Company:
     Type: "Combat"
     Quantity: 3
-    Difficulty: 8
+    Difficulty: 7
     Pass: "Gain a Salvage Die"
     Injury: 1
     Flavor: "\"A cloud of yellow smoke and a group of thugs wearing gas masks. Woke up 2 days later, covered in blood, driving towards the Mexican border, holding a man's spleen in my hands.\" - Jai Jayendra"
@@ -66,7 +66,7 @@ Tumour Hurlers:
     Quantity: 2
     Difficulty: 8
     Flavor: "\"Mutated abominations ripping pieces of flesh off their bodies and throwing them at us. I can still smell the acid sizzling through the air.\" - Rodrigo Gabriel"
-    Trauma: 1
+    Radiation: 1
 Rogue Android: 
     Type: "Combat" 
     Difficulty: 10
@@ -80,13 +80,13 @@ Alien Superintelligence:
     Pass: "Three Survivors may discard a Radiation Die and a Mutation." 
     Trauma: 1
     Injury: 1
-Radiation Spores
+Radiation Spores:
     Type: "Collapse" 
     Flavor: "\"Oooooohhhkay then. It's glowing and... growing. I'm just gonna stand back here.\" - Dr. Max Health, M.D."
     Radiation: 1
 Punctured Lung: 
     Type: "Collapse" 
-    Flavor: "\"Yep, that's gone right through.  You're fucked. \" - Dr. Max Health, M.D."
+    Flavor: "\"Yep, that's gone right through.\" - Dr. Max Health, M.D."
     Injury: 1
 Broken Arm:
     Type: "Collapse" 
@@ -99,8 +99,13 @@ Cracked Rib:
     Injury: 1
 Infectious Rats: 
     Type: "Collapse"
-    Special: "Place this card in the stockpile." 
+    Special: "Place this card in the stockpile. If you've drawn this card from the stockpile, take 1 injury." 
     Flavor: "\"You'll be fine, just as soon as I give you this tinnitus shot.\" - Dr. Max Health, M.D."
+Crate of Pornography:
+    Type: "Collapse"
+    Quantity: 3
+    Special: "Place this card in the stockpile. If you draw this card from the stockpile, put it back in the stockpile."
+    Flavor: "\"You're a dirty vacuum cleaner. Yes you are. You are full of dirt.\" - X-2021"
 Stockpile Fire: 
     Type: "Collapse"
     Special: "Discard the top 2 cards from the stockpile." 
@@ -110,7 +115,8 @@ Pound of Flesh:
     Special: "The player may ignore this Crisis - or take an Injury, and a Rare Salvage card from the deck." 
 Flashbang Accident:
     Type: "Collapse"
-    Special: "Trash 1 Salvage, at random, from your hand. " 
+    Special: "Trash 1 Salvage, at random, from your hand. "
+    Flavor: "\"Argh, my eyes! My precious and completely non-artificial eyes!\" - X-2021" 
 Collapse: 
     Quantity: 1
     Type: "Catastrophe"
@@ -137,7 +143,7 @@ Food Spoilage:
 
 Fight Over Salvage: 
     Type: "Catastrophe" 
-    Special: "Each player rolls a Combat check. They may add Weapons, if they so choose. The player with the highest result gets 3 Common Salvage and 1 Rare Salvage. The player with the lowest result gains an Injury Die. Roll a die to resolve ties."  
+    Special: "Each player plays a weapon, or weapons, face-down. Each player rolls a combat check, then flips all weapons. The player with the highest result gets 3 Common Salvage and 1 Rare Salvage. The player with the lowest result gains an Injury Die. Roll a die to resolve ties."  
 
 Thieves in the Night:
     Type: "Catastrophe"
@@ -197,14 +203,21 @@ Followed You Home:
     Type: "Catastrophe"
     Special: "Each player draws the top Crisis from the deck and resolves it." 
 
-Super Catastrophe Phase 1:
+Phase 1 - Marauder Flood:
     Type: "Super Catastrophe"
     Special: "Shared Combat! Difficulty 44!"
     Fail: "Every player takes 2 Injury Die, 2 Radiation Die, and 2 Trauma Die. Destroy 3 Emplacements." 
-Super Catastrophe Phase 2: 
+Phase 1 - Radangel Flood: 
+    Type: "Super Catastrophe" 
+    Special: "Shared Combat! Difficulty 44!"
+    Fail: "Every player takes 1 Injuyry Die, 4 Radiation Die, and 2 Trauma Die. Destroy 2 Emplacements." 
+Phase 2 - Midnight Raid: 
     Type: "Super Catastrophe"
     Special: "Single Combat! Each (live) player faces a Combat of Difficulty 8" 
     Fail: "The failing player takes 1 Injury Die, 1 Radiation Die, and 1 Trauma Die, and Destroys 1 Emplacement."
-Super Catastrophe Phase 3:
+Phase 3 - Too Deep: 
+    Type: "Super Catastrophe" 
+    Special: "Each player discards their largest dice pile that is not Injury die, and draws that many Injury die."
+Phase 3 - No Rest For the Wicked:
     Type: "Super Catastrophe"
     Special: "Roll, again, for Radiation, Trauma, and Injury" 
