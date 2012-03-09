@@ -1,0 +1,126 @@
+﻿Title: "Combat" 
+Kapitan-leytenant Vichkanova:
+    Type: Russian Lieutenant
+    Special: "Immediately destroy 3 of your opponents ships."
+    Strength: -1
+    Flavor: "A fighter pilot of incredible bravery and aptitude, but also incredible stupidity."
+Kapitan-leytenant Fedyushhyna:
+    Type: Russian Lieutenant
+    Special: "If played while you are the Attacker, strength 3 instead."
+    Strength: 1
+    Flavor: "&quot;Nothing like a dogfight to get the heart pumping.&quot;"
+Kapitan vtorogo ranga Dubnikov:
+    Type: Russian Commander
+    Special: ""
+    Strength: 2
+Kapitan vtorogo ranga Karpol:
+    Type: Russian Commander
+    Special: ""
+    Strength: 2
+Kapitan pervogo ranga Kravtsov:
+    Type: Russian Captain
+    Special: ""
+    Strength: 3 
+Контр-адмирал Tonkov:
+    Type: Russian Commodore 
+    Special: ""	
+    Strength: 4
+Адмирал Lebedyenko:
+    Type: Russian Admiral
+    Special: "At the end of the Determine Victor phase, destroy an additional 5 of your ships."
+    Strength: 7
+    Flavor: "With great power comes great responsibility. Or not."
+Kapitänleutnant Bauer:
+    Type: German Lieutenant
+    Special: "If you lose this round, immediately destroy 3 of your opponents ships."
+    Strength: 1
+    Flavor: "&quot;Pretend inferiority and encourage his arrogance.&quot;"
+Kapitänleutnant Nussbaum:
+    Type: German Lieutenant
+    Special: "If played when you are the Defender, strength 3 instead."
+    Strength: 1
+    Flavor: "&quot;We will fight you, tooth and nail if we must!&quot;"
+Fregattenkapitän Richter:
+    Type: German Commander
+    Special: ""
+    Strength: 2
+Fregattenkapitän Ziegler:
+    Type: German Commander
+    Special: ""
+    Strength: 2
+Kapitän zur See Vogel:
+    Type: German Captain
+    Special: "In the Resolve Losses phase of this round, destroy 5 fewer ships than normal."
+    Strength: 3
+    Flavor: "&quot;We cannot afford a war of attrition.&quot;"
+Flottillenadmiral Rothstein:
+    Type: German Commodore
+    Special: ""
+    Strength: 4
+Admiral Eberhardt:
+    Type: German Admiral
+    Special: ""
+    Strength: 4
+    Flavor: "A man of few words. Particularly in the heat of battle."
+Lieutenant Smith:
+    Type: American Lieutenant
+    Special: "In the Resolve Losses phase of this round, return one of your discarded cards to your hand."
+    Strength: 0
+    Flavor: "Take's a lickin' and keeps on tickin'."
+Lieutenant White:
+    Type: American Lieutenant
+    Special: "During this round you may use the text ability of the combat card your opponent played."
+    Strength: 1
+    Flavor: "&quot;I'm not left-handed either.&quot;"
+Commander Taylor:
+    Type: American Commander
+    Special: "You may instead use the strength and text ability of any card that your opponent has discarded."
+    Strength: 0
+    Flavor: "&quot;You weren'ta usin' that...were ya?&quot;"
+Commander Howard:
+    Type: American Commander
+    Special: ""
+    Strength: 2
+Captain Jenkins:
+    Type: American Captain
+    Special: ""
+    Strength: 3
+Commodore Adams:
+    Type: American Commodore
+    Special: ""
+    Strength: 4
+Admiral King:
+    Type: American Admiral
+    Special: ""
+    Strength: 5
+Taii Nishimoto:
+    Type: Japanese Lieutenant
+    Special: "You may choose to retreat before the Resolving Losses phase."
+    Strength: 1
+    Flavor: "He who fights and runs away will live to fight another day."
+Taii Matano:
+    Type: Japanese Lieutenant
+    Special: ""
+    Strength: 1
+Chūsa Konae:
+    Type: Japanese Commander
+    Special: "You may immediately remove 1 enemy ship and replace it with your own."
+    Strength: 2
+    Flavor: "&quot;Their strength becomes our own.&quot;"
+Chūsa Hattori:
+    Type: Japanese Commander
+    Special: ""
+    Strength: 2
+Daisa Ibuka:
+    Type: Japanese Captain
+    Special: ""
+    Strength: 2
+Kaigun Shosho Takahashi:
+    Type: Japanese Commodore
+    Special: ""
+    Strength: 3
+Kaigun Taisho Akiyama:
+    Type: Japanese Admiral
+    Special: "If you win this round, you may immediately Retreat."
+    Strength: 4
+    Flavor: "Feint, feint, feint, STRIKE."

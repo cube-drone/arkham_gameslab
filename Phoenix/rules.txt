@@ -116,6 +116,8 @@ If your ships occupy a star also occupied by an enemy, a battle will occur. A ba
 5. Retreats
 6. Fight again
 
+The Defender is the fleet that occupied the star at the start of the turn. Every other fleet is the Attacker.
+
 COUNT FLEET SIZES
 
 You and your opponent count the number of ships on each of your sides. Include all fleets that have arrived at this star this turn. This count is your Fleet Strength.
