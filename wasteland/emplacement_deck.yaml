@@ -10,10 +10,10 @@ Scout:
 Wasteland: 
     Special: "Draw 2 Common Salvage. There is no limit on the number of players who may visit the Wasteland. The Wasteland cannot be Damaged or Destroyed."
     Radiation: 1
-    Type: "Starting" 
+    Type: "Starting"
 Outpost:
     Special: "In the exploration phase, draw three emplacements and choose one, discarding the other two. Make a Salvage Roll, adding any cards gained to the Stockpile." 
-    Radiation: 1
+    Trauma: 1
     Type: "Starting" 
 Irradiated Skyscraper: 
     Special: "Gain 1 Salvage Die."
@@ -24,12 +24,12 @@ Tent City:
     Type: "Starting" 
 School Zone :
     Special: "Make a Salvage Roll, and add it to your hand." 
-    Trauma: 1
+    Radiation: 1
 Radio Station:
     Special: "Give 1 of your own Trauma Die to another player. Add 2 Common Salvage to the Stockpile." 
 Weapons Cache:
     Special: "Add 2 Rare Salvage to the Stockpile. Give 1 Trauma to another player." 
-    Radiation: 1
+    Trauma: 1
 Experimental Laboratory: 
     Special: "Give 1 of your own Radiation Die to another player. Add 2 Common Salvage to the Stockpile." 
 Farm:
@@ -48,3 +48,6 @@ Machine Shop:
 Crushed Skyscraper: 
     Special: "Gain 1 Salvage Die."
     Radiation: 1
+Survival Camp:
+    Special: "Take 3 cards from the Stockpile."
+    Trauma: 1

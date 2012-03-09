@@ -2,9 +2,9 @@ Title: "Survivor"
 Dr Max Health MD:
     Title: "Dr. Max Health, M.D." 
     Profession: "Soap Opera Actor" 
-    Once Per Day: "<em>Emergency</em>: When a player would gain an Injury die, roll a die. On a 6, the player does not take the Injury"
+    Once Per Day: "<em>Emergency</em>: When a player would gain an Injury die, roll a die. On a 6, the player does not take the Injury."
     Once Per Game: "<em>Combat Hospital</em>: All players may discard a die."   
-    Weakness: "<em>Not Actually a Doctor</em>: When a player would be prevented from taking an Injury die, make a Trauma roll" 
+    Weakness: "<em>Not Actually a Doctor</em>: When \"Emergency\" actually works, make a Trauma roll." 
 Jai Jayendra: 
     Profession: "Martial Arts Enthusiast / Cashier" 
     Once Per Day: "<em>Human Weapon</em>: 1 Weapon. " 
@@ -12,7 +12,7 @@ Jai Jayendra:
     Weakness: "<em>Human Catastrophe</em>: Whenever Jai would roll Injury die, instead roll twice. "
 Justice Lin: 
     Profession: "Paralegal" 
-    Once Per Day: "<em>Exploratory</em>: Redraw all Crisis cards drawn during Exploration." 
+    Once Per Day: "<em>Exploratory</em>: Redraw one Crisis cards drawn during Exploration." 
     Once Per Game: "<em>Filibuster</em>: All players get another Emplacement phase this turn. "
     Weakness: "<em>Compulsive</em>: If Justice doesn't have an even number of dice at the end of the Day, she makes a Trauma roll. " 
 Naoki Urasawa:
@@ -39,5 +39,5 @@ X2021:
     Title: "X-2021" 
     Profession: "Murderous Android Posing as a Human" 
     Once Per Day: "<em>Mock Emotion</em>: Ignore a pair on a Trauma roll." 
-    Once Per Game: "<em>Kill All Hu-Mons</em>: Give each other player either 1 Die from your pile. "
+    Once Per Game: "<em>Kill All Hu-Mons</em>: Give each other player 1 Die from your pile. "
     Weakness: "<em>Fooling Nobody</em>: X2021 may not trade cards, and must feed himself." 
