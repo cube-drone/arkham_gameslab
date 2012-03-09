@@ -1,0 +1,22 @@
+.Card
+{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.title 
+{
+	margin-top: 50px;
+}
+
+.type 
+{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.category
+{
+	display: none;
+}
