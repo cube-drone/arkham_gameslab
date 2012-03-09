@@ -1,4 +1,5 @@
-﻿Title: "Combat" 
+﻿Eat Wierd UTF Error: "Yeah, you should totally do that." 
+Title: "Combat" 
 Kapitan-leytenant Vichkanova:
     Type: Russian Lieutenant
     Special: "Immediately destroy 3 of your opponents ships."
@@ -66,7 +67,7 @@ Lieutenant Smith:
     Type: American Lieutenant
     Special: "In the Resolve Losses phase of this round, return one of your discarded cards to your hand."
     Strength: 0
-    Flavor: "Take's a lickin' and keeps on tickin'."
+    Flavor: "Takes a lickin' and keeps on tickin'."
 Lieutenant White:
     Type: American Lieutenant
     Special: "During this round you may use the text ability of the combat card your opponent played."
