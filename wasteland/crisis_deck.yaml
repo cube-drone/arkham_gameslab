@@ -32,8 +32,13 @@ Raiders:
     Type: "Combat"
     Quantity: 10
     Difficulty: 5
-    Fail: "Discard the top 2 cards from the Stockpile" 
+    Fail: "Discard the top card from the Stockpile" 
     Injury: 1
+Highwayman:
+    Type: "Combat"
+    Quantity: 3
+    Difficulty: 5
+    Fail: "Discard 3 Salvage from your hand."
 Marauders:
     Type: "Combat"
     Quantity: 5
@@ -66,7 +71,7 @@ Tumour Hurlers:
     Quantity: 2
     Difficulty: 8
     Flavor: "\"Mutated abominations ripping pieces of flesh off their bodies and throwing them at us. I can still smell the acid sizzling through the air.\" - Rodrigo Gabriel"
-    Radiation: 1
+    Mutation: 1
 Rogue Android: 
     Type: "Combat" 
     Difficulty: 10
@@ -74,12 +79,31 @@ Rogue Android:
     Flavor: "\"That is clearly an inferior X-2014. He doesn't stand a chanc- I mean, lookit that shiny robot!\" - X-2021" 
     Radiation: 1
     Injury: 1
+Giant Supermutant:
+    Type: "Combat"
+    Difficulty: 9
+    Pass: "Draw 1 Rare Salvage."
+    Fail: "Destroy 1 Emplacement."
+    Injury: 1
+    Flavor: "\"C'mere big guy. I have a present for you.\" - Jai Jayendra" 
 Alien Superintelligence:
     Type: "Combat"
     Difficulty: 10
     Pass: "Three Survivors may discard a Radiation Die and a Mutation." 
     Trauma: 1
     Injury: 1
+Atoners:
+    Type: "Collapse"
+    Special: "Roll all of your Injury dice. If you get at least one six, gain a Rare Salvage. Otherwise, gain an Injury Die."
+    Flavor: "\"Lashes and wounds purge away evil, and beatings cleanse the innermost parts.\" - Proverbs 20:30"
+Mutant City: 
+    Type: "Collapse"
+    Special: "Roll all of your Radiation dice. If you get at least one six, draw the top Emplacement card from the deck and add it to your settlement. Otherwise, gain a Radiation Die."
+    Flavor: "\"We found an entire underground city. It glowed. Something had to be done about it.\" - Justice Lin"
+Analyst Therapist:
+    Type: "Collapse" 
+    Special: "Roll all of your Trauma dice. If you get at least one six, discard a Trauma die. Otherwise, gain a Trauma Die." 
+    Flavor: "An analyst and a therapist. The world's first analrapist." 
 Radiation Spores:
     Type: "Collapse" 
     Flavor: "\"Oooooohhhkay then. It's glowing and... growing. I'm just gonna stand back here.\" - Dr. Max Health, M.D."
@@ -117,7 +141,8 @@ Flashbang Accident:
     Type: "Collapse"
     Special: "Trash 1 Salvage, at random, from your hand. "
     Flavor: "\"Argh, my eyes! My precious and completely non-artificial eyes!\" - X-2021" 
-Collapse: 
+
+Structural Integrity Failure: 
     Quantity: 1
     Type: "Catastrophe"
     Special: "The first player decides: Two emplacements are destroyed." 
@@ -171,7 +196,7 @@ Plan B:
     
 Plan C:
     Type: "Catastrophe"
-    Special: "Nothing happens, tonight. Draw and place an additional catastrophe, face-up, tomorrow." 
+    Special: "Nothing happens, tonight. Draw and place an additional catastrophe tomorrow." 
 
 Raider Assault:
     Type: "Catastrophe"
