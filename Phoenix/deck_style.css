@@ -2,12 +2,13 @@
 {
 	padding-left: 5px;
 	padding-right: 5px;
+    background-size: 227px 302px;
+    font-family: Georgia;
 }
 
-.title 
-{
-	margin-top: 50px;
-}
+h2 { display: none; } 
+.category { display: none; } 
+
 
 .type 
 {
@@ -16,7 +17,17 @@
 	left: 10px;
 }
 
-.category
+.Combat
 {
-	display: none;
+    background: url('assets/combat.png');
+}
+
+.Combat h3
+{
+    margin-top: 30px;
+}
+
+.Strategic
+{
+    background: url('assets/strategic_objective.png');
 }
