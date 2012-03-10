@@ -37,7 +37,7 @@ After you play your last card, immediately re-draw every card previously played 
 
 THE STRATEGIC OBJECTIVES/WINNING THE GAME
 
-These cards are placed face up on the table. They have tasks on them that each player must work towards in order to win the game.
+These cards are placed face up on the table. They have tasks on them that each player must work towards in order to win the game. Multiple players can claim the same objective.
 
 After each player has had a turn, check the Strategic Objectives. If any player has claimed at least 2 Objectives and has more than any of their opponents, that player wins.
 
@@ -101,7 +101,7 @@ Start at the departure sector - this is "0". Count sectors until you reach (and 
 
 Your warp token must be at the number on the hyperspace track corresponding to this count of sectors.
 
-Take the ships from the warp token and place them on a single star in that sector. All ships from a single warp token must travel to the same star. 
+Take all of the ships from the warp token and place them on a single star in that sector. All ships from a single warp token must travel to the same star. 
 
 
 
