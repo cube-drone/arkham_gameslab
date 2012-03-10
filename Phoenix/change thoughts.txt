@@ -1,6 +1,47 @@
-PRIORITY:
+Change notes:
+	- Clarify: When you empty your hand of combat cards, you immediately re-draw all of your discards except the last card played.
+	- Clarify: Multiple people can claim the same objective.
 
-Race/ability/strategies fluff/naming
+THOUGHTS FROM PLAY 1:
+- Space Dutch!
+
+UI:
+	- Need a tracking card for production
+	- Small coloured pegs+small ships == problem
+		- deck of sectors double sided R/Y, plus a few extra for Home Stars
+	- home star tokens/flags
+
+New rules:
+	- what happens if its a production turn and you have no +O worlds?
+	- rename "Retreat" to something else for the victor of battle - it isn't a retreat.
+	- what happens if there is a combat tie?
+	- what happens if you hit 7? This is beyond where you can move in these rules.
+	- all leader cards have abilities
+		- could be discarded from fleet for ability
+	- all strengths between races should be the same
+		- ie. not some with 0 and some with 7
+		- balance powers across race...hopefully
+	- optionally assign a leader to a moving fleet. He stays with that fleet. If he goes off the end, he's gone. When he is used on an attack, he goes into the discard pile.
+	- more leaders
+		- big deck that you draw from
+		- draw 7 at the start of the game
+		- can't look at other peoples hands anymore
+		- "move fleet forward 2"
+	- when you get 3 objectives, you just win
+	- "10 production" objective is to hard
+	- big deck of objectives:
+		- 1 public, 1 in each players hand.
+		- when you qualify for the one in your hand, you play it and then everyone else can qualify for it too. Draw a new objective.
+		- "control 2 planets in E"
+		- "control 3 +'s" or O's
+		- "control 4 in connected sectors"
+		- "successively lose 5 battles"
+		- "control entire non-home sector"
+	- defender chooses order of battles when multiple in turn.
+		
+		
+
+PRIORITY:
 
 
 
@@ -31,14 +72,8 @@ Alliances
 
 - This person wrote a lot of rules about technologies and such.
 	http://forums.about.com/n/pfx/forum.aspx?tsn=1&nav=display&webtag=ab-boardgames&tid=779
-
 		
-DESIGN THOUGHTS:
-- need to encourage back and forth play - it's ok to lose a system
-- need to encourage loss of ships - no cold wars
-- needs to play in an hour
 - try production every other turn...I kind of want production to be linked to something else though.
-- turns have to be quick
 - 24 possible ships per turn. At best, 6 per player. Start with 15.
 
 

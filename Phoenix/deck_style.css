@@ -2,7 +2,8 @@
 {
 	padding-left: 5px;
 	padding-right: 5px;
-    background-size: 227px 302px;
+	background-size: 227px 302px;
+	background-position: top right;
     font-family: Georgia;
 }
 
@@ -17,17 +18,33 @@ h2 { display: none; }
 	left: 10px;
 }
 
-.Combat
+.Leader
 {
-    background: url('assets/combat.png');
+	background-image: url('assets/leader-scaled.png');
 }
 
-.Combat h3
+.Leader h3
 {
     margin-top: 30px;
 }
 
 .Strategic
 {
-    background: url('assets/strategic_objective.png');
+    background-image: url('assets/strategic_objective-scaled.png');
 }
+
+.Sector
+{
+	background-image: url('assets/sector-scaled.png');
+}
+
+.Sector h3, .Production h3
+{
+	margin-top: 100px;
+}
+
+.Production
+{
+	background-image: url('assets/default-scaled.png');
+}
+
