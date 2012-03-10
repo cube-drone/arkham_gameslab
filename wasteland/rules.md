@@ -159,14 +159,16 @@ DEATH
 
 TRASH, STOCKPILE, or PLAY
 -------------------------
-Cards that are Trashed are placed in a pile next to their respective decks, to be shuffled back in as necessary. 
-Cards that are Stockpiled are placed in the Stockpile. 
-Cards that are Played are placed in front of the player, and cannot be used again this turn.  
+- Cards that are Trashed are placed in a pile next to their respective decks, to be shuffled back in as necessary.
+- Dice that are Trashed are returned to their respective piles. 
+- Cards that are Stockpiled are placed in the Stockpile. 
+- Cards that are Played are placed in front of the player, and cannot be used again this turn.  
+- Mutations that are Played cannot be used again this turn. 
 
 SHARED COMBAT
 -------------
 - Same as a normal combat, but every player contributes die and weapon towards the roll. 
 - All players choose the weapons and mutations that they will use, and place them in front of themselves, face down.
 - All players flip their weapons simultaneously.
-- Every player rolls. The total of all player rolls and all weapons must meet or exceed the Shared Combat's difficulty to pass. 
+- Every player rolls. The total of all player rolls and all weapons must meet or exceed the Shared Combat's difficulty to pass.
 

@@ -28,7 +28,7 @@ School Zone :
 Radio Station:
     Special: "Give 1 of your own Trauma Die to another player. Add 2 Common Salvage to the Stockpile." 
 Weapons Cache:
-    Special: "Add 2 Rare Salvage to the Stockpile. Give 1 Trauma to another player." 
+    Special: "Add 2 Rare Salvage to the Stockpile. Give 1 new Trauma Die to another player." 
     Trauma: 1
 Experimental Laboratory: 
     Special: "Give 1 of your own Radiation Die to another player. Add 2 Common Salvage to the Stockpile." 
@@ -38,9 +38,10 @@ Farm:
 Subway Station:
     Special: "Make a Salvage roll, and add it to the Stockpile. Make another Salvage roll, and add it to your hand. Make a Radiation, Trauma, and Injury roll. " 
 Hardware Store:
-    Special: "Draw and resolve 1 Crisis.  Gain 1 Rare Salvage." 
+    Special: "Gain 1 Rare Salvage." 
+    Injury: 1
 Bunker: 
-    Special: "Give 1 new Trauma Die to another player. Discard 1 Salvage. Gain +3 Weapon for the rest of the Round." 
+    Special: "Trash 2 Salvage. Gain +3 Weapon for the rest of the Round." 
 Cannery: 
     Special: "Give 1 new Radiation Die to another player. Produce 3 Food." 
 Machine Shop: 

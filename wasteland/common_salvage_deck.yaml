@@ -103,7 +103,7 @@ Needlessly Complicated Laser:
     Special: "Roll a die." 
     "1": "Trash" 
     "2": "Gain an injury"
-    "3": "Another player gains an injury." 
+    "3": "Give another player an injury." 
     "4": "1 Weapon" 
     "5": "3 Weapon" 
     "6": "5 Weapon" 

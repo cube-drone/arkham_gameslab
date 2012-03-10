@@ -32,13 +32,13 @@ Raiders:
     Type: "Combat"
     Quantity: 10
     Difficulty: 5
-    Fail: "Discard the top card from the Stockpile" 
+    Fail: "Trash the top card from the Stockpile" 
     Injury: 1
 Highwayman:
     Type: "Combat"
     Quantity: 3
     Difficulty: 5
-    Fail: "Discard 3 Salvage from your hand."
+    Fail: "Trash 3 Salvage from your hand."
 Marauders:
     Type: "Combat"
     Quantity: 5
@@ -132,7 +132,7 @@ Crate of Pornography:
     Flavor: "\"You're a dirty vacuum cleaner. Yes you are. You are full of dirt.\" - X-2021"
 Stockpile Fire: 
     Type: "Collapse"
-    Special: "Discard the top 2 cards from the stockpile." 
+    Special: "Trash the top 2 cards from the stockpile." 
     Flavor: "\"Oh, don't worry, it's just a little campfi-OH NO, THE BULLETS.\" - Jeff Wheeler"
 Pound of Flesh: 
     Type: "Collapse"
@@ -184,7 +184,7 @@ Low Yield Nuclear Strike:
     Type: "Catastrophe" 
     Condition: "The first player may choose to pass or fail this Catastrophe." 
     Pass: "Each player gains 1 Radiation Die"
-    Fail: "Damage 2 Emplacements." 
+    Fail: "Roll a die for each Emplacement. On a 1 or 2, destroy that Emplacement." 
 
 Plan A:
     Type: "Catastrophe"
@@ -203,7 +203,7 @@ Raider Assault:
     Condition: "Shared Combat!"
     Difficulty: 20
     Pass: "Each player gains 2 Common Salvage"
-    Fail: "Each player takes 1 Injury. The Stockpile may not be contributed to for a Day. Discard the stockpile." 
+    Fail: "Each player takes 1 Injury. The Stockpile may not be contributed to for a Day. Trash the stockpile." 
 
 Marauder Assault:
     Type: "Catastrophe"

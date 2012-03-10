@@ -78,10 +78,10 @@ Calvary Sabre:
     Flavor: "CHAAAAAARGE!"
 Rad B Gone: 
     Type: "Medical"
-    Special: "Trash to Discard 1 Radiation Die." 
+    Special: "Trash to Trash 1 Radiation Die." 
 Bandage: 
     Type: "Medical"
-    Special: "Trash to Discard 1 Injury Die."
+    Special: "Trash to Trash 1 Injury Die."
 The Voices In Your Head:
     Type: "Ally"
     Special: "Play during the Super Catastrophe. You run away. You win. "  

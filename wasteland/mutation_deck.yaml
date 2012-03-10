@@ -17,14 +17,14 @@ Terrifying Deformity:
     Flavor: "\"No, I can't fix it. Dammit, I'm a doctor, not a plastic surgeon!\" - Dr. Max Health, M.D." 
 Amazing Speed: 
     Quantity: 1
-    Special: "You may visit two Emplacements in a turn." 
+    Special: "At the end of the Emplacement phase, you may visit another placement." 
     Flavor: "\"Rad Angels, Rad Angels, Rad Angels. If we beat them off the walls, then they're still in the air. If we shoot them out of the air, they're still at the gates; So where does that leave us? Nowhere, that's where.\" - X-2021 " 
 50 Feet Tall:
     Title: "50 Feet Tall"
     Special: "Play for 5 Weapon and 1 Radiation Die." 
     Flavor: "\"I suddenly feel this urge to stomp around through Tokyo.\" - The King" 
 Mending Bones: 
-    Special: "Play to Trash 1 Crisis Card and gain 1 Radiation Die." 
+    Special: "Play to Trash 1 Injury Die and gain 1 Radiation Die." 
     Flavor: "\"Nobody should have been able to survive that. I guess.\" - Dr. Max Health, M.D."
 Psychic:
     Special: "Play to move 1 Trauma Die from 1 player (not yourself) to another player." 
@@ -36,7 +36,7 @@ Eye for an Eye:
     Special: "Play to move 1 Injury Die from 1 player (not yourself) to another player." 
     Flavor: "\"First you elect me arbitrator, and then you refuse to fight to the death. Make up your damn minds.\" - Justice Lin" 
 Mutation Station:
-    Special: "Play to move 1 Mutation from 1 player to another player." 
+    Special: "Play to move 1 Mutation from 1 player (not yourself) to another player (not yourself)." 
     Flavor: "What's your conflagration?"
 Jugglers Despair:
     Title: "Juggler's Despair"
@@ -45,7 +45,8 @@ Lumberlung:
     Flavor: "\"I've never seen a case of Lumberlung quite so severe.\" - Dr. Max Health, M.D." 
 Achey Breaky Pelvis: 
     Flavor: "\"Your pelvis is spongy and unable to support heavy loads.\" - Dr. Max Health, M.D. " 
-Tuber Culosis: 
+Hot Tuberculosis: 
+    Title: "Play to give this mutation to another player. The player holding Hot Tuberculosis at the end of the game makes 1 additional Radiation Roll."
     Flavor: "\"I'm pretty sure it's that disease where you can't get enough potatoes.\" - Dr. Max Health, M.D." 
 Tumour:
     Quantity: 3
@@ -56,7 +57,7 @@ Throbbing Glombosis:
     Flavor: "\"According to my expert medical diagnosis, you're suffering from a very serious and not at all made-up disease.\" - Dr. Max Health, M.D."
 Leukemia: 
     Quantity: 1
-    Special: "Immediately trash upon drawing. Instead gain 1 Injury Die. " 
+    Special: "Immediately Trash upon drawing. Instead gain 1 Injury Die. " 
     Flavor: "\"According to this chart that I found, your white blood cell count is way lower than it should be. Wait - I'm holding this upside down.\" - Dr. Max Health, M.D." 
 
 
