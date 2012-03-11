@@ -46,7 +46,7 @@ Lumberlung:
 Achey Breaky Pelvis: 
     Flavor: "\"Your pelvis is spongy and unable to support heavy loads.\" - Dr. Max Health, M.D. " 
 Hot Tuberculosis: 
-    Title: "Play to give this mutation to another player. The player holding Hot Tuberculosis at the end of the game makes 1 additional Radiation Roll."
+    Special: "Play to give this mutation to another player. The player holding Hot Tuberculosis at the end of the game makes 1 additional Radiation Roll."
     Flavor: "\"I'm pretty sure it's that disease where you can't get enough potatoes.\" - Dr. Max Health, M.D." 
 Tumour:
     Quantity: 3
