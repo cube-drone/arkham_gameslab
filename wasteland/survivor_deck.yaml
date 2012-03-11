@@ -95,7 +95,7 @@ X2021:
 Krazy Karl Danvers:
     Title: "'Krazy' Karl Danvers"
     Profession: "BMX Stunt Racer / Bicycle Messenger"
-    Once Per Day: "<em>Full Throttle</em>: Visit one additional placement. Make an Injury roll."
+    Once Per Day: "<em>Full Throttle</em>: Visit one additional Location after all players have completed their Settlement phase. Make an Injury roll."
     Once Per Game: "<em>'Watch This!'</em>: All players may skip their next Trauma roll."
     Weakness: "<em>One Stunt Too Many</em>: Karl starts with 1 Injury die."
     Flavor: "'Krazy' Karl Danvers earned his nickname by jumping a car on his BMX when he was 10 years old. He never looked back from that day.<br/>
@@ -107,15 +107,15 @@ Buddy:
     Profession: "Six-String Samurai"
     Once Per Day: "<em>Wasteland Wanderer</em>: Roll 1 less Radiation die on a Radiation roll."
     Once Per Game: "<em>'If You Scratch My Guitar, I'll Kill You'</em>: Pass any Combat Crisis."
-    Weakness: "<em>'Damn Kid'</em>: Buddy will not Trash an Ally."
+    Weakness: "<em>'Damn Kid'</em>: Buddy will not Trash an Ally, but can Trade an Ally if he receives an Ally in return."
     Flavor: "Buddy has a gig in Vegas. He's going to be the next King of Rock and Roll. <br/>
     And no one had better mess with him until he does. He just didn't count on The Kid tagging along for the ride.<br/>
     Buddy' not entirely sure how it happened, but The Kid has grown on him. Well, not like a tumor or anything..."
 Angela Garmin:
     Profession: "Thief"
-    Once Per Day: "<em>Sticky Fingers</em>: Take 1 Common Salvage, at random, from any other player."
+    Once Per Day: "<em>Sticky Fingers</em>: Take 1 Common Salvage, at random, from the player with the most Salvage."
     Once Per Game: "<em>Robbing Them Blind</em>: Take any 3 cards from the Stockpile."
-    Weakness: "<em>Guilty Conscience</em>: Whenever Angela is given cards, she must give at least one card back. If Angela has no cards in hand, she cannot be given cards."
+    Weakness: "<em>Guilty Conscience</em>: Whenever Angela is given cards by another player - either during the Stockpile phase or from a Stockpile effect - she must give at least one card back. If Angela has no cards in hand, she cannot be given cards."
     Flavor: "Angela Garmin is no stranger to getting herself out of sticky situations...it's just that she's usually the one to cause them.<br/>
     The Great Catastrophe though...that was new. She tried going back to the life after the shock wore off, but then she seemed like every other scrounger and scaveneger out there.<br/>
     Trying to fit in with other survivors didn't work either: she was either caught with her hand in a cookie jar or, sometimes, treated with such kindness that she couldn't help but empty her pockets.<br/>
@@ -149,7 +149,7 @@ Sneaky Pete Anderson:
 Coach Herschel Martin:
     Profession: "Football Coach"
     Once Per Day: "<em>'You Hit Like a Girl'</em>: Add +1 Weapon to any other player's combat. That player makes a Trauma roll."
-    Once Per Game: "<em>Hail Mary</em>: Add +3 Weapon to any 3 combats this phase."
+    Once Per Game: "<em>Hail Mary</em>: Add +3 Weapon to any 3 separate Combat Crises this phase."
     Weakness: "<em>Armchair Quarterback</em>: Cannot use Grenades or other thrown weapons."
     Flavor: "Herschel Martin has dreams. Nightmares. The sound of bone crunching still wakes him at night long after the bones have healed.<br/>
     His shoulder still doesn't work right, but he knows he's got a few good tosses left in him. He's got a couple grenades in a satchel just in case the scouts are watching.<br/>
