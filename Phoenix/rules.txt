@@ -13,41 +13,53 @@ There are 4 Home Stars. these are where each player begins the game and also whe
 	Regulus (sector C-yellow)
 	Antares (sector L-red)
 
-There are four hyperspace tracks. These are used to indicate how far your fleet has travelled in hyperspace. They don't indicate a direction of travel or a destination, only how many sectors that fleet is allowed to move from it's departure sector.
+There are four hyperspace tracks numbered from 1 to 6. These are used to indicate how far your fleet has travelled in hyperspace. They don't indicate a direction of travel or a destination, only how many sectors that fleet is allowed to move from it's departure sector.
 
 
 
 THE PIECES
 
-Small pieces are 1 starship, large pieces are 5 starships. There are an unlimited number of starships available.
-
-The warp tokens carry fleets as they move along the hyperspace track, and shows the letter and colour of the fleets departure sector. There are a maximum of 4 warp tokens for each player.
+Pieces are 1 starship. There are an unlimited number of starships available.
 
 
 
-THE COMBAT CARDS
+THE PRODUCTION CARD
 
-Each player has 7 combat cards. These represent admirals and captains of your fleets and are used to modify combat strength as well as provide special abilities during combat. 
+This double-sided card is used to indicate whether or not the current turn is a production turn.
 
-Any player may examine any other players hand at any time, except for the time period between when a card has been selected during combat and when it is resolved. Ie, you may look at someone's hand, except when by doing so you could exactly determine which card they have selected.
+
+
+THE SECTOR CARDS
+
+The sector cards are used to indicate which sector a fleet has departed from. They have a letter - A through L - and are double sided with one side being Red and one side being Yellow. 
+
+
+
+THE LEADER CARDS
+
+Each player has a deck of leader cards, which they will draw 7 from for the game. These represent leaders of your fleets and are used to modify combat strength as well as provide special abilities. 
 
 After you play your last card, immediately re-draw every card previously played except for the very last one. In this way, you never run out of cards.
 
 
 
-THE STRATEGIC OBJECTIVES/WINNING THE GAME
+THE STRATEGIC OBJECTIVE CARDS
 
-These cards are placed face up on the table. They have tasks on them that each player must work towards in order to win the game. Multiple players can claim the same objective.
+During play these cards will be placed face-up on the table. On them are tasks that players must complete in order to win the game. Each objective may be completed by multiple players.
 
-After each player has had a turn, check the Strategic Objectives. If any player has claimed at least 2 Objectives and has more than any of their opponents, that player wins.
+
+
+WINNING THE GAME
+
+A player wins the game when he or she claims 3 Strategic Objectives.
 
 
 
 GAME SETUP
 
-Each player chooses a colour. Take 15 ships and place them around your Home Star. Give each player a set of 7 Combat Cards.
+Each player chooses a colour. Take 15 ships and place them around your Home Star. Each player shuffles their Leader deck and draws 7 cards from it. Set the rest of the deck aside, it is not used again.
 
-Place all of the Strategic Objective cards face up on the table.
+Shufflt the Objective deck and deal 1 card to each player. Deal 1 card face-up on the table.
 
 If playing with 3 players, use Home Stars Regulus and Antares, but make Mira (D-red) the third Home Star. Algol and Pavo become normal non-Home Stars.
 If playing with 2 players, use Home Stars Algol and Antares. Pavo and Regulus become normal non-Home Stars.
@@ -59,9 +71,9 @@ GAME TURN
 On your turn:
 
 1. If it is a production turn, produce ships. 
-2. Move all warp tokens a single square forward.
-3. Perform all departures using available warp tokens.
-4. Any number of warp tokens may arrive at a destination star.
+2. Move all fleets a single square forward.
+3. Perform all departures.
+4. Any number of fleets may arrive at a destination star.
 5. Perform any battles.
 6. Claim strategic objectives.
 
@@ -71,7 +83,7 @@ The turn moves around the board clockwise. After every player has had a turn, ch
 
 PRODUCING
 
-New ships are produced on every second turn. New ships may only be produced at your starting Home Star.
+New ships are produced on every second turn. New ships may produced at any star you occupy that has both a + and a O resource.
 
 Count the number of +, O pairs on planets that you possess. For each complete pair, you produce 1 ship.
 
@@ -79,15 +91,19 @@ Count the number of +, O pairs on planets that you possess. For each complete pa
 
 MOVING WARP TOKENS
 
-Move all warp tokens a single square forward. Any warp tokens that move past the last warp square are lost in space and are destroyed.
+Move all fleets a single square forward. Any fleets that move past the last warp square are lost in space and are destroyed. A fleet assigned to a fleet that moves past the last warp square is removed from the game.
 
 
 
 DEPARTURES
 
-Take any number of ships around a star and place them on a warp token. Put a red or yellow peg into the lettered whole on that warp token, denoting the departure sector. Place the warp token on the entry space on the hyperspace track.
+Take any number of ships around a star and place them on the hyperspace entry space. This is a fleet. Fleets are grouped and may not split up or group up with another fleet.
 
-If the departure star and arrival star are both in the same sector, the journey happens immediately, but still uses a warp token for the turn.
+You may never have more than 4 fleets in warp at once.
+
+You may assign one of your leaders to a departing fleet. Place the card face-down under the fleet. That leader may not leave the fleet while it is in warp.
+
+If the departure star and arrival star are both in the same sector, the journey happens immediately, but still uses one of your maximum warps for the turn.
 
 
 
@@ -99,9 +115,11 @@ Start at the departure sector - this is "0". Count sectors until you reach (and 
 	- You may never make more than one horizontal and one vertical turn.
 	- You may not backtrack.
 
-Your warp token must be at the number on the hyperspace track corresponding to this count of sectors.
+Your fleet must be at the number on the hyperspace track corresponding to this count of sectors.
 
-Take all of the ships from the warp token and place them on a single star in that sector. All ships from a single warp token must travel to the same star. 
+Take all of the ships from the hyperspace square you are arriving from and place them on a single star in that sector. All ships in a single fleet must travel to the same star. 
+
+If there is a leader in the fleet, and no battle occurs, take the leader card and put it back into your hand.
 
 
 
@@ -110,7 +128,7 @@ COMBAT
 If your ships occupy a star also occupied by an enemy, a battle will occur. A battle is performed in a sequence of 6 steps. Each set of steps is a round. Each step is a phase.
 
 1. Count total fleet sizes
-2. Select and resolve combat cards
+2. Resolve leader cards
 3. Determine victor
 4. Resolve losses
 5. Retreats
@@ -118,31 +136,37 @@ If your ships occupy a star also occupied by an enemy, a battle will occur. A ba
 
 The Defender is the fleet that occupied the star at the start of the turn. Every other fleet is the Attacker.
 
+If a player is Defender in multiple combats in a single turn, that player chooses the order to resolve each combat in.
+
 COUNT FLEET SIZES
 
 You and your opponent count the number of ships on each of your sides. Include all fleets that have arrived at this star this turn. This count is your Fleet Strength.
 
-SELECT COMBAT CARDS
+RESOLVE LEADER CARDS
 
-You and your opponent each select a combat card from your hand. This selection is secret.
+The Defender may select a leader card from their hand to be used in the battle. If the Attacker had a leader assigned to their fleet, that leader's strength and text ability is used in this battle. The Attacker may not use a leader card from their hand.
 
-Reveal your combat card selections at the same time and then resolve any text abilities, with the attacker resolving first.
+Reveal your leader cards at the same time and then resolve any text abilities, with the Attacker resolving first.
 
 DETERMINE VICTOR
 
-Add your Fleet Strength to the Strength of your combat card. The player with the higher total is the victor of this combat.
+Add your Fleet Strength to the Strength of your leader card. The player with the higher total is the victor of this combat.
+
+If there is a tie, there is no victor for this round. 
 
 RESOLVE LOSSES
 
 The victor of the combat chooses a number between 0 and the number of ships in the losers fleet. The loser of the combat loses this many ships. The victor of the combat loses this many ships minus 1.
 
-RETREATS
+WITHDRAWAL
 
-The loser chooses whether to retreat any number of ships from their fleet. If there are no enemy ships remaining, the victor may choose to retreat any number of ships from their fleet after the loser has chosen.
+The loser chooses whether to withdraw any number of ships from their fleet. If there are no enemy ships remaining, the victor may choose to withdraw any number of ships from their fleet after the loser has chosen.
 
-Combat cards are discarded.
+If the round was a tie, the defender chooses first whether to withdraw or not.
 
-Each retreating fleet is put onto a warp token and placed on the hyperspace path at the entry space. If the player has no warp tokens, they may not choose to retreat. A player may not retreat their fleet to another star in the same system.
+Leader cards used this round are discarded.
+
+Each withdrawing fleet is placed on the hyperspace path at the entry space. If the player already has their maximum number of fleets in hyperspace, they may not retreat. A player may not withdraw their fleet to another star in the same system.
 
 FIGHT AGAIN
 
@@ -152,7 +176,9 @@ If there are ships from enemy fleets still occupying a star, start a new combat 
 
 CLAIM STRATEGIC OBJECTIVES
 
-Check if you have completed any of the Strategic Objectives this turn. If you have, put one of your ship tokens onto the card for that Objective.
+Claim Strategic Objectives by completing the task on the card, and then placing one of your ship tokens on it.
+
+If you have completed the Strategic Objective in your hand, place it face-up on the table and claim it. Any player may claim this Objective on his or her turn, in addition to any others already on the table. Draw a new Objective into your hand.
 
 
 
@@ -166,5 +192,5 @@ Your Home Star is an exception. You occupy this even if you have no ships around
 
 LOSS OF A HOME STAR
 
-If you do not occupy your Home Star you may not claim Strategic Objectives. If you do not occupy your Home Star, you may produce at another planet you occupy that contains both a + and a O resource.
+If you do not occupy your Home Star you may not claim Strategic Objectives.
 

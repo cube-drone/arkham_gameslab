@@ -1,0 +1,63 @@
+DRAFT 2:
+	- Clarify: When you empty your hand of leader cards, you immediately re-draw all of your discards except the last card played.
+	- Clarify: Multiple people can claim the same objective.
+	- UI: Purchased small wooden blocks for ships, created sector and production cards.
+	- UI: Changed War Preparations to "Produce 6" instead of "Produce 10"
+	- UI: Added a Production/Non-production Card
+	- UI: Added double-sided Sector cards
+	- UI: Removed "warp tokens" as a game piece. Rules now reference "fleets", fleets may not split up or group with other fleets.
+	- Rule: You can now produce at any star having both +O. This brings fleets further out into the galaxy, and cleans up the loss of Home Star rule.
+	- Rule: Indicated that the last hyperspace warp square is 6
+	- Rule: Changed Combat Cards to Leader Cards and that you draw 7 at the start of the game
+	- Rule: Can't look at other players cards anymore.
+	- Rule: Draw an objective, place 1 on the table. You can complete objectives from your hand and place them on the table, allowing others to claim them.
+	- Rule: Winning the game now occurs immediately when a player claims 3 objectives.
+	- Rule: Assign a leader to a fleet. Attacker uses this card, while Defender chooses one from their hand before seeing the Attacking card. A leader assigned to a fleet that moves past the last warp square is removed from the game.
+	
+	
+
+DRAFT 1:
+Needs more warp tokens?
+	- unlimited, or some larger limited number?
+		- limited number means you need to have one available for retreating fleets
+	- Should be able to have more than 2 fleets in warp at once.
+	- This would encourage smaller fleets.
+	- Makes motion more easy
+		- which will make taking a planet easier
+		- which puts more emphasis on defense?
+	- "one departure of any kind per turn"? That sounds not useful.
+		- coordination of attacking fleets is unnecessarily cumbersome
+	- start warp tokens at "0". Count your warp movement starting just outside of your starting system.
+	
+Needs new combat mechanics badly
+	- use Game of Thrones cards for combat?
+		- provides bluffing and potentially special abilities
+		- cycle through cards as in GoT
+	- retreating fleets must be put onto a warp token. If you don't have any the fleet is destroyed.
+	- should be allowed to retreat fleet, but with a penalty. Maybe draw another combat card?
+	- attacker chooses how many ships to kill, and they also lose that many -1.
+	
+- Combat cards abilities:
+	- something "throw away" for fleets that are definitely going to lose
+	- support abilities for near by fleets and/or planets/production
+	- prevent something good/bad from happening
+	- Ignore your opponents strength/text ability
+	- "If you win this battle"/"If you lose this battle"
+	- Increase power of each ship in fleet
+	- cards with just strength on them as well
+	
+What is the victory condition?
+- I want multiple ways to win.
+	- EA goals? Have at least 2 and more than your opponent.
+		- Have no enemy fleets on either of your objective stars at the start of the 10th turn.
+			- I don't want to keep track of turns. :(
+	- combined with hidden ship movement, this could be to much calculation
+		- but what if goals were accumulated?
+		- Both stars in sector containing Home Star are objective stars.
+		
+"Player losing their home star cannot produce more ships"
+	- need better penalty than this...this is to harsh.
+	- can produce at another star that has a human population
+	- can't win the game
+		- can't get "VP"s?
+		

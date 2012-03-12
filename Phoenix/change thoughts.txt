@@ -1,47 +1,19 @@
-Change notes:
-	- Clarify: When you empty your hand of combat cards, you immediately re-draw all of your discards except the last card played.
-	- Clarify: Multiple people can claim the same objective.
-
-THOUGHTS FROM PLAY 1:
-- Space Dutch!
-
+PRIORITY:
 UI:
-	- Need a tracking card for production
-	- Small coloured pegs+small ships == problem
-		- deck of sectors double sided R/Y, plus a few extra for Home Stars
 	- home star tokens/flags
 
 New rules:
-	- what happens if its a production turn and you have no +O worlds?
-	- rename "Retreat" to something else for the victor of battle - it isn't a retreat.
-	- what happens if there is a combat tie?
-	- what happens if you hit 7? This is beyond where you can move in these rules.
-	- all leader cards have abilities
-		- could be discarded from fleet for ability
-	- all strengths between races should be the same
-		- ie. not some with 0 and some with 7
-		- balance powers across race...hopefully
-	- optionally assign a leader to a moving fleet. He stays with that fleet. If he goes off the end, he's gone. When he is used on an attack, he goes into the discard pile.
+	- balance powers across race
 	- more leaders
-		- big deck that you draw from
-		- draw 7 at the start of the game
-		- can't look at other peoples hands anymore
 		- "move fleet forward 2"
-	- when you get 3 objectives, you just win
-	- "10 production" objective is to hard
+		- "can split fleet"
+		- could be discarded from fleet to gain ability
 	- big deck of objectives:
-		- 1 public, 1 in each players hand.
-		- when you qualify for the one in your hand, you play it and then everyone else can qualify for it too. Draw a new objective.
 		- "control 2 planets in E"
 		- "control 3 +'s" or O's
 		- "control 4 in connected sectors"
 		- "successively lose 5 battles"
 		- "control entire non-home sector"
-	- defender chooses order of battles when multiple in turn.
-		
-		
-
-PRIORITY:
 
 
 
@@ -81,7 +53,6 @@ Alliances
 GARBAGED THOUGHTS (but could still be recycled...):
 - defender loses half their ships, attacker loses that many - 1
 - possible dice rolling addition, but I don't like it: roll for every ship, add up total, bigger fleet destroys smaller fleet
-- combat cards could have "kill 1 ship" "defend 1 ship" on them, ala GoT
 - Combat cards - a deck of cards drawn before each combat to affect it?
 		- friendly fire
 		- asteroid fields
@@ -95,52 +66,3 @@ GARBAGED THOUGHTS (but could still be recycled...):
 - Idea from another page: If your home star is captured, the conquering player immediately gains your Class 2, 4, and 5 Technology, which you also retain. 
 	Any Class 3 Technologies you have the conqueror may acquire at half cost (rounding up). 
 - your fleets must all return to your Home Star and the capturing fleet is immediately warped to one sector away, of their choice
-
-
-
-WRITTEN ALREADY:
-
-Needs more warp tokens?
-	- unlimited, or some larger limited number?
-		- limited number means you need to have one available for retreating fleets
-	- Should be able to have more than 2 fleets in warp at once.
-	- This would encourage smaller fleets.
-	- Makes motion more easy
-		- which will make taking a planet easier
-		- which puts more emphasis on defense?
-	- "one departure of any kind per turn"? That sounds not useful.
-		- coordination of attacking fleets is unnecessarily cumbersome
-	- start warp tokens at "0". Count your warp movement starting just outside of your starting system.
-	
-Needs new combat mechanics badly
-	- use Game of Thrones cards for combat?
-		- provides bluffing and potentially special abilities
-		- cycle through cards as in GoT
-	- retreating fleets must be put onto a warp token. If you don't have any the fleet is destroyed.
-	- should be allowed to retreat fleet, but with a penalty. Maybe draw another combat card?
-	- attacker chooses how many ships to kill, and they also lose that many -1.
-	
-- Combat cards abilities:
-	- something "throw away" for fleets that are definitely going to lose
-	- support abilities for near by fleets and/or planets/production
-	- prevent something good/bad from happening
-	- Ignore your opponents strength/text ability
-	- "If you win this battle"/"If you lose this battle"
-	- Increase power of each ship in fleet
-	- cards with just strength on them as well
-	
-What is the victory condition?
-- I want multiple ways to win.
-	- EA goals? Have at least 2 and more than your opponent.
-		- Have no enemy fleets on either of your objective stars at the start of the 10th turn.
-			- I don't want to keep track of turns. :(
-	- combined with hidden ship movement, this could be to much calculation
-		- but what if goals were accumulated?
-		- Both stars in sector containing Home Star are objective stars.
-		
-"Player losing their home star cannot produce more ships"
-	- need better penalty than this...this is to harsh.
-	- can produce at another star that has a human population
-	- can't win the game
-		- can't get "VP"s?
-		

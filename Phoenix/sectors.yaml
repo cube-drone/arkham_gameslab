@@ -1,10 +1,50 @@
 Eat Wierd UTF Error: "Yeah, you should totally do that." 
 Title: "Sector" 
 A-Red:
-    Quantity: 1
+    Quantity: 3
 A-Yellow:
-    Quantity: 1
+    Quantity: 3
 B-Red:
     Quantity: 1
 B-Yellow:
+    Quantity: 1 
+C-Red:
+    Quantity: 3
+C-Yellow:
+    Quantity: 3
+D-Red:
     Quantity: 1
+D-Yellow:
+    Quantity: 1 
+E-Red:
+    Quantity: 1
+E-Yellow:
+    Quantity: 1
+F-Red:
+    Quantity: 1
+F-Yellow:
+    Quantity: 1 
+G-Red:
+    Quantity: 1
+G-Yellow:
+    Quantity: 1
+H-Red:
+    Quantity: 1
+H-Yellow:
+    Quantity: 1 
+I-Red:
+    Quantity: 1
+I-Yellow:
+    Quantity: 1
+J-Red:
+    Quantity: 3
+J-Yellow:
+    Quantity: 3 
+K-Red:
+    Quantity: 1
+K-Yellow:
+    Quantity: 1
+L-Red:
+    Quantity: 3
+L-Yellow:
+    Quantity: 3 
