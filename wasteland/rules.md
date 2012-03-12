@@ -6,7 +6,7 @@ INTRO
 
 The end has come and gone.  After a century of infinite growth, everything has come full circle.
 
-There is no food. There is no power. The few people who are left squabble over scraps.  
+There is little food. There is no power. The few people who are left squabble over scraps.  
 
 A small group of survivors have banded together and formed a settlement.
 
@@ -16,18 +16,18 @@ The man's small settlement had been destroyed by a band of marauders, hundreds s
 
 The survivors weren't going anywhere.  They had made a home here. They were going to stand and fight.  
 
-They needed to build a fortress. They had 1 week. 
+They needed to build a fortress. They had a week. 
 
 SUPPLY
 -----
 
-- Emplacement Deck ( Represending locations that your Survivors must capture and defend )
-- Survivor Deck ( Representing your Survivors ) 
-- Common Salvage Deck ( Representing useful items your Survivors will accumulate )
-- Rare Salvage Deck ( Represing very useful items your Survivors will accumulate ) 
-- Crisis Deck ( Representing awful things that happen while you explore. ) 
-- Catastrophe Deck ( Representing awful things that happen at night. ) 
-- Mutation Deck ( Representing awful things that happen when you are too irradiated )
+- Location Deck ( Locations that your Survivors must capture and defend )
+- Survivor Deck ( Your Survivors ) 
+- Common Salvage Deck ( Useful items your Survivors will accumulate )
+- Rare Salvage Deck ( Very useful items your Survivors will accumulate ) 
+- Crisis Deck ( Bad things that happen while you explore. ) 
+- Catastrophe Deck ( Awful things that happen at night. ) 
+- Mutation Deck ( Things that happen when you are exposed to too much radiation. )
 - Survivor Tokens
 - First Player Trophy
 - 4 Piles of Dice, in 4 Different Colours
@@ -37,56 +37,52 @@ WIN/LOSE
 
 This is a limited co-operative game.  Players win by staying alive for 7 days. 
 
-All players lose if no Survivors remain alive, or if every Emplacement in the Settlement is destroyed. 
+All players lose if no Survivors remain alive, or if every Location in the Settlement is destroyed. 
 
 GAME START
 ----------
 
 - The last person to have killed a person with his bare hands gets the First Player's Trophy.
     - In the (admittedly likely) case of a tie, choose the first player with a die roll. 
-
 - All players receive a choice of two Survivor Cards. 
-    - The chosen Survivor Card is placed in front of the player. 
-
+    - The Survivor Card is placed in front of the player. 
 - All players recieve 2 Common Salvage Cards. 
     - The Common Salvage Cards compose the player's hand. 
 
 - Put the Starting Emplacements in play, in the center of the table. 
     - They say "Starting" on them.
-    - Shuffle the rest of them, and place their deck face-down somewhere.
+    - Shuffle the remainder of the Emplacements
 
 - Shuffle all remaining decks and place them face down, near the play area. 
 
 - Create a deck-sized hole next to the Stockpile Emplacement. This is the "Stockpile". Put 3 Common Salvage in the Stockpile.  
 
-- Put a Super Catastrophe into play, Phase 1, Phase 2, and Phase 3, all face-down. 
+- Put a Super Catastrophe into play, Phase 1, Phase 2, and Phase 3, all face-up. 
 
 - Next to the Super Catastrophe, play 6 face-down Catastrophe cards, next to one another.  These compose the players' week. 
-
-- Flip the first Catastrophe of the week face-up. 
 
 DAY
 ---
 
 - A game day consists of phases: 
 
-1. EMPLACEMENT
+1. SETTLEMENT
 2. EXPLORATION
 3. CATASTROPHE
 4. HUNGER
 5. STOCKPILE
 
-### EMPLACEMENT ###
+### SETTLEMENT ###
 - The Round begins.
 - Reveal today's Catastrophe card. Read it aloud.
-- Each player, starting from the First player, chooses and resolves an Emplacement. 
-- An Emplacement cannot be resolved twice in the same turn. 
+- Each player, starting from the First player, chooses and resolves a Location. 
+- A Settlement cannot be resolved twice in the same turn. 
 
 #### WASTELAND ####
-- The "Wasteland" is not really an Emplacement and should not be treated as such.
+- The "Wasteland" is not really a Location and should not be treated as such.
 - Mutiple players can use the Wasteland in a turn.
 - The "Wasteland" cannot be destroyed.
-- If the Wasteland is the only remaining emplacement, all players lose. 
+- If the Wasteland is the only remaining location, all players lose. 
 
 ### EXPLORATION ###
 
@@ -117,7 +113,7 @@ DAY
 - First the player will choose any weapons that he will use in the combat. The player is now committed to use all of these weapons, regardless of outcome.
 - The player now rolls a die and adds any weapon modifiers to that die.
 - If the number is greater than or equal to the Combat's difficulty, the player wins! 
-- Roll to keep weapons used in combat. 
+- Also, the die roll is used to determine the condition of some weapons.
 - Weapons played in combat are 'used' for the rest of the turn. They return to the player's hand in the Stockpile phase. 
 
 ### CATASTROPHE ###
@@ -125,14 +121,13 @@ DAY
 
 ### HUNGER ###
 - Each player, starting from the first player, gets one opportunity to play food cards. 
-- At the end of the round, each player must have produced 1 Food for his survivor. 
-- If a player produces more food than his survivors can eat, he can choose which player gets the surplus.
+- At the end of the round, each Survivor must have consumed 1 Food. 
+- If a player produces more food than his Survivor can eat, he can choose which player gets the surplus.
 - Any food generated by a card that is not consumed by the end of the turn is discarded. 
 - Any player without 1 food at the end of the turn takes 1 Injury Die. 
 
 ### STOCKPILE ###
-- Return any played cards to your hand. 
-- Players may trade cards. ( _only_ during the Stockpile phase.) 
+- Players may trade cards _only_ during the Stockpile phase. 
 - Each player has a hand-limit of 7 cards, including Mutations. If this hand limit is exceeded, the extra Salvage goes to the Stockpile.
 - The First Player Trophy passes to the left of the First Player. 
 
@@ -145,7 +140,7 @@ ROLLS
 - On a pair of Trauma Dice, discard a Salvage at random.
 - On a pair of Injury Dice, gain a Trauma die  
 - On a pair of Salvage Dice, gain a Rare Salvage
-- On a three-of-a-kind of any color, gain another die of that color without triggering a re-roll. 
+- On a three-of-a-kind of any color, gain another die of that color without triggering a re-roll. On Salvage Dice, the player may elect to take a Rare Salvage instead.
 - On a four-of-a-kind of Radiation, Trauma, or Injury, you die. 
 - On a four-of-a-kind or better of Salvage Dice, you gain 1 Rare Salvage and re-roll. 
 
@@ -155,7 +150,7 @@ DEATH
 -----
 - Should a Survivor die, that Survivor's Salvage cards are placed in the Stockpile. 
 - The Survivor's dice are discarded. 
-- The dead survivor chooses an emplacement to damage. 
+- The dead survivor chooses a Location to damage. 
 
 TRASH, STOCKPILE, or PLAY
 -------------------------
@@ -172,3 +167,9 @@ SHARED COMBAT
 - All players flip their weapons simultaneously.
 - Every player rolls. The total of all player rolls and all weapons must meet or exceed the Shared Combat's difficulty to pass.
 
+LOCATIONS
+---------
+Locations may be damaged during play.
+
+- Starting locations are considered permanent and are rendered unusable for one turn. If the Stockpile is damaged, all Salvage within is Trashed and no new Salvage may be placed for one full day. 
+- Locations added during play are considered temporary and are removed from play when damaged.
