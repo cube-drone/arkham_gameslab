@@ -49,13 +49,13 @@ GAME START
 - All players recieve 2 Common Salvage Cards. 
     - The Common Salvage Cards compose the player's hand. 
 
-- Put the Starting Emplacements in play, in the center of the table. 
+- Put the Starting Locations in play, in the center of the table. 
     - They say "Starting" on them.
-    - Shuffle the remainder of the Emplacements
+    - Shuffle the remainder of the Locations
 
 - Shuffle all remaining decks and place them face down, near the play area. 
 
-- Create a deck-sized hole next to the Stockpile Emplacement. This is the "Stockpile". Put 3 Common Salvage in the Stockpile.  
+- Create a deck-sized hole next to the Stockpile Location. This is the "Stockpile". Put 3 Common Salvage in the Stockpile.  
 
 - Put a Super Catastrophe into play, Phase 1, Phase 2, and Phase 3, all face-up. 
 
@@ -93,12 +93,12 @@ DAY
     - On a three-of-a-kind, add a Catastrophe to today's exploration alongside the extra Salvage Die.
 
 #### NEW EMPLACEMENT ####
-- If a player has chosen the Outpost Emplacement, he draws 3 cards from the top of the Emplacement Deck, chooses one, and adds it to the settlement.
+- If a player has chosen the Outpost Location, he draws 3 cards from the top of the Location Deck, chooses one, and adds it to the settlement.
     - Discard the other settlement.
-- If there is no player on the Outpost, draw the top Emplacement and add it to the the settlement. 
+- If there is no player on the Outpost, draw the top Location and add it to the the settlement. 
 
 #### CRISES ####
-- If a player has chosen the Scout Emplacement, he:
+- If a player has chosen the Scout Location, he:
     - draws one Crisis card for each player
     - draws one extra Crisis card
     - discards one Crisis card
