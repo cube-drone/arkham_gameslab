@@ -14,8 +14,8 @@ Dr Max Health MD:
         It wasn't long before Anthony began to disappear into his character..." 
 Jai Jayendra: 
     Profession: "Martial Arts Enthusiast / Cashier" 
-    Once Per Day: "<em>Human Weapon</em>: 1 Weapon. " 
-    Once Per Game: "<em>Human Typhoon</em>: 5 Weapon. " 
+    Once Per Day: "<em>Human Weapon</em>: 2 Weapon if not using any other weapons."
+    Once Per Game: "<em>Human Typhoon</em>: 5 Weapon. Take an Injury Die. " 
     Weakness: "<em>Human Catastrophe</em>: Whenever Jai would roll Injury die, instead roll twice. "
     Flavor: "Jai was a cashier. <br/>
         She hated her job.  Day in, day out, beep. Beep. Beep. That'll be twelve ninety two.  <br/>
@@ -52,7 +52,7 @@ Naoki Urasawa:
 Rodrigo Gabriel: 
     Profession: "Salvager/Survivalist"
     Once Per Day: "<em>Found</em>: Rodrigo can draw a Salvage Die and an Injury Die, or give another player a Salvage Die and an Injury Die"
-    Once Per Game: "<em>Restock</em>: Make a Salvage roll and add it to your hand." 
+    Once Per Game: "<em>From a Place of Pain</em>: Add your Injury die to your Salvage die, and make a Salvage roll. " 
     Weakness: "<em>Honest</em>: Rodrigo refuses to steal cards or give away dice. If Rodrigo would give away a new die, instead take that die."
     Flavor: "Rodrigo didn't particularly like the city.  He enjoyed being far, far away from civilization.  
     All he needed was a knife and a soft place to sleep, and he was as happy as a pig in a poke. <br/> 
@@ -96,8 +96,8 @@ Krazy Karl Danvers:
     Title: "'Krazy' Karl Danvers"
     Profession: "BMX Stunt Racer / Bicycle Messenger"
     Once Per Day: "<em>Full Throttle</em>: Visit one additional Location after all players have completed their Settlement phase. Make an Injury roll."
-    Once Per Game: "<em>'Watch This!'</em>: All players may skip their next Trauma roll."
-    Weakness: "<em>One Stunt Too Many</em>: Karl starts with 1 Injury die."
+    Once Per Game: "<em>'Watch This!'</em>: Roll all of your die. Gain a Rare Salvage for every six rolled."
+    Weakness: "<em>One Stunt Too Many</em>: Karl starts the game with 1 Injury die."
     Flavor: "'Krazy' Karl Danvers earned his nickname by jumping a car on his BMX when he was 10 years old. He never looked back from that day.<br/>
     When he was 25 and still zooming around dirt tracks, his mother decided it was time he got a real job, but Karl wouldn't budge. 
     While good enough for the local circuit, he could never quite break into the big time.
@@ -106,34 +106,25 @@ Krazy Karl Danvers:
 Buddy:
     Profession: "Six-String Samurai"
     Once Per Day: "<em>Wasteland Wanderer</em>: Roll 1 less Radiation die on a Radiation roll."
-    Once Per Game: "<em>'If You Scratch My Guitar, I'll Kill You'</em>: Pass any Combat Crisis."
-    Weakness: "<em>'Damn Kid'</em>: Buddy will not Trash an Ally, but can Trade an Ally if he receives an Ally in return."
+    Once Per Game: "<em>'Trust Me, I'll be Huge Someday'</em>: You must discard 2 Mutations. Search the Mutation deck for the '50 Feet Tall', 'Incredible Strength' and 'Mending Bones' mutations and put them into play."
+    Weakness: "<em>'Damn Kid'</em>: Buddy will not Trash or Stockpile an Ally, but can Trade an Ally if he receives an Ally in return."
     Flavor: "Buddy has a gig in Vegas. He's going to be the next King of Rock and Roll. <br/>
     And no one had better mess with him until he does. He just didn't count on The Kid tagging along for the ride.<br/>
-    Buddy' not entirely sure how it happened, but The Kid has grown on him. Well, not like a tumor or anything..."
+    Buddy's not entirely sure how it happened, but The Kid has grown on him. Well, not like a tumor or anything..."
 Angela Garmin:
     Profession: "Thief"
-    Once Per Day: "<em>Sticky Fingers</em>: Take 1 Common Salvage, at random, from the player with the most Salvage."
+    Once Per Day: "<em>Sticky Fingers</em>: Take 1 Salvage, at random, from the player with the most Salvage."
     Once Per Game: "<em>Robbing Them Blind</em>: Take any 3 cards from the Stockpile."
-    Weakness: "<em>Guilty Conscience</em>: Whenever Angela is given cards by another player - either during the Stockpile phase or from a Stockpile effect - she must give at least one card back. If Angela has no cards in hand, she cannot be given cards."
+    Weakness: "<em>Don't Touch My Ham!</em>: Whenever Angela steals a card that produces 1 Food, instead, she steals nothing and takes an Injury die." 
     Flavor: "Angela Garmin is no stranger to getting herself out of sticky situations...it's just that she's usually the one to cause them.<br/>
     The Great Catastrophe though...that was new. She tried going back to the life after the shock wore off, but then she seemed like every other scrounger and scaveneger out there.<br/>
     Trying to fit in with other survivors didn't work either: she was either caught with her hand in a cookie jar or, sometimes, treated with such kindness that she couldn't help but empty her pockets.<br/>
     Angela's not sure if she wants to hook up with other survivors again, but given the choice between dealing with people or starving on her own, it's an easy choice."
-Sargeant Douglas Rogers:
-    Title: "Sgt. Douglas Rogers"
-    Profession: "Paramilitary"
-    Once Per Day: "<em>Combat Training</em>: +2 Weapon if not using any weapons."
-    Once Per Game: "<em>Berserker</em>: +5 Weapon. Take an Injury die."
-    Weakness: "<em>Unbalanced</em>: Douglas starts with 1 Trauma die."
-    Flavor: "Drummed out of the special forces for insubordination. Quickly let go from a merc group for making too much mess. Sacked from a bodyguard job for excessive force and assault charges.<br/>
-    The sheet on Douglas Rogers is filled with black marks. But none blacker than having no options left but to join a paramilitary force patrolling the Arizona-Mexico border for illegals.<br/>
-    When the bombs fell, Douglas realized he had a fresh start. And every time he cut down some raider or mutant, he felt like he was hacking away a piece of his past."
 Honest Herb Truman:
-    Title: "'Honest' Hal Truman"
+    Title: "'Honest' Herb Truman"
     Profession: "Used Car Salesman"
-    Once Per Day: "<em>Fast Talker</em>: During a Combat Crisis against Marauders or Raiders, Trash 1 Salvage and roll a die. On a 4-6, ignore the Crisis."
-    Once Per Game: "<em>Caravan</em>: Using the Stockpile, Herb may exchange Common Salvage for Rare Salvage at 3:1 and visa-versa. Gained cards are placed in the Stockpile and may not be exchanged again."
+    Once Per Day: "<em>Fast Talker</em>: Herb can make a combat check using food instead of weapons. Food and Weapons cannot be combined in the same check. "
+    Once Per Game: "<em>Caravan</em>: Herb can go through the entire Stockpile, exchanging Common Salvage for Rare Salvage at 3:1 and visa-versa. Gained cards are placed in the Stockpile and may not be exchanged again."
     Weakness: "<em>Big Eater</em>: Herb may not give away food and does not generate surplus food."
     Flavor: "Hal Truman loved his cars. The only thing he loved more was Snacky Cakes and, thanks to his successful used auto dealership, he had been surrounded by both.<br/>
     His cars are all gone. They're all burnt-out husks of their former selves. And if he doesn't find any more of his beloved Cakes, so will Hal.<br/>
@@ -150,20 +141,31 @@ Coach Herschel Martin:
     Profession: "Football Coach"
     Once Per Day: "<em>'You Hit Like a Girl'</em>: Add +1 Weapon to any other player's combat. That player makes a Trauma roll."
     Once Per Game: "<em>Hail Mary</em>: Add +3 Weapon to any 3 separate Combat Crises this phase."
-    Weakness: "<em>Armchair Quarterback</em>: Cannot use Grenades or other thrown weapons."
-    Flavor: "Herschel Martin has dreams. Nightmares. The sound of bone crunching still wakes him at night long after the bones have healed.<br/>
+    Weakness: "<em>Armchair Quarterback</em>: If the Coach tries to throw a Grenade or Improvised Explosive, take 3 Injury Die (Grenade) or 5 Injury Die (Improvised Explosive)."
+    Flavor: "Herschel Martin had dreams. They called him \"The Hershey Bar\" when he played college ball - because he was big, chocolatey, and he always hit the spot. <br/>
+    Now he has nightmares. The sound of bone crunching still wakes him at night long after the bones have healed.<br/>
     His shoulder still doesn't work right, but he knows he's got a few good tosses left in him. He's got a couple grenades in a satchel just in case the scouts are watching.<br/>
     Until then, he tries to keep everyone else focused on the job at hand and no time to pity a never-was."
 Vladimir Konroyd:
     Profession: "Handyman / Substitute High School Shop Teacher"
-    Once Per Day: "<em>Duct Tape</em>: May add 1 to a die roll to determine the condition of a single weapon."
-    Once Per Game: "<em>Roll of Duct Tape</em>: "Use any weapon to add 5 weapon to another weapon. Trash both weapons at the end of the combat."
+    Once Per Day: "<em>Duct Tape</em>: May add 1 to a die roll for the purpose of determining the condition of a single weapon. This does not affect the combat value of the roll."
+    Once Per Game: "<em>Roll of Duct Tape</em>: Use any weapon to add 5 weapon to another weapon. Trash both weapons at the end of the combat."
     Weakness: "<em>Sight of His Own Blood</em>: Whenever Vladimir makes an Injury roll, he also makes a Trauma roll."
     Flavor: "'Vlad the Impaler' they called him. He always claimed it was the pain that made him pass out, but the kids knew it was the blood.<br/>
     He'd became a handyman as a way to face his fears, but he gotten good enough that he almost never hurt himself.<br/>
     But that was with power tools. All sorts of things were out for his blood now."
+Shaun McMurtry:
+    Profession: "Short-order Cook / Ex-Mob Hitman"
+    Once Per Day: "<em>Hash-Slinger</em>: Play X food to produce X+1 food."
+    Once Per Game: "<em>Just Like the Old Days</em>: Pass a Combat Crisis."
+    Weakness: "<em>The Past Catches Up</em>: Whenever fighting Marauders or Raiders, increase the Difficulty by 2."
+    Flavor: "Sean McMurtry never played well with others. Maybe that's why he was so good at killing them. Not that anyone needed to know that.<br/>
+    Most of the boys only knew him as the guy who slung the hash at the diner. It was easier that way. No connections, no problems.<br/>
+    But he got bored and wanted out, so he made a hole through a good chunk of the south side. <br/>
+    Some of the old gang are still around, running with raiders and the like. So are the rumors. They still talk about the guy who broke more than just eggs."
 Patrica Walker:
     Profession: "Therapist"
+    Noprint: "I think her Once Per Day is too powerful for the entire group. She could always trade everyone's salvage back to them at the end of the day. Loewenstien... Loewenstein...."
     Once Per Day: "<em>'I Charge on a Sliding Scale'</em>: Another player pays you X common salvage to ignore X Trauma dice on a Trauma roll."
     Once Per Game: "<em>'Group Hug, Everyone!'<em/>: All players discard one Trauma die."
     Weakness: "<em>Personal Demons</em>: Whenever Patricia fails a Trauma roll, she must roll again."
@@ -171,13 +173,12 @@ Patrica Walker:
     Until one day, she'd just had enough. With friends and family behind her, she got cleaned up and learned to help others do the same.<br/>
     The Great Catastrophe found her at the far end of her own road to redemption. Unfortunately for Patricia, she hasn't travelled nearly as far as she thinks.<br/>
     And old habits are hard to break."
-Shaun McMurtry:
-    Profession: "Short-order Cook / Ex-Mob Hitman"
-    Once Per Day: "<em>Feeding the Family</em>: Play X food to produce X+1 food."
-    Once Per Game: "<em>Just Like the Old Days</em>: Pass a Combat Crisis of Difficulty 9 or less."
-    Weakness: "<em>The Past Catches Up</em>: Whenever fighting Marauders or Raiders, roll a die. On a 1 or 2, increase the Difficulty by 3."
-    Flavor: "Sean McMurtry never played well with others. Maybe that's why he was so good at killing them. Not that anyone needed to know that.<br/>
-    Most of the boys only knew him as the guy who slung the hash at the diner. It was easier that way. No connections, no problems.<br/>
-    But he got bored and wanted out, so he made a hole through a good chunk of the south side. <br/>
-    Some of the old gang are still around, running with raiders and the like. So are the rumors. They still talk about the guy who broke more than just eggs."
+Sergeant Douglas Rogers:
+    Title: "Sgt. Douglas Rogers"
+    Noprint: "Having moved Sgt. Rogers abilities to Jai, he has been made redundant, but keeping his flavor text for later."
+    Profession: "Paramilitary"
+    Weakness: "<em>Unbalanced</em>: Douglas starts with 1 Trauma die."
+    Flavor: "Drummed out of the special forces for insubordination. Quickly let go from a merc group for making too much mess. Sacked from a bodyguard job for excessive force and assault charges.<br/>
+    The sheet on Douglas Rogers is filled with black marks. But none blacker than having no options left but to join a paramilitary force patrolling the Arizona-Mexico border for illegals.<br/>
+    When the bombs fell, Douglas realized he had a fresh start. And every time he cut down some raider or mutant, he felt like he was hacking away a piece of his past."
     
