@@ -1,38 +1,88 @@
-Races:
-	- Berserkers
-		1. S-1 Destroy 3 of your opponents ships. 
-		2. S1 If played while you are the attacker, S3 instead.
-		3. S2
-		4. S2
-		5. S3
-		6. S4
-		7. S7 In the Resolve Losses phase of this round, destroyed an additional 5 of your ships. These losses do not count towards the Massacre Strategic Objective.
-		
-	- Turtles
-		1. S1 If you lose this round, immediately destroy 3 of your opponents ships.
-		2. S1 If played when you are the defender, S3 instead.
-		3. S2
-		4. S2
-		5. S3
-		6. S4
-		7. S4 In the Resolve Losses phase of this round, lose 5 fewer ships than normal.
-		
-	- Necrotics
-		1. S0 In the Resolve Losses phase of this round, return one of your discarded cards to your hand.
-		2. S1 During this round you may use the text ability of the combat card your opponent played.
-		3. S0 You may instead use the strength and text ability of any card that your opponent has discarded. 
-		4. S2
-		5. S3
-		6. S4
-		7. S5
-		
-	- Not Quite Beings of Light
-		1. S1 You may choose to retreat before the Resolving Losses phase.
-		2. S1
-		3. S2 You may immediately remove 1 enemy ship and replace it with your own.
-		4. S2
-		5. S2
-		6. S3
-		7. S4 If you win this battle, you may immediately Retreat.
-		
-	
+America (doppleganger/dead tech)
+1. S3
+2. S3
+3. S3
+4. S3
+5. S1 Discard from fleet to move fleet forward 1 hyperspace square.
+6. S2 Destroy 1 of your opponents ships.
+7. S6 In the Resolve Losses phase of this round, destroy an additional 3 of your ships. These losses do not count towards the Massacre Strategic Objective.
+8. S1 During this round you may use the text ability of the combat card your opponent played.
+9. S1 You may choose to withdraw before the Resolving Losses phase.
+10. S1 In the Resolve Losses phase of this round, lose 3 fewer ships than normal.
+11. S1 You may split your fleet such that ships may arrive at different stars in the same sector.
+12. S1 If played while you are the attacker, S4 instead.
+13. S1 If played when you are the defender, S4 instead.
+14. S2 If you lose this round, immediately destroy 1 of your opponents ships.
+15. S3 At any time you may remove from game to draw another leader from your deck.
+16. S3 Lost in Hyperspace: Use to immediately produce 5 ships at any planet you can produce at.
+17. S1 You may instead use the strength and text ability of any card that your opponent has discarded.
+18. S2 In the Resolve Losses phase of this round, return one of your discarded cards to your hand.
+19. S2 During this round you may use the text ability of the combat card your opponent played.
+20. S2 During this round you may use the text ability of the combat card your opponent played.
+
+Japan (swift tech)
+1. S3
+2. S3
+3. S3
+4. S3
+5. S1 Discard from fleet to move fleet forward 1 hyperspace square.
+6. S2 Destroy 1 of your opponents ships.
+7. S6 In the Resolve Losses phase of this round, destroy an additional 3 of your ships. These losses do not count towards the Massacre Strategic Objective.
+8. S1 During this round you may use the text ability of the combat card your opponent played.
+9. S1 You may choose to withdraw before the Resolving Losses phase.
+10. S1 In the Resolve Losses phase of this round, lose 3 fewer ships than normal.
+11. S1 You may split your fleet such that ships may arrive at different stars in the same sector.
+12. S1 If played while you are the attacker, S4 instead.
+13. S1 If played when you are the defender, S4 instead.
+14. S2 If you lose this round, immediately destroy 1 of your opponents ships.
+15. S3 If you win this battle, you may immediately withdraw regardless of whether or not there are enemy ships remaining.
+16. S2 When assigned to a fleet, you can have 5 fleets in warp at once.
+17. S2 You may split your fleet such that ships may arrive at different stars.
+18. S1 You may immediately remove 1 enemy ship and replace it with your own.
+19. S1 You may choose to withdraw before the Resolving Losses phase.
+20. S3 Lost in Hyperspace: Use to immediately move one fleet from one star to another star exactly 5 sectors away by Hyperspace.
+
+Russia (offensive tech)
+1. S3
+2. S3
+3. S3
+4. S3
+5. S1 Discard from fleet to move fleet forward 1 hyperspace square.
+6. S2 Destroy 1 of your opponents ships.
+7. S6 In the Resolve Losses phase of this round, destroy an additional 3 of your ships. These losses do not count towards the Massacre Strategic Objective.
+8. S1 During this round you may use the text ability of the combat card your opponent played.
+9. S1 You may choose to withdraw before the Resolving Losses phase.
+10. S1 In the Resolve Losses phase of this round, lose 3 fewer ships than normal.
+11. S1 You may split your fleet such that ships may arrive at different stars in the same sector.
+12. S1 If played while you are the attacker, S4 instead.
+13. S1 If played when you are the defender, S4 instead.
+14. S2 If you lose this round, immediately destroy 1 of your opponents ships.
+15. S3 Use: Destroy 1 of your opponents ships.
+16. S2 Destroy 3 of your opponents ships.
+17. S3 Lost in Hyperspace: Use to gain 5 Fleet Strength when you are the attacker.
+18. S2 Discard from fleet to move fleet forward 2 hyperspace squares.
+19. S2 If played while you are the attacker, S6 instead.
+20. S8 In the Resolve Losses phase of this round, destroy an additional 5 of your ships. These losses do not count towards the Massacre Strategic Objective.
+
+
+Germany (defensive tech)
+1. S3
+2. S3
+3. S3
+4. S3
+5. S1 Discard from fleet to move fleet forward 1 hyperspace square.
+6. S2 Destroy 1 of your opponents ships.
+7. S6 In the Resolve Losses phase of this round, destroy an additional 3 of your ships. These losses do not count towards the Massacre Strategic Objective.
+8. S1 During this round you may use the text ability of the combat card your opponent played.
+9. S1 You may choose to withdraw before the Resolving Losses phase.
+10. S1 In the Resolve Losses phase of this round, lose 3 fewer ships than normal.
+11. S1 You may split your fleet such that ships may arrive at different stars in the same sector.
+12. S1 If played while you are the attacker, S4 instead.
+13. S1 If played when you are the defender, S4 instead.
+14. S1 If you lose this round, immediately destroy 1 of your opponents ships.
+15. S3 Use: Lose 1 fewer ship than normal.
+16. S2 Discard from fleet to move fleet forward 2 hyperspace squares.
+17. S3 Lost in Hyperspace: Use to gain 5 Fleet Strength when you are the defender.
+18. S2 If played when you are the defender, S6 instead.
+19. S1 If you lose this round, immediately destroy 3 of your opponents ships.
+20. S2 In the Resolve Losses phase of this round, lose 5 fewer ships than normal.

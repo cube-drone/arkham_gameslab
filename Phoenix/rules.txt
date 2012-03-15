@@ -39,7 +39,9 @@ THE LEADER CARDS
 
 Each player has a deck of leader cards, which they will draw 7 from for the game. These represent leaders of your fleets and are used to modify combat strength as well as provide special abilities. 
 
-After you play your last card, immediately re-draw every card previously played except for the very last one. In this way, you never run out of cards.
+After you play your last card, immediately re-draw every card previously discarded except for the very last one. In this way, you never run out of cards.
+
+Some leader cards have "Use" abilities. These are played from your hand at any time. Place them on the table face-up. They are not discarded - do not re-draw them when you run out of cards.
 
 
 
@@ -59,7 +61,7 @@ GAME SETUP
 
 Each player chooses a colour. Take 15 ships and place them around your Home Star. Each player shuffles their Leader deck and draws 7 cards from it. Set the rest of the deck aside, it is not used again.
 
-Shufflt the Objective deck and deal 1 card to each player. Deal 1 card face-up on the table.
+Shuffle the Objective deck and deal 1 card to each player. Deal 1 card face-up on the table.
 
 If playing with 3 players, use Home Stars Regulus and Antares, but make Mira (D-red) the third Home Star. Algol and Pavo become normal non-Home Stars.
 If playing with 2 players, use Home Stars Algol and Antares. Pavo and Regulus become normal non-Home Stars.
@@ -74,7 +76,7 @@ On your turn:
 2. Move all fleets a single square forward.
 3. Perform all departures.
 4. Any number of fleets may arrive at a destination star.
-5. Perform any battles.
+5. Perform any combats.
 6. Claim strategic objectives.
 
 The turn moves around the board clockwise. After every player has had a turn, check to see if any player has won. Check this again after every complete cycle of players.
@@ -85,13 +87,15 @@ PRODUCING
 
 New ships are produced on every second turn. New ships may produced at any star you occupy that has both a + and a O resource.
 
-Count the number of +, O pairs on planets that you possess. For each complete pair, you produce 1 ship.
+Count the number of +, O pairs on stars that you possess. For each complete pair, you produce 1 ship.
 
 
 
 MOVING WARP TOKENS
 
-Move all fleets a single square forward. Any fleets that move past the last warp square are lost in space and are destroyed. A fleet assigned to a fleet that moves past the last warp square is removed from the game.
+Move all fleets a single square forward. 
+
+Any fleets that move past the last warp square are Lost in Hyperspace and are destroyed. A Leader assigned to a fleet that is Lost in Hyperspace is removed from the game. Take a Lost in Hyperspace card. This card can be used at any time to give the ability on the removed leader card.
 
 
 
@@ -119,13 +123,13 @@ Your fleet must be at the number on the hyperspace track corresponding to this c
 
 Take all of the ships from the hyperspace square you are arriving from and place them on a single star in that sector. All ships in a single fleet must travel to the same star. 
 
-If there is a leader in the fleet, and no battle occurs, take the leader card and put it back into your hand.
+If there is a leader in the fleet, and no combat occurs, take the leader card and put it back into your hand.
 
 
 
 COMBAT
 
-If your ships occupy a star also occupied by an enemy, a battle will occur. A battle is performed in a sequence of 6 steps. Each set of steps is a round. Each step is a phase.
+If your ships occupy a star also occupied by an enemy, a combat will occur. A combat is performed in a sequence of 6 phases. Each set of phases is a combat round.
 
 1. Count total fleet sizes
 2. Resolve leader cards
@@ -144,7 +148,7 @@ You and your opponent count the number of ships on each of your sides. Include a
 
 RESOLVE LEADER CARDS
 
-The Defender may select a leader card from their hand to be used in the battle. If the Attacker had a leader assigned to their fleet, that leader's strength and text ability is used in this battle. The Attacker may not use a leader card from their hand.
+The Defender may select a leader card from their hand to be used in the combat round. If the Attacker had a leader assigned to their fleet, that leader's strength and text ability is used in this combat round. The Attacker may not use a leader card from their hand.
 
 Reveal your leader cards at the same time and then resolve any text abilities, with the Attacker resolving first.
 
@@ -166,11 +170,13 @@ If the round was a tie, the defender chooses first whether to withdraw or not.
 
 Leader cards used this round are discarded.
 
-Each withdrawing fleet is placed on the hyperspace path at the entry space. If the player already has their maximum number of fleets in hyperspace, they may not retreat. A player may not withdraw their fleet to another star in the same system.
+Each withdrawing fleet departs, as per the normal rules. If the player already has their maximum number of fleets in hyperspace, they may not retreat. A player may not withdraw their fleet to another star in the same system.
 
 FIGHT AGAIN
 
 If there are ships from enemy fleets still occupying a star, start a new combat round again from the beginning.
+
+If there are no ships remaining from enemy fleets, the combat is completed.
 
 
 
@@ -184,7 +190,7 @@ If you have completed the Strategic Objective in your hand, place it face-up on 
 
 OCCUPATION
 
-You occupy a star so long as you have a single ship around that star. If you move the ship, you lose occupation of the star.
+You occupy a star so long as you have a single ship around that star.
 
 Your Home Star is an exception. You occupy this even if you have no ships around it, but only if no opponent occupies it.
 

@@ -1,7 +1,17 @@
 UI
-Card background font is Spartan Heavy, 72px
+Card background font is Spartan Heavy, 80px
 Card naming text is set at 140px by 686px, roughly in the middle of the shield vertically, and just to the left of the middle horizontally.
 
+
+TERMINOLOGY
+"Combat"
+"Combat round"
+"Strategic Objectives"/"Objectives"
+"Departure Star"/"Arrival Star"/"Home Star"
+"Fleet"
+"Attacker"/"Defender"
+"Occupy"
+"Star" (not "Planet")
 
 
 GAME PLAY

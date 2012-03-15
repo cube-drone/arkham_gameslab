@@ -15,4 +15,26 @@ Never surrender:
     Title: "Never Surrender!"
     Special: "Have your Home Star occupied by an opponent and then occupy it yourself."
 Underdog:
-    Special: "Be the victor in a battle where your Fleet Strength is lower than your opponents." 
+    Special: "Be the victor in a combat where your Fleet Strength is lower than your opponents."
+Strategic Center (H):
+    Special: Occupy all stars in sectors H-Red and H-Yellow.
+Strategic Center (E):
+    Special: Occupy all stars in sectors E-Red and E-Yellow.
+Material Overload:
+    Special: Occupy 3 stars containing a +.
+Population Overload:
+    Special: Occupy 3 stars containing an O.
+Spread Thin:
+    Special: Occupy at least 1 star in each of 4 adjacent sectors.
+Spread Thick:
+    Special: Occupy at least 2 stars in each of 2 adjacent sectors.
+Unlucky:
+    Special: Lose 5 combats in a row.
+Unstoppable:
+    Special: Win 5 combats in a row.
+FlankedK:
+    Title: Flanked! (K)
+    Special: Occupy all stars in sectors K-Red and K-Yellow
+FlankedB:
+    Title: Flanked! (B)
+    Special: Occupy all stars in sectors B-Red and B-Yellow

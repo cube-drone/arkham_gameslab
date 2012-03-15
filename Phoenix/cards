@@ -1,6 +1,6 @@
 rm -rf output
 mkdir output
-ruby ../deck_gen/deck_generator.rb --file combat_cards.yaml,strategic_objectives.yaml,sectors.yaml,production_turn.yaml > output/everything.html
+ruby ../deck_gen/deck_generator.rb --file combat_cards.yaml,strategic_objectives.yaml,sectors.yaml,spare_cards.yaml > output/everything.html
 cp deck_style.css output/style.css
 cp -r assets output/assets
 wkpdf --source output/everything.html --paper letter --orientation landscape --margins 0 --print-background yes         --output output/master.pdf
