@@ -18,38 +18,8 @@ Moving
 ======
 
 1. Swap two adjacent die. 
-
-       G  Y  B  R
-     R            G
-     B            Y
-     Y            B
-     G            R
-       R  B<>G  Y
-
-       G  Y  B  R
-     R            G
-     B            Y
-     Y            B
-     G            R
-       R  B  G  Y<^
-
 2. Swap two opposing die. 
-
-       G  Y  B  R
-     R    |       G
-     B    |       Y
-     Y    |       B
-     G    |       R
-       R  B  G  Y
-
 3. Swap two die of the same color.
-
-       G  Y  B  R
-     R       |    G
-     B       |    Y
-     Y    |       B
-     G    |       R
-       R  B  G  Y
 
 Starting from the first player and proceeding to the left, each player gets one move. This is Round 0. 
 
