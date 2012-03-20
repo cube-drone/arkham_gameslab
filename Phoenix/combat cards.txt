@@ -79,7 +79,7 @@ Germany (defensive tech)
 11. S1 You may split your fleet such that ships may arrive at different stars in the same sector.
 12. S1 If played while you are the attacker, S4 instead.
 13. S1 If played when you are the defender, S4 instead.
-14. S1 If you lose this round, immediately destroy 1 of your opponents ships.
+14. S2 If you lose this round, immediately destroy 1 of your opponents ships.
 15. S3 Use: Lose 1 fewer ship than normal.
 16. S2 Discard from fleet to move fleet forward 2 hyperspace squares.
 17. S3 Lost in Hyperspace: Use to gain 5 Fleet Strength when you are the defender.
