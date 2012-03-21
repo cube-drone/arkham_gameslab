@@ -35,6 +35,8 @@ COMBOS
 ======
 Whenever a person performs the action named on the first combo card, with exactly the dice number displayed on that card, that person places their teams coloured token on that card, indicating that they have performed that move. Turn the next card face-up. To continue the combo, someone on that team must perform the next face-up move on their next turn. If neither person on the team performs the next move in the combo on their next turn, remove their marker from the card. They must start the combo from the beginning. Anyone can start a combo, but it counts towards the team and not any particular person.
 
+Finishing a combo takes 2 white tokens away from both of the players on the other team, with no blocking or jumping preventing the damage.
+
 
 WINNING
 =======
