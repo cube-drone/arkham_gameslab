@@ -1,19 +1,23 @@
 ﻿Eat Wierd UTF Error: "Yeah, you should totally do that." 
 Title: "Leader"
-Russia 1:
+Kapitan-leytenant Dubrovskiy:
+    Type: Russian Lieutenant
     Strength: 3
     Notes: Common
-Russia 2:
+Kapitan-leytenant Gordeyeva:
+    Type: Russian Lieutenant
     Strength: 3
     Notes: Common
-Russia 3:
+Kapitan-leytenant Kholodov:
+    Type: Russian Lieutenant
     Strength: 3
     Notes: Common
-Russia 4:
+Kapitan-leytenant Kournikova:
+    Type: Russian Lieutenant
     Strength: 3
     Notes: Common
-Kapitan vtorogo ranga Karpol:
-    Type: Russian Commander
+Kapitan-leytenant Karpol:
+    Type: Russian Lieutenant
     Special: "Discard from fleet to move fleet forward 1 hyperspace square."
     Strength: 1
     Notes: Common
@@ -23,40 +27,49 @@ Kapitan-leytenant Vichkanova:
     Strength: 2
     Flavor: "A fighter pilot of incredible bravery and aptitude, but also incredible stupidity."
     Notes: Common
-Russia 5:
+Kapitan-leytenant Litvinov:
+    Type: Russian Lieutenant
     Strength: 6
     Special: "In the Resolve Losses phase of this round, destroy an additional 3 of your ships. These losses do not count towards the Massacre Strategic Objective."
     Notes: Common
-Russia 6:
+Kapitan-leytenant Pechenkin:
+    Type: Russian Lieutenant
     Strength: 1
     Special: "During this round you may use the text ability of the combat card your opponent played."
     Notes: Common
-Russia 7:
+Kapitan-leytenant Petrachkov:
+    Type: Russian Lieutenant
     Strength: 1
     Special: "You may choose to withdraw before the Resolving Losses phase."
     Notes: Common
-Russia 8:
+Kapitan-leytenant Ragulin:
+    Type: Russian Lieutenant
     Strength: 1
     Special: "In the Resolve Losses phase of this round, lose 3 fewer ships than normal."
     Notes: Common
-Russia 9:
+Kapitan-leytenant Rybkin:
+    Type: Russian Lieutenant
     Strength: 1
     Special: "You may split your fleet such that ships may arrive at different stars in the same sector."
     Notes: Common
-Russia 10:
+Kapitan-leytenant Trushin:
+    Type: Russian Lieutenant
     Strength: 1
     Special: "If played while you are the attacker, S4 instead."
     Notes: Common
-Russia 11:
+Kapitan-leytenant Ulyanov:
+    Type: Russian Lieutenant
     Strength: 1
     Special: "If played when you are the defender, S4 instead."
     Notes: Common
-Russia 12:
+Kapitan-leytenant Yeltsin:
+    Type: Russian Lieutenant
     Strength: 2
     Special: "If you lose this round, immediately destroy 1 of your opponents ships."
     Notes: Common
-Kapitan-leytenant Fedyushhyna:
-    Type: Russian Lieutenant
+Kapitan tretyego ranga Fedyushhyna:
+    Title: "Kapitan tret'yego ranga Fedyushhyna"
+    Type: Russian Lt.-Commander
     Special: "Destroy 3 of your opponents ships."
     Strength: 2
     Flavor: "&quot;Nothing like a dogfight to get the heart pumping.&quot;"
@@ -68,87 +81,119 @@ Kapitan vtorogo ranga Dubnikov:
     Notes: Russia-specific
 Kapitan pervogo ranga Kravtsov:
     Type: Russian Captain
-    Special: "If played while you are the attacker, S6 instead."
-    Strength: 2 
+    Special: "Lost in Hyperspace: Use to gain 5 Fleet Strength when you are the attacker."
+    Strength: 3 
+    Flavor: "Nothing left to lose...retreat, and don't stop running."
     Notes: Russia-specific
 Контр-адмирал Tonkov:
     Type: Russian Commodore 
-    Special: "Lost in Hyperspace: Use to gain 5 Fleet Strength when you are the attacker."
-    Strength: 3
-    Flavor: "Nothing left to lose...retreat, and don't stop running."
+    Special: "If played while you are the attacker, S6 instead."
+    Strength: 2
     Notes: Russia-specific
-Адмирал Lebedyenko:
-    Type: Russian Admiral
-    Special: "In the Resolve Losses phase of this round, destroy an additional 5 of your ships. These losses do not count towards the Massacre Strategic Objective."
-    Strength: 8
-    Flavor: "With great power comes great responsibility. Or not."
-    Notes: Russia-specific
-Russia 13:
+Вице-адмирал Prokhorov:
+    Type: Russian Viceadmiral
     Strength: 3
     Special: "Use: Destroy 1 of your opponents ships."
     Notes: Russia-specific
-Germany 1:
+Адмирал Lebedyenko:
+    Type: Russian Admiral
+    Special: "In the Resolve Losses phase of this round, destroy an additional 5 of your ships. These do not count for any Strategic Objectives."
+    Strength: 8
+    Flavor: "With great power comes great responsibility. Or not."
+    Notes: Russia-specific
+Kapitänleutnant Anhauser:
+    Type: German Lieutenant
     Strength: 3
     Notes: Common
-Germany 2:
+Kapitänleutnant Bachman:
+    Type: German Lieutenant
     Strength: 3
     Notes: Common
-Germany 3:
+Kapitänleutnant Bernhoffer:
+    Type: German Lieutenant
     Strength: 3
     Notes: Common
-Germany 4:
+Kapitänleutnant Classen:
+    Type: German Lieutenant
     Strength: 3
     Notes: Common 
-Germany 5:
+Kapitänleutnant Dreekmann:
+    Type: German Lieutenant
     Strength: 2
     Special: "Destroy 1 of your opponents ships."
     Notes: Common
-Germany 6:
+Kapitänleutnant Einsidel:
+    Type: German Lieutenant
     Strength: 6
     Special: "In the Resolve Losses phase of this round, destroy an additional 3 of your ships. These losses do not count towards the Massacre Strategic Objective."
     Notes: Common
-Germany 7:
+Kapitänleutnant Eschenbach:
+    Type: German Lieutenant
     Strength: 1
     Special: "During this round you may use the text ability of the combat card your opponent played."
     Notes: Common
-Germany 8:
+Kapitänleutnant Gardemeister:
+    Type: German Lieutenant
     Strength: 1
     Special: "You may choose to withdraw before the Resolving Losses phase."
     Notes: Common
-Germany 9:
+Kapitänleutnant Goethe:
+    Type: German Lieutenant
     Strength: 1
     Special: "In the Resolve Losses phase of this round, lose 3 fewer ships than normal."
     Notes: Common
-Germany 10:
+Kapitänleutnant Gruber:
+    Type: German Lieutenant
     Strength: 1
     Special: "You may split your fleet such that ships may arrive at different stars in the same sector."
     Notes: Common
-Germany 11:
+Kapitänleutnant Hempel:
+    Type: German Lieutenant
     Strength: 1
     Special: "If played while you are the attacker, S4 instead."
     Notes: Common
-Germany 12:
+Kapitänleutnant Holtzmann:
+    Type: German Lieutenant
     Strength: 1
     Special: "If played when you are the defender, S4 instead."
     Notes: Common
-Germany 13:
+Kapitänleutnant Kleiber:
+    Type: German Lieutenant
     Strength: 2
     Special: "If you lose this round, immediately destroy 1 of your opponents ships."
     Notes: Common
-Fregattenkapitän Richter:
-    Type: German Commander
+Kapitänleutnant Richter:
+    Type: German Lieutenant
     Special: "Discard from fleet to move fleet forward 1 hyperspace square."
     Strength: 1
-    Notes: Common    
+    Notes: Common
+Korvettenkapitän Bauer:
+    Type: German Lt.-Commander
+    Special: "If you lose this round, immediately destroy 3 of your opponents ships."
+    Strength: 1
+    Flavor: "&quot;Pretend inferiority and encourage his arrogance.&quot;"
+    Notes: Germany-specific    
 Fregattenkapitän Ziegler:
     Type: German Commander
     Special: "Discard from fleet to move fleet forward 2 hyperspace squares."
     Strength: 2
     Notes: Germany-specific
+Kapitän zur See Vogel:
+    Type: German Captain
+    Special: "Lost in Hyperspace: Use to gain 5 Fleet Strength when you are the defender."
+    Strength: 3   
+    Notes: Germany-specific
 Flottillenadmiral Rothstein:
     Type: German Commodore
-    Special: "Lost in Hyperspace: Use to gain 5 Fleet Strength when you are the defender."
-    Strength: 3
+    Special: "In the Resolve Losses phase of this round, destroy 5 fewer ships than normal."
+    Strength: 2
+    Flavor: "&quot;We cannot afford a war of attrition.&quot;" 
+    Notes: Germany-specific
+Vizeadmiral Nussbaum:
+    Type: German Viceadmiral
+    Special: "If played when you are the Defender, strength 6 instead."
+    Strength: 2
+    Flavor: "&quot;We will fight you, tooth and nail if we must!&quot;"
     Notes: Germany-specific
 Admiral Eberhardt:
     Type: German Admiral
@@ -156,56 +201,45 @@ Admiral Eberhardt:
     Strength: 3
     Flavor: "A man of few words. Particularly in the heat of battle."
     Notes: Germany-specific
-Kapitän zur See Vogel:
-    Type: German Captain
-    Special: "In the Resolve Losses phase of this round, destroy 5 fewer ships than normal."
-    Strength: 2
-    Flavor: "&quot;We cannot afford a war of attrition.&quot;"    
-    Notes: Germany-specific
-Kapitänleutnant Nussbaum:
-    Type: German Lieutenant
-    Special: "If played when you are the Defender, strength 6 instead."
-    Strength: 2
-    Flavor: "&quot;We will fight you, tooth and nail if we must!&quot;"
-    Notes: Germany-specific
-Kapitänleutnant Bauer:
-    Type: German Lieutenant
-    Special: "If you lose this round, immediately destroy 3 of your opponents ships."
-    Strength: 1
-    Flavor: "&quot;Pretend inferiority and encourage his arrogance.&quot;"
-    Notes: Germany-specific
-America 1:
+Lieutenant Edwards:
+    Type: American Lieutenant
     Strength: 3
     Notes: Common
-America 2:
+Lieutenant Godfrey:
+    Type: American Lieutenant
     Strength: 3
     Notes: Common
-America 3:
+Lieutenant Larkin:
+    Type: American Lieutenant
     Strength: 3
     Notes: Common
-America 4:
+Lieutenant Isaacs:
+    Type: American Lieutenant
     Strength: 3
     Notes: Common 
-America 5:
+Lieutenant Macey:
+    Type: American Lieutenant
     Strength: 1
     Special: "Discard from fleet to move fleet forward 1 hyperspace square."
     Notes: Common 
-Commander Taylor:
-    Type: American Commander
+Lieutenant Taylor:
+    Type: American Lieutenant
     Special: "Destroy 1 of your opponents ships."
     Strength: 2
     Flavor: "&quot;You weren'ta usin' that...were ya?&quot;"
     Notes: Common 
-America 6:
+Lieutenant Cole:
+    Type: American Lieutenant
     Strength: 6
     Special: "In the Resolve Losses phase of this round, destroy an additional 3 of your ships. These losses do not count towards the Massacre Strategic Objective."
     Notes: Common 
-America 7:
+Lieutenant Phillipson:
+    Type: American Lieutenant
     Strength: 1
     Special: "During this round you may use the text ability of the combat card your opponent played."
     Notes: Common
-Commander Howard:
-    Type: American Commander
+Lieutenant Howard:
+    Type: American Lieutenant
     Special: "You may choose to withdraw before the Resolving Losses phase."
     Strength: 1
     Notes: Common
@@ -215,61 +249,71 @@ Lieutenant Smith:
     Strength: 1
     Flavor: "Takes a lickin' and keeps on tickin'."
     Notes: Common
-America 8:
+Lieutenant Roland:
+    Type: American Lieutenant
     Strength: 1
     Special: "You may split your fleet such that ships may arrive at different stars in the same sector."
     Notes: Common
-America 9:
+Lieutenant Thompson:
+    Type: American Lieutenant
     Strength: 1
     Special: "If played while you are the attacker, S4 instead."
     Notes: Common
-America 10:
+Lieutenant Greaves:
+    Type: American Lieutenant
     Strength: 1
     Special: "If played when you are the defender, S4 instead."
     Notes: Common
-America 11:
+Lieutenant North:
+    Type: American Lieutenant
     Strength: 2
     Special: "If you lose this round, immediately destroy 1 of your opponents ships."
     Notes: Common
-Captain Jenkins:
+Lieutenant-Commander Jenkins:
+    Type: American Lt.-Commander
+    Special: "During this round you may use the text ability of the combat card your opponent played."
+    Strength: 2 
+    Notes: America-specific 
+Commander White:
+    Type: American Commander
+    Special: "You may instead use the strength and text ability of any card that your opponent has discarded."
+    Strength: 1
+    Flavor: "&quot;I'm not left-handed either.&quot;"
+    Notes: America-specific 
+Captain Woods:
     Type: American Captain
+    Strength: 3
     Special: "Lost in Hyperspace: Use to immediately produce 5 ships at any planet you can produce at."
-    Strength: 3 
     Notes: America-specific 
 Commodore Adams:
     Type: American Commodore
     Special: "In the Resolve Losses phase of this round, return one of your discarded cards to your hand."
     Strength: 2
     Notes: America-specific 
+Viceadmiral Orrick:
+    Type: American Viceadmiral
+    Strength: 2
+    Special: "During this round you may use the text ability of the combat card your opponent played."
+    Notes: America-specific 
 Admiral King:
     Type: American Admiral
     Special: "At any time you may remove from game to draw another leader from your deck."
     Strength: 3
     Notes: America-specific 
-Lieutenant White:
-    Type: American Lieutenant
-    Special: "You may instead use the strength and text ability of any card that your opponent has discarded."
-    Strength: 1
-    Flavor: "&quot;I'm not left-handed either.&quot;"
-    Notes: America-specific 
-America 12:
-    Strength: 2
-    Special: "During this round you may use the text ability of the combat card your opponent played."
-    Notes: America-specific 
-America 13:
-    Strength: 2
-    Special: "During this round you may use the text ability of the combat card your opponent played."
-    Notes: America-specific 
-Japan 1:
+Taii Hiraga:
+    Type: Japanese Lieutenant
     Strength: 3
     Notes: Common
-Japan 2:
+Taii Kajiwara:
+    Type: Japanese Lieutenant
     Strength: 3
     Notes: Common
-Japan 3:
+Taii Katsura:
+    Type: Japanese Lieutenant
     Strength: 3
     Notes: Common
-Japan 4:
+Taii Kunisada:
+    Type: Japanese Lieutenant
     Strength: 3
     Notes: Common     
 Taii Matano:
@@ -277,72 +321,81 @@ Taii Matano:
     Special: "Discard from fleet to move fleet forward 1 hyperspace square."
     Strength: 1
     Notes: Common
-Chūsa Hattori:
-    Type: Japanese Commander
+Taii Hattori:
+    Type: Japanese Lieutenant
     Special: "Destroy 1 of your opponents ships."
     Strength: 2
     Notes: Common
-Daisa Ibuka:
-    Type: Japanese Captain
+Taii Ibuka:
+    Type: Japanese Lieutenant
     Special: "In the Resolve Losses phase of this round, destroy an additional 3 of your ships. These losses do not count towards the Massacre Strategic Objective."
     Strength: 6
     Notes: Common
-Kaigun Shosho Takahashi:
-    Type: Japanese Commodore
+Taii Takahashi:
+    Type: Japanese Lieutenant
     Special: "During this round you may use the text ability of the combat card your opponent played."
     Strength: 1
     Notes: Common
-Japan 5:
+Taii Mazaki:
+    Type: Japanese Lieutenant
     Special: "You may choose to withdraw before the Resolving Losses phase."
     Strength: 1
     Notes: Common
-Japan 6:
+Taii Nakamoto:
+    Type: Japanese Lieutenant
     Special: "In the Resolve Losses phase of this round, lose 3 fewer ships than normal."
     Strength: 1
     Notes: Common
-Japan 7:
+Taii Nomura:
+    Type: Japanese Lieutenant
     Special: "You may split your fleet such that ships may arrive at different stars in the same sector."
     Strength: 1
     Notes: Common
-Japan 8:
+Taii Ryusaki:
+    Type: Japanese Lieutenant
     Special: "If played while you are the attacker, S4 instead."
     Strength: 1
     Notes: Common
-Japan 9:
+Taii Takashita:
+    Type: Japanese Lieutenant
     Special: "If played when you are the defender, S4 instead."
     Strength: 1
     Notes: Common
-Japan 10:
+Taii Shirane:
+    Type: Japanese Lieutenant
     Special: "If you lose this round, immediately destroy 1 of your opponents ships."
     Strength: 2
     Notes: Common
-Japan 11:
+Shōsa Konae:
+    Type: Japanese Lt.-Commander
+    Special: "You may immediately remove 1 enemy ship and replace it with your own."
+    Strength: 1
+    Flavor: "&quot;Their strength becomes our own.&quot;"
+    Notes: Japan-specific
+Chūsa Sugita:
+    Type: Japanese Commander
     Special: "When assigned to a fleet, you can have 5 fleets in warp at once."
     Strength: 2
     Notes: Japan-specific
-Japan 12:
-    Special: "You may split your fleet such that ships may arrive at different stars."
-    Strength: 2
-    Notes: Japan-specific
-Japan 13:
+Daisa Uemura:
+    Type: Japanese Captain
     Special: "Lost in Hyperspace: Use to immediately move one fleet from one star to another star exactly 5 sectors away by Hyperspace."
     Strength: 3
     Notes: Japan-specific
-Kaigun Taisho Akiyama:
-    Type: Japanese Admiral
-    Special: "If you win this battle, you may immediately withdraw regardless of whether or not there are enemy ships remaining."
-    Strength: 3
-    Flavor: "Feint, feint, feint, STRIKE."
+Kaigun Shosho Tankoshitsu:
+    Type: Japanese Commodore
+    Special: "You may split your fleet such that ships may arrive at different stars."
+    Strength: 2
     Notes: Japan-specific
-Taii Nishimoto:
-    Type: Japanese Lieutenant
+Kaigun Chujo Nishimoto:
+    Type: Japanese Viceadmiral
     Special: "You may choose to withdraw before the Resolving Losses phase."
     Strength: 1
     Flavor: "He who fights and runs away will live to fight another day."
     Notes: Japan-specific
-Chūsa Konae:
-    Type: Japanese Commander
-    Special: "You may immediately remove 1 enemy ship and replace it with your own."
-    Strength: 1
-    Flavor: "&quot;Their strength becomes our own.&quot;"
+Kaigun Taisho Akiyama:
+    Type: Japanese Admiral
+    Special: "If you win this battle, you may immediately withdraw regardless of the number of enemy ships remaining."
+    Strength: 3
+    Flavor: "Feint, feint, feint, STRIKE."
     Notes: Japan-specific

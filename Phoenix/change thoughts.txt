@@ -1,9 +1,5 @@
 PRIORITY:
 - home star tokens/flags
-- Common cards should have the same military rank between races
-	- maybe make ALL common cards be the same rank, so you can tell if you have a race-specific one or not
-- add names/rank/flavor to new cards
-- Lebedyenko's flavor overlaps the LEADER
 
 	
 MAYBE:

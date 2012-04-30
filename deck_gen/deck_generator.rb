@@ -100,7 +100,7 @@ options[:filenames].each do |filename|
         special = value["Special"] ||= ""
         flavor = value["Flavor"] ||= ""
         type = value["Type"] ||= ""
-        remaining_values = value.reject{ |key, value| ["Quantity", "Title", "Image", "Special", "Flavor", "Type"].include?(key) }
+		remaining_values = value.reject{ |key, value| ["Quantity", "Title", "Image", "Special", "Flavor", "Type", "Notes"].include?(key) }
         sorted_remaining_values = remaining_values.sort{ |a, b| a[0].split(" ")[-1] <=> b[0].split(" ")[-1] } 
         
         quantity.times do 

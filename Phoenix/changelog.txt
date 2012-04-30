@@ -8,7 +8,7 @@ DRAFT 2:
 	- UI: Removed "warp tokens" as a game piece. Rules now reference "fleets", fleets may not split up or group with other fleets.
 	- Rule: You can now produce at any star having both +O. This brings fleets further out into the galaxy, and cleans up the loss of Home Star rule.
 	- Rule: Indicated that the last hyperspace warp square is 6
-	- Rule: Changed Combat Cards to Leader Cards and that you draw 7 at the start of the game
+	- Rule: Changed Combat Cards to Leader Cards and that you draw 7 at the start of the game. Added a lot more cards to this deck.
 	- Rule: Can't look at other players cards anymore.
 	- Rule: Draw an objective, place 1 on the table. You can complete objectives from your hand and place them on the table, allowing others to claim them.
 	- Rule: Winning the game now occurs immediately when a player claims 3 objectives.
