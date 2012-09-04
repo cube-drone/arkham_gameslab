@@ -1,0 +1,50 @@
+.Card
+{
+	padding-left: 5px;
+	padding-right: 5px;
+	background-size: 227px 302px;
+	background-position: top right;
+    font-family: Georgia;
+}
+
+h2 { display: none; } 
+.category { display: none; } 
+
+
+.type 
+{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.Leader
+{
+	background-image: url('assets/leader-scaled.png');
+}
+
+.Leader h3
+{
+    margin-top: 30px;
+}
+
+.Strategic
+{
+    background-image: url('assets/strategic_objective-scaled.png');
+}
+
+.Sector
+{
+	background-image: url('assets/sector-scaled.png');
+}
+
+.Sector h3, .Production h3
+{
+	margin-top: 100px;
+}
+
+.Production
+{
+	background-image: url('assets/default-scaled.png');
+}
+
