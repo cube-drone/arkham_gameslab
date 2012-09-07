@@ -1,7 +1,451 @@
 Eat Wierd UTF Error: "Yeah, you should totally do that." 
 Title: "Deck"
-Card Title:
-    Special: Destroy 1 of your opponents ships.
-    Strength: 2
-    Flavor: "What"
-    Notes: Common
+ThatsIt:
+    Title: That's It?
+    Distance: 1
+    Special: Increase any players food by 1, decrease their morale by 1.<br><br>AND
+DontAsk:
+    Title: Don't Ask
+    Distance: 1
+    Special: Increase any players food by 1, decrease their population by 1.<br><br>AND
+HopeItsStillGood:
+    Title: Hope It's Still Good
+    Distance: 1
+    Special: Increase any players food by 1, decrease their fuel by 1.<br><br>AND
+Piracy:
+    Distance: 1
+    Special: Increase any players food by 1, decrease their military by 1.<br><br>AND
+    Flavor: We need it more than they do.
+Rations Be Damned:
+    Distance: 1
+    Special: Increase any players morale by 1, decrease their food by 1.<br><br>AND
+ReallyDidntLikeHimAnyway:
+    Title: Really Didn't Like Him Anyway
+    Distance: 1
+    Special: Increase any players morale by 1, decrease their population by 1.<br><br>AND
+Almost There!:
+    Distance: 1
+    Special: Increase any players morale by 1, decrease their fuel by 1.<br><br>AND
+Peaceful:
+    Distance: 1
+    Special: Increase any players morale by 1, decrease their military by 1.<br><br>AND
+Lunch:
+    Distance: 1
+    Special: Increase any players population by 1, decrease their food by 1.<br><br>AND
+Another Child...:
+    Distance: 1
+    Special: Increase any players population by 1, decrease their morale by 1.<br><br>AND
+Derelict Survivors:
+    Distance: 1
+    Special: Increase any players population by 1, decrease their fuel by 1.<br><br>AND
+Disarmament:
+    Distance: 1
+    Special: Increase any players population by 1, decrease their military by 1.<br><br>AND
+Powered by what?:
+    Distance: 1
+    Special: Increase any players fuel by 1, decrease their food by 1.<br><br>AND
+Still not there:
+    Distance: 1
+    Special: Increase any players fuel by 1, decrease their morale by 1.<br><br>AND
+DontWorkToHard:
+    Title: Don't Work To Hard
+    Distance: 1
+    Special: Increase any players fuel by 1, decrease their population by 1.<br><br>AND
+Better Uses:
+    Distance: 1
+    Special: Increase any players fuel by 1, decrease their military by 1.<br><br>AND
+Hungry Soldier, Useless Soldier:
+    Distance: 1
+    Special: Increase any players military by 1, decrease their food by 1.<br><br>AND
+Why Do We Need Them?:
+    Distance: 1
+    Special: Increase any players military by 1, decrease their morale by 1.<br><br>AND
+Recruitment:
+    Distance: 1
+    Special: Increase any players military by 1, decrease their population by 1.<br><br>AND
+Space Battle:
+    Distance: 1
+    Special: Increase any players military by 1, decrease their fuel by 1.<br><br>AND
+Robin Hood:
+    Distance: 1
+    Special: Increase any players food by 1, decrease another players food by 1.<br><br>OR
+WeCantKeepUp:
+    Title: We Can't Keep Up
+    Distance: 1
+    Special: Increase any players morale by 1, decrease another players morale by 1.<br><br>OR
+Immigration:
+    Distance: 1
+    Special: Increase any players population by 1, decrease another players population by 1.<br><br>OR
+Yoink:
+    Distance: 1
+    Special: Increase any players fuel by 1, decrease another players fuel by 1.<br><br>OR
+Desertment:
+    Distance: 1
+    Special: Increase any players military by 1, decrease another players military by 1.<br><br>OR
+Found Some Food:
+    Distance: 1
+    Special: Increase any players food by 1, increase another players food by 1.<br><br>AND
+Party!:
+    Distance: 1
+    Special: Increase any players morale by 1, increase another players morale by 1.<br><br>AND
+Baby Boomers:
+    Distance: 1
+    Special: Increase any players population by 1, increase another players population by 1.<br><br>AND
+Gas Station:
+    Distance: 1
+    Special: Increase any players fuel by 1, increase another players fuel by 1.<br><br>AND
+Armament:
+    Distance: 1
+    Special: Increase any players military by 1, increase another players military by 1.<br><br>AND
+Starvation:
+    Distance: 1
+    Special: Decrease your food by 1, decrease another players food by 1.<br><br>AND
+Depression:
+    Distance: 1
+    Special: Decrease your morale by 1, decrease another players morale by 1.<br><br>AND
+Plague:
+    Distance: 1
+    Special: Decrease your population by 1, decrease another players population by 1.<br><br>AND
+Hard Burn:
+    Distance: 1
+    Special: Decrease your fuel by 1, decrease another players fuel by 1.<br><br>AND
+WhyDontWeBeFriends:
+    Title: Why Don't We Be Friends
+    Distance: 1
+    Special: Decrease your military by 1, decrease another players military by 1.<br><br>AND
+NoTitle13:
+    Distance: 1
+    Special: "Pull a card: 2+, increase your food by 1. 1-, decrease your food by 1.<br><br>AND"
+NoTitle14:
+    Distance: 1
+    Special: "Pull a card: 2+, increase your morale by 1. 1-, decrease your morale by 1.<br><br>AND"
+NoTitle15:
+    Distance: 1
+    Special: "Pull a card: 2+, increase your population by 1. 1-, decrease your population by 1.<br><br>AND"
+NoTitle16:
+    Distance: 1
+    Special: "Pull a card: 2+, increase your fuel by 1. 1-, decrease your fuel by 1.<br><br>AND"
+NoTitle17:
+    Distance: 1
+    Special: "Pull a card: 2+, increase your military by 1. 1-, decrease your military by 1.<br><br>AND"
+NoTitle:
+    Distance: 3
+    Special: If your food is greater than 1, set it to 1. If not, distance 0. <br><br>AND
+NoTitle18:
+    Distance: 3
+    Special: If your morale is greater than 1, set it to 1. If not, distance 0. <br><br>AND
+NoTitle19:
+    Distance: 3
+    Special: If your population is greater than 1, set it to 1. If not, distance 0. <br><br>AND
+NoTitle20:
+    Distance: 3
+    Special: If your fuel is greater than 1, set it to 1. If not, distance 0. <br><br>AND
+NoTitle21:
+    Distance: 3
+    Special: If your military is greater than 1, set it to 1. If not, distance 0. <br><br>AND
+NoTitle23:
+    Distance: 1
+    Special: "Choose any player: if their food is at 1, distance 0. If not, set their morale to 1.<br><br>AND"
+NoTitle24:
+    Distance: 1
+    Special: "Choose any player: if their food is at 1, distance 0. If not, set their population to 1.<br><br>AND"
+NoTitle25:
+    Distance: 1
+    Special: "Choose any player: if their food is at 1, distance 0. If not, set their fuel to 1.<br><br>AND"
+NoTitle26:
+    Distance: 1
+    Special: "Choose any player: if their food is at 1, distance 0. If not, set their military to 1.<br><br>AND"
+NoTitle27:
+    Distance: 1
+    Special: "Choose any player: if their morale is at 1, distance 0. If not, set their food to 1.<br><br>AND"
+NoTitle28:
+    Distance: 1
+    Special: "Choose any player: if their morale is at 1, distance 0. If not, set their population to 1.<br><br>AND"
+NoTitle29:
+    Distance: 1
+    Special: "Choose any player: if their morale is at 1, distance 0. If not, set their fuel to 1.<br><br>AND"
+NoTitle30:
+    Distance: 1
+    Special: "Choose any player: if their morale is at 1, distance 0. If not, set their military to 1.<br><br>AND"
+NoTitle31:
+    Distance: 1
+    Special: "Choose any player: if their population is at 1, distance 0. If not, set their food to 1.<br><br>AND"
+NoTitle32:
+    Distance: 1
+    Special: "Choose any player: if their population is at 1, distance 0. If not, set their morale to 1.<br><br>AND"
+NoTitle33:
+    Distance: 1
+    Special: "Choose any player: if their population is at 1, distance 0. If not, set their fuel to 1.<br><br>AND"
+NoTitle34:
+    Distance: 1
+    Special: "Choose any player: if their population is at 1, distance 0. If not, set their military to 1.<br><br>AND"
+NoTitle35:
+    Distance: 1
+    Special: "Choose any player: if their fuel is at 1, distance 0. If not, set their food to 1.<br><br>AND"
+NoTitle36:
+    Distance: 1
+    Special: "Choose any player: if their fuel is at 1, distance 0. If not, set their morale to 1.<br><br>AND"
+NoTitle37:
+    Distance: 1
+    Special: "Choose any player: if their fuel is at 1, distance 0. If not, set their population to 1.<br><br>AND"
+NoTitle38:
+    Distance: 1
+    Special: "Choose any player: if their fuel is at 1, distance 0. If not, set their military to 1.<br><br>AND"
+NoTitle39:
+    Distance: 1
+    Special: "Choose any player: if their military is at 1, distance 0. If not, set their food to 1.<br><br>AND"
+NoTitle40:
+    Distance: 1
+    Special: "Choose any player: if their military is at 1, distance 0. If not, set their morale to 1.<br><br>AND"
+NoTitle41:
+    Distance: 1
+    Special: "Choose any player: if their military is at 1, distance 0. If not, set their population to 1.<br><br>AND"
+NoTitle42:
+    Distance: 1
+    Special: "Choose any player: if their military is at 1, distance 0. If not, set their fuel to 1.<br><br>AND"
+NoTitle43:
+    Distance: 1
+    Special: Set your food to the same number as any player.<br><br>AND
+NoTitle44:
+    Distance: 1
+    Special: Set your morale to the same number as any player.<br><br>AND
+NoTitle45:
+    Distance: 1
+    Special: Set your population to the same number as any player.<br><br>AND
+NoTitle46:
+    Distance: 1
+    Special: Set your fuel to the same number as any player.<br><br>AND
+NoTitle47:
+    Distance: 1
+    Special: Set your military to the same number as any player.<br><br>AND
+NoTitle48:
+    Distance: 1
+    Special: Add your food to any player's and divide the total evenly between you, rounding down.<br><br>AND
+NoTitle49:
+    Distance: 1
+    Special: Add your morale to any player's and divide the total evenly between you, rounding down.<br><br>AND
+NoTitle50:
+    Distance: 1
+    Special: Add your population to any player's and divide the total evenly between you, rounding down.<br><br>AND
+NoTitle51:
+    Distance: 1
+    Special: Add your fuel to any player's and divide the total evenly between you, rounding down.<br><br>AND
+NoTitle52:
+    Distance: 1
+    Special: Add your military to any player's and divide the total evenly between you, rounding down.<br><br>AND
+NoTitle53:
+    Distance: 1
+    Special: Increase any players distance by 1, decrease their food by 1. <br><br>AND
+NoTitle54:
+    Distance: 1
+    Special: Increase any players distance by 1, decrease their morale by 1. <br><br>AND
+NoTitle55:
+    Distance: 1
+    Special: Increase any players distance by 1, decrease their population by 1. <br><br>AND
+NoTitle56:
+    Distance: 1
+    Special: Increase any players distance by 1, decrease their fuel by 1. <br><br>AND
+NoTitle57:
+    Distance: 1
+    Special: Increase any players distance by 1, decrease their military by 1. <br><br>AND
+NoTitle58:
+    Distance: 1
+    Special: Increase any players food by 1, decrease their distance by 1. <br><br>OR
+NoTitle59:
+    Distance: 1
+    Special: Increase any players morale by 1, decrease their distance by 1. <br><br>OR
+NoTitle60:
+    Distance: 1
+    Special: Increase any players population by 1, decrease their distance by 1. <br><br>OR
+NoTitle61:
+    Distance: 1
+    Special: Increase any players fuel by 1, decrease their distance by 1. <br><br>OR
+NoTitle62:
+    Distance: 1
+    Special: Increase any players military by 1, decrease their distance by 1. <br><br>OR
+NoTitle63:
+    Distance: 1
+    Special: If you have at least 3 ship parts, increase your food by 1. <br><br>OR
+NoTitle64:
+    Distance: 1
+    Special: If you have at least 3 ship parts, increase your morale by 1. <br><br>OR
+NoTitle65:
+    Distance: 1
+    Special: If you have at least 3 ship parts, increase your population by 1. <br><br>OR
+NoTitle66:
+    Distance: 1
+    Special: If you have at least 3 ship parts, increase your fuel by 1. <br><br>OR
+NoTitle67:
+    Distance: 1
+    Special: If you have at least 3 ship parts, increase your military by 1. <br><br>OR
+NoTitle68:
+    Distance: 1
+    Special: "Choose any player: if they have less than 3 ship parts, decrease their military by 1. <br><br>AND"
+NoTitle69:
+    Distance: 1
+    Special: "Choose any player: if they have less than 3 ship parts, decrease their morale by 1. <br><br>AND"
+NoTitle70:
+    Distance: 1
+    Special: "Choose any player: if they have less than 3 ship parts, decrease their population by 1. <br><br>AND"
+NoTitle71:
+    Distance: 1
+    Special: "Choose any player: if they have less than 3 ship parts, decrease their fuel by 1. <br><br>AND"
+NoTitle72:
+    Distance: 1
+    Special: "Choose any player: if they have less than 3 ship parts, decrease their military by 1. <br><br>AND"
+NoTitle73:
+    Distance: 1
+    Special: All players increase their food by 1.<br><br>AND
+NoTitle74:
+    Distance: 1
+    Special: All players increase their morale by 1.<br><br>AND
+NoTitle75:
+    Distance: 1
+    Special: All players increase their population by 1.<br><br>AND
+NoTitle76:
+    Distance: 1
+    Special: All players increase their fuel by 1.<br><br>AND
+NoTitle77:
+    Distance: 1
+    Special: All players increase their military by 1.<br><br>AND
+NoTitle78:
+    Distance: 1
+    Special: All players decrease their food by 1.<br><br>AND
+NoTitle79:
+    Distance: 1
+    Special: All players decrease their morale by 1.<br><br>AND
+NoTitle80:
+    Distance: 1
+    Special: All players decrease their population by 1.<br><br>AND
+NoTitle81:
+    Distance: 1
+    Special: All players decrease their fuel by 1.<br><br>AND
+NoTitle82:
+    Distance: 1
+    Special: All players decrease their military by 1.<br><br>AND
+NoTitle105:
+    Distance: 1
+    Special: Decrease your food by any amount. Draw that many cards.<br><br>OR
+NoTitle106:
+    Distance: 1
+    Special: Decrease your morale by any amount. Draw that many cards.<br><br>OR
+NoTitle107:
+    Distance: 1
+    Special: Decrease your population by any amount. Draw that many cards.<br><br>OR
+NoTitle108:
+    Distance: 1
+    Special: Decrease your fuel by any amount. Draw that many cards.<br><br>OR
+NoTitle109:
+    Distance: 1
+    Special: Decrease your military by any amount. Draw that many cards.<br><br>OR
+NoTitle83:
+    Quantity: 2
+    Distance: 1
+    Special: Decrease a statistic of any player by 1, and increase a different statistic of the same player by 1.<br><br>AND
+NoTitle84:
+    Quantity: 2
+    Distance: 2
+    Special: Increase the dials of one opponent by 3, split anyway you like. <br><br>AND
+NoTitle85:
+    Quantity: 2
+    Distance: 2
+    Special: May slot an extra ship part this round. <br><br>OR
+What Now:
+    Quantity: 2
+    Distance: 1
+    Special: Discard a single ship part from any players ship.<br><br>OR
+    Flavor: I just fixed that!
+NoTitle86:
+    Quantity: 2
+    Distance: 3
+    Special: Increase the value of all distance increases, and statistic increases and decreases played by you by 1 for the rest of this round.<br><br>OR
+NoTitle87:
+    Quantity: 2
+    Distance: 3
+    Special: Decrease the value of all distance increases, and statistic increases and decreases played by you by 1 for the rest of this round.<br><br>OR
+NoTitle88:
+    Quantity: 2
+    Distance: 1
+    Special: Look at any player's hand and play a card from it, as if it were your card.<br><br>OR
+NoTitle89:
+    Quantity: 2
+    Distance: 1
+    Special: Discard a card from your hand.
+Push It:
+    Quantity: 2
+    Distance: 1
+    Special: Draw a card.<br><br>OR
+    Flavor: Maybe if I just...
+NoTitle90:
+    Quantity: 2
+    Distance: 1
+    Special: Discard a card at random from any player's hand. <br><br>AND
+NoTitle91:
+    Quantity: 2
+    Distance: 1
+    Special: "Choose any player: skip over that player's turn. <br><br>OR"
+NoTitle22:
+    Quantity: 2
+    Distance: 3
+    Special: You may not be the target of any opponents events for the rest of the round. <br><br>OR
+NoTitle92:
+    Quantity: 2
+    Distance: 0
+    Special: Discard a card to move it's distance. <br><br>AND
+NoTitle93:
+    Quantity: 2
+    Distance: 1
+    Special: Immediately play another card.<br><br>AND
+NoTitle94:
+    Quantity: 2
+    Distance: 0
+    Special: Choose a card from your hand. Target player chooses a card with the same distance value and swaps it with you.<br><br>AND
+NoTitle95:
+    Quantity: 2
+    Distance: 1
+    Special: Increase any players lowest statistic by 1. <br><br>AND
+NoTitle96:
+    Quantity: 2
+    Distance: 1
+    Special: Decrease any players highest statistic by 1.<br><br>AND
+NoTitle97:
+    Quantity: 2
+    Distance: 3
+    Special: Increase any statistic of any player by 1.<br><br>OR
+NoTitle98:
+    Quantity: 2
+    Distance: 3
+    Special: Decrease any statistic of any player by 1.<br><br>AND
+NoTitle99:
+    Quantity: 2
+    Distance: 3
+    Special: Immediately place this card as a ship part of an opponent.<br><br>AND
+NoTitle100:
+    Quantity: 2
+    Distance: 2
+    Special: Discard any number of cards and draw the same amount of cards.<br><br>OR
+NoTitle101:
+    Quantity: 2
+    Distance: 2
+    Special: Immediately play another card. You may use both the distance and event of that card.<br><br>OR
+NoTitle102:
+    Quantity: 2
+    Distance: 2
+    Special: Search your discard deck for a card and put it into your hand. <br><br>OR
+NoTitle103:
+    Quantity: 2
+    Distance: 2
+    Special: "Choose any player: that player immediately discards a card of distance 2+.<br><br>AND"
+NoTitle104:
+    Quantity: 2
+    Distance: 3
+    Special: For any card that an opponent plays that targets you for the rest of the round, you may increase your distance by 1.<br><br>OR
+NoTitle110:
+    Quantity: 2
+    Distance: 1
+    Special: Draw 2 cards and discard 1 of them of your choice.<br><br>OR
+NoTitle111:
+    Quantity: 2
+    Distance: 1
+    Special: Put a card from your hand on top of any players deck.<br><br>OR
+    Flavor: "\"Open it.\" \"No, you open it!\""

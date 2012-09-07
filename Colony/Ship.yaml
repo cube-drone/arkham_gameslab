@@ -1,0 +1,38 @@
+Eat Wierd UTF Error: "Yeah, you should totally do that." 
+Title: "Ship"
+Gun:
+    Quantity: 2
+    Special: "Once per round, discard an OR card of distance 2 or greater to reduce any players distance by 1. They may not go below 0."
+Hull:
+    Quantity: 2
+    Special: You may keep a single card in your hand at the end of the round.
+Power:
+    Quantity: 2
+    Special: At the end of the game, your distance is 1 more than shown.
+Engine:
+    Quantity: 2
+    Special: Once per round you may play two cards in a row.
+Environment:
+    Quantity: 2
+    Special: You may discard two cards at the end of the round.
+Shields:
+    Quantity: 2
+    Special: You may discard this ship part and an OR card of distance 2+ to ignore only the negative effects of any card targeting you.
+Bridge:
+    Quantity: 2
+    Special: You may discard this ship part to cancel the effect of any AND card targeting you.
+Living Quarters:
+    Quantity: 2
+    Special: If your population drops to 0, discard this ship part and set it to 1.
+Storage:
+    Quantity: 2
+    Special: If your food drops to 0, discard this ship part and set it to 1.
+Fuel Tank:
+    Quantity: 2
+    Special: If your fuel drops to 0, discard this ship part and set it to 1.
+Barracks:
+    Quantity: 2
+    Special: If your military drops to 0, discard this ship part and set it to 1.
+VR Deck:
+    Quantity: 2
+    Special: If your morale drops to 0, discard this ship part and set it to 1.

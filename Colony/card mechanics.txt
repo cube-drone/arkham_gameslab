@@ -1,0 +1,66 @@
+
+
+- Used mechanics:
+	- Draw a card - more play this turn, but you end your game faster.
+	- Put a card from your hand into opponents deck. - make them make a hard choice
+	- Break a ship part
+	- Increase one dial, decrease another.
+	- Increase one dial, decrease opponents.
+	- Increase one dial, increase opponents.
+	- Decrease one dial, decrease opponents.
+	- Can't be played after X card has been played
+	- "For remainder of turn..."
+	- Unless player X discards card of Y value immediately, something happens
+	- Must discard a card at random, if event good for opponent, occurs immediately. Otherwise, discarded.
+	- On a dice-odd (draw distance > X), increase one dial.
+	- On a dice-odd, decrease one dial.
+	- Place dial X at 1, something good happens.
+	- Bad thing happens unless dial X is at Y
+	- Split and add 4 to dials controlled by opponents
+	- Put extra card into ship parts this turn
+	- fleet-wide celebration - boycott or not
+	- can't be hurt by opponents events/decreases
+	- Can't be played until X card is played
+	- make your dial same as opponents
+	- add your dial to opponents and evenly divide the total between you
+	- add 1 to all numbers played for the remainder of the turn
+	- subtract 1 from all numbers played
+	- look at opponents hand and play a card from it, as if it were your card
+	- discard a card from your hand
+	- discard a card from opponents hand
+	- reallocate from one dial to another
+	- increase distance with cost of dial
+	- increase dial with cost of distance
+	- increase your distance with cost of opponents distance
+	- if you have X ship parts built, provide benefit
+	- if you have less than X ship parts build, provide negative
+	- compare dial to opponent, receive benefit if higher
+	- cancel event for this turn
+	- player skips next turn
+	- all players lose from dial
+	- discard a card of distance X
+	- immediately play another card
+	- exchange card with opponent
+	- interrupt card
+	- provides benefit if played as ship part
+	- if X card is played later this turn
+	- increase lowest dial
+	- decrease highest dial
+	- increase dial of your choice
+	- decrease dial of your choice
+	- give ship part to opponent
+	- discard X cards from hand and draw new ones
+	- if you have fewer ship parts than opponents
+	- discard a card in order to play this
+	- discard a card to play both the distance and event of an OR card
+	- gain distance based on opponents dials
+	- go through discard and pick up card
+	- may play extra card this round
+	- may discard extra card this round
+	- randomly discard from player
+	- no one can modify dial for round
+	- immediately discard card of distance X
+	- if distance < X
+	- draw X cards, keep Y, discard the rest
+	- receive benefit for each card played against you for the rest of the turn
+	- dial is X more (benefit, but not displayed on dial)

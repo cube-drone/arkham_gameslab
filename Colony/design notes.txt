@@ -1,53 +1,25 @@
-Backseat game
+Colony
 
-- Deck of common cards
-	- shuffle and split into 4 piles so that everyone shares cards, but doesn't have to draw from inconveniently placed common deck
-	- To get 10 rounds at 6 cards per round for 4 players
-		- 10 * 6 * 4 = 240 cards
-	
-- 4 portfolios
-	- dials on one side
-		- food/morale/population/fuel/military?
-		- distance left to destination
-	- slots for cards on the other
-	- draw and discard holders in the middle somewhere
-	
-- primarily card-based game-play.
-	- something similar to Twilight Struggle?
-		- draw cards for each round
-		- you have to play each card in your hand by the end of the round, except for 1
-		- ways of playing each card:
-			- as a ship part
-			- to gain distance
-			- as event
-			- OR cards, AND cards
-			- ensure that one can be discarded each turn
-		- some cards say "player" and can be played on anyone, including self. Others say "opponent".
-		- If opponents card reduces a dial to 0, you may choose a different dial to reduce instead.
-		- can play as bonus to add onto your ship 
-			- can only add one ship part per turn 
-			- "Space Race" method of discarding card that would overly help your opponent
-			- ship parts provide special abilities when played
-				- portfolio slots have bonus listed on them
-				- have more slots than there are rounds in the game, so you have to choose what special ability you want
-				- cards are played face-down in the ship parts area, means that I don't have to add abilities to each card
+That it is fun to play. If I miss this mark, I fail.
+That it is easy to play. If you constantly have to reference your opponents boards, or have to keep track of to many variables during a round (or between rounds), or get caught up on which card to play, I fail.
+That it is relatively balanced. Some cards will be more powerful than others, that's ok. But I don't want people dying to quickly, or being unable to act. Part of the game is going to be managing your hand such that you don't kill yourself, but it can't be super easy to die. 
 
-			
-				
-- Winning/lossing
-	- if your dial hits 0, you die immediately.
-		 - dials are hovering pretty near 0 for most of the game past the first two turns
-		 - should be difficult to actually get below 0
-	- if you run out of cards, you die immediately
-	- Last person to die gets to play out their remaining deck
-	- When all decks are empty, person who went the furthest distance is the winner.
-		- Or when one deck is empty? 
-		- I like the "no one lives" theme. :P
-			 
-			 
-- need something for driver and/or dead players to do
+- something to make ship parts less daunting?
+	- discard a card with value X to play?
+	- must place a card of value X as the ship part?
+	- linear progression? (can't have the discard abilities then)
+		- not certain I like the discard abilities anyway
+
+- To get 10 rounds at 6 cards per round for 4 players
+	- 10 * 6 * 4 = 240 cards
+	
+- could change to "when the first player's deck is empty, or first player reaches 0 statistic"
+	- make for a shorter game?
+							 
+- something for driver and/or dead players to do
 	- not based on anything physical - can't interact with board or cards
-- need method of determining who "opponent" is
+	
+- method of determining who "opponent" is
 	- "Choose" - I don't like the "choose who wins" type of game
 	- "Everyone" - some cards gain much more power when targeting multiple people
 		- but could comparatively reduce the power of negative effects
@@ -55,87 +27,73 @@ Backseat game
 	- "Nearest ship"? Whomever is closest to you on Distance, ties broken by distance within car/table
 		- this changes every turn and is hard to have to ask people about
 	- Person to left? right? 
-
-- Mechanics:
-	- Draw a card - more play this turn, but you end your game faster.
-	- Put a card from your hand into opponents deck. - make them make a hard choice
-	- Break a ship part
-		- Repair a ship part? Seems unnecessary.
-	- Increase one dial, decrease another.
-	- Increase one dial, decrease opponents.
-	- Increase one dial, increase opponents.
-	- Decrease one dial, decrease opponents.
+	
+Card notes:
+	- "NoTitle" needs a title
+	
+- Meta-mechanics:
 	- Can't be played after X card has been played
 	- "For remainder of turn..."
 	- Unless player X discards card of Y value immediately, something happens
-	- Must discard a card at random, if event good for opponent, occurs immediately. Otherwise, discarded.
-	- On a dice-odd (draw distance > X), increase one dial.
-	- On a dice-odd, decrease one dial.
-	- Place dial X at 1, something good happens.
-	- Bad thing happens unless dial X is at Y
-	- Split and add 4 to dials controlled by opponents
-	- Put extra card into ship parts this turn
-	- fleet-wide celebration - boycott or not
-	- can't be hurt by opponents events/decreases
+	- fleet-wide celebration - boycott or not (from TS)
 	- Can't be played until X card is played
-	- make your dial same as opponents
-	- add your dial to opponents and evenly divide the total between you
-	- add 1 to all numbers played for the remainder of the turn
-	- subtract 1 from all numbers played
-	- look at opponents hand and play a card from it, as if it were your card
-	- discard a card from your hand
-	- discard a card from opponents hand
-	- reallocate from one dial to another
-	- increase distance with cost of dial
-	- increase dial with cost of distance
-	- increase your distance with cost of opponents distance
-	- if you have X ship parts built, provide benefit
-	- if you have less than X ship parts build, provide negative
-	- compare dial to opponent, receive benefit if higher
-	- cancel event for this turn
-	- player skips next turn
-	- all players lose from dial
-	- discard a card of distance X
-	- immediately play another card
-	- exchange card with opponent
-	- interrupt card
 	- provides benefit if played as ship part
 	- if X card is played later this turn
-	- increase lowest dial
-	- decrease highest dial
-	- increase dial of your choice
-	- decrease dial of your choice
-	- give ship part to opponent
-	- discard X cards from hand and draw new ones
 	- if you have fewer ship parts than opponents
 	- discard a card in order to play this
-	- discard a card to play both the distance and event of an OR card
-	- gain distance based on opponents dials
-	- go through discard and pick up card
-	- may play extra card this round
-	- may discard extra card this round
-	- randomly discard from player
-	- no one can modify dial for round
-	- immediately discard card of distance X
 	- if distance < X
-	- draw X cards, keep Y, discard the rest
-	- receive benefit for each card played against you for the rest of the turn
-	- dial is X more (benefit, but not displayed on dial)
-	
-Ship parts:
-	- gun
-	- engine
-	- shields
-	- hull
-	- power
-	- living space
-	- storage space
-	- environment
-	- entertainment
-	- bridge
 		
 - Theme
 	- "Colony ship"
 	- "You aren't going to make it"
 	- "How far can you make it before you run out of time?"
 	- Religion, Politics, Technology, Green/Eco
+	
+	
+	
+WRITTEN
+	
+- 4 portfolios
+	- dials on one side
+		- food/morale/population/fuel/military?
+		- distance left to destination
+		- dials all start at 2
+	- distance starts at 0
+	- slots for cards on the other
+	- draw and discard holders in the middle somewhere
+	
+- card-based game-play.
+	- something similar to Twilight Struggle?
+		- draw cards for each round
+		- you have to play each card in your hand by the end of the round, except for 1 which is discarded.
+		- ways of playing each card:
+			- as a ship part
+			- to gain distance
+			- as event
+			- OR cards, AND cards
+			- ensure that one can be discarded each round
+		- some cards say "player" and can be played on anyone, including self. Others say "opponent".
+		- If opponents card reduces a dial to 0, you may choose a different dial to reduce instead.
+		- can play as bonus to add onto your ship 
+			- can only add one ship part per round 
+			- "Space Race" method of discarding card that would overly help your opponent
+			- ship parts provide special abilities when played
+				- portfolio slots have bonus listed on them
+				- have more slots than there are rounds in the game, so you have to choose what special ability you want
+				- cards are played face-down in the ship parts area, means that I don't have to add abilities to each card
+				- Winning/lossing
+- if any of your dials hit 0, you die immediately.
+		 - dials are hovering pretty near 0 for most of the game past the first two turns
+		 - should be difficult to actually get below 0
+	- if you run out of cards, you die immediately
+	- Last person to die gets to play out their remaining deck
+	- When all decks are empty, person who went the furthest distance is the winner.
+		- Or when one deck is empty? 
+		- I like the "no one lives" theme. :P
+Card notes:
+	- "Pull a card" == "draw a card and look at the distance, if greater than the number shown, you get the effect"
+	- If you play a card targeting "any player", that player gets the Distance increase.
+	- If card says "OR" the target player may choose whether to perform the action or increase their Distance by the number shown.
+	- If card says "AND" the target player must perform the event as well as increasing their Distance by the number shown.
+	- "Statistic" is food/morale/population/fuel/military
+	- "Round" is complete cycle of draw/discard. "Turn" is card play.

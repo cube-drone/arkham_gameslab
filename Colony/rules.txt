@@ -1,0 +1,44 @@
+Colony
+
+SETUP
+	- Shuffle the card deck.
+	- Evenly distribute cards to every player. Remove any cards that can't be distributed evenly from the game.
+	- Give each player a board.
+	- Each player sets their Distance to 0/0 and Food/Morale/Population/Fuel/Military to 7.
+	- Determine who will go first.
+	
+BOARD
+	- The left-hand side of each player board is ship parts. These are abilities that each player may use once they have placed a card in them.
+	- The right-hand side of each player board is Statistics (Food/Morale/Population/Fuel/Military) and Distance.
+	
+CARDS
+	- Cards have a Distance and an Ability listed on them, as well as their type: "OR" or "AND".
+	- Cards also have a title and/or flavor text, these have no game value.
+	
+GAME PLAY
+Each round:
+	- Every player draws 6 cards.
+	- Each player, starting with the first player and going around clockwise, has two choices of actions on their turn:
+		- Play a card
+		- Place a card from their hand into a Ship Part slot. You may only do this once per round.
+	- Continue until every player has only a single card left in their hand. Discard that card.	
+	- The first player next round is the player to the left of the first player this round. (Circle clockwise).
+	
+Playing a card:
+	- Pick a card from your hand to play.
+	- If it says "any player" you may choose to target yourself or any opponent. If it says "opponent", you must target an opponent. If it says "you" or "your", you must target yourself.
+	- If the card is an "AND" card, the player you target receives the benefit or detriment of the ability, as well as receiving the Distance.
+	- If the card is an "OR" card, you must choose whether to increase your Distance by the number shown, or to use the Ability.
+	
+- If an opponents card would reduce one of your dials to 0, you may choose to apply the reduction to another dial instead. 
+- Some cards say to "Pull a card", with a number. Draw a card from your deck. If the Distance number on that card is greater than or equal to the Pull number, you get the ability. Discard the Pulled card afterwards.
+	
+DYING
+	- You die if
+		- Your deck runs out of cards.
+		- Any one of your dials reaches 0.
+	- Dying doesn't mean you lose.
+	- Dead players may not play any more cards, place cards into their ship parts or be the target of other players abilities.
+		
+WINNING
+	- The winner is the player who has the highest Distance when all players are dead.
