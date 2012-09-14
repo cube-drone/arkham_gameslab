@@ -5,7 +5,6 @@ TODO:
 - less cards for 2 people!
 - Categories on cards? "good", "bad", "neutral"?
 
-
 Good things:
 - like "add and split" card
 - "Hard Burn" is a fun card
@@ -16,6 +15,11 @@ That it is fun to play. If I miss this mark, I fail.
 That it is easy to play. If you constantly have to reference your opponents boards, or have to keep track of to many variables during a round (or between rounds), or get caught up on which card to play, I fail.
 That it is relatively balanced. Some cards will be more powerful than others, that's ok. But I don't want people dying to quickly, or being unable to act. Part of the game is going to be managing your hand such that you don't kill yourself, but it can't be super easy to die. 
 
+
+"What could be better?" 
+"What parts of the game seemed slow?" 
+"Would mechanic X be better at maintaining tension than the current mechanic Y?" 
+"Why did you enjoy it?
 
 
 - To get 10 rounds at 6 cards per round for 4 players
@@ -35,9 +39,6 @@ That it is relatively balanced. Some cards will be more powerful than others, th
 	- "Nearest ship"? Whomever is closest to you on Distance, ties broken by distance within car/table
 		- this changes every turn and is hard to have to ask people about
 	- Person to left? right? 
-	
-Card notes:
-	- "NoTitle" needs a title
 	
 - Meta-mechanics:
 	- Can't be played after X card has been played

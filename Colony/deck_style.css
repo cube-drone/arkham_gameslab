@@ -18,33 +18,77 @@ h2 { display: none; }
 	left: 10px;
 }
 
-.Leader
-{
-	background-image: url('assets/leader-scaled.png');
+div.icons {
+	float: left;
+	position: absolute;
+	bottom: 0;
+	margin-left: 5px;
+	margin-bottom: 5px;
 }
 
-.Leader h3
-{
-    margin-top: 30px;
+div.icons div {
+	float: left;
+	width: 48px;
+	height: 48px;
 }
 
-.Strategic
-{
-    background-image: url('assets/strategic_objective-scaled.png');
+.FoodIncrease {
+	background-image: url('assets/food-inc.png');
 }
 
-.Sector
-{
-	background-image: url('assets/sector-scaled.png');
+.FoodNeutral {
+	background-image: url('assets/food-base.png');
 }
 
-.Sector h3, .Production h3
-{
-	margin-top: 100px;
+.FoodDecrease {
+	background-image: url('assets/food-dec.png');
 }
 
-.Production
-{
-	background-image: url('assets/default-scaled.png');
+.PopulationIncrease {
+	background-image: url('assets/population-inc.png');
+}
+
+.PopulationNeutral{
+	background-image: url('assets/population-base.png');
+}
+
+.PopulationDecrease {
+	background-image: url('assets/population-dec.png');
+}
+
+.MoraleIncrease {
+	background-image: url('assets/morale-inc.png');
+}
+
+.MoraleNeutral {
+	background-image: url('assets/morale-base.png');
+}
+
+.MoraleDecrease {
+	background-image: url('assets/morale-dec.png');
+}
+
+.FuelIncrease {
+	background-image: url('assets/fuel-inc.png');
+}
+
+.FuelNeutral {
+	background-image: url('assets/fuel-base.png');
+}
+
+.FuelDecrease {
+	background-image: url('assets/fuel-dec.png');
+}
+
+.MilitaryIncrease {
+	background-image: url('assets/military-inc.png');
+}
+
+.MilitaryNeutral {
+	background-image: url('assets/military-base.png');
+}
+
+.MilitaryDecrease {
+	background-image: url('assets/military-dec.png');
 }
 

@@ -1,21 +1,24 @@
+"What could be better?" 
+"What parts of the game seemed slow?" 
+"Would mechanic X be better at maintaining tension than the current mechanic Y?" 
+"Did you enjoy it? Why? What in particular?"
+
+
 CHANGE LOG:
 Draft 2:
 	- No longer able to redirect statistic loss if opponents card would drop you to 0
+	- Dead players have their distances increase by 1 each turn. "Floating" heh...
 	- Can now target ship parts of untargetable players. Untargetable players are affects by "all players" cards.
 	- Added tiers to ship parts
 	- Changed Environment, Engine and Hull part rules
 	- Removed all cards of the template: Special: "Choose any player: if their X is at 1, distance 0. If not, set their Y to 1.<br><br>AND"
 		- Poorly worded and mostly just a pain to figure out. May want something else to dramatically reduce a statistic later.
 	- Removed all cards that say to "pull": not enough variance in distances to make this a useful mechanic right now
-	- Added a card to put a card on top of your deck from your hand
-	- Added card types:
-		- "Remains in play"
+	- Added "Remains in play" as a card effect
 	- When swapping cards, you may play the card you are given.
 	- Added another 3 "discard a ship part" cards
 	- Start all statistics at 3 instead of 7
+	- Cards have icons denoting their basic effect for statistics
+	- Cards have titles
+	- Clarified: A player dies when they have to draw, but can't.
 	- Various rules clarifications
-	
-	REPRINT: All ship parts,
-	 NoTitle, NoTitle18-21, NoTitle90, What Now (extras), NoTitle92, NoTitle94, NoTitle200, 104, 22, 85, 86, 97
-	 
-	 REMOVE: NoTitle3-7, 23-42

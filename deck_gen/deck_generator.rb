@@ -100,11 +100,15 @@ options[:filenames].each do |filename|
         special = value["Special"] ||= ""
         flavor = value["Flavor"] ||= ""
         type = value["Type"] ||= ""
-		remaining_values = value.reject{ |key, value| ["Quantity", "Title", "Image", "Special", "Flavor", "Type", "Notes"].include?(key) }
+		
+		icons = value["Icons"] ||= ""
+		icons = icons.split(",")
+		
+		remaining_values = value.reject{ |key, value| ["Quantity", "Title", "Image", "Special", "Flavor", "Type", "Notes", "Icons"].include?(key) }
         sorted_remaining_values = remaining_values.sort{ |a, b| a[0].split(" ")[-1] <=> b[0].split(" ")[-1] } 
         
         quantity.times do 
-            puts "\t<div class='Card " + category + " " + title + " " + type + "'>"
+			puts "\t<div class='Card " + category + " " + title + " " + type + "'>"
             puts "\t\t<h2 class='category'>" + category + " </h2>" unless category == ""
             puts "\t\t<h3 class='title'>" + title + " </h3>"
             puts "\t\t<img src='"+image+"' /> " unless image == "" 
@@ -112,6 +116,13 @@ options[:filenames].each do |filename|
             sorted_remaining_values.each { |other_value_name, other_value| puts "\t\t<p class='"+other_value_name.to_s.downcase + "'><strong>"+ other_value_name.to_s + "</strong>: " + other_value.to_s + " </p>" }
             puts "\t\t<p class='flavor'><em>" + flavor + "</em></p>" unless flavor == "" 
             puts "\t\t<div class='type'>" + type + "</div>" unless type == "" 
+			
+			puts "\t\t<div class='icons'>" unless icons.length == 0
+			icons.each do |iconClass|
+				puts "\t\t\t<div class='" + iconClass.strip + "'></div>"
+			end
+			puts "\t\t</div>" unless icons.length == 0
+			
             puts "\t</div>"
             pagecounter += 1
             puts "<div style='clear:both'> </div> </div><div class='Page'>" if pagecounter % options[:cards_per_page] == 0

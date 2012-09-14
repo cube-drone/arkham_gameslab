@@ -1,4 +1,4 @@
-Colony
+Colony/Space Hope
 
 SETUP
 	- Shuffle the card deck.
@@ -14,14 +14,13 @@ BOARD
 CARDS
 	- Cards have a Distance and an Ability listed on them, as well as their type: "OR" or "AND".
 	- Cards have a title and/or flavor text, these have no game value.
-	- Some cards have a Type:
-		Remains in play - lists how long it will be in effect for the targeting played.
+	- Some cards have Remains in play: Round - these cards stay in effect until the end of the round.
 	
 GAME PLAY
-Each round:
+Start of round:
 	- Every player draws 6 cards.
 	- Each player, starting with the first player and going around clockwise, has two choices of actions on their turn:
-		- Play a card
+		- Play a card from their hand
 		- Place a card from their hand into a Ship Part slot. You may only do this once per round.
 	- Continue until every player has only a single card left in their hand. Discard that card.	
 	- The first player next round is the player to the left of the first player this round. (Circle clockwise).
@@ -29,32 +28,39 @@ Each round:
 Playing a card:
 	- Pick a card from your hand to play.
 	- If it says "any player" you may choose to target yourself or any opponent. If it says "opponent", you must target an opponent. If it says "you" or "your", you must target yourself.
-	- If the card is an "AND" card, the player you target receives the benefit or detriment of the ability, as well as receiving the Distance.
-	- If the card is an "OR" card, you must choose whether to increase your Distance by the number shown, or to use the Ability.
-	- Some cards say to "Pull a card", with a number. Draw a card from your deck. If the Distance number on that card is greater than or equal to the Pull number, you get the ability. Discard the Pulled card afterwards.
+	- If it is an "AND" card, the text ability effect the player you target, as well as increasing their distance by the amount on the card.
+	- If it is an "OR" card, you must choose whether to increase your Distance by the number shown, or to use the Ability.
 
 Placing a ship part:
 	- Take a card from your hand and place it in an empty ship part slot you want to build.
 	- You may only play in a certain Tier if you have that number of ship parts built already.
-		- You may build any Tier 0 at any time
+		Examples:
+		- You may build any Tier 0, regardless of the number of parts you've previously built.
 		- You must have 4 ship parts built in order to build Tier 4
-		- If you no longer have the tier requirements for a ship part, it remains in effect.
+		- If you no longer have the tier requirements for a ship part, it remains in effect, but you won't be able to replace it if it is discarded.
 	- You may only use those ship part abilities that have cards in them.
-	- When discarding a ship part, as part of it's ability or a card effect, remove the card from the ship part slot and place the discarded card into your discard pile. 
+	- When discarding a ship part, as part of it's ability or a card effect, remove the card from the ship part slot and place the discarded ship part card into your discard pile. 
 	- Any time a ship part slot is empty it is available as a choice to be built.
+	
+End of round:
+	- Players may not play the last card of their hand.
+	- When every player has only a single card remaining, the round is over. 
+	- Discard your last card and start the round over.
+	- If any players have more cards than others, this is ok. Those players (or player) continue playing cards until they have only a single card left.
 	
 DYING
 	- You die if
-		- Your deck runs out of cards.
+		- You need to draw from your deck and there are no cards left in it.
 		- Any one of your dials reaches 0.
 	- Dying doesn't mean you lose.
 	- Dead players may not play any more cards, place cards into their ship parts or be the target of other players abilities.
+	- Dead players distances increase by 1 each turn.
 		
 WINNING
-	- The winner is the player who has the highest Distance when all players are dead.
+	- The game ends when all players are dead. 
+	- The winner is the player who has the highest Distance.
 	
 MISC/FAQ
 	- Anytime a rule says "may", it means that you may perform the action if you desire.
 	- If an effect targets "all players", it will still affect players who are not targetable.
 	- If an effect targets a ship part, it target ship parts of players who are not targetable.
-	- It's fine if some players end up with more cards at the end of a round than others - just play out any remaining cards until each player only has a single card (which they may not play).

@@ -24,15 +24,20 @@ Hull:
 Living Quarters:
     Special: If your population drops to 0, discard this part and set it to 1.
     Tier: 0
+    Icons: PopulationIncrease
 Storage:
     Special: If your food drops to 0, discard this part and set it to 1.
     Tier: 0
+    Icons: FoodIncrease
 Fuel Tank:
     Special: If your fuel drops to 0, discard this part and set it to 1.
     Tier: 0
+    Icons: FuelIncrease
 Barracks:
     Special: If your military drops to 0, discard this part and set it to 1.
     Tier: 0
+    Icons: MilitaryIncrease
 VR Deck:
     Special: If your morale drops to 0, discard this part and set it to 1.
     Tier: 0
+    Icons: MoraleIncrease
