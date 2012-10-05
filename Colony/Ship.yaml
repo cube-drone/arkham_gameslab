@@ -1,43 +1,75 @@
 Eat Wierd UTF Error: "Yeah, you should totally do that." 
 Title: "Ship"
-Gun:
-    Special: "Once per round, discard an OR D2+ to reduce any players distance by 1. They may not go below 0."
-    Tier: 4
-Environment:
-    Special: Discard an OR D1+ to remove a remains in play card.
-    Tier: 4
 Shields:
-    Special: Discard this part and an OR D2+ to ignore only the negative effects of any card targeting you.
-    Tier: 4
+    Special: Discard this part to cancel the effect of a communal goal on yourself.
+    Tier: 6
+    Quantity: 3
 Bridge:
     Special: Discard this part to cancel the effect and distance of any AND card targeting you.
+    Tier: 5
+    Quantity: 3
+Transmogrifier:
+    Special: One per round, when increasing a statistic, you may increase another statistic by the same amount.
+    Tier: 5
+    Quantity: 3
+Maneuvering Jets:
+    Special: Skip the Goal Resolution phase at the end of this round. The current goal may not be discarded, or skipped again.
     Tier: 4
-Power:
-    Special: At the end of the game, your distance is 1 more than shown.
-    Tier: 2
+    Quantity: 3
+Experimental Guns:
+    Special: Once per round you may discard this part to cause any opponent to discard a card from their deck when they place a ship part.
+    Tier: 4
+    Quantity: 3
+Cloaking Device:
+    Special: When you discard any number of cards from your hand using an action, you may draw one card.
+    Tier: 4
+    Quantity: 3
+Factory Deck:
+    Special: Discard the current communal goal and re-draw another. The new one cannot be discarded again this round.
+    Tier: 3
+    Quantity: 3
 Engine:
     Special: Once per round you may play two cards in a row if both are D1.
-    Tier: 2
+    Tier: 3
+    Quantity: 3
 Hull:
     Special: Instead of discarding it, you may keep your last card in your hand at the end of the round.
+    Tier: 3
+    Quantity: 3
+Duplicator:
+    Special: Once per round, when increasing a statistic, you may increase it by 1 more.
     Tier: 2
+    Quantity: 3
+Environment:
+    Special: Discard an OR D1+ to remove a remains in play card.
+    Tier: 2
+    Quantity: 3
+Mechanized Oracle:
+    Special: When drawing cards you may draw one extra. Then discard one of those cards before putting them into your hand.
+    Tier: 2
+    Quantity: 3
 Living Quarters:
     Special: If your population drops to 0, discard this part and set it to 1.
     Tier: 0
     Icons: PopulationIncrease
+    Quantity: 3
 Storage:
     Special: If your food drops to 0, discard this part and set it to 1.
     Tier: 0
     Icons: FoodIncrease
+    Quantity: 3
 Fuel Tank:
     Special: If your fuel drops to 0, discard this part and set it to 1.
     Tier: 0
     Icons: FuelIncrease
+    Quantity: 3
 Barracks:
     Special: If your military drops to 0, discard this part and set it to 1.
     Tier: 0
     Icons: MilitaryIncrease
+    Quantity: 3
 VR Deck:
     Special: If your morale drops to 0, discard this part and set it to 1.
     Tier: 0
     Icons: MoraleIncrease
+    Quantity: 3

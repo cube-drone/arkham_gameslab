@@ -1,13 +1,25 @@
 Colony
 
 TODO:
-- portrait ship parts (as opposed to landscape) so they can be read
+
+
+	
+Future:
+- Forget whether you slotted a ship part this turn or not
+- distance dial is confusing
+- I still don't like "Choose a player"
 - less cards for 2 people!
-- Categories on cards? "good", "bad", "neutral"?
 
 Good things:
 - like "add and split" card
 - "Hard Burn" is a fun card
+
+Miranda:
+	- Likes ship parts, and that she can use them to prepare for the future
+	- Doesn't like it when she's vulnerable
+	
+Derrick:
+	- Liked half of the ship parts, but found he couldn't use the T4s
 
 
 
@@ -27,9 +39,6 @@ That it is relatively balanced. Some cards will be more powerful than others, th
 	
 - could change to "when the first player's deck is empty, or first player reaches 0 statistic"
 	- make for a shorter game?
-							 
-- something for driver and/or dead players to do
-	- not based on anything physical - can't interact with board or cards
 	
 - method of determining who "opponent" is
 	- "Choose" - I don't like the "choose who wins" type of game
@@ -41,15 +50,12 @@ That it is relatively balanced. Some cards will be more powerful than others, th
 	- Person to left? right? 
 	
 - Meta-mechanics:
-	- Can't be played after X card has been played
-	- Unless player X discards card of Y value immediately, something happens
-	- boycott or not (from TS)
 	- Can't be played until X card is played
 	- provides benefit if played as ship part
 	- if X card is played later this turn
 	- if you have fewer ship parts than opponents
 	- discard a card in order to play this
-	- if distance < X
+	- can't be a success if card X has been played
 	
 	- Special: "Choose any player: if their military is at 1, distance 0. If not, set their fuel to 1.<br><br>AND", etc
 		- Poorly worded and mostly just a pain to figure out. May want something else to dramatically reduce a statistic later.

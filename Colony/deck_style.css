@@ -32,6 +32,11 @@ div.icons div {
 	height: 48px;
 }
 
+div.Ship  div.icons {
+	bottom: auto;
+	top: 110px;
+}
+
 .FoodIncrease {
 	background-image: url('assets/food-inc.png');
 }

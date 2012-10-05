@@ -1,153 +1,173 @@
-Eat Wierd UTF Error: "Yeah, you should totally do that." 
+Eat Wierd UTF Error: "Yeah, you should totally do that."
 Title: "Deck"
 ThatsIt:
     Title: That's It?
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players food by 1, decrease their morale by 1.<br><br>AND
     Icons: FoodIncrease, MoraleDecrease
 DontAsk:
     Title: Don't Ask
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players food by 1, decrease their population by 1.<br><br>AND
     Icons: FoodIncrease, PopulationDecrease
 HopeItsStillGood:
     Title: Hope It's Still Good
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players food by 1, decrease their fuel by 1.<br><br>AND
     Icons: FoodIncrease, FuelDecrease
 Piracy:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players food by 1, decrease their military by 1.<br><br>AND
     Flavor: We need it more than they do.
     Icons: FoodIncrease, MilitaryDecrease
 Rations Be Damned:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players morale by 1, decrease their food by 1.<br><br>AND
     Icons: MoraleIncrease, FoodDecrease
 DidntLikeHimAnyway:
     Title: Didn't Like Him Anyway
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players morale by 1, decrease their population by 1.<br><br>AND
     Icons: MoraleIncrease, PopulationDecrease
 Almost There!:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players morale by 1, decrease their fuel by 1.<br><br>AND
     Icons: MoraleIncrease, FuelDecrease
 Peaceful:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players morale by 1, decrease their military by 1.<br><br>AND
     Icons: MoraleIncrease, MilitaryDecrease
 Lunch:
-    Distance: 1
+    Distance: 0
+    Quantity: 2
     Special: Increase any players population by 1, decrease their food by 1.<br><br>AND
     Icons: PopulationIncrease, FoodDecrease
 Another Child...:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players population by 1, decrease their morale by 1.<br><br>AND
     Icons: PopulationIncrease, MoraleDecrease
 Derelict Survivors:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players population by 1, decrease their fuel by 1.<br><br>AND
     Icons: PopulationIncrease, FuelDecrease
 Disarmament:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players population by 1, decrease their military by 1.<br><br>AND
     Icons: PopulationIncrease, MilitaryDecrease
 Powered by what?:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players fuel by 1, decrease their food by 1.<br><br>AND
     Icons: FuelIncrease, FoodDecrease
 Still not there:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players fuel by 1, decrease their morale by 1.<br><br>AND
     Icons: FuelIncrease, MoraleDecrease
 DontWorkToHard:
+    Quantity: 2
     Title: Don't Work To Hard
-    Distance: 1
+    Distance: 0
     Special: Increase any players fuel by 1, decrease their population by 1.<br><br>AND
     Icons: FuelIncrease, PopulationDecrease
 Better Uses:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players fuel by 1, decrease their military by 1.<br><br>AND
     Icons: FuelIncrease, MilitaryDecrease
 Hungry Soldier, Useless Soldier:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players military by 1, decrease their food by 1.<br><br>AND
     Icons: MilitaryIncrease, FoodDecrease
 Why Do We Need Them?:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players military by 1, decrease their morale by 1.<br><br>AND
     Icons: MilitaryIncrease, MoraleDecrease
 Recruitment:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players military by 1, decrease their population by 1.<br><br>AND
     Icons: MilitaryIncrease, PopulationDecrease
 Space Battle:
-    Distance: 1
+    Quantity: 2
+    Distance: 0
     Special: Increase any players military by 1, decrease their fuel by 1.<br><br>AND
     Icons: MilitaryIncrease, FuelDecrease
 Robin Hood:
-    Distance: 1
+    Distance: 2
     Special: Increase any players food by 1, decrease another players food by 1.<br><br>OR
     Icons: FoodIncrease, FoodDecrease
 WeCantKeepUp:
     Title: We Can't Keep Up
-    Distance: 1
+    Distance: 2
     Special: Increase any players morale by 1, decrease another players morale by 1.<br><br>OR
     Icons: MoraleIncrease, MoraleDecrease
 Immigration:
-    Distance: 1
+    Distance: 2
     Special: Increase any players population by 1, decrease another players population by 1.<br><br>OR
     Icons: PopulationIncrease, PopulationDecrease
 Yoink:
-    Distance: 1
+    Distance: 2
     Special: Increase any players fuel by 1, decrease another players fuel by 1.<br><br>OR
     Icons: FuelIncrease, FuelDecrease
 Desertment:
-    Distance: 1
+    Distance: 2
     Special: Increase any players military by 1, decrease another players military by 1.<br><br>OR
     Icons: MilitaryIncrease, MilitaryDecrease
 Found Some Food:
     Distance: 1
-    Special: Increase any players food by 1, increase another players food by 1.<br><br>AND
+    Special: Increase your food by 1, increase another players food by 1. Only your distance increases.<br><br>AND
     Icons: FoodIncrease, FoodIncrease
 Party!:
     Distance: 1
-    Special: Increase any players morale by 1, increase another players morale by 1.<br><br>AND
+    Special: Increase your morale by 1, increase another players morale by 1. Only your distance increases.<br><br>AND
     Icons: MoraleIncrease, MoraleIncrease
 Baby Boomers:
     Distance: 1
-    Special: Increase any players population by 1, increase another players population by 1.<br><br>AND
+    Special: Increase your population by 1, increase another players population by 1. Only your distance increases.<br><br>AND
     Icons: PopulationIncrease, PopulationIncrease
 Gas Station:
     Distance: 1
-    Special: Increase any players fuel by 1, increase another players fuel by 1.<br><br>AND
+    Special: Increase your fuel by 1, increase another players fuel by 1. Only your distance increases.<br><br>AND
     Icons: FuelIncrease, FuelIncrease
 Posturing:
     Distance: 1
-    Special: Increase any players military by 1, increase another players military by 1.<br><br>AND
+    Special: Increase your military by 1, increase another players military by 1. Only your distance increases.<br><br>AND
     Icons: MilitaryIncrease, MilitaryIncrease
 Starvation:
     Distance: 1
-    Special: Decrease your food by 1, decrease another players food by 1.<br><br>AND
+    Special: Decrease your food by 1, decrease another players food by 1. Only your distance increases.<br><br>AND
     Icons: FoodDecrease, FoodDecrease
 Set Back:
     Distance: 1
-    Special: Decrease your morale by 1, decrease another players morale by 1.<br><br>AND
+    Special: Decrease your morale by 1, decrease another players morale by 1. Only your distance increases.<br><br>AND
     Icons: MoraleDecrease, MoraleDecrease
 Plague:
     Distance: 1
-    Special: Decrease your population by 1, decrease another players population by 1.<br><br>AND
+    Special: Decrease your population by 1, decrease another players population by 1. Only your distance increases.<br><br>AND
     Icons: PopulationDecrease, PopulationDecrease
 Everyones Out:
     Title: Everyone's Out
     Distance: 1
-    Special: Decrease your fuel by 1, decrease another players fuel by 1.<br><br>AND
+    Special: Decrease your fuel by 1, decrease another players fuel by 1. Only your distance increases.<br><br>AND
     Icons: FuelDecrease, FuelDecrease
 WhyDontWeBeFriends:
     Title: Why Don't We Be Friends
     Distance: 1
-    Special: Decrease your military by 1, decrease another players military by 1.<br><br>AND
+    Special: Decrease your military by 1, decrease another players military by 1. Only your distance increases.<br><br>AND
     Icons: MilitaryDecrease, MilitaryDecrease
 Burning Food:
     Distance: 3
@@ -172,173 +192,193 @@ WeCantAffordThis:
     Icons: MilitaryDecrease
 Bountiful Harvest:
     Distance: 1
-    Special: Set your food to the same number as any player.<br><br>AND
+    Special: Set your food to the same number as any player. That player's distance increases.<br><br>AND
     Icons: FoodNeutral
 Shared Happiness:
     Distance: 1
-    Special: Set your morale to the same number as any player.<br><br>AND
+    Special: Set your morale to the same number as any player. That player's distance increases.<br><br>AND
     Icons: MoraleNeutral
 Population Boom:
     Distance: 1
-    Special: Set your population to the same number as any player.<br><br>AND
+    Special: Set your population to the same number as any player. That player's distance increases.<br><br>AND
     Icons: PopulationNeutral
 Hidden Cache:
     Distance: 1
-    Special: Set your fuel to the same number as any player.<br><br>AND
+    Special: Set your fuel to the same number as any player. That player's distance increases.<br><br>AND
     Icons: FuelNeutral
 Armament:
     Distance: 1
-    Special: Set your military to the same number as any player.<br><br>AND
+    Special: Set your military to the same number as any player. That player's distance increases.<br><br>AND
     Icons: MilitaryNeutral
 We Can Spare a Bit:
     Distance: 1
-    Special: Add your food to any player's and divide the total evenly between you, rounding down.<br><br>AND
+    Special: Add your food to any player's and divide the total evenly between you, rounding down.<br><br>OR
     Icons: FoodNeutral
 One Mans:
     Title: One Man's Happiness
     Distance: 1
-    Special: Add your morale to any player's and divide the total evenly between you, rounding down.<br><br>AND
+    Special: Add your morale to any player's and divide the total evenly between you, rounding down.<br><br>OR
     Icons: MoraleNeutral
 Transfer:
     Distance: 1
-    Special: Add your population to any player's and divide the total evenly between you, rounding down.<br><br>AND
+    Special: Add your population to any player's and divide the total evenly between you, rounding down.<br><br>OR
     Icons: PopulationNeutral
 Looks Like You Need a Hand:
     Distance: 1
-    Special: Add your fuel to any player's and divide the total evenly between you, rounding down.<br><br>AND
+    Special: Add your fuel to any player's and divide the total evenly between you, rounding down.<br><br>OR
     Icons: FuelNeutral
 Common Ground:
     Distance: 1
-    Special: Add your military to any player's and divide the total evenly between you, rounding down.<br><br>AND
+    Special: Add your military to any player's and divide the total evenly between you, rounding down.<br><br>OR
     Icons: MilitaryNeutral
 We Can Succeed If We Ration:
-    Distance: 1
-    Special: Increase any players distance by 1, decrease their food by 1. <br><br>AND
+    Distance: 2
+    Special: Decrease any players food by 1. <br><br>AND
     Icons: FoodDecrease
 Just a Little Further:
-    Distance: 1
-    Special: Increase any players distance by 1, decrease their morale by 1. <br><br>AND
+    Distance: 2
+    Special: Decrease any players morale by 1. <br><br>AND
     Icons: MoraleDecrease
 Working Hard:
-    Distance: 1
-    Special: Increase any players distance by 1, decrease their population by 1. <br><br>AND
+    Distance: 2
+    Special: Decrease any players population by 1. <br><br>AND
     Icons: PopulationDecrease
     Flavor: Maybe...to hard.
 Might Not Make It:
-    Distance: 1
-    Special: Increase any players distance by 1, decrease their fuel by 1. <br><br>AND
+    Distance: 2
+    Special: Decrease any players fuel by 1. <br><br>AND
     Icons: FuelDecrease
 Fly Her Apart Then:
-    Distance: 1
-    Special: Increase any players distance by 1, decrease their military by 1. <br><br>AND
+    Distance: 2
+    Special: Decrease any players military by 1. <br><br>AND
     Icons: MilitaryDecrease
+Replicator:
+    Distance: 2
+    Special: Increase any players food by 2. <br><br>OR
+    Icons: FoodIncrease
+Holo-brothel:
+    Distance: 2
+    Special: Increase any players morale by 2. <br><br>OR
+    Icons: MoraleIncrease
+Anti-rad Shielding:
+    Distance: 2
+    Special: Increase any players population by 2. <br><br>OR
+    Icons: PopulationIncrease
+Solar Sails:
+    Distance: 2
+    Special: Increase any players fuel by 2. <br><br>OR
+    Icons: FuelIncrease
+Railguns:
+    Distance: 2
+    Special: Increase any players military by 2. <br><br>OR
+    Icons: MilitaryIncrease
 Hydroponics:
-    Distance: 1
-    Special: If you have at least 3 ship parts, increase your food by 1. <br><br>OR
+    Distance: 3
+    Special: If you have at least 3 ship parts, increase your food by 2. <br><br>OR
     Icons: FoodIncrease
 Gymnasium:
-    Distance: 1
-    Special: If you have at least 3 ship parts, increase your morale by 1. <br><br>OR
+    Distance: 3
+    Special: If you have at least 3 ship parts, increase your morale by 2. <br><br>OR
     Icons: MoraleIncrease
 Life Extension:
-    Distance: 1
-    Special: If you have at least 3 ship parts, increase your population by 1. <br><br>OR
+    Distance: 3
+    Special: If you have at least 3 ship parts, increase your population by 2. <br><br>OR
     Icons: PopulationIncrease
 Fuel Efficiency:
-    Distance: 1
-    Special: If you have at least 3 ship parts, increase your fuel by 1. <br><br>OR
+    Distance: 3
+    Special: If you have at least 3 ship parts, increase your fuel by 2. <br><br>OR
     Icons: FuelIncrease
 Super Soldier:
-    Distance: 1
-    Special: If you have at least 3 ship parts, increase your military by 1. <br><br>OR
+    Distance: 3
+    Special: If you have at least 3 ship parts, increase your military by 2. <br><br>OR
     Icons: MilitaryIncrease
 HorsesPlows:
     Title: Horses? Plows?
-    Distance: 1
+    Distance: 2
     Special: "Choose any player: if they have less than 3 ship parts, decrease their food by 1. <br><br>AND"
     Icons: FoodDecrease
 Dark Ages:
-    Distance: 1
+    Distance: 2
     Special: "Choose any player: if they have less than 3 ship parts, decrease their morale by 1. <br><br>AND"
     Icons: MoraleDecrease
 Malpractice:
-    Distance: 1
+    Distance: 2
     Special: "Choose any player: if they have less than 3 ship parts, decrease their population by 1. <br><br>AND"
     Icons: PopulationDecrease
 Coal Burning:
-    Distance: 1
+    Distance: 2
     Special: "Choose any player: if they have less than 3 ship parts, decrease their fuel by 1. <br><br>AND"
     Icons: FuelDecrease
 Swords and Shields:
-    Distance: 1
+    Distance: 2
     Special: "Choose any player: if they have less than 3 ship parts, decrease their military by 1. <br><br>AND"
     Icons: MilitaryDecrease
 Shared Boon:
     Distance: 1
-    Special: All players increase their food by 1.<br><br>AND
+    Special: All players increase their food by 1. Only you increase your distance.<br><br>AND
     Icons: FoodIncrease
 Fleet Party:
     Distance: 1
-    Special: All players increase their morale by 1.<br><br>AND
+    Special: All players increase their morale by 1. Only you increase your distance.<br><br>AND
     Icons: MoraleIncrease
 Population Boom:
     Distance: 1
-    Special: All players increase their population by 1.<br><br>AND
+    Special: All players increase their population by 1. Only you increase your distance.<br><br>AND
     Icons: PopulationIncrease
 Gas Planet:
     Distance: 1
-    Special: All players increase their fuel by 1.<br><br>AND
+    Special: All players increase their fuel by 1. Only you increase your distance.<br><br>AND
     Icons: FuelIncrease
     Flavor: "\"Could we live there?\" \"You want to try?\""
 Trust No One:
     Distance: 1
-    Special: All players increase their military by 1.<br><br>AND
+    Special: All players increase their military by 1. Only you increase your distance.<br><br>AND
     Icons: MilitaryIncrease
 Didnt We Plan For This:
     Title: Didn't We Plan For This
     Distance: 1
-    Special: All players decrease their food by 1.<br><br>AND
+    Special: All players decrease their food by 1. Only you increase your distance.<br><br>AND
     Icons: FoodDecrease
-This Was a Stupid Idea:
+This Was A Stupid Idea:
     Distance: 1
-    Special: All players decrease their morale by 1.<br><br>AND
+    Special: All players decrease their morale by 1. Only you increase your distance.<br><br>AND
     Icons: MoraleDecrease
 Been Awhile:
     Distance: 1
-    Special: All players decrease their population by 1.<br><br>AND
+    Special: All players decrease their population by 1. Only you increase your distance.<br><br>AND
     Icons: PopulationDecrease
     Flavor: "We'll die of old age before we get there..."
 If We All Work Together:
     Distance: 1
-    Special: All players decrease their fuel by 1.<br><br>AND
+    Special: All players decrease their fuel by 1. Only you increase your distance.<br><br>AND
     Icons: FuelDecrease
 Looks Safe:
     Distance: 1
-    Special: All players decrease their military by 1.<br><br>AND
+    Special: All players decrease their military by 1. Only you increase your distance.<br><br>AND
     Icons: MilitaryDecrease
 Weevils:
-    Distance: 1
+    Distance: 2
     Special: Decrease your food by any amount. Draw that many cards.<br><br>OR
     Icons: FoodDecrease
 What Happens, Happens:
-    Distance: 1
+    Distance: 2
     Special: Decrease your morale by any amount. Draw that many cards.<br><br>OR
     Icons: MoraleDecrease
 Deficit Spending:
-    Distance: 1
+    Distance: 2
     Special: Decrease your population by any amount. Draw that many cards.<br><br>OR
     Icons: PopulationDecrease
 Gasoline Fight:
-    Distance: 1
+    Distance: 2
     Special: Decrease your fuel by any amount. Draw that many cards.<br><br>OR
     Icons: FuelDecrease
 Military Spending:
-    Distance: 1
+    Distance: 2
     Special: Decrease your military by any amount. Draw that many cards.<br><br>OR
     Icons: MilitaryDecrease
 Resourcefulness:
     Quantity: 2
-    Distance: 1
+    Distance: 2
     Special: Decrease a statistic of any player by 1, and increase a different statistic of the same player by 1.<br><br>AND
 Friends:
     Quantity: 2
@@ -352,13 +392,13 @@ Sabotage:
 Espionage:
     Quantity: 2
     Distance: 1
-    Special: Look at any player's hand and play a card from it, as if it were your card.<br><br>OR
+    Special: Look at any player's hand and play a card from it, as if it were your card in your hand.<br><br>OR
 Planning:
     Quantity: 2
     Distance: 1
     Special: Discard a card from your hand.<br><br>OR
 Lady Luck:
-    Quantity: 2
+    Quantity: 4
     Distance: 1
     Special: Draw a card.<br><br>OR
     Flavor: Maybe if I just...
@@ -368,8 +408,8 @@ Stability:
     Special: Discard a card at random from any player's hand.<br><br>AND
 Statis Field:
     Quantity: 2
-    Distance: 1
-    Special: "Choose any player: skip over that player's turn.<br><br>OR"
+    Distance: 2
+    Special: "Choose any player: skip over that player's turn.<br><br>AND"
 Careful Planning:
     Quantity: 2
     Distance: 0
@@ -388,7 +428,7 @@ Savior:
     Special: Increase any players lowest statistic by 1. <br><br>AND
 Withering:
     Quantity: 2
-    Distance: 1
+    Distance: 2
     Special: Decrease any players highest statistic by 1.<br><br>AND
 Flexibility:
     Quantity: 2
@@ -396,12 +436,12 @@ Flexibility:
     Special: Increase any statistic of any player by 1.<br><br>OR
 Disaster:
     Quantity: 2
-    Distance: 3
+    Distance: 2
     Special: Decrease any statistic of any player by 1.<br><br>AND
 Scienfitic Age:
     Quantity: 2
     Distance: 3
-    Special: Immediately place this card as a ship part of an opponent.<br><br>AND
+    Special: Immediately place this card as a ship part of an opponent. You increase your distance.<br><br>AND
 Prayer:
     Quantity: 2
     Distance: 2
@@ -416,13 +456,13 @@ Time Loop:
     Special: Search your discard deck for a card and put it into your hand. <br><br>OR
 Helping Hand:
     Quantity: 2
-    Distance: 2
+    Distance: 1
     Special: "Choose any player: that player immediately discards a card of distance 2+.<br><br>AND"
     Flavor: Did that actually help?
 Long Range Sensors:
     Quantity: 2
-    Distance: 1
-    Special: Draw 2 cards and discard 1 of them of your choice.<br><br>OR
+    Distance: 0
+    Special: Draw 2 cards and discard 1 of them of your choice.<br><br>AND
 Your Turn:
     Quantity: 2
     Distance: 1
@@ -441,15 +481,15 @@ Temporary Immortality:
 Forgotten Technology:
     Quantity: 2
     Distance: 2
-    Special: You may place 2 ship parts. <br><br>OR
+    Special: You may place an additional ship part this round. <br><br>OR
     Remains in play: Round
 Fluctuation:
     Quantity: 2
     Distance: 2
-    Special: Every increase targeting you is 1 greater (1 -> 2). Every decrease targeting you is 1 smaller (-1 -> -2).<br><br>OR
+    Special: Every statistic or distance change targeting you is modified by 1, away from 0. ie, -1 changes to -2, 1 changes to 2.<br><br>OR
     Remains in play: Round
 Stop Gap:
     Quantity: 2
     Distance: 2
-    Special: Every decrease targeting you is 1 greater (-1 -> 0). Every increase targeting you is 1 smaller (1 -> 0).<br><br>OR
+    Special: Every statistic or distance change targeting you is modified by 1, towards 0. ie, -1 changes to 0, 1 changes to 0.<br><br>OR
     Remains in play: Round

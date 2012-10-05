@@ -1,0 +1,99 @@
+Eat Wierd UTF Error: "Yeah, you should totally do that." 
+Title: "Communal Goals"
+Lost Opportunities:
+    Special: Players may discard a single card as an action to meet this goal. The total number of cards discarded in this way must be at least 6. 
+    Success: Next round, all players draw 2 extra cards.
+    Failure: Next round, all players discard 2 cards after drawing.
+Missed Chances:
+    Special: Players may discard a single card as an action to meet this goal. The total number of cards discarded in this way must be at least 4.
+    Success: Next round, all players draw 1 extra card.
+    Failure: Next round, all players discard 1 cards after drawing.
+A Lot Slower:
+    Special: Players may discard a single card as an action to meet this goal. The total distance of cards discarded in this way must be at least 8.
+    Success: The player who discarded the most increases their distance by 4.
+    Failure: All players decrease all statistics by 2. 
+A Little Slower:
+    Special: Players may discard a single card as an action to meet this goal. The total distance of cards discarded in this way must be at least 4.
+    Success: The player who discarded the most increases their distance by 2.
+    Failure: All players decrease all statistics by 1. 
+Stick Together:
+    Special: Add all players distances together.  The total must be at least 10 * NumberOfPlayers
+    Success: All players increase all statistics by 1.
+    Failure: Each player chooses a statistic and decreases it by 1.
+Well-fed Together:
+    Special: Add all players food statistic together.  The total must be at least 2 * NumberOfPlayers
+    Success: All players increase their food by 1.
+    Failure: All players decrease their food by 1.
+Happy Together:
+    Special: Add all players morale statistic together.  The total must be at least 2 * NumberOfPlayers
+    Success: All players increase their morale by 1.
+    Failure: All players decrease their morale by 1.
+Healthy Together:
+    Special: Add all players population statistic together.  The total must be at least 2 * NumberOfPlayers
+    Success: All players increase their population by 1.
+    Failure: All players decrease their population by 1.
+Moving Together:
+    Special: Add all players fuel statistic together.  The total must be at least 2 * NumberOfPlayers
+    Success: All players increase their fuel by 1.
+    Failure: All players decrease their fuel by 1.
+Fighting Together:
+    Special: Add all players military statistic together.  The total must be at least 2 * NumberOfPlayers
+    Success: All players increase their military by 1.
+    Failure: All players decrease their military by 1.
+Starving Together:
+    Special: Add all players food statistic together.  The total must be at most 2 * NumberOfPlayers
+    Success: All players increase their food by 1.
+    Failure: All players decrease their food by 1.
+Miserable Together:
+    Special: Add all players morale statistic together.  The total must be at most 2 * NumberOfPlayers
+    Success: All players increase their morale by 1.
+    Failure: All players decrease their morale by 1.
+Sick Together:
+    Special: Add all players population statistic together.  The total must be at most 2 * NumberOfPlayers
+    Success: All players increase their population by 1.
+    Failure: All players decrease their population by 1.
+Stagnant Together:
+    Special: Add all players fuel statistic together.  The total must be at most 2 * NumberOfPlayers
+    Success: All players increase their fuel by 1.
+    Failure: All players decrease their fuel by 1.
+Peaceful Together:
+    Special: Add all players military statistic together.  The total must be at most 2 * NumberOfPlayers
+    Success: All players increase their military by 1.
+    Failure: All players decrease their military by 1.
+Fleet-wide Games:
+    Special: Each player chooses to support the gamees or not. At least half of the players must support.
+    Success: All supporting players may increase a statistic of their choice by 2. All non-supporting players lose 2 distance, and can choose another player to lose 2 distance.
+    Failure: All non-supporting players may increase a statistic of their choice by 2. All supporting players lose 2 distance, and can choose another player to lose 2 distance.
+No Ship Left Behind:
+    Special: All players distance must be at least 10.
+    Success: Next round, all players may draw 1 extra card.
+    Failure: Next round, all players discard 1 cards after drawing.
+No Ship Starves:
+    Special: All players food must be at least 2.
+    Success: All players increase their food by 1.
+    Failure: All players decrease their food by 1.
+No Ship Depressed:
+    Special: All players morale must be at least 2.
+    Success: All players increase their morale by 1.
+    Failure: All players decrease their morale by 1.
+No Ship Unhealthy:
+    Special: All players population must be at least 2.
+    Success: All players increase their population by 1.
+    Failure: All players decrease their population by 1.
+No Ship Running Low:
+    Special: All players fuel must be at least 2.
+    Success: All players increase their fuel by 1.
+    Failure: All players decrease their fuel by 1.
+No Ship Undefended:
+    Special: All players military must be at least 2.
+    Success: All players increase their military by 1.
+    Failure: All players decrease their military by 1.
+Technology Treaty:
+    Special: Add the number of ship parts each player has together. The total must be at least 3 * NumberOfPlayers.
+    Success: All players may place an extra ship part next round.
+    Failure: Each player must choose and discard a ship part.
+Religious Zealotry:
+    Special: Add the number of ship parts each player has together. The total must be at most 3 * NumberOfPlayers.
+    Success: Each player with 1 or fewer ship parts may discard a ship part of an opponent.
+    Failure: No one may place a ship part next round.
+

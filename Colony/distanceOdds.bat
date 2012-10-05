@@ -1,0 +1,1 @@
+ruby distanceOdds\distanceOdds.rb --file Colony.yaml > odds.txt 

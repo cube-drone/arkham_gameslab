@@ -1,0 +1,5 @@
+Count of distance 0: 46, odds: 0.2839506172839506
+Count of distance 1: 51, odds: 0.3148148148148148
+Count of distance 2: 47, odds: 0.29012345679012347
+Count of distance 3: 18, odds: 0.1111111111111111
+Total: 162

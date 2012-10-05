@@ -5,6 +5,56 @@
 
 
 CHANGE LOG:
+Draft 3:
+	- Ship part changes:
+		- Removed "Gun", "Shields", "Power" ship parts. To complicated, to lame.
+		- Added a few new ship parts to allow more customization.
+		- Will place the T0 ship parts in a separate area to distinguish them from the T1+ ship parts
+		- If you place in a T0 ship part, you may take a card from the top of your deck and place it in another ship part as well.
+		
+	- "Communal goals" added
+		- Draw one at the start of the round. (Non-players may draw 2 and pick 1)
+		- The group must each satisfy the goal before the end of the round.
+		- Each card has a "Success" and "Failure" effect which will occur in each situation.
+		
+	- Players must name their ships!
+	- First player is now the person to the left of the last player from last round.
+	- Final score is now the sum of all statistics plus your distance.
+	- Removed rule that "All players" targets untargetable player.
+	
+	Card changes:
+	- Helping Hand changed to D1 - wasn't a "screw you" card otherwise.
+	- Forgotten Technology re-worded to "You may place an additional ship part this round."
+	- Espionage re-worded to "as if it were a card in your hand"
+	- Cards re-worded to be D2 and a decrease in statistic.
+		We Can Succeed If We Ration, Just a Little Further, Working Hard, Might Not Make It, Fly Her Apart Then
+	- Cards changed such that you can only target yourself as the initial target, and such that only you get the distance increase
+		Found Some Food, Party!, Baby Boomers, Gas Station, Posturing
+	- Cards re-worded such that only you get the distance
+		Shared Boon, Fleet Party, Population Boom, Gas Planet, Trust No One, Didnt We Plan For This, This Was A Stupid Idea, Been Awhile, If We All Work Together, Looks Safe,
+		Starvation, Set Back, Plague, Everyones Out, WhyDontWeBeFriends, Scienfitic Age
+	- Cards re-worded such that the other player gets the distance:
+		- Bountiful Harvest, Shared Happiness, Population Boom, Hidden Cache, Armament
+	- Changed to OR cards:
+		- We Can Spare a Bit, One Mans, Transfer, Looks Like You Need a Hand, Common Ground
+	- Re-worded Stop Gap and Fluctuation again.
+	- Reduced distance to 0 of:
+		- ThatsIt, DontAsk, HopeItsStillGood, Piracy, Rations Be Damned, DidntLikeHimAnyway, Almost There!, Peaceful, Lunch, Another Child..., Derelict Survivors,
+		Disarmament, Powered by what?, Still not there, DontWorkToHard, Better Uses, Hungry Soldier, Useless Soldier, Why Do We Need Them?, Recruitment, Space Battle, Long Range Sensors
+	- Added more of the following:
+		- 2 x Lady Luck
+		- 1 x Weevils, What Happens, Happens, Deficit Spending, Gasoline Fight, Military Spending
+		- 1 x ThatsIt, DontAsk, HopeItsStillGood, Piracy, Rations Be Damned, DidntLikeHimAnyway, Almost There!, Peaceful, Lunch, Another Child..., Derelict Survivors,
+		Disarmament, Powered by what?, Still not there, DontWorkToHard, Better Uses, Hungry Soldier, Useless Soldier, Why Do We Need Them?, Recruitment, Space Battle
+	- Added 5 new cards to increase statistics by 2 or distance 2:
+		- Replicator, Holo-brothel, Anti-rad Shielding, Solar Sails, Railguns
+	- Several distance changes to more evenly spread deck distance numbers
+		- Increased distance to 2:
+			- HorsesPlows, Dark Ages, Malpractice, Coal Burning, Swords and Shields, Weevils, What Happens, Happens, Deficit Spending, Gasoline Fight, Military Spending, Resourcefulness, Withering
+		- Increased distance to 3 and increased statistic effect to 2:
+			- Hydroponics, Gymnasium, Life Extension, Fuel Efficiency, Super Soldier
+
+
 Draft 2:
 	- No longer able to redirect statistic loss if opponents card would drop you to 0
 	- Dead players have their distances increase by 1 each turn. "Floating" heh...
